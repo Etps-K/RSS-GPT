@@ -104,3 +104,18 @@ Append: [Argo MAC: Garbling with Elliptic Curve MACs](https://eprint.iacr.org/20
 Append: [Rank Syndrome Decoding Estimator - An Asymptotic and Concrete Analysis](https://eprint.iacr.org/2026/082)
 append_entries: 100
 Finish: 2026-01-28 08:37:45.263814
+------------------------------------------------------
+Started: 2026-01-29 07:13:06.030526
+Existing_entries: 100
+Fetching from https://eprint.iacr.org/rss/rss.xml
+Token length: 1955
+Summarized using gpt-4o-mini
+Append: [Quorus: Efficient, Scalable Threshold ML-DSA Signatures from MPC](https://eprint.iacr.org/2025/1163)
+Token length: 1725
+Summarized using gpt-4o-mini
+Append: [From Arithmetic to Shamir: Secure and Efficient Masking Gadgets for Multiplications - Applications to the Post-Quantum Signature Scheme MQOM](https://eprint.iacr.org/2026/138)
+Append: [Hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms](https://eprint.iacr.org/2026/137)
+Append: [Private Proofs of When and Where](https://eprint.iacr.org/2026/136)
+Append: [Randomness-Recovery Trapdoors: a new methodology for enhancing anamorphic encryption](https://eprint.iacr.org/2026/135)
+append_entries: 5
+Finish: 2026-01-29 07:13:06.418747
