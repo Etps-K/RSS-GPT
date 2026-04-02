@@ -155,7 +155,7 @@ def truncate_entries(entries, max_entries):
     return entries
 
 def gpt_summary(query,model,language):
-    return None
+    #return none
     if language == "zh":
         messages = [
             {"role": "user", "content": query},
