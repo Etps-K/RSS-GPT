@@ -52,4 +52,4 @@
 
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- https://eprint.iacr.org/rss/rss.xml -> https://Etps-K.github.io/RSS-GPT/blockchain-technology.xml
+- https://sspai.com/feed -> https://Etps-K.github.io/RSS-GPT/sspai.xml
