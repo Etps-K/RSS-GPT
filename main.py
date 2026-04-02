@@ -290,6 +290,8 @@ def output(sec, language):
                 if custom_model:
                     try:
                         entry.summary = gpt_summary(cleaned_article,model=custom_model, language=language)
+                        if entry.summary:
+                            entry.article = f"<br><br><b>DeepSeek 总结：</b><br>{entry.summary}<br><br><hr><br>" + entry.article
                         with open(log_file, 'a') as f:
                             f.write(f"Token length: {token_length}\n")
                             f.write(f"Summarized using {custom_model}\n")
