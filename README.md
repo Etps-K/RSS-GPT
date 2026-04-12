@@ -57,4 +57,4 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 
 - https://sspai.com/feed -> https://Etps-K.github.io/RSS-GPT/sspai.xml
 - https://blogs.microsoft.com/ai/feed/ -> https://Etps-K.github.io/RSS-GPT/googleai.xml
-- rsshub.app/zhihu/hotlist -> https://Etps-K.github.io/RSS-GPT/googleai.xml
+- rsshub.app/zhihu/hotlist -> https://Etps-K.github.io/RSS-GPT/zhuhu.xml
