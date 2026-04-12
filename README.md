@@ -56,3 +56,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
 - https://sspai.com/feed -> https://Etps-K.github.io/RSS-GPT/sspai.xml
+- https://blogs.microsoft.com/ai/feed/ -> https://Etps-K.github.io/RSS-GPT/googleai.xml
