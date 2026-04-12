@@ -181,3 +181,9 @@ Summarized using deepseek-chat
 Append: [我是如何进行文件管理的](https://sspai.com/post/106369)
 append_entries: 1
 Finish: 2026-04-12 12:33:58.844108
+------------------------------------------------------
+Started: 2026-04-12 14:32:13.475179
+Existing_entries: 21
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-04-12 14:32:14.586393
