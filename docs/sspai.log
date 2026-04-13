@@ -235,3 +235,12 @@ Existing_entries: 23
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-13 07:45:54.000540
+------------------------------------------------------
+Started: 2026-04-13 09:24:56.143760
+Existing_entries: 23
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [城市漫步指南：在浓油赤酱中寻找江南底蕴](https://sspai.com/post/108558)
+append_entries: 1
+Finish: 2026-04-13 09:24:57.987617
