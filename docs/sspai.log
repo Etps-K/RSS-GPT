@@ -211,3 +211,12 @@ Existing_entries: 21
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-12 22:21:15.657793
+------------------------------------------------------
+Started: 2026-04-13 01:20:25.166720
+Existing_entries: 21
+Fetching from https://sspai.com/feed
+Token length: 130
+Summarized using deepseek-chat
+Append: [派早报：微软宣布改进和简化 Windows 预览体验计划](https://sspai.com/post/108568)
+append_entries: 1
+Finish: 2026-04-13 01:20:32.205541
