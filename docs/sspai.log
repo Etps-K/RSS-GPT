@@ -220,3 +220,12 @@ Summarized using deepseek-chat
 Append: [派早报：微软宣布改进和简化 Windows 预览体验计划](https://sspai.com/post/108568)
 append_entries: 1
 Finish: 2026-04-13 01:20:32.205541
+------------------------------------------------------
+Started: 2026-04-13 04:48:39.300956
+Existing_entries: 22
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程](https://sspai.com/post/108519)
+append_entries: 1
+Finish: 2026-04-13 04:48:41.453473
