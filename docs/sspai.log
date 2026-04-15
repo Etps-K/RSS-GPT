@@ -373,3 +373,15 @@ Existing_entries: 29
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-15 01:16:31.806304
+------------------------------------------------------
+Started: 2026-04-15 04:36:07.576721
+Existing_entries: 29
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [从一夜无眠到夜夜香甜：睡个好觉并不难](https://sspai.com/post/107146)
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等](https://sspai.com/post/108653)
+append_entries: 2
+Finish: 2026-04-15 04:36:10.451949
