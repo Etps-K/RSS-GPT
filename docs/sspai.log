@@ -400,3 +400,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [一日一技｜Liquid Glass 液态变磨砂](https://sspai.com/post/108656)
 append_entries: 1
 Finish: 2026-04-15 09:08:38.730662
+------------------------------------------------------
+Started: 2026-04-15 10:51:25.345465
+Existing_entries: 32
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [开局收获上万差评的游戏：《红色沙漠》为何能这么快翻身？](https://sspai.com/post/108679)
+append_entries: 1
+Finish: 2026-04-15 10:51:27.127125
