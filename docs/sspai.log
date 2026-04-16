@@ -472,3 +472,15 @@ Existing_entries: 36
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-16 07:16:34.748292
+------------------------------------------------------
+Started: 2026-04-16 09:07:50.992246
+Existing_entries: 36
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包](https://sspai.com/post/108694)
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [从画质玄学到改机热潮：浅谈拍立得的前世今生](https://sspai.com/post/108630)
+append_entries: 2
+Finish: 2026-04-16 09:07:53.329012
