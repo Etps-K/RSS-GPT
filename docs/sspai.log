@@ -454,3 +454,15 @@ Existing_entries: 34
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-16 01:21:39.524952
+------------------------------------------------------
+Started: 2026-04-16 04:42:04.382839
+Existing_entries: 34
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等](https://sspai.com/post/108692)
+append_entries: 2
+Finish: 2026-04-16 04:42:10.813398
