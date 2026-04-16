@@ -484,3 +484,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [从画质玄学到改机热潮：浅谈拍立得的前世今生](https://sspai.com/post/108630)
 append_entries: 2
 Finish: 2026-04-16 09:07:53.329012
+------------------------------------------------------
+Started: 2026-04-16 10:53:55.541849
+Existing_entries: 38
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [城市漫步指南：在沿海宜居小城，过一段不赶时间的日子](https://sspai.com/post/108070)
+append_entries: 1
+Finish: 2026-04-16 10:53:57.339341
