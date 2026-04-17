@@ -568,3 +568,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验](https://sspai.com/post/108741)
 append_entries: 1
 Finish: 2026-04-17 10:45:45.190352
+------------------------------------------------------
+Started: 2026-04-17 12:51:46.171904
+Existing_entries: 42
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108760)
+append_entries: 1
+Finish: 2026-04-17 12:51:47.698030
