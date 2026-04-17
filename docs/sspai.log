@@ -559,3 +559,12 @@ Existing_entries: 41
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-17 09:07:05.411756
+------------------------------------------------------
+Started: 2026-04-17 10:45:43.946094
+Existing_entries: 41
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验](https://sspai.com/post/108741)
+append_entries: 1
+Finish: 2026-04-17 10:45:45.190352
