@@ -535,3 +535,15 @@ Existing_entries: 39
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-17 01:19:12.103919
+------------------------------------------------------
+Started: 2026-04-17 04:39:19.694692
+Existing_entries: 39
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [来一杯不翻车的自信：手冲咖啡入门指北](https://sspai.com/post/108547)
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等](https://sspai.com/post/108742)
+append_entries: 2
+Finish: 2026-04-17 04:39:21.857398
