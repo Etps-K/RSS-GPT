@@ -613,3 +613,12 @@ Existing_entries: 43
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-18 01:12:42.479153
+------------------------------------------------------
+Started: 2026-04-18 04:21:52.671901
+Existing_entries: 43
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [你好，我是一名「火腿」](https://sspai.com/post/87807)
+append_entries: 1
+Finish: 2026-04-18 04:21:54.186820
