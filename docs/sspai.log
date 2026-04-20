@@ -778,3 +778,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [具透｜Android 17 正式版前瞻](https://sspai.com/post/108899)
 append_entries: 1
 Finish: 2026-04-20 09:30:59.046955
+------------------------------------------------------
+Started: 2026-04-20 11:09:45.528124
+Existing_entries: 48
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/108898)
+append_entries: 1
+Finish: 2026-04-20 11:09:47.492954
