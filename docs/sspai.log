@@ -754,3 +754,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [派早报：低空司回应无人机「起飞难」](https://sspai.com/post/108885)
 append_entries: 1
 Finish: 2026-04-20 01:21:37.130966
+------------------------------------------------------
+Started: 2026-04-20 04:48:12.882939
+Existing_entries: 46
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [可口的社交魔芋：Tomodachi Life 简评](https://sspai.com/post/108805)
+append_entries: 1
+Finish: 2026-04-20 04:48:14.771714
