@@ -745,3 +745,12 @@ Existing_entries: 45
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-19 22:22:31.507481
+------------------------------------------------------
+Started: 2026-04-20 01:21:35.216388
+Existing_entries: 45
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [派早报：低空司回应无人机「起飞难」](https://sspai.com/post/108885)
+append_entries: 1
+Finish: 2026-04-20 01:21:37.130966
