@@ -604,3 +604,11 @@ Fetch error: 403
 Fetch failed from https://blogs.microsoft.com/ai/feed/
 append_entries: 0
 error when rendering xml, skip docs/googleai
+------------------------------------------------------
+Started: 2026-04-20 18:48:22.431932
+Existing_entries: 10
+Fetching from https://blogs.microsoft.com/ai/feed/
+Fetch error: 403
+Fetch failed from https://blogs.microsoft.com/ai/feed/
+append_entries: 0
+error when rendering xml, skip docs/googleai
