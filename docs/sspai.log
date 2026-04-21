@@ -853,3 +853,12 @@ Existing_entries: 51
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-21 09:16:05.376686
+------------------------------------------------------
+Started: 2026-04-21 10:57:34.662671
+Existing_entries: 51
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛](https://sspai.com/post/108943)
+append_entries: 1
+Finish: 2026-04-21 10:57:36.448837
