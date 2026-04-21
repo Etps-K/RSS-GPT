@@ -862,3 +862,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛](https://sspai.com/post/108943)
 append_entries: 1
 Finish: 2026-04-21 10:57:36.448837
+------------------------------------------------------
+Started: 2026-04-21 12:55:59.294162
+Existing_entries: 52
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [Tim Cook 将要转任的「执行董事长」是什么职务？](https://sspai.com/post/108945)
+append_entries: 1
+Finish: 2026-04-21 12:56:01.322293
