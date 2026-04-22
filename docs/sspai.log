@@ -937,3 +937,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南](https://sspai.com/post/108857)
 append_entries: 2
 Finish: 2026-04-22 09:10:13.213622
+------------------------------------------------------
+Started: 2026-04-22 10:56:18.220347
+Existing_entries: 57
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [飞傲 x FM3.14｜2026 第一季度音乐精选：这耐听的 8 张专辑包办你的春天](https://sspai.com/post/108574)
+append_entries: 1
+Finish: 2026-04-22 10:56:20.189824
