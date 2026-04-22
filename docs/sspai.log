@@ -925,3 +925,15 @@ Existing_entries: 55
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-22 07:17:49.324174
+------------------------------------------------------
+Started: 2026-04-22 09:10:11.400887
+Existing_entries: 55
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [原来你对写作是真爱：少数派 2025 年度征文结果公布](https://sspai.com/post/108976)
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南](https://sspai.com/post/108857)
+append_entries: 2
+Finish: 2026-04-22 09:10:13.213622
