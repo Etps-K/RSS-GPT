@@ -907,3 +907,15 @@ Existing_entries: 53
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-22 01:17:13.688102
+------------------------------------------------------
+Started: 2026-04-22 04:36:28.504261
+Existing_entries: 53
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [中年人兼职开车送货，20 天学会的 7 个真相](https://sspai.com/post/108148)
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [派早报：OPPO Find X9 Ultra 发布等](https://sspai.com/post/108962)
+append_entries: 2
+Finish: 2026-04-22 04:36:30.746026
