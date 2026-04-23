@@ -1024,3 +1024,12 @@ error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant me
 Append: [新玩意 239｜少数派的编辑们最近买了啥？](https://sspai.com/post/109007)
 append_entries: 1
 Finish: 2026-04-23 10:59:57.832401
+------------------------------------------------------
+Started: 2026-04-23 12:55:59.092648
+Existing_entries: 62
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [一口春鲜，半是江河半是海](https://sspai.com/prime/story/recipes-for-spring)
+append_entries: 1
+Finish: 2026-04-23 12:56:00.869772
