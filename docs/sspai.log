@@ -1006,3 +1006,12 @@ Existing_entries: 60
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-23 07:19:43.320345
+------------------------------------------------------
+Started: 2026-04-23 09:16:48.940497
+Existing_entries: 60
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Invalid consecutive assistant message at message index 1', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议](https://sspai.com/post/108971)
+append_entries: 1
+Finish: 2026-04-23 09:16:51.079796
