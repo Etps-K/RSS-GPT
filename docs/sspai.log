@@ -1069,3 +1069,18 @@ Existing_entries: 63
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-24 01:22:06.286582
+------------------------------------------------------
+Started: 2026-04-24 04:45:12.319790
+Existing_entries: 63
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-reasoner
+Append: [汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
+Token length: 104
+Summarized using deepseek-reasoner
+Append: [手机和平板间的新品类：华为 Pura X Max 漫谈](https://sspai.com/post/109024)
+Token length: 44
+Summarized using deepseek-reasoner
+Append: [派早报：OpenAI 发布 GPT-5.5 系列模型等](https://sspai.com/post/109032)
+append_entries: 3
+Finish: 2026-04-24 04:45:39.841157
