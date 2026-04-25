@@ -1174,3 +1174,12 @@ Existing_entries: 68
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-25 10:33:38.344962
+------------------------------------------------------
+Started: 2026-04-25 12:35:29.149711
+Existing_entries: 68
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-reasoner
+Append: [掌控专注力，你需要做的和没必要做的](https://sspai.com/post/108977)
+append_entries: 1
+Finish: 2026-04-25 12:35:32.786506
