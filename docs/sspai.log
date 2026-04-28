@@ -1360,3 +1360,15 @@ Existing_entries: 74
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-28 01:44:39.890742
+------------------------------------------------------
+Started: 2026-04-28 05:20:12.320042
+Existing_entries: 74
+Fetching from https://sspai.com/feed
+Token length: 38
+Summarized using deepseek-reasoner
+Append: [关于胃肠镜，你需要知道的一切](https://sspai.com/post/109040)
+Token length: 32
+Summarized using deepseek-reasoner
+Append: [派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等](https://sspai.com/post/109160)
+append_entries: 2
+Finish: 2026-04-28 05:20:28.988422
