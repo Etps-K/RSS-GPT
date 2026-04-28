@@ -1372,3 +1372,9 @@ Summarized using deepseek-reasoner
 Append: [派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等](https://sspai.com/post/109160)
 append_entries: 2
 Finish: 2026-04-28 05:20:28.988422
+------------------------------------------------------
+Started: 2026-04-28 08:01:35.639975
+Existing_entries: 76
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-04-28 08:01:36.705596
