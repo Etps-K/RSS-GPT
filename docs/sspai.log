@@ -1432,3 +1432,15 @@ Summarized using deepseek-reasoner
 Append: [派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等](https://sspai.com/post/109204)
 append_entries: 1
 Finish: 2026-04-29 01:47:37.032614
+------------------------------------------------------
+Started: 2026-04-29 05:16:57.537932
+Existing_entries: 80
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-reasoner
+Append: [众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE](https://sspai.com/post/109207)
+Token length: 104
+Summarized using deepseek-reasoner
+Append: [iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事](https://sspai.com/post/109188)
+append_entries: 2
+Finish: 2026-04-29 05:17:15.187617
