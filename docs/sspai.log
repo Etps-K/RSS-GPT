@@ -1444,3 +1444,12 @@ Summarized using deepseek-reasoner
 Append: [iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事](https://sspai.com/post/109188)
 append_entries: 2
 Finish: 2026-04-29 05:17:15.187617
+------------------------------------------------------
+Started: 2026-04-29 07:56:12.998131
+Existing_entries: 82
+Fetching from https://sspai.com/feed
+Token length: 29
+Summarized using deepseek-reasoner
+Append: [先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
+append_entries: 1
+Finish: 2026-04-29 07:56:17.716438
