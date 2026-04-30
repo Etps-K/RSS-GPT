@@ -1510,3 +1510,15 @@ Existing_entries: 84
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-04-30 01:46:12.461141
+------------------------------------------------------
+Started: 2026-04-30 05:20:04.363088
+Existing_entries: 84
+Fetching from https://sspai.com/feed
+Token length: 137
+Summarized using deepseek-reasoner
+Append: [关于中年和中年危机的一些思考](https://sspai.com/post/108451)
+Token length: 60
+Summarized using deepseek-reasoner
+Append: [派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等](https://sspai.com/post/109235)
+append_entries: 2
+Finish: 2026-04-30 05:20:21.794419
