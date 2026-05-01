@@ -1646,3 +1646,11 @@ Fetch error: Invalid URL 'rsshub.app/zhihu/hotlist': No scheme supplied. Perhaps
 Fetch failed from rsshub.app/zhihu/hotlist
 append_entries: 0
 error when rendering xml, skip docs/zhuhu
+------------------------------------------------------
+Started: 2026-05-01 09:29:17.571007
+Existing_entries: 0
+Fetching from rsshub.app/zhihu/hotlist
+Fetch error: Invalid URL 'rsshub.app/zhihu/hotlist': No scheme supplied. Perhaps you meant https://rsshub.app/zhihu/hotlist?
+Fetch failed from rsshub.app/zhihu/hotlist
+append_entries: 0
+error when rendering xml, skip docs/zhuhu
