@@ -1726,3 +1726,9 @@ Summarized using deepseek-reasoner
 Append: [假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
 append_entries: 1
 Finish: 2026-05-03 05:19:49.673121
+------------------------------------------------------
+Started: 2026-05-03 07:44:15.459829
+Existing_entries: 90
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-05-03 07:44:16.927296
