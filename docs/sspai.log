@@ -1849,3 +1849,12 @@ Existing_entries: 91
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-05 01:29:12.991620
+------------------------------------------------------
+Started: 2026-05-05 04:51:36.622617
+Existing_entries: 91
+Fetching from https://sspai.com/feed
+Token length: 4
+Summarized using deepseek-reasoner
+Append: [听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
+append_entries: 1
+Finish: 2026-05-05 04:51:43.145074
