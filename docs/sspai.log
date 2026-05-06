@@ -1939,3 +1939,12 @@ Summarized using deepseek-reasoner
 Append: [为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
 append_entries: 1
 Finish: 2026-05-06 08:02:59.463456
+------------------------------------------------------
+Started: 2026-05-06 11:42:40.529249
+Existing_entries: 95
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-reasoner
+Append: [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
+append_entries: 1
+Finish: 2026-05-06 11:42:48.211489
