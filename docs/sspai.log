@@ -1993,3 +1993,12 @@ Summarized using deepseek-reasoner
 Append: [派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
 append_entries: 1
 Finish: 2026-05-07 01:45:43.363428
+------------------------------------------------------
+Started: 2026-05-07 05:20:27.999703
+Existing_entries: 97
+Fetching from https://sspai.com/feed
+Token length: 83
+Summarized using deepseek-v4-flash
+Append: [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
+append_entries: 1
+Finish: 2026-05-07 05:20:35.819017
