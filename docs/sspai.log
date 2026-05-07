@@ -1984,3 +1984,12 @@ Existing_entries: 96
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-06 22:37:49.782005
+------------------------------------------------------
+Started: 2026-05-07 01:45:30.535726
+Existing_entries: 96
+Fetching from https://sspai.com/feed
+Token length: 62
+Summarized using deepseek-reasoner
+Append: [派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
+append_entries: 1
+Finish: 2026-05-07 01:45:43.363428
