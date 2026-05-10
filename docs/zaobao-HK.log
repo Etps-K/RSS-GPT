@@ -122,3 +122,12 @@ Existing_entries: 38
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-10 20:35:39.541661
+------------------------------------------------------
+Started: 2026-05-10 22:34:12.329286
+Existing_entries: 38
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 423
+Summarized using deepseek-v4-pro
+Append: [戴庆成：英国地方选举影响移英港人](https://www.zaobao.com/news/china/story20260511-9026712)
+append_entries: 1
+Finish: 2026-05-10 22:35:24.654919
