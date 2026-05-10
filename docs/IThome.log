@@ -187,3 +187,9 @@ Summarized using deepseek-v4-pro
 Append: [古尔曼：苹果 iOS / macOS 27 的 Safari 浏览器将引入 AI 自动整理标签页功能](https://www.ithome.com/0/948/556.htm)
 append_entries: 2
 Finish: 2026-05-10 16:44:41.640689
+------------------------------------------------------
+Started: 2026-05-10 18:42:46.174143
+Existing_entries: 99
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2026-05-10 18:42:47.755951
