@@ -53,6 +53,6 @@
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 - https://sspai.com/feed -> https://Etps-K.github.io/RSS-GPT/sspai.xml
-- https://blogs.microsoft.com/ai/feed/ -> https://Etps-K.github.io/RSS-GPT/googleai.xml
-- https://www.zhihu.com/rss -> https://Etps-K.github.io/RSS-GPT/zhuhu.xml
-- 	https://rsshub.app/weibo/search/hot -> https://Etps-K.github.io/RSS-GPT/weibo.xml
+- https://plink.anyfeeder.com/zaobao/realtime/china -> https://Etps-K.github.io/RSS-GPT/zaobao-HK.xml
+- https://plink.anyfeeder.com/zaobao/realtime/world -> https://Etps-K.github.io/RSS-GPT/zaobao-guoji.xml
+- https://www.ithome.com/rss/ -> https://Etps-K.github.io/RSS-GPT/IThome.xml
