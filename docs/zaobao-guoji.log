@@ -65,3 +65,24 @@ Summarized using deepseek-v4-pro
 Append: [洪迪厄斯号游轮乘客开始分批疏散](https://www.zaobao.com/news/world/story20260510-9025820)
 append_entries: 5
 Finish: 2026-05-10 11:01:27.664286
+------------------------------------------------------
+Started: 2026-05-10 12:48:34.083906
+Existing_entries: 29
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 393
+Summarized using deepseek-v4-pro
+Append: [阿联酋称拦截伊朗导弹和无人机](https://www.zaobao.com/news/world/story20260510-9026707)
+Token length: 987
+Summarized using deepseek-v4-pro
+Append: [普京：俄乌冲突即将结束](https://www.zaobao.com/news/world/story20260510-9026581)
+Token length: 165
+Summarized using deepseek-v4-pro
+Append: [印度盐田工人每年夏季度过极端高温](https://www.zaobao.com/news/world/story20260510-9026550)
+Token length: 273
+Summarized using deepseek-v4-pro
+Append: [以军空袭黎巴嫩多地 致20多人死亡](https://www.zaobao.com/news/world/story20260510-9026238)
+Token length: 194
+Summarized using deepseek-v4-pro
+Append: [韩国船只在霍尔木兹海峡遭不明物体击中](https://www.zaobao.com/news/world/story20260510-9026521)
+append_entries: 5
+Finish: 2026-05-10 12:55:08.767018
