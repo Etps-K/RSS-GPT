@@ -86,3 +86,28 @@ Summarized using deepseek-v4-pro
 Append: [韩国船只在霍尔木兹海峡遭不明物体击中](https://www.zaobao.com/news/world/story20260510-9026521)
 append_entries: 5
 Finish: 2026-05-10 12:55:08.767018
+------------------------------------------------------
+Started: 2026-05-10 14:44:36.760326
+Existing_entries: 34
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 490
+Summarized using deepseek-v4-pro
+Append: [波兰前司法部长遭通缉 疑从匈牙利逃往美国](https://www.zaobao.com/news/world/story20260510-9027103)
+Token length: 603
+Summarized using deepseek-v4-pro
+Append: [洪迪厄斯号首批疏散乘客 已飞往马德里接受隔离](https://www.zaobao.com/news/world/story20260510-9026779)
+Token length: 135
+Summarized using deepseek-v4-pro
+Append: [美国财长将访问日本韩国进行短暂会晤](https://www.zaobao.com/news/world/story20260510-9026970)
+Token length: 540
+Summarized using deepseek-v4-pro
+Append: [日媒：北约邀日本参与联合发射计划 应对潜在卫星挑战](https://www.zaobao.com/news/world/story20260510-9026146)
+Token length: 872
+Summarized using deepseek-v4-pro
+Append: [调查：台湾人日本置产人数大增 占外国买家六成](https://www.zaobao.com/news/world/story20260510-9026760)
+Append: [匈牙利新总理誓言带领国家重返欧洲主流](https://www.zaobao.com/news/world/story20260510-9026745)
+Append: [伊媒：伊朗已回应美国新结束战争方案](https://www.zaobao.com/news/world/story20260510-9026862)
+Append: [哥伦比亚煤矿爆炸 四人受困](https://www.zaobao.com/news/world/story20260510-9026823)
+Append: [朝鲜军队首度现身俄“战胜节”阅兵式 分析：朝俄“血盟”关系再升级](https://www.zaobao.com/news/world/story20260510-9026419)
+append_entries: 9
+Finish: 2026-05-10 14:48:01.272306

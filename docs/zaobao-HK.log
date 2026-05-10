@@ -83,3 +83,15 @@ Existing_entries: 33
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-10 12:48:34.054454
+------------------------------------------------------
+Started: 2026-05-10 14:42:51.230468
+Existing_entries: 33
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 555
+Summarized using deepseek-v4-pro
+Append: [散播晶片订单谣言 两中国网民被罚45万人民币](https://www.zaobao.com/news/china/story20260510-9026647)
+Token length: 515
+Summarized using deepseek-v4-pro
+Append: [中国秋粮旺季累计收购超3.38亿吨 为近年较高水平](https://www.zaobao.com/news/china/story20260510-9026883)
+append_entries: 2
+Finish: 2026-05-10 14:44:36.727691
