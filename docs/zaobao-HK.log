@@ -59,3 +59,21 @@ Summarized using deepseek-v4-pro
 Append: [“肯德基指数”回暖 中国专家预计消费迎来拐点时刻](https://www.zaobao.com/news/china/story20260510-9019688)
 append_entries: 5
 Finish: 2026-05-10 09:27:50.564379
+------------------------------------------------------
+Started: 2026-05-10 10:52:16.655330
+Existing_entries: 29
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 674
+Summarized using deepseek-v4-pro
+Append: [中国大使约见英官员 就英法院国安法裁决提出严正交涉](https://www.zaobao.com/news/china/story20260510-9026228)
+Token length: 281
+Summarized using deepseek-v4-pro
+Append: [重庆市黔江区发生交通事故致二死六伤 警方称司机操作不当](https://www.zaobao.com/news/china/story20260510-9026144)
+Token length: 988
+Summarized using deepseek-v4-pro
+Append: [前美国官员博明吁台湾别只等大型军购 应学乌克兰发展本土军工](https://www.zaobao.com/news/china/story20260510-9017025)
+Token length: 817
+Summarized using deepseek-v4-pro
+Append: [郑丽文：要打造东亚“和平繁荣之链” 台不应在美陆之间二选一](https://www.zaobao.com/news/china/story20260510-9025858)
+append_entries: 4
+Finish: 2026-05-10 10:58:39.055437

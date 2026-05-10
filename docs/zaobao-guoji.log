@@ -44,3 +44,24 @@ Existing_entries: 24
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-10 09:27:50.659046
+------------------------------------------------------
+Started: 2026-05-10 10:58:39.076235
+Existing_entries: 24
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 508
+Summarized using deepseek-v4-pro
+Append: [卡尼：对构建北美堡垒持开放态度](https://www.zaobao.com/news/world/story20260510-9025935)
+Token length: 374
+Summarized using deepseek-v4-pro
+Append: [俄乌停火期间双方仍持续交火](https://www.zaobao.com/news/world/story20260510-9026046)
+Token length: 620
+Summarized using deepseek-v4-pro
+Append: [消息：以军在伊拉克设秘密哨所 支援对伊朗空袭](https://www.zaobao.com/news/world/story20260510-9025837)
+Token length: 660
+Summarized using deepseek-v4-pro
+Append: [霍尔木兹海峡受阻 据报俄绕道里海向伊朗输送无人机零件](https://www.zaobao.com/news/world/story20260510-9025805)
+Token length: 413
+Summarized using deepseek-v4-pro
+Append: [洪迪厄斯号游轮乘客开始分批疏散](https://www.zaobao.com/news/world/story20260510-9025820)
+append_entries: 5
+Finish: 2026-05-10 11:01:27.664286
