@@ -175,3 +175,15 @@ Append: [Meta 拥抱 AI，员工遭监控与裁员双重压力](https://www.itho
 Append: [美国一数据中心偷偷抽取 2900 万加仑水，竟被免予罚款](https://www.ithome.com/0/948/533.htm)
 append_entries: 14
 Finish: 2026-05-10 14:51:31.848456
+------------------------------------------------------
+Started: 2026-05-10 16:43:02.404321
+Existing_entries: 97
+Fetching from https://www.ithome.com/rss/
+Token length: 351
+Summarized using deepseek-v4-pro
+Append: [领克 20 纯电轿车申报：黄色车漆格外醒目，搭载激光雷达](https://www.ithome.com/0/948/557.htm)
+Token length: 508
+Summarized using deepseek-v4-pro
+Append: [古尔曼：苹果 iOS / macOS 27 的 Safari 浏览器将引入 AI 自动整理标签页功能](https://www.ithome.com/0/948/556.htm)
+append_entries: 2
+Finish: 2026-05-10 16:44:41.640689

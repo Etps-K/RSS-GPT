@@ -95,3 +95,18 @@ Summarized using deepseek-v4-pro
 Append: [中国秋粮旺季累计收购超3.38亿吨 为近年较高水平](https://www.zaobao.com/news/china/story20260510-9026883)
 append_entries: 2
 Finish: 2026-05-10 14:44:36.727691
+------------------------------------------------------
+Started: 2026-05-10 16:39:50.293777
+Existing_entries: 35
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1119
+Summarized using deepseek-v4-pro
+Append: [中国公民卷入多起海外被拘捕案件 学者：尚难判断出现趋势性增加](https://www.zaobao.com/news/china/story20260510-9027040)
+Token length: 718
+Summarized using deepseek-v4-pro
+Append: [何立峰下周赴韩两天与美国磋商经贸](https://www.zaobao.com/news/china/story20260510-9027181)
+Token length: 428
+Summarized using deepseek-v4-pro
+Append: [世乒赛女团七连冠 中国女乒逆转战胜日本](https://www.zaobao.com/news/china/story20260510-9027130)
+append_entries: 3
+Finish: 2026-05-10 16:41:58.385113

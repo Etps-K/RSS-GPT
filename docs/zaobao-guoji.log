@@ -111,3 +111,15 @@ Append: [哥伦比亚煤矿爆炸 四人受困](https://www.zaobao.com/news/worl
 Append: [朝鲜军队首度现身俄“战胜节”阅兵式 分析：朝俄“血盟”关系再升级](https://www.zaobao.com/news/world/story20260510-9026419)
 append_entries: 9
 Finish: 2026-05-10 14:48:01.272306
+------------------------------------------------------
+Started: 2026-05-10 16:41:58.425848
+Existing_entries: 43
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 357
+Summarized using deepseek-v4-pro
+Append: [特朗普：两周内可打击伊朗“每一个目标”](https://www.zaobao.com/news/world/story20260510-9027297)
+Token length: 1398
+Summarized using deepseek-v4-pro
+Append: [伊朗据报已回应美国方案 着重结束战争保障海运安全](https://www.zaobao.com/news/world/story20260510-9027052)
+append_entries: 2
+Finish: 2026-05-10 16:43:02.270453
