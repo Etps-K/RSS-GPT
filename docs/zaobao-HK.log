@@ -38,3 +38,24 @@ Append: [中国国务院部署推进地方政府化债工作](https://www.zaobao
 Append: [中泰将举行陆军联训 中国国防部：以山地丛林联合反恐为课题](https://www.zaobao.com/news/china/story20260510-9024487)
 append_entries: 24
 Finish: 2026-05-10 07:56:59.533419
+------------------------------------------------------
+Started: 2026-05-10 09:20:38.699242
+Existing_entries: 24
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 489
+Summarized using deepseek-v4-pro
+Append: [广州推出人工智能场景交易平台](https://www.zaobao.com/news/china/story20260510-9025979)
+Token length: 455
+Summarized using deepseek-v4-pro
+Append: [四川一村干部将救助资金发放关系户 三人被立案调查](https://www.zaobao.com/news/china/story20260510-9025959)
+Token length: 530
+Summarized using deepseek-v4-pro
+Append: [福建省委书记周祖翼会见刘强东](https://www.zaobao.com/news/china/story20260510-9025924)
+Token length: 574
+Summarized using deepseek-v4-pro
+Append: [中蒙时隔70年再建跨境铁路 中国段进入架梁施工阶段](https://www.zaobao.com/news/china/story20260510-9025920)
+Token length: 954
+Summarized using deepseek-v4-pro
+Append: [“肯德基指数”回暖 中国专家预计消费迎来拐点时刻](https://www.zaobao.com/news/china/story20260510-9019688)
+append_entries: 5
+Finish: 2026-05-10 09:27:50.564379
