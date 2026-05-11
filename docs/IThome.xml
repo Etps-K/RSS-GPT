@@ -5,15 +5,678 @@
 <link>https://www.ithome.com/</link>
 
 <item>
+<title>字节火山引擎 Agent Plan 发布：业界首个“Agent 套餐包”，每月 40 元起</title>
+<link>https://www.ithome.com/0/948/912.htm</link>
+<guid>https://www.ithome.com/0/948/912.htm</guid>
+<content:encoded><![CDATA[
+<div> 火山引擎 Agent Plan 多模态模型 Harness工具 AFP燃料值<br><br>总结：火山引擎发布业界首个“Agent套餐包”Agent Plan，整合字节跳动自研Seed系列多模态模型与GLM-5.1等三方模型，并集成联网搜索、embedding记忆等Harness工具，适配Claude Code等编程和Agent平台，实现Model与Harness深度结合，支持Auto模式智能调度高性价比模型。采用AFP统一计量，提供四档月费订阅，未来将持续扩展模型与工具。 <div>
+<p>IT之家 5 月 11 日消息，今天，火山引擎正式发布 <span class="wx_search_keyword_wrap">Agent Plan<strong><em class="wx_search_keyword"></em></strong></span>。相比 Coding Plan 提供主力编程模型的订阅服务，Agent Plan 在此基础上新增更多模态的模型和 Harness 工具，官方称其为“业界首个‘Agent 套餐包’”。</p><p>IT之家从官方介绍获悉，Agent Plan 包含 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等<strong>字节跳动系列 SOTA 模型</strong>，GLM-5.1、Kimi-K2.6 等在内的主流三方模型，以及联网搜索等 Harness 工具，满足 Agent 场景更全面的需求。未来，Agent Plan 将持续更新超全模态模型、持续升级 Harness。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6589e60f-0445-4815-a267-0a5fd754c828.png?x-bce-process=image/format,f_auto" /></p><p>比如，接入 Agent Plan 后，用户的 Claude Code 和 <span class="wx_search_keyword_wrap">OpenClaw<em class="wx_search_keyword"></em></span> 不仅可以直接使用 GLM-5.1 和 Kimi-K2.6，还可以自动调用 Seedance 2.0 或者联网搜索 Skill 来执行相应的任务。</p><p>相较于传统的模型订阅或算力套餐，<strong>Agent Plan 首次将 Model 与 Harness 能力深度整合</strong>，适配 <span class="wx_search_keyword_wrap">Claude Code<em class="wx_search_keyword"></em></span>、OpenCode、TRAE、OpenClaw、<span class="wx_search_keyword_wrap">Hermes Agent<em class="wx_search_keyword"></em></span> 等编程和 Agent 平台。完成 Agent Plan 的初始配置后，平台即可自动调用。</p><p>在 Model 层面，Agent Plan 带来了更多的模型选择和灵活性：</p><ul class=" list-paddingleft-2"><li><p>自研多模态能力：集成了字节跳动自研的 Seed 系列 SOTA 级模型（Doubao-Seed，Doubao-Seedance，Doubao-Seedream 等），原生支持文本、代码、图像、视频等多种模态的任务处理。</p></li><li><p>主流模型聚合：一站式聚合了 GLM-5.1、Kimi-K2.6 等国内主流大模型，并通过 Auto 模式实现智能调度，可根据任务场景自动选择性价比最高的模型，实测 Auto 模式在长尾 Agent 上表现更好。</p></li></ul><p>在 Harness 层面，Agent Plan 提供了联网搜索、embedding API：</p><ul class=" list-paddingleft-2"><li><p>实时联网搜索：免费赠送与豆包同源的联网搜索额度，确保 Agent 能够获取实时、权威的外部信息。</p></li><li><p>记忆能力：内置 Doubao-embedding-vision 模型，帮助 Agent 在信息量大、对话长、资料分散的场景下能够更准确地召回相关内容，提升跨轮次上下文追踪能力与整体效果。</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a0456886-edea-44c4-9758-758f6ed53821.png?x-bce-process=image/format,f_auto" /></p><p>此外，为响应开发者对于透明计费的关切，Agent Plan 引入了 AFP（Agent Fuel Points, Agent 燃料值）作为统一的资源计量单位。</p><p>当前，Agent Plan 包含四种阶梯订阅组合，分别为 <strong>40 元 / 月、200 元 / 月、500 元 / 月、1000 元 / 月</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5356acc0-89fe-4167-babf-821fa9e5ca3b.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 09:01:37 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 09:01:37 GMT</pubDate>
+</item>
+<item>
+<title>广州：出手整治网约车、网络货运平台违规收费行为</title>
+<link>https://www.ithome.com/0/948/911.htm</link>
+<guid>https://www.ithome.com/0/948/911.htm</guid>
+<content:encoded><![CDATA[
+<div> 广州 网约车 网络货运 市场监管 消费者权益
+<br><br>总结:1. 广州市市场监管局启动网约车及网络货运平台专项监管，旨在规范经营行为，保障经营者与消费者权益；2. 监管对象为电商平台经营者；3. 通过“双随机、一公开”、投诉举报与大数据监测，重点查处利用协议、规则及技术实施不合理限制与收费；4. 深入宣贯价格与网络交易法规，提升合规意识；5. 聚焦道路运输等领域，严打无照经营、不正当竞争、价格违法及虚假宣传。 <div>
+<p>IT之家 5 月 11 日消息，“广州市场监管”公众号今日发文：近日，广州市市场监管局立足市场监管职能，全面部署网约车、网络货运平台及交通运输领域市场监管工作。行动目的为进一步规范网约车、网络货运平台经营行为，切实保障平台内经营者和消费者合法权益，维护公平竞争的市场秩序。</p><p>行动对象为网约车平台、网络货运平台等《中华人民共和国电子商务法》第九条规定的电子商务平台经营者。通过“双随机、一公开”检查、投诉举报线索核查、大数据监测等方式，加大平台交易行为监管力度，重点查处平台利用服务协议、交易规则、技术手段<strong>实施不合理交易限制、收取不合理费用</strong>等违法行为。</p><p>据IT之家了解，广州将深入宣贯互联网平台价格行为、网络交易监管等法律法规及合规指南，全面提升经营者合规意识与经营能力。聚焦道路运输、出租客运、机动车维修与驾培等重点领域，严厉打击无照经营、不正当竞争、价格违法、虚假宣传等侵害消费者合法权益的行为。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:56:51 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:56:51 GMT</pubDate>
+</item>
+<item>
+<title>阿里发布全新 AI 店小蜜，“AI+ 人”转化率首次超越纯人工</title>
+<link>https://www.ithome.com/0/948/909.htm</link>
+<guid>https://www.ithome.com/0/948/909.htm</guid>
+<content:encoded><![CDATA[
+<div> AI店小蜜 导购 转化率提升 全场景托管 挽单成功率
+<br><br>总结: 阿里AI店小蜜基于千问大模型，首个电商售前售后客服代理。转人工率降45%，AI协同转化率升10%+。升级：导购询单转化10%(服饰增20%)；全场景托管30+场景，回复提速50%，准确率90%+；售后挽单成功20%+，自动退差价，防羊毛党。日均对话千万，商家百万接入。 <div>
+<p>IT之家 5 月 11 日消息，阿里今日（5 月 11 日）发布<strong>全新 AI 店小蜜</strong>，宣称是电商行业首个具备售前售后办事能力的客服 agent。</p><p>阿里官方实测数据显示，商家接入 AI 店小蜜后，<strong>平均转人工率下降 45%，“AI+ 人”协同转化效果相比纯人工客服增加超 10%，首次实现超越</strong>。临近天猫 618，AI 店小蜜正式将客服升级为 AI 导购，助力商家增长。</p><p>据淘天集团客户运营部负责人占利军介绍，AI 店小蜜全链路基于<strong>千问最新大模型</strong>构建，依托淘宝交易数据，并针对不同行业及电商场景进行了垂域微调与多模态能力升级。截至 3 月，AI 店小蜜日均对话量近千万，接入商家数突破百万。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/71991c83-25eb-478a-b6a9-2ac5a48b4ccc.jpg?x-bce-process=image/format,f_auto" /></p><p>AI 店小蜜此次升级，核心有三大能力提升，IT之家汇总官方介绍如下：</p><ul class=" list-paddingleft-2"><li><p>1. 会导购，“AI+ 人”转化率首次超越纯人工</p></li></ul><p>AI 店小蜜升级后，更直接追求询单转化率提升。在“AI+ 人”协作下，<strong>AI 能回答超过 80% 的问题，并主动提供服务，以促成交易</strong>；针对商家最在意的高值订单，AI 会向人工客服提供决策信息、促单建议，助力订单转化。</p><p>在“AI+ 人”模式下，询单转化已经全时段超越纯人工。</p><p>AI 店小蜜对商品和用户的理解也实现大幅跃升，能主动预判用户所需，并精准推荐，同时能自主调用连带推荐、缺货推荐、精准催付、多模态识图等工具，协同促转化。</p><p>据店小蜜数据，商家接入新版本后，平均询单转化率达到 10%，其中服饰商家平均可提升 20%。</p><ul class=" list-paddingleft-2"><li><p>2. 全场景托管，店铺服务体验提升</p></li></ul><p>AI 店小蜜升级后，覆盖商品推荐、尺码推荐、国补、商品对比等超 30 个场景，基于场景的智能辅助能力大幅提升，<strong>回复速度提升 50%，准确率达到 90% 以上</strong>，大多数咨询都能实现 AI 秒级自动应答。</p><ul class=" list-paddingleft-2"><li><p>3. 安心经营，挽单成功率超过 20%</p></li></ul><p>AI 店小蜜办事能力同样大幅增强。一是，打通平台内及三方服务商系统，<strong>自动处理退差价、退定金、商品故障排查、改地址等复杂流程</strong>；二是，提升风控和资产保护能力，比如赔付严格控制在商家授权额度内，避免“乱赔”和“被薅”，也接入了新上线的 AI 假图识别模型，拦截“羊毛党”。面对潜在退货，区别于传统售后非黑即白的处置方式，AI 店小蜜能识别用户情绪，可以像朋友一样与用户耐心沟通以挽留订单，尺码大了换尺码，款式不喜欢换款式，优先排障、换货、补发等“可替代方案”，减少退货和退款，提升商家实际收入。根据测试商家数据，<strong>平均退款挽单成功率超过 20%</strong>。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/7a700f12-801d-40e2-80e8-677af91b8f7b.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:54:33 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:54:33 GMT</pubDate>
+</item>
+<item>
+<title>消息称三星电子讨论重启半导体新业务，V10 NAND 是一大重点</title>
+<link>https://www.ithome.com/0/948/907.htm</link>
+<guid>https://www.ithome.com/0/948/907.htm</guid>
+<content:encoded><![CDATA[
+<div> 三星电子 V10 NAND 先进封装 化合物半导体 HBM
+<br><br>总结: 1. DRAM和HBM业务恢复后，三星DS部重启半导体新业务研发投资。2. 重点方向为V10 NAND、化合物半导体、先进封装与基板。3. 现有NAND量产停滞超两年，第九代286层V-NAND后无新工艺。4. V10 NAND层数将超400层，需工艺创新以提升单位晶圆产出。 <div>
+<p>IT之家 5 月 11 日消息，韩媒 ETNEWS 当地时间今日报道称，在 DRAM 尤其是 HBM 业务竞争力恢复后，三星电子设备解决方案 (DS) 部开始就重启半导体新业务的研发和投资进行讨论。</p><p>此次讨论的重点<strong>包括下一代 (V10) NAND 闪存</strong>、<strong>化合物半导体</strong>、<strong>先进封装及基板</strong>，都是处于三星电子技术路线图上但进展相对缓慢的领域。随着内部资源出现富余，三星半导体正瞄准下一阶段的增长。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/9/8a2c6faa-e28c-406a-b8c5-5d658fd3596e.jpg?x-bce-process=image/format,f_auto" /></p><p>三星电子在 2024 年 4 月和 9 月先后宣布其第九代 286 层 V-NAND 的 TLC 和 QLC 版本进入量产阶段，此后一直未上线新的 NAND 工艺节点。换句话说<strong>其量产制程出现了超过 2 年的停滞</strong>。</p><p>从目前媒体侧的消息来看，<strong>三星电子的 V10 NAND 堆叠层数将跃升至 400 以上</strong>，提升单位晶圆的容量产出。而为了达成这一目标，该企业需要引入一系列的工艺创新。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/931/585.htm" target="_blank">氮化镓 (GaN) 领域台积电退三星电子进：后者 8 英寸产线最早 2026Q2 投产</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/946/281.htm" target="_blank">消息称三星晶圆代工重启 8 英寸碳化硅产线建设准备，有望 2028 年量产</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:48:01 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:48:01 GMT</pubDate>
+</item>
+<item>
+<title>我国地震预警手机直达用户超过 1 亿，华为、小米已接入统一地震预警信息</title>
+<link>https://www.ithome.com/0/948/905.htm</link>
+<guid>https://www.ithome.com/0/948/905.htm</guid>
+<content:encoded><![CDATA[
+<div> 地震预警 公众服务 多渠道覆盖 智能手机 实战成效<br><br>总结:1. 我国地震预警公众服务累计覆盖超3.3亿人，终端部署逾10万台，广播电视服务覆盖11省6600万户，微信小程序用户达4600万，可向超1亿手机用户实时推送。2. 国家地震预警工程已竣工验收，建成含终端、广电、手机等多渠道服务体系，智能手机直达推送最有效。3. 华为、小米已系统级嵌入官方预警信息，免下载。4. 实战中多次成功预警：新疆阿合奇6.0级地震提前20秒预警助医院稳住手术，甘肃迭部5.5级推送超百万人次。 <div>
+<p>IT之家 5 月 11 日消息，据央视新闻，截至目前，我国地震预警公众服务<strong>覆盖规模累计已超过 3.3 亿</strong>，多渠道服务网络持续完善、覆盖面不断扩大。其中，全国地震预警终端部署量超 10 万台；广播电视地震预警服务已覆盖云南、四川、新疆等 11 个省份，服务用户规模突破 6600 万户；全国地震预警微信小程序用户达 4600 万以上；通过与社会力量协作，可以实时向<strong>超过 1 亿手机用户精准推送直达式地震预警服务</strong>，实现地震预警信息的多维度、广覆盖传递。</p><p>国家地震预警工程自 2024 年 7 月顺利通过竣工验收以来，地震预警公众服务工作加速推进，目前已初步建成涵盖<strong>定制终端、广播电视、智能手机</strong>等多渠道的公众服务体系，在多次有影响的地震事件中发挥了重要社会服务作用，有效助力灾害防范应对。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/31f9a47c-7a30-47d7-a1dc-f523f3cd28d9.png?x-bce-process=image/format,f_auto" /></p><p>IT之家从报道中获悉，通过智能手机向社会公众提供地震预警服务是最直接、最有效的服务手段。中国地震台网通过算法精心设计，实现了海量用户实时位置的高效管理和秒级精准触达用户的高并发服务能力。目前，<strong>华为手机和小米手机已从国家地震部门接入了统一的地震预警信息</strong>，深度嵌入手机操作系统里面，无需用户任何下载即可提供科学权威、规范可靠的地震预警服务。</p><p>在实战应用中，该服务体系成效显著。2024 年安徽肥东 4.7 级、2025 年宁夏永宁 4.8 级、河北永清 4.2 级及广东清远 4.6 级等多次有影响地震发生时，预警系统均在震后数秒内，向震中周边<strong>数十万用户</strong>推送了精准预警信息。2025 年 12 月 4 日，新疆阿合奇县发生 6.0 级地震，预警提前 20 余秒抵达，阿克苏市第一师医院手术间内，医护人员在预警提示下，于晃动中坚守岗位、稳住设备，守护手术顺利进行。2026 年 1 月 26 日甘肃迭部发生 5.5 级地震，地震预警公众服务累计推送预警信息超 100 万人次，为群众避险争取了宝贵时间。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:45:53 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:45:53 GMT</pubDate>
+</item>
+<item>
+<title>开放世界沙盒游戏《深海迷航 2》公开全新实机预告，5 月 14 日抢先体验</title>
+<link>https://www.ithome.com/0/948/900.htm</link>
+<guid>https://www.ithome.com/0/948/900.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，开放世界沙盒游戏《深海迷航 2》今日公开了全新实机预告片，将于北京时间 5 月 14 日 23:00 正式开启抢先体验。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5297336650498068?mid=5297337204999051" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5ad24a25-d602-4371-a6f5-31c65e20d256.jpg?x-bce-process=image/format,f_auto" /></a></p><p>IT之家注意到，《深海迷航 2（Subnautica 2）》将登陆 PC 及 Xbox Series X｜S 平台，<strong>游戏在 Steam 国区售价为 108 元人民币</strong>。</p><p>本作将带来全新的外星海洋世界、更丰富的生存系统，并首次引入最多支持 4 人参与的合作模式，标志着该系列迈入全新阶段。<strong>游戏抢先体验将持续 2-3 年</strong>，期间官方计划发布多个更新，如生物群落、生物种类、可制造物品、功能和剧情等。</p><p>在游戏中，玩家可以在海底自由建造基地。选择布局和组件，并随着深度和压力的增加管理船体完整性。当玩家探索浩瀚的海洋时，利用你的基地储存资源，停放交通工具，和补充氧气。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/10/80e76d84-33df-4486-a310-edbd099e19d0.png?x-bce-process=image/format,f_auto/auto-orient,o_1" title="开放世界沙盒游戏《深海迷航 2》将于 5 月 14 日开启抢先体验，Steam 国区 108 元" /></p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2024/10/5bfa4a0a-575f-48e9-9ec9-56127525b1fb.png?x-bce-process=image/format,f_auto/auto-orient,o_1" title="开放世界沙盒游戏《深海迷航 2》将于 5 月 14 日开启抢先体验，Steam 国区 108 元" /></p><p>IT之家附具体配置需求如下：</p><table align="center"><tbody><tr class="firstRow"><td valign="top">项目</td><td valign="top">最低配置</td><td valign="top">推荐配置</td></tr><tr><td valign="top">操作系统</td><td valign="top">Windows 10/11</td><td valign="top">Windows 11</td></tr><tr><td valign="top">处理器</td><td valign="top">英特尔酷睿 i5-8400/AMD 锐龙 5 2600</td><td valign="top">英特尔酷睿 i7-13700/AMD 锐龙 7 7700X</td></tr><tr><td valign="top">内存</td><td valign="top">12GB</td><td valign="top">16GB</td></tr><tr><td valign="top">显卡</td><td valign="top">英伟达 GTX 1660 6GB / AMD RX 5500 XT 6GB</td><td valign="top"><p>英伟达 RTX 3070 8GB / AMD RX 6700 XT 8GB</p></td></tr><tr><td valign="top">DirectX 版本</td><td valign="top">12</td><td valign="top">12</td></tr><tr><td valign="top">网络</td><td valign="top">宽带互联网连接</td><td valign="top">宽带互联网连接</td></tr><tr><td valign="top">存储空间</td><td valign="top">50GB 以上</td><td valign="top">50GB 以上</td></tr><tr><td valign="top">附注事项</td><td valign="top">需要 64 位处理器和操作系统</td><td valign="top">需要 64 位处理器和操作系统</td></tr></tbody></table>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:41:54 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:41:54 GMT</pubDate>
+</item>
+<item>
+<title>【IT之家评测室】TCL 32X3A OLED+ 显示器上手：设计夯到爆，体验能文能武，真 OLED 全能王者</title>
+<link>https://www.ithome.com/0/948/899.htm</link>
+<guid>https://www.ithome.com/0/948/899.htm</guid>
+<content:encoded><![CDATA[
+
+<p>今年 3 月，TCL 正式在国内发布显示器。</p><p>熟悉数码圈的朋友都知道，此前这块业务主要由其子品牌“雷鸟”在深耕。而这一次，TCL 母品牌亲自挂帅，一口气带来了全面覆盖电竞、游戏及全能办公的多款新品。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/bf55430e-b50b-4940-9f4c-d753500bca3f.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>TCL 32X3A OLED+</figcaption><p>在这套全阵容矩阵中，最受瞩目的当属这款旗舰级全能选手 ——TCL 32X3A OLED+。它承载着 TCL 杀入国内高端显示器市场的核心使命，不仅是家族中身价最高的一款，在工业设计与颜值上也是当之无愧的“夯爆了”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/cf9a82fa-f993-45f8-815e-5003dadf2426.jpg?x-bce-process=image/format,f_auto" /></p><p>目前，IT之家已经拿到了这款重磅新品。</p><p>接下来，就为大家带来详细的体验分享。</p><p>产品尺寸规格如下：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ed040cb1-a6f2-4e3b-a705-df07145a0f12.jpg?x-bce-process=image/format,f_auto" /></p><h3>一、设计</h3><p>相信绝大多数人最先被 TCL 32X3A 吸引的，并非它的参数，而是出众的颜值。</p><p>是的，它身上有一种难得的“果味”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/24b7d2d1-f75f-451e-9853-bf056be63516.jpg?x-bce-process=image/format,f_auto" /></p><p>在数码圈，“果味”设计往往代表着极简的质感，这种<strong>美学在潜意识里就传递着一种“昂贵感”</strong>。</p><p>但有意思的是，市面上“果味”的手机一抓一大把，但“果味”的显示器却屈指可数。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7dec02fb-108f-4b5b-8f56-f46ce8279860.jpg?x-bce-process=image/format,f_auto" /></p><p>上一次在工业设计上让笔者眼前一亮、甚至怦然心动的显示器，还要追溯到四年前华为发布的 3:2 显示比例的 MateView，只可惜它已经停产很久，并且也迟迟没有迭代的消息了。</p><p>所以 TCL 32X3A 的发布，谈得上惊喜了。</p><p>在笔者很主观的看来，当下显示器市场的审美，确实有些被带偏了。</p><p>市面上充斥着大量用力过猛的“中二电竞风”，但凡产品和游戏沾点边，厂商就恨不得把它设计成一台长满锋利棱角、闪烁着全彩跑马灯的“机甲怪兽”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7ee3e53a-0658-4a6f-978d-ac5f0f7b3675.jpg?x-bce-process=image/format,f_auto" /></p><p>而对比之下，TCL 32X3A 走的却是一条完全不同的路：<strong>极简、纯粹</strong>。</p><p>当你把它摆在桌面上，极窄的边框、金属质感的中框，再配上正面那层 AGLR 低反膜，那种内敛的气质一下就出来了。</p><p>这次 TCL 还准备了三款很好看的配色 —— 云墨蓝、云烟粉和云泊金。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8cf04985-e11a-4096-9849-b788026395e4.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>云烟粉、云泊金、云墨蓝</figcaption><p>三款都是那种淡淡的、低饱和度的颜色，看着不扎眼，有一种温润的高级感，能很自然地融入你的桌搭环境。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/676c4848-fba1-463b-a201-f4530315de75.jpg?x-bce-process=image/format,f_auto" /></p><p>从侧面来看，32X3A 的身材确实极度苗条，屏幕最薄的地方只有 6.4mm。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/94029f2a-bba8-40e6-a18d-f718532660a3.jpg?x-bce-process=image/format,f_auto" /></p><p>极薄，本身也是极简设计的关键词。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/fe923442-bcec-4f8c-8b08-70d027ac91f4.jpg?x-bce-process=image/format,f_auto" /></p><p>需要注意的是，TCL 32X3A 的黑边并非宣传图中那样细成细线，<strong>四边仍有可见边框</strong>。</p><p>要说明的是，这部分黑色区域并非传统意义上的物理边框，而是屏幕本身的有效组成部分。只不过这部分区域空间是留给像素位移功能的，用来让像素轮流休息，防止个别像素一直工作提前老化，反而能延长整块屏幕的使用寿命。</p><p>另外，TCL 32X3A 的边框控制确实优秀，四边都非常窄，屏占比高达 94.3%，点亮后画面扑面而来，沉浸感极强。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/280f97e9-1bc2-46b2-bb13-63c25d215a23.jpg?x-bce-process=image/format,f_auto" /></p><p>转到背面，超薄的金属机身上还藏着个“小心机”—— <strong>反投式呼吸灯</strong>。</p><p>简单来说，就是利用漫反射，把柔和的光晕投射在背板上。</p><p>TCL 32X3A 还取了个挺科幻的名字，叫“星际之门”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9304efd0-98a5-4c1c-a896-81c5ceff81eb.jpg?x-bce-process=image/format,f_auto" /></p><p>这种“见光不见灯”的朦胧感，确实拿捏住了高级。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5089ff47-58dd-4657-ad29-2ff2a00b8ea6.jpg?x-bce-process=image/format,f_auto" /></p><p>细节设计上，32X3A 在背面依然<strong>预留了 VESA 挂架接口</strong>，只不过背板和支架是一体的，不可拆卸，挂墙上着实有些怪异。</p><p>当然，这么高颜值的显示器，大家买回去大概率是直接摆在桌上用的。</p><p>接口同样位于背面，包括配备 2 个 HDMI 2.1、1 个 DP2.1、90W USB-C 及 2 个支持 KVM 的 USB-A 接口，拓展性齐全。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f19038c5-54b6-4bd2-a462-22c8ae07af27.jpg?x-bce-process=image/format,f_auto" /></p><p>再把视线转回正面，底座支架其实也是音响的出音孔，金属面板上的打孔非常细腻均匀。</p><p>配备的是 B&amp;O 深度定制音响（5W*2），并且搭配专业声学 DSP 芯片。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f7b8f250-ccca-4afa-8226-749a8eb204c3.jpg?x-bce-process=image/format,f_auto" /></p><p>不可否认，TCL 32X3A 的整体工业设计水准确实足够出色，完成度极高。</p><p>在当下的消费级显示器市场中，能在设计上与之抗衡的产品确实很难找 —— 除非你愿意大幅提高预算，直接一步到位入手苹果 Studio Display。</p><h3>二、屏幕</h3><p>聊完外观，来看看它最核心的“内功”—— 这块屏幕的硬素质。</p><p>据官方介绍，TCL 32X3A 搭载了一块基于 OLED 叠堆技术打造的“OLED+ 双模面板”。熟悉 OLED 显示器的读者朋友看到这里肯定懂了，其实它<strong>使用的就是 LG 3.5 代 OLED 面板</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ad94ae88-781f-404f-84c3-64590b017713.jpg?x-bce-process=image/format,f_auto" /></p><p>为什么不用最新的第四代？一方面，目前第四代还没有 32 英寸这个规格；另一方面，作为一台主打“全能”的旗舰显示器，它必须兼顾办公场景下的文本阅读体验，而在文字锐度的表现上，3.5 代其实比第四代更加优秀。所以在当下，选择 3.5 代面板无疑是更成熟、也更对用户体验负责的决定。</p><p>得益于这项技术，它支持在 4K 240Hz 和 FHD（1080P） 480Hz 之间一键切换。想看细腻画质的 3A 大作选前者，打极速响应的 FPS 竞技游戏切后者，可以说是真正做到了“鱼和熊掌兼得”。</p><p>核心参数方面，也是直接拉满的级别：原生 10bit 色深、高达 1300nits 的峰值亮度，以及低至 0.03ms 的灰阶响应时间。并且，经过 TCL 的专属深度画质调校，它甚至做到了 99% sRGB、99% DCI-P3 以及 99% Adobe RGB 的“大满贯”全色域覆盖。不管是电竞玩家追求的极致流畅，还是专业创作者死磕的色彩精准度，它都能稳稳拿捏。</p><p>此外，针对几个老生常谈的 OLED 痛点，TCL 32X3A 这次也带来了专属优化：</p><p>首先是大家最头疼的文字显示问题。</p><p>它采用了 Matrix-Pure 超清矩阵像素排列，解决了传统 OLED 屏幕看文字容易出现的“彩色锯齿”和“彩边”通病，日常办公阅读的清晰度有了质的飞跃。</p><p>其次是烦人的反光问题。</p><p>TCL 32X3A 屏幕表面覆盖了多层抗眩光抗反射涂层，将反射率压到了极低的 2%。这就意味着，哪怕白天坐在窗边或是身处强光环境下，屏幕也不会轻易泛白，它能让你不受干扰地去充分享受 OLED 面板那份纯粹的高对比度和高色彩饱和度。</p><p>最后，对于硬核游戏玩家，它还安排了“疾速帧”同步技术。</p><p>这项技术从驱动底层直接优化了信号处理链路，能把输入延迟大幅降低 50%。反映到实际体验中，就是鼠标键盘的每一个操作都更加“指哪打哪”，电竞操作的跟手感有了肉眼可见的提升。</p><p>下面来看下实测数据。</p><p>在系统菜单中，TCL 32X3A 提供了包括原始、sRGB、DCI P3 等在内的多种色域选择。</p><p>IT之家这里首先选择的是 sRGB 色域模式下的实测：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/85f5423e-5c3f-4254-9b0a-d1f30710e100.jpg?x-bce-process=image/format,f_auto" /></p><ul class=" list-paddingleft-2"><li><p>96.1% 的 sRGB 色域覆盖、100.0% sRGB 色域容积</p></li><li><p>68.1% 的 AdobeRGB 色域覆盖、68.9% AdobeRGB 容积</p></li><li><p>70.7% 的 DCI-P3 色域覆盖、70.9% DCI-P3 色域容积</p></li></ul><p>同时，这块屏幕在 sRGB 色域模式下，<strong>平均色彩偏离值仅为 1.26</strong>，按照行业标准，ΔE&lt;2 即意味着人眼几乎无法分辨出色彩差异，达到了专业级显示器的色准要求。</p><p>这意味着 TCL 32X3A 即使用来进行轻度的图片处理和视频剪辑，也能保证色彩的准确还原。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d7efb288-1e2d-41c1-9cf5-c5d5e5f72328.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/4a324aac-6d33-488d-8a6c-f5e1e21730e4.jpg?x-bce-process=image/format,f_auto" /></p><p>看完 sRGB 模式下的出色色准表现，再来看看它在 DCI-P3 广色域下的实测成绩。DCI-P3 相比传统 sRGB 色域拥有约 25% 的更广覆盖范围，尤其在红色和绿色区域的表现更为突出，主要针对专业影视后期、数字内容创作以及高品质影音娱乐等场景。</p><p>IT之家实测这块屏幕的<strong> DCI-P3 色域覆盖达到了 92.3%，色域容积为 94.7%</strong>。</p><p>sRGB 色域覆盖也到达了 99.4%。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b57c0564-85ce-4f84-afe7-b62549264a93.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c85f3287-1337-42c2-ac2c-3aa6a3d0e516.jpg?x-bce-process=image/format,f_auto" /></p><p>该模式下，平均色彩偏离值仅为 1.5，比 sRGB 模式略高一些，但仍处于 ΔE&lt;2 的专业级色准范围内，色彩表现稳定可靠。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a2f4754e-b34d-42b9-8dcb-764a94348b84.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2ca79e65-0706-4a6a-bd1b-6a0ee43117c8.jpg?x-bce-process=image/format,f_auto" /></p><p>除了精准的色彩表现，亮度也是衡量一款 OLED 显示器综合体验的关键。</p><p>TCL 32X3A 这次官方标称峰值亮度冲到了 1300nits。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5a8ca4dc-f2c7-4111-b24d-aede2f970a59.jpg?x-bce-process=image/format,f_auto" /></p><p>如上图，IT之家测试了它在显示 HDR 内容时的峰值亮度，<strong>竟然达到了 1400 尼特</strong>，高于官方数据。这个拉满的数据，意味着当你开启 HDR 看大片或者玩 3A 游戏时，画面里的那些高光点绝对能亮得通透、亮得真实。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/fb26e54c-8b9e-4548-b393-72d129f34fd1.jpg?x-bce-process=image/format,f_auto" /></p><p>当然了，平时办公或者刷网页，不可能一直盯着高光看，这时候真正决定体验的是“全屏亮度”。</p><p>IT之家也进行了实测，它的<strong>全屏标准亮度达到了 382 尼特</strong>，它足以保证在白天强光环境下，画面依然清晰可见。配合上前面提到的极低反射率涂层，可以说是把 OLED 白天使用的痛点给拿捏住了。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2693fb7a-cf5a-4445-a9d7-299df8ecd4a0.jpg?x-bce-process=image/format,f_auto" /></p><h3>三、综合体验</h3><p>夸了这么多，体验中发现一些小槽点也得说一下。</p><p>首先是屏幕的调节角度比较有限。</p><p>TCL 32X3A <strong>只支持前后 -5° 到 15° 的俯仰角调节</strong>，不能左右旋转，高度也是固定的、没法升降。对于不同身高或者喜欢经常换坐姿的朋友来说，用起来多少会觉得被局限住了。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2145d5ad-05b3-483f-8a88-4fadd68b7cd1.jpg?x-bce-process=image/format,f_auto" /></p><p>其次，是这个<strong>摇杆的操作逻辑实在需要时间去适应</strong>。</p><p>它的 OSD 控制摇杆被放在了支架（音箱）的右侧，尽管造型做得非常精致，有点像苹果手表的数码表冠。但尴尬的地方在于，它是“侧装”的。</p><p>这就导致你看屏幕菜单提示的是“左右”选择，手里却必须“前后”去拨动摇杆。这种“错位感”，刚上手确实挺让人迷惑，笔者也是用了好久才勉强形成肌肉记忆。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a850dbd0-45a0-4118-8c8b-1a8e69419d9a.jpg?x-bce-process=image/format,f_auto" /></p><p>另外也额外补充一句，既然它内置了素质不错的音响，如果能单独设计个实体的音量加减键，或者干脆给个小遥控器就完美了。</p><p>毕竟调音量是个高频动作，每次都得靠这个让人“迷失方向”的摇杆去菜单里一层层扒拉，确实谈不上好用。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5862f0ed-73b3-4034-9848-1dacf6c12f62.jpg?x-bce-process=image/format,f_auto" /></p><p>既然前面提到了 OSD 控制摇杆，那么再来聊聊 TCL 32X3A 的系统菜单。</p><p>如果是雷鸟显示器的老用户，看到这套 UI 界面一定会觉得非常亲切。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9e3a1b61-38e8-4674-b5cb-23ef53374283.gif" /></p><p>菜单内提供了极其丰富的场景预设，比如办公模式、标准模式、电影模式、护眼模式以及电子书模式等。考虑到大众用户的实际需求，系统还加入了“自适应亮度”与“自适应色温”功能。</p><p>针对大家普遍关心的 OLED 寿命问题，TCL 32X3A 也在底层做足了功课。像素位移、图像清理、屏幕保护等防烧屏机制都是默认开启的。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c3380489-b6a8-45ab-a14b-ed5a0a76875f.gif" /></p><p>菜单的进阶选项里，还有 4K 240Hz 与 1080P 480Hz 双模显示切换，当然你可以设置这项功能为一键切换，切换时会有短暂的黑屏。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/55cb675b-8272-457d-ac50-c052cb41b2de.jpg?x-bce-process=image/format,f_auto" /></p><p>4K 240Hz 扛起了 PC 端 3A 大作和次世代主机游戏的画质大旗；而 1080P 480Hz 则是为硬核职业电竞玩家量身定制的。更重要的是，480Hz 的超高刷新率，只有在 OLED 面板上才能发挥出真正的威力，因为 OLED 有一个传统 LCD 永远无法企及的优势：几乎零拖影。</p><p>很多高刷的 LCD 显示器在玩 FPS 游戏快速转身，或者看动作电影时，画面依然糊成一团，所谓的高刷完全没感觉。这就是因为 LCD 的液晶分子偏转速度太慢，物理响应时间根本跟不上刷新率。但 OLED 面板截然不同，它的每一个像素点都能独立发光，开关速度快到几乎没有延迟，用它在《CS2》或《使命召唤》里极限甩枪，画面干净利落、锐利得犹如刀切一般。</p><h3>结语</h3><p>快速上手 TCL 32X3A，它给笔者留下的最深印象，浓缩起来就是两个字：全能。</p><p>这是一台设计质感拉满的超薄桌面美学作品，是一台核心参数直接到顶的硬核电竞装备，更是一台无论沉浸观影还是专业办公，都能游刃有余应对的旗舰级 OLED 显示器。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a47de301-54eb-4839-8998-25d866d509e3.jpg?x-bce-process=image/format,f_auto" /></p><p>对于消费者来说，如果你想要一台能够覆盖所有使用场景、真正做到一机多用的显示器，那么 TCL 32X3A 就是当下最好的选择之一。</p><p>而如果在这个需求之上，你还对桌面美学和产品质感有更高要求，那么 TCL 32X3A 就是 6K 预算内的最优解，可以去掉“之一”。</p><dir><a contenteditable="false" href="https://u.jd.com/H1KE8e1" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/433419/28/1189/180412/69fc723bF5231af29/00835dc5dcea7351.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name"> TCL 32X3A 32 英寸 OLED</span></span><span class="card-abstract"> 4K240Hz 双模 480Hz 10Bit 0.03ms DP2.1 B&amp;O 音响游戏电竞电脑显示器 云墨蓝</span><span class="card-controls"><span class="price"> 5999 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:39:21 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:39:21 GMT</pubDate>
+</item>
+<item>
+<title>AI 热潮推高韩国股市：KOSPI 创历史新高，SK 海力士、三星电子领涨</title>
+<link>https://www.ithome.com/0/948/898.htm</link>
+<guid>https://www.ithome.com/0/948/898.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，受人工智能热潮带动，韩国两大权重股 SK 海力士与三星电子走强，韩国基准股指周一创下历史新高。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/aad77d0e-f470-44c2-bd9b-34544af1c38f.png?x-bce-process=image/format,f_auto" /></p><p>韩国综合股价指数（KOSPI）大涨 4.3%，收报 7822.24 点，盘中午后一度冲高 5.4%。作为英伟达高端存储芯片核心供应商的 SK 海力士领涨大盘，股价暴涨 11.5%，紧随上周五美股芯片板块的大涨走势；三星电子股价也飙升 6.3%。</p><p>此番创下新高，源于韩国综合股价指数本轮历史性强势行情：受全球资金扎堆人工智能相关半导体个股推动，首尔股市不断刷新纪录，<strong>该基准指数今年迄今累计涨幅已达 85.6%</strong>。分析师表示，随着人工智能领域资本开支增加、上游硬件企业营收增长，韩国股市仍有进一步上行空间。</p><p>摩根大通在周一发布的报告中称：“韩国仍是我们在亚太地区最看好的市场，我们将韩国综合股价指数基准 / 乐观 / 悲观三种情景目标位分别上调至 9000 点、10000 点、6000 点。在人工智能驱动下，存储芯片需求持续供不应求、库存处于低位，且高带宽内存（HBM）已通过多个季度的量价协议锁定供货，存储芯片价格上涨势头或将延续。”</p><p>三星电子与 SK 海力士均表示，受存储芯片供不应求影响，两家企业正与客户签订长期供货合约。全球科技企业加大对人工智能服务器及基础设施的投入，拉动传统 DRAM 内存芯片与高端高带宽内存（HBM）芯片需求同步攀升。</p><p>不过摩根大通指出，三星电子正面临劳资纠纷问题：公司工会下周扬言将发起全面罢工，要求提高奖金待遇。周一工会已重启与管理层谈判，并接受政府介入仲裁调解。</p><p>这家美国投行在报告中表示：“对于三星电子而言，投资者仍在等待劳资纠纷尘埃落定，以此作为市场情绪明朗化的关键事件。摩根大通分析师预估，人力成本上升可能会对公司营业利润造成 7% 至 12% 的冲击。”</p><p>三星工会主席 Choi Seung-ho 上周五表态，若工会成员对谈判结果不满，工会将毫不犹豫发起全面罢工。</p><p>截至周一，SK 海力士市值达 1300 万亿韩元（IT之家注：现汇率约合 6.08 万亿元人民币），逼近伯克希尔・哈撒韦 1 万亿美元的市值关口；三星电子市值则达到 1700 万亿韩元（现汇率约合 7.95 万亿元人民币）。</p><p>本轮韩国综合股价指数上涨行情由散户主导，散户净买入股票规模达 2900 万亿韩元；外资则选择获利了结，净卖出 3500 万亿韩元；机构投资者为净买入，金额达 6256 亿韩元。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:38:45 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:38:45 GMT</pubDate>
+</item>
+<item>
+<title>龙芯 3B6600 桌面处理器明年能买到、已交付流片，龙架构考虑适配安卓</title>
+<link>https://www.ithome.com/0/948/897.htm</link>
+<guid>https://www.ithome.com/0/948/897.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，龙芯中科今日举行 2025 年度暨 2026 第一季度业绩说明会，透露了后续芯片的最新消息。</p><p>龙芯中科董事长、总经理胡伟武透露，9A1000 已于 2025 年 9 月流片，<strong>3B6600 也已完成设计并于近期交付流片。9A1000 和 3B6600 均采用高自主工艺</strong>，设计磨合和流片周期长一些。9A1000 已经快回来了，争取在 8 月份的上半年业绩说明会中向大家报告流片结果。3B6600 预计下半年回来，如果快的话，争取于 10 月份的三季度业绩说明会中向大家报告流片结果。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3141b101-b833-4a80-802a-4a87ab0c9de0.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家此前报道，<a href="https://www.ithome.com/0/863/800.htm" target="_blank">龙芯 9A1000 是龙芯首款 GPU 芯片</a>，定位为支持 AI 加速的入门级显卡，GPU 核全面升级，功能方面，图形 API OpenGL4.0 / OpenGL ES3.2；性能方面，图形流水线 x2，主频提升 25%；面积方面，流处理器面积减小 20%；功耗方面，轻负载功耗降低 70%。GPU 规模 x4（vs 2K3000），性能提升 5 倍以上，AI 算力达到 40TOPS。</p><p>据其透露，龙芯中科首款 GPU 产品 9A1000 显示功能大致相当于 <strong>AMD 的 RX 550</strong>，还有几十 T 的算力，和龙芯 CPU 形成自我配套，达到系统性价比最高，产品定位是入门级独显。龙芯中科表示将争取开发 9A1000 的 Windows 驱动，使其也可以与 Windows 电脑配套。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2025/6/4f6a4e33-b588-4c41-a921-ecb919cc969a.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>龙芯下一代桌面芯片 3B6600 工艺不变，结构优化，<strong>硅前测试相比 3A6000 同频性能提高 30% 左右</strong>，预计单核性能处于世界领先行列，使用成熟工艺达到国外先进工艺 CPU 性能。</p><p>根据龙芯中科官方回复，3B6600 采用八核结构，单核 SPEC INT2006 分值 60-80 分，<strong>对标的处理器可能不止 12 代 i5 到 i7</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/1e60876f-48c8-4181-96fa-75278738ecc4.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/4/8101fcf4-a58f-449c-83a3-9b0cc81d6477.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>有投资者询问“今年年底可以买到 9A1000 和 3B6600 的产品吗”，胡伟武回复称：<strong>工程样片应该可以吧，产品得到明年</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7b7293a8-988a-4c5c-9d22-62f953e0d14b.jpg?x-bce-process=image/format,f_auto" /></p><p>对于后续的 9A2000、9A3000 GPU，胡伟武透露公司正在开展性能更高的 9A2000 设计。<strong>9A3000 基于 Xnm 自主工艺</strong>，需要研制包括内存接口、PCIE 接口等大量定制 PHY，需要时间。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/620dd55c-6338-48d3-954d-f1c6a29c92a1.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/fe0275bb-bf96-4947-b5d2-83f16311787b.jpg?x-bce-process=image/format,f_auto" /></p><p>胡伟武还透露，公司确实在研究存储芯片市场。<strong>近期联合其他企业开展 HBM 芯片中逻辑硅片的研发</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/4e22659d-38ff-481a-ae54-c8cec969ec16.jpg?x-bce-process=image/format,f_auto" /></p><p>胡伟武还确认，<strong>龙芯芯片已应用在商业航天领域</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8519b524-162b-4f3b-9331-b07784410344.jpg?x-bce-process=image/format,f_auto" /></p><p>还有投资者提问，当前全球 MCU 价格普涨的背景下，龙芯 MCU 是以稳价促量为主，还是会逐步涨价以提升公司利润？胡伟武表示，<strong>会以稳价促量为主</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2e2102db-ef49-4cd1-b19a-1b8f255ec268.jpg?x-bce-process=image/format,f_auto" /></p><p>对于龙架构的 Android 适配情况，胡伟武表示，随着 2K3000 的推出，不少客户已经提出 Android 的适配需求。“<strong>我们在考虑并推动这件事</strong>。如果你是我的话，在资源有限的情况下，是优先支持龙芯与 Android 的适配和生态建设，还是优先支持龙芯与开源鸿蒙的适配和生态建设呢？”</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3519795b-3f82-4840-9f6d-88ba313b0c78.jpg?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:36:39 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:36:39 GMT</pubDate>
+</item>
+<item>
+<title>消息称某厂新机有望搭载 2 亿主摄、2nm 天玑芯，预计为 OPPO Find X10 Pro Max</title>
+<link>https://www.ithome.com/0/948/896.htm</link>
+<guid>https://www.ithome.com/0/948/896.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据博主 @数码闲聊站 今日爆料，某厂 Pro Max 机型目前较大概率量产规格：200Mp 1/1.3"± 超大底主摄、200Mp 1/1.28"± 超大底潜望长焦、3Mp± 多光谱镜头、<strong>2nm 天玑芯</strong>。</p><p>此外，他还爆料该机<strong>评估两套方案</strong>：6.89"2K LTPO 旗舰大直屏 (可选 6.78"1.5K LTPO)，200Mp 1/1.56" 大底超广角 (可选 50Mp 1/2.75")。结合该博主此前的爆料习惯，评论区网友推测该机预计为 OPPO Find X10 Pro Max。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/97315786-1d80-4729-8ffc-d939697c9920.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/736e302d-c006-40ec-a4ac-36a08a301867.jpg?x-bce-process=image/format,f_auto" /></p><p><a href="https://www.ithome.com/0/927/677.htm" target="_blank">据IT之家此前援引博主消息</a>，某厂天玑 9600 系列旗舰产品的中杯、大杯在测试 6.59 英寸 1.5K 中屏、6.79 英寸 ±1.5K 大屏，大大杯待定，内部考虑用 Ultra 同款高端屏。预计为 OPPO 旗下。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1bbf3773-4fb7-4ed1-9605-2b4a0a329427.jpg?x-bce-process=image/format,f_auto" title="某厂新机早期影像评估方案曝光：主摄、超广、长焦 2 亿大满贯，预计为 OPPO Find X10 Pro Max" /></p><p>目前，关于 OPPO Find X10 系列新机的发布时间尚早，更多配置信息可以关注IT之家后续报道。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:34:05 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:34:05 GMT</pubDate>
+</item>
+<item>
+<title>Steam 喜加一：原价 62 元俯视角射击游戏《形单影只》免费领</title>
+<link>https://www.ithome.com/0/948/894.htm</link>
+<guid>https://www.ithome.com/0/948/894.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，由独立开发者 daminggede 开发的俯视角射击游戏 《形单影只：坠落地牢无尽深渊（Just Move Fall Dungeon Endless Abyss）》目前正在 Steam 平台开启限时免费领取“喜加一”活动，本作在国区定价为 62 元，<strong>玩家可以在北京时间 5 月 14 日凌晨 1:00 前免费领取</strong>，IT之家附游戏商品页（<a href="https://store.steampowered.com/app/3856040/_/" target="_blank"><span class="link-text-start-with-http">https://store.steampowered.com/app/3856040/_/</span></a>）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/f3d025a4-0e3c-4847-9dfc-6f74c4332678.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，本作是一款强调“走位”与躲避弹幕玩法的俯视角射击游戏。玩家只需要专注于角色移动与闪避操作，当敌人进入攻击范围后，角色会自动锁定并攻击最近目标。</p><p>值得一提的是，开发者还在 Steam 商品页透露希望能够凭借销售游戏的钱去看《魔法少女小圆：沃普尔吉斯的回天》。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/fd5f2062-a0de-4e8d-9718-bf4023bd002a.png?x-bce-process=image/format,f_auto" /></p><h3>游戏图赏：</h3><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3c732077-6b80-4b1e-bdc9-6cb86e1c47fe.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ebe47b87-4750-4fe1-bb56-6acb4b4bef0e.jpg?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:33:07 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:33:07 GMT</pubDate>
+</item>
+<item>
+<title>兰博基尼史上最强敞篷超跑 Fenomeno Roadster 亮相：插混动力、千匹马力、限量 15 台</title>
+<link>https://www.ithome.com/0/948/893.htm</link>
+<guid>https://www.ithome.com/0/948/893.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，当地时间 10 日，兰博基尼推出全新 Fenomeno Roadster。新车取消了 Fenomeno 硬顶版的车顶，也比硬顶版更稀有。</p><p>去年发布的 Fenomeno 硬顶版限量 29 台，Fenomeno Roadster <strong>仅限量 15 台</strong>。和硬顶版一样，敞篷版很大程度上基于兰博基尼旗舰超跑打造。车身以蓝色为主，致敬 1968 年 Miura Roadster；红色细节点缀则呼应博洛尼亚。</p><p style="text-align: center;"><img alt="Lamborghini Fenomeno Roadster" src="https://img.ithome.com/newsuploadfiles/2026/5/06e0eddc-3bfb-4645-86f2-0ba66d171180.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img id="1778488247098_1" src="https://img.ithome.com/newsuploadfiles/2026/5/f1213a2e-6676-4c8f-af31-25021b21d82b.png?x-bce-process=image/format,f_auto" /></p><p>兰博基尼表示，尽管取消车顶，Fenomeno Roadster 的空气动力学表现却<strong>几乎与硬顶版相当</strong>。新车采用重新设计的挡风玻璃，并集成碳纤维扰流板，引导气流越过座舱进入新的发动机舱，用于冷却 6.5 升自吸 V12 发动机和碳陶刹车。车尾的主动式扰流板和大型扩散器，则进一步完善空气动力学布局。</p><p>为了保持激进车身线条，兰博基尼把防倾杆布置在座椅后方的碳纤维结构下方。新车沿用硬顶版 21 英寸前轮和 22 英寸后轮，轮圈采用双色设计，并配备专为 Fenomeno Roadster 开发的普利司通 Potenza 轮胎。源自赛车的手动可调减振器，则支持调整离地间隙。</p><p style="text-align: center;"><img id="1778488260917_2" src="https://img.ithome.com/newsuploadfiles/2026/5/77ceac85-78a0-47c0-9f07-79a853cc1511.png?x-bce-process=image/format,f_auto" /></p><p>性能参数基本延续硬顶版。Fenomeno Roadster 0 至 100km/h 加速<strong>仅需 2.4 秒</strong>，0 至 200km/h 加速用时 6.8 秒，只比硬顶版慢 0.1 秒。最高车速<strong>超过 340km/h</strong>，仅比硬顶版低 10km/h。</p><p>动力系统同样没有变化。Fenomeno Roadster 搭载插混动力系统，由 6.5 升自然吸气 V12 发动机和三台电机组成，<strong>综合输出 1065 马力</strong>，使新车成为兰博基尼<strong>史上动力最强的敞篷车型</strong>。</p><p>兰博基尼尚未公布车重。考虑到敞篷版需要额外车身加强，Fenomeno Roadster 预计会比硬顶版略重。作为参考，Fenomeno 硬顶版干重为 1772 kg。</p><p>Fenomeno Roadster 可以纯电行驶，然而标准版 Revuelto 在 EPA 工况下的<strong>纯电续航只有 8 公里</strong>。对兰博基尼来说，插混系统的重点首先是性能，其次是<strong>在法规日益严格的背景下降低排放</strong>，让 V12 发动机继续保留下去。</p><p>兰博基尼尚未公布 Fenomeno Roadster 售价，预计会远高于 2026 款 Revuelto 的 60.8 万美元（IT之家注：现汇率约合 413.9 万元人民币）。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:33:05 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:33:05 GMT</pubDate>
+</item>
+<item>
+<title>软银宣布已在日本正式启动电池业务，瞄准 AI 数据中心电力需求</title>
+<link>https://www.ithome.com/0/948/892.htm</link>
+<guid>https://www.ithome.com/0/948/892.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据日经亚洲报道，软银集团已在日本正式启动电池业务，旨在满足人工智能数据中心日益增长的用电需求，并计划未来将业务拓展至海外市场。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/149ce20a-a378-4fe7-8b5c-19942340dc16.jpg?x-bce-process=image/format,f_auto" /></p><p>这家日本电信及科技集团于当地时间周一宣布，将在大阪府夏普原堺工厂厂区内研发、生产电芯及电池储能系统，软银也正在该地块建设大型人工智能数据中心园区。</p><p>软银计划在 2028 年 3 月截止的财年正式投产电芯与储能系统，并于次年将产能扩充至吉瓦时级别。这批电池将优先供给集团自有 AI 数据中心使用，后续还将面向工业及家庭场景供货，用于存储太阳能与风能电力，同时公司也在考量布局海外市场。</p><p>软银表示，目标到 2030 财年，电池业务年销售额突破 1 万亿日元（IT之家注：现汇率约合 433.82 亿元人民币）。</p><p>当前各大科技企业都在为 AI 数据中心寻求更稳定的电力供应，这类数据中心耗电量巨大。高效电池技术被视作两大核心关键：既能保障供电稳定，又能化解数字基础设施快速扩张带来的环保问题。</p><p>作为新电池业务的布局之一，软银正与韩国初创企业 Cosmos Lab 合作研发锌卤素电芯。该电芯采用水系电解液，摒弃了锂离子电池常用的易燃有机材料。</p><p>软银称，这项技术可降低火灾风险，能源效率比肩甚至优于传统锂电池；锌、卤素化合物等原材料均可在日本本土采购，有助于完善本国供应链体系。</p><p>在储能系统领域，软银携手另一家韩国初创企业 DeltaX，联合研发大容量储能集装箱，并整合软银自研的能源管理技术。</p><p>据软银介绍，DeltaX 的电池组技术可在标准 20 英尺集装箱内实现超过 5 兆瓦时的储能容量，处于行业顶尖水平。</p><p>软银还计划引入电力需求预测技术，可根据用电负荷与可再生能源供电情况，智能调控电池充放电节奏。</p><p>此次电池业务布局，是软银加码人工智能基础设施整体投资的重要一环，涵盖数据中心、服务器及电力技术等多个领域，以支撑持续攀升的算力需求。</p><p>软银在声明中表示：“我们将依托本土电池业务，积极推进电力稳定供应与能源高效利用，同时助力日本新一代电力基础设施的建设发展。”</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:26:52 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:26:52 GMT</pubDate>
+</item>
+<item>
+<title>P 社《群星》迎 10 周年，已购游戏玩家可免费领取《乌托邦》《智械黎明》《人型物种包》三款 DLC</title>
+<link>https://www.ithome.com/0/948/891.htm</link>
+<guid>https://www.ithome.com/0/948/891.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，P 社旗下《群星（Stellaris）》已于 5 月 9 日迎来发售 10 周年纪念，官方宣布将《乌托邦》、《智械黎明》、《人型物种包》三款 DLC 整合入本体，<strong>游戏价格同步从 168 元涨价至 198 元</strong>，IT之家附录游戏商品页（<a href="https://store.steampowered.com/app/281990/Stellaris/" target="_blank"><span class="link-text-start-with-http">https://store.steampowered.com/app/281990/Stellaris/</span></a>）。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/110cc83b-f491-431a-861e-c3dd642acb9f.png?x-bce-process=image/format,f_auto" /></p><p>开发团队将游戏这 10 年形容为“一条跌宕起伏的漫长道路”，本作自发售以来，获得了众多好评，不过也曾因版本更新导致游戏玩法发生巨大变化而招致老玩家的不满，以及故障频发等问题。尽管如此，经历了种种曲折后迎来 10 周年的《群星》，如今已迈出了实现进一步发展的第一步。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/21128ed8-1bee-4555-8ec8-376f401b9a50.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/36a4325f-871e-41a2-b3c2-3fcd7f5c6118.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6bd39333-b303-4f43-bce7-acc824519549.jpg?x-bce-process=image/format,f_auto" /></p><p>而对于已购买《群星》的玩家，则可以直接在 Steam 平台免费领取上述三款 DLC，IT之家附领取地址如下：</p><ul class="medium-size list-paddingleft-2"><li><p>《乌托邦》：<a href="https://store.steampowered.com/app/553280/Stellaris_Utopia/?l=schinese" target="_blank">点此访问</a></p></li><li><p>《智械黎明》：<a href="https://store.steampowered.com/app/642750/Stellaris_Synthetic_Dawn_Story_Pack/?l=tchinese" target="_blank">点此访问</a></p></li><li><p>《人型物种包》：<a href="https://store.steampowered.com/app/756010/Stellaris_Humanoids_Species_Pack/?l=schinese" target="_blank">点此访问</a></p></li></ul>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:26:25 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:26:25 GMT</pubDate>
+</item>
+<item>
+<title>任天堂 Switch 2 玩家另辟蹊径找到看 YouTube 方法，遭官方火速封堵</title>
+<link>https://www.ithome.com/0/948/890.htm</link>
+<guid>https://www.ithome.com/0/948/890.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，任天堂 Switch 2 于 2025 年 6 月发售，该掌机没有专属的 YouTube 官方应用，无法在线观看视频。谷歌最初承诺会为 Switch 2 上线这款应用，称相关支持“即将推出”。2026 年 2 月，谷歌再度重申了这一说法；时至同年 5 月，YouTube 应用依旧杳无音讯，任天堂与谷歌也均未发布任何相关更新。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8a603560-0b0f-4caa-bcdf-7f3cb3b40bf8.png?x-bce-process=image/format,f_auto" /></p><p>对比来看，PlayStation 5 与 Xbox Series X|S 主机发售首日，系统便预装了 YouTube、Netflix 以及多款其他流媒体影音应用。反观 Switch 2，至今一款正规流媒体视频应用都没有，而任天堂还计划在今年晚些时候对其涨价。不过，玩家们意外发现了一个能在 Switch 2 上运行 YouTube 的另类变通方法，而任天堂对此并不认可，随后便封堵了该漏洞。</p><p>IT之家注意到，一名 Reddit 用户在任天堂 Switch 2 板块发帖分享了这个巧妙的漏洞：“我们至今还没有官方 YouTube 应用，却能通过《Super Animal Royale》的浏览器看 YouTube，这事太离谱了。”</p><p>任天堂 eShop 上架的免费大逃杀游戏《Super Animal Royale》，在标题界面右上角设有滚动新闻推送栏。玩家点击推送里内嵌的视频片段，并选择“在 YouTube 上观看”时，主机便会调用隐藏的内置浏览器。借助这个浏览器，玩家就可以浏览并播放 YouTube 视频，但画质仅为 360P、只能全屏播放、视频缩略图显示异常，且无法登录 YouTube 账号。虽说体验有诸多瑕疵，但好歹能看视频。</p><p>然而这个变通办法没能维持太久。该漏洞在网络走红短短数小时后，就彻底失效了。据 Reddit 的 Switch 2 板块用户反馈，现在若试图通过《Super Animal Royale》在 Switch 2 上打开 YouTube，会弹出 2800-1230 错误代码，原本能唤起隐藏浏览器的链接也已失效。</p><p>目前尚不清楚是任天堂推送了系统更新，还是向游戏开发商施压、要求其封堵了这条可访问 YouTube 的途径。尤其令人费解的是：任天堂封堵民间漏洞的速度极为迅速，可自 Switch 2 发售至今已过去十一个月，官方 YouTube 应用却依旧迟迟不上线。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:21:03 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:21:03 GMT</pubDate>
+</item>
+<item>
+<title>Steam 喜加一：原价 62 元射击游戏《生存战场》免费领</title>
+<link>https://www.ithome.com/0/948/889.htm</link>
+<guid>https://www.ithome.com/0/948/889.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，由独立开发者 LivingEveryday 打造的开放世界射击游戏 《生存战场（LivingBattle）》 目前正在 Steam 平台开启限时免费领取“喜加一”活动，游戏在 Steam 国区定价为 62 元，<strong>玩家在北京时间 5 月 13 日凌晨 1:00 前可免费领取</strong>，IT之家附游戏商品页（<a href="https://store.steampowered.com/app/3353830/_/" target="_blank"><span class="link-text-start-with-http">https://store.steampowered.com/app/3353830/_/</span></a>）。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0883af58-7c41-4d14-a354-799617f2a016.png?x-bce-process=image/format,f_auto" /></p><p>在游戏中，玩家可以通过地图确认位置，并在各个区域接取包括击杀指定目标在内的任务。玩家能够驾驶汽车或骑乘摩托车，在城市与沙漠等开放场景中自由移动，并通过不同路线前往目标地点。</p><p>战斗方面，《生存战场》支持第一人称与第三人称视角自由切换，玩家还可以使用多种枪械，对隐藏在暗处的敌方士兵展开战斗。</p><h3>游戏图赏：</h3><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0340cb8c-aaf1-4776-8858-acd49596db8a.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/38634887-e8d8-4aa6-9496-76acabc4ad77.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/32e95bf4-eebb-489b-a7e8-a92723257e6a.jpg?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:19:45 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:19:45 GMT</pubDate>
+</item>
+<item>
+<title>罗技“超便携”无线鼠标曝光：无物理滚轮，支持对折</title>
+<link>https://www.ithome.com/0/948/888.htm</link>
+<guid>https://www.ithome.com/0/948/888.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，德媒 WinFuture 本月 9 日曝光了 Logitech（罗技）即将推出的一款“超便携”无线鼠标，该设备可通过蓝牙连接至最多三个主机设备。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2123cb23-2491-4451-a20d-44ed4028e26b.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图源：WinFuture</figcaption><p>这款鼠标一定意义上类似 Microsoft（微软）的 Surface Arc，但<strong>支持完全对折</strong>，可轻松放入口袋中随身携带，而在需要时又能展开作为笔记本电脑或平板电脑的输入设备。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/40f226f1-2271-44f8-91e1-03a7873d5a36.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图源：WinFuture</figcaption><p>这款鼠标中部为利于折叠的风箱格栅纹理，<strong>前部中央则是替代实体滚轮的“自适应触控滚动”区域</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c45536c4-728a-4025-be85-c1faa9aeec65.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图源：WinFuture</figcaption>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:14:07 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:14:07 GMT</pubDate>
+</item>
+<item>
+<title>优必选与日立达成战略合作，Walker S2 机器人将进厂参与“造电梯”</title>
+<link>https://www.ithome.com/0/948/887.htm</link>
+<guid>https://www.ithome.com/0/948/887.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，今天下午，优必选科技通过公众号宣布：<strong>优必选与日立（中国）有限公司正式签署战略合作协议书。</strong>双方将紧扣中国制造业智能化转型升级的关键趋势，聚焦柔性生产与提质增效的迫切需求，共同探索人形机器人在智能制造场景中的应用，助力行业实现高质量发展。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/6c735b2b-559d-4b9d-b3a0-ef2311e351f7.jpg?x-bce-process=image/format,f_auto" /></p><p>双方将在日立集团具有市场竞争力的<strong>电梯、楼宇系统、医疗健康、工业设备及半导体制造设备等领域</strong>展开深度合作，充分发挥优必选在人形机器人方面的技术优势，以及日立在智能制造与系统集成领域的丰富经验，共同开发适用于不同生产场景的智能化解决方案。</p><p>据IT之家了解，双方的合作已经进入实质性验证阶段。<strong>日立已在部分制造场景中引入优必选的工业级人形机器人 Walker S2，</strong>与优必选共同推进现场作业测试与应用场景验证。围绕电梯智能制造场景，日立中国研究院与优必选、日立电梯联合，在日立电梯制造现场开展人形机器人应用深度二次开发，实现全流程柔性化智能流转与数据贯通。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/c8dfa89a-0751-4cc6-b232-33d5a4097711.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:13:04 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:13:04 GMT</pubDate>
+</item>
+<item>
+<title>【IT之家开箱】TCL 32X3A OLED+ 旗舰显示器图赏：4K 240Hz 双模面板，“星际之门”美学，全能体验</title>
+<link>https://www.ithome.com/0/948/884.htm</link>
+<guid>https://www.ithome.com/0/948/884.htm</guid>
+<content:encoded><![CDATA[
+
+<p>TCL 终于正式进军国内电竞显示器市场了，而打头阵的就是这款定位旗舰的 32X3A OLED + 全能显示器。它不仅带来了全面升级的显示技术，在工业设计上也下足了功夫，满足高端电竞玩家和专业创作者的严苛需求。</p><p>这款 31.5 英寸的新品目前已经在京东上架，补贴后到手价 5999 元。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0deff976-ec44-4bbb-92bb-46d450c4ca8a.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>云墨蓝</figcaption><p>现在，TCL 32X3A 的三款配色（云墨蓝、云烟粉、云泊金）均已来到IT之家评测室，接下来就请跟随IT之家的镜头，一同开启本期图赏。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a0e1c6b3-dc4b-43f0-9259-ad17009adbfc.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>云烟粉、云泊金、云墨蓝</figcaption><p>核心显示规格上，TCL 32X3A 采用 OLED 叠堆技术打造的 OLED + 双模面板，支持 4K 240Hz 与 FHD 480Hz 一键切换，原生 10bit 色深，峰值亮度达 1300nits，灰阶响应时间低至 0.03ms；经 TCL 专属深度画质调校，实现 99% sRGB、99% DCI-P3、99% Adobe RGB 全色域覆盖，色彩还原精准纯净，兼顾专业创作的色准需求与电竞场景的极致流畅度。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ff18ec43-c504-477f-97c3-673373274f5c.jpg?x-bce-process=image/format,f_auto" /></p><p>针对传统 OLED 屏幕的固有痛点，TCL 32X3A 带来专属优化：采用 Matrix-Pure 超清矩阵像素排列，彻底解决了 OLED 屏幕文字显示彩色锯齿、彩边的通病；搭配多层抗眩光抗反射涂层，实现 2% 超低反射率，有效抑制强光下的画面泛白、镜面反射与偏色问题，充分释放 OLED 面板高对比度、高色彩饱和度的核心优势。同时搭载“疾速帧”同步技术，从驱动底层优化信号处理链路，输入延迟降低 50%，大幅提升电竞操作跟手性。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3c5763fb-2068-4d01-a195-81a31f063d0f.jpg?x-bce-process=image/format,f_auto" /></p><p>设计与体验层面，TCL 32X3A 采用“星际之门”美学设计，机身最薄处仅 6.4mm。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/129609f1-ea89-4e28-becc-c1b51ba65bfa.jpg?x-bce-process=image/format,f_auto" /></p><p>搭配四面超窄微边全面屏与反投式 RGB 氛围灯，兼顾轻薄质感与沉浸观感；内置环境光传感器，支持全时舒适光感系统，可自动适配屏幕亮度与色温。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/404ff38f-91f3-4d70-8d4f-b694333124d8.jpg?x-bce-process=image/format,f_auto" /></p><p>声学上搭载 B&amp;O 深度定制前出式声巢音响，搭配专业声学 DSP 芯片，兼顾影音沉浸感与 FPS 游戏听声辨位需求。接口配备 2 个 HDMI 2.1、1 个 DP2.1、90W USB-C 及 2 个支持 KVM 的 USB-A 接口，拓展性齐全。</p><dir><a contenteditable="false" href="https://u.jd.com/HDK0bVw" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/433419/28/1189/180412/69fc723bF5231af29/00835dc5dcea7351.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name"> TCL 32X3A 32 英寸 OLED </span></span><span class="card-abstract">4K240Hz 双模 480Hz 10Bit 0.03ms DP2.1 B&amp;O 音响游戏电竞电脑显示器 云墨蓝</span><span class="card-controls"><span class="price"> 5999 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p><strong>更多实拍图赏：</strong></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9d7dc553-7d1e-449a-8131-30e2ae3950de.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8730d15f-db24-4c7a-b698-9966cf38a304.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9eb3adf2-b184-45eb-99ae-8ebbc5a18f3f.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/84e8df35-1316-40d9-8a33-383563c056e6.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/1730916c-5889-4abb-bf4f-5f097d0a3970.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/191466c9-7a67-4992-ad55-3fe0c042c795.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a85772b6-2983-4d49-9358-f07da78ccaed.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3a1914c1-8fbd-4204-9f5a-9c5f6e5e36d0.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/cf17aba5-be04-4c52-9d50-df801a4c3b56.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b0e8c247-41d5-461b-8a45-7fc384e201fd.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c72ef706-b29e-4573-b298-0e699cbdd04a.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8010e9d2-105d-461d-8528-be2584c23881.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f0be194b-e114-4ea4-8593-a104dad82cd8.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/4fe75f17-52b5-4b07-9eca-05279831fd82.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c8abbba9-9c92-4397-a451-e5031f1775a4.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a49951a3-5ef2-4689-a7d8-db8d7cfb4c95.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0b9602d8-029f-40db-ac4c-5e3df049c79e.jpg?x-bce-process=image/format,f_auto" /></p><h3>相关阅读：</h3><p><a href="https://www.ithome.com/0/948/899.htm" target="_blank">【IT之家评测室】TCL 32X3A OLED+ 显示器上手：设计夯到爆，体验能文能武，真 OLED 全能王者</a></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:08:55 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:08:55 GMT</pubDate>
+</item>
+<item>
+<title>小米“米家保温杯口袋版”新增雾樱粉、缎光绿、流光紫配色，42.9 元</title>
+<link>https://www.ithome.com/0/948/883.htm</link>
+<guid>https://www.ithome.com/0/948/883.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，小米现已为旗下“米家保温杯口袋版”新增雾樱粉、缎光绿、流光紫三款配色（<a href="https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d183498%26spmref%3dYouPinPC.%24SearchFilter%241.search_list.1.66234217%26last_scmv2%3d3001.21.1%3azero-3%3azero-4%3azero-5%3azero-6%3azero-7%3azero.0.0%26scmv2_num%3d0" target="_blank">点此访问</a>），<strong>定价为 42.9 元</strong>，将于 5 月 19 日发货。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b96f7644-57d4-4f03-a220-324e9d1c2863.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/14898849-8320-4940-913a-e8879021c28d.jpg?x-bce-process=image/format,f_auto" /></p><p>这款保温杯采用 316L 不锈钢品质内芯，拥有 350ml 容量，采用无尾真空技术，支持双螺纹快速开盖，内置 360° 硅胶密封圈，可实现 6 小时长效保温锁冷，重约 170g。</p><p>IT之家附产品参数：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/fd756389-ae39-4a4a-8c8c-f210eca20717.jpg?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:06:24 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:06:24 GMT</pubDate>
+</item>
+<item>
+<title>小米米家智能按摩眼罩浅沙色开启预售，首销到手价 199.75 元</title>
+<link>https://www.ithome.com/0/948/879.htm</link>
+<guid>https://www.ithome.com/0/948/879.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，小米米家智能按摩眼罩浅沙色今日开启预售，厂商建议零售价 249 元，<strong>首销到手价 199.75 元。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://qimg.ithome.com/newfiles/2026/5/3a7e134d-8333-402e-9b3b-7531ee826062.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款产品采用仿生曲线设计，紧密贴合鼻梁与眼周曲线，遮挡光线干扰，内凹设计不压眼。<strong>控制模块居中设计</strong>，产品两侧无凸起，侧躺侧睡无异物感。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4f3ee909-36eb-460b-9124-a96d398523f9.png?x-bce-process=image/format,f_auto" /></p><p>新品采用 NTC 温控技术，提供 2 挡温感热敷调节；4 点独立控制振动马达，多种按摩程序组合，智能模拟人手按摩节奏。此外，产品连接米家 App 后，<strong>用户可通过手机进行模式 DIY 和设定按摩时长</strong>。</p><p>IT之家附产品参数如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/626fa063-6d17-4713-aa31-787c8e911d87.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HOKGwiW" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/430514/34/12143/15879/69fed31aF63ff8a05/00833203204c1376.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米米家智能按摩眼罩浅沙色</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 199.75 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:03:16 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:03:16 GMT</pubDate>
+</item>
+<item>
+<title>阿维塔陈卓：07L 是一款中大型 SUV 全新车型，预计今年三季度上市</title>
+<link>https://www.ithome.com/0/948/876.htm</link>
+<guid>https://www.ithome.com/0/948/876.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，工信部第 407 批《道路机动车辆生产企业及产品公告》新产品公示显示，阿维塔科技旗下的全新车型 —— 阿维塔 07L 已完成申报，正式进入产品公示阶段。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/98d9e1b7-e6cb-4917-afa2-4d340dc42c2b.jpg?x-bce-process=image/format,f_auto" /></p><p>阿维塔科技总裁陈卓今日发文预告，称阿维塔 07L 是一款中大型 SUV 全新车型，<strong>预计今年三季度上市</strong>。该车车身尺寸全面加大，车长达到 4910mm，车高为 1650mm，轴距达 2990mm。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/045007d3-c58e-4417-9a2a-e54699a0d4ad.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家此前报道，外观设计方面，<a href="https://www.ithome.com/0/948/458.htm" target="_blank">阿维塔 07L 延续了品牌辨识度极高的未来美学设计语言</a>，前脸造型与现款较为相似，但车身细节上进行了针对性优化。</p><p>新车换装了半隐藏式门把手，在紧急状况下支持机械解锁，符合最新的安全规范；车顶可选装行李架；车尾部分则由原来的分体式尾灯改为贯穿式尾灯设计，使得整个车尾在视觉上更显饱满与干练。</p><p>智能配置方面，阿维塔 07L 车顶的前向激光雷达升级为华为最新的 896 线高精度雷达，能够更精准地识别远处的低矮障碍物，预计将成为首批搭载华为乾崑 ADS 5 的车型。</p><p>动力系统方面，阿维塔 07L 延续了品牌双动力路线，提供纯电与增程两种选择。其中，增程版车型搭载了 1.5T 增程器 + 231kW 电机，并提供 39.05 或 52.01 千瓦时的磷酸铁锂电池，WLTC 工况下纯电续航为 197 公里、270 公里。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/32c77769-63e2-4bcb-b410-c6cd561c0457.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/948/458.htm" target="_blank">阿维塔 07L 新车申报：轴距增至 2990mm，可选纯电增程三电机版本</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/948/055.htm" target="_blank">阿维塔 07L 豪华 SUV 官图公布，华为乾崑联合设计</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:02:13 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:02:13 GMT</pubDate>
+</item>
+<item>
+<title>新 3C 认证：闪极 165W 自带线能量棒 299 元 24 期免息，20000mAh 可上飞机</title>
+<link>https://www.ithome.com/0/948/870.htm</link>
+<guid>https://www.ithome.com/0/948/870.htm</guid>
+<content:encoded><![CDATA[
+
+<p>闪极“超级能量棒” 165W 自带<strong>伸缩线</strong>带屏移动电源 2025 年 12 月 29 日上架，该产品采用 2C+1A 设计，支持新 3C 认证，<strong>定价为 349 元</strong>，今日京东旗舰店<strong>直降至 299 元</strong>。</p><p>20000 mAh 可上飞机，165W 大功率输出，支持多口快充。</p><p>电池循环次数可在数显屏查看，精准管理电池寿命：</p><dir><a contenteditable="false" href="https://u.jd.com/HrKW9Em" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/337908/5/26826/46388/69037850Fcb41580f/716cb7be83810c45.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">闪极 新 3C 认证能量棒</span></span><span class="card-abstract">自带伸缩线 165W</span><span class="card-controls"><span class="price"> 券后 299 元</span><span class="card-btn-deep">领 120 元券</span></span></span></span></a></dir><p style="text-align: left;">另外此款目前支持 <strong>24 期免息</strong>，每期仅需 12.5 元。</p><ul class=" list-paddingleft-2"><li><p>京东无门槛红包至高 26618 元，<strong>5 月 12 日 20 点</strong>起支持即领即用：<a href="https://u.jd.com/H6KPPym" target="_blank">点此抽红包</a>。</p></li></ul><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2025/12/ef8d24b6-3d88-4d98-b257-60d02246574b.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2025/12/9e961262-2d29-4b2f-b39f-b626ab932d6e.jpg?x-bce-process=image/format,f_auto" /></p><p>该产品整体重量 515 克，正面配备屏幕，可智能显示电池温度 / 充电功率信息，匹配一根 70cm 伸缩线，内置 20000 毫安时容量电芯。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2025/12/cac0fab8-2ace-4742-aca0-113809ccd90f.jpg?x-bce-process=image/format,f_auto" /></p><p>该产品的 USB-C 线 / 接口均支持 65W 输入 / 100W 输出，USB-A 接口支持 30W 输出，IT之家附产品参数如下：</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2025/12/450810a2-35f0-47ad-b12c-95f71734a006.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HrKW9Em" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/337908/5/26826/46388/69037850Fcb41580f/716cb7be83810c45.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">闪极 新 3C 认证能量棒</span></span><span class="card-abstract">自带伸缩线 165W</span><span class="card-controls"><span class="price"> 券后 299 元</span><span class="card-btn-deep">领 120 元券</span></span></span></span></a></dir>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 08:00:05 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 08:00:05 GMT</pubDate>
+</item>
+<item>
+<title>神行者全球 CEO 文飞“剧透”：神行者 8 全地形 SUV 正进行沙漠的全地形能力测试</title>
+<link>https://www.ithome.com/0/948/863.htm</link>
+<guid>https://www.ithome.com/0/948/863.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，奇瑞路虎 FREELANDER 神行者旗下首款车型“神行者 8”目前已现身工信部，新车定位“豪华科技全地形 SUV”，<strong>预计将于今年下半年正式发布</strong>。新车官图也已发布。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b667bb74-8502-46f2-8e05-02684943dd27.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>IT之家注意到，FREELANDER 神行者全球 CEO、奇瑞捷豹路虎董事 / 常务副总裁文飞今日发文预告新车，称公告图只是神行者迈向市场的第一步，神行者 8 在豪华感、智能化等多维度都做到了市场同级的 TOP，更具备领先同级的全地形能力。</p><p>他还“剧透”了神行者旗下首款车型“神行者 8”的进度：<strong>目前，该车正在进行沙漠的全地形能力测试</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/00f2e8ee-9bf3-49a4-a9fd-266de2f834e0.jpg?x-bce-process=image/format,f_auto" /></p><p>FREELANDER 神行者 8 为 8 系豪华新旗舰车型，采用经典的方盒子造型，延续家族式经典设计 + 硬朗外观风格，主打奢阔感、旗舰气场等。新车车头配备了激光雷达，将全系标配华为乾崑智驾 ADS V4.1。</p><p>新车游艇式腰线利落流畅，采用宽体式尾门设计，并印有醒目的“FREELANDER”品牌标识，主打厚重力量感。神行者 8 车顶还配备行李架，并将搭载第三排专属天光走廊，拥有全景穹顶，主打通透效果。</p><p>神行者还与宁德时代和高通骁龙深度合作，全球首批搭载骁龙 8397 芯片，此外还搭载与宁德时代联合开发的全地形专用骁遥增 · 混电池，峰值充电功率 350kW。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3364f241-92d2-43fe-92b9-cf83df9d4903.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:56:39 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:56:39 GMT</pubDate>
+</item>
+<item>
+<title>李想详解理想 L9 Livis“完全体”线控底盘：面向 L3 辅助驾驶和 L4 自动驾驶布局</title>
+<link>https://www.ithome.com/0/948/860.htm</link>
+<guid>https://www.ithome.com/0/948/860.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，理想汽车 CEO 李想今天下午在微博发文，介绍理想 L9 Livis 的“完全体”线控底盘。他表示，过往时代的车，底盘提车即定型，基本终身无改动。全新时代的车不一样，“完全体”线控底盘<strong>支持 OTA 持续进化</strong>，提车仅仅是底盘体验的起点。</p><p>李想介绍说，该车所搭载的线控底盘，包含了<strong>线控转向、线控机械刹车、后轮转向</strong>，能够给用户带来三大核心价值：</p><ul class=" list-paddingleft-2"><li><p>更安全。电子信号传递<strong>远快于机械结构</strong>，紧急制动能缩短一个车身的刹车距离，AEB 和 AES 的有效规避时速提升到 130-140km/h。</p></li><li><p>能成长。转向手感、转向角度、刹车脚感、刹车力度、油门踏板逻辑<strong>都能自定义升级</strong>，还有适配不同人驾驶习惯的能力，后续可以做到千人千面的专属驾乘感受。</p></li><li><p>面向 L3 辅助驾驶和未来的 L4 自动驾驶布局。无论是 2027 年到 2028 能落地的 L3，还是 2028-2033 年基本落地的 L4，核心前提就是<strong>车辆控制系统反应速度要比人快 50% 以上</strong>，如果想达到这个目标，“完全体”线控底盘必须具备。</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b3a46517-ad60-4858-8cee-d96a799d5cb4.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/1243861097/QES6wu9Pr" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2712e5b8-7c31-46ea-a58c-3a8c1d3803ca.jpg?x-bce-process=image/format,f_auto" /></a></p><p>据IT之家此前报道，今天早些时候，李想发文谈到了<a href="https://www.ithome.com/0/948/806.htm" target="_blank">第一代 L9 的遗憾</a>：设计之时，受限于技术条件，所有同级别大尺寸 SUV，都只能在底盘调校上做取舍平衡，让驾驶者和乘坐者之间互相妥协。即便初代 L9 已经做到了当时技术下的最优解，但我们心里一直清楚，真正想要的是鱼与熊掌可以兼得。</p><p>他表示，理想 L9 Livis 的核心任务，就是彻底解决这个难题：驾驶者对操控的极致追求和全家人对舒适的不妥协都能兼顾。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:53:15 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:53:15 GMT</pubDate>
+</item>
+<item>
+<title>1099 元，吉利 Eva 车载机器人发售</title>
+<link>https://www.ithome.com/0/948/857.htm</link>
+<guid>https://www.ithome.com/0/948/857.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，吉利银河 life 商城日前上架了一款吉利 Eva 车载机器人，现已开启预售，<strong>定价 1099 元</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/692289d6-bac7-41db-b171-5f8ec3d8d73b.jpg?x-bce-process=image/format,f_auto" /></p><p>这款机器人采用圆角矩形设计，下方有一个安装手柄，可以安装在车机中控屏的后方，让机器人的小屏幕显示在中控屏顶部。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b8bd6b4b-2eb9-48ad-a599-36a0d8dc8431.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4cc377c1-e1e2-4dc3-bf6c-0ff2c3050e27.jpg?x-bce-process=image/format,f_auto" /></p><p>根据官方演示，这款机器人可通过屏幕展示不同的表情，<strong>支持蓝牙 BLE + WiFi 双模双频连接</strong>，与车机深度协同，可一键触发上车欢迎、语音聆听等场景，在充电、地图导航、座椅通风、开启智能驾驶模式时都有对应的动画表情，还有节日彩蛋动画。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/69cfd228-ad07-4ced-aedf-4ef60ffd48d0.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e43ce926-c042-4225-a332-23a897ae62f2.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家从商品页获悉，吉利 Eva 车载机器人适配原车预留供电与固定接口，适配车型包括<strong>吉利银河星耀 7 的 220km 四驱星耀版、230km 两驱探索 + 版</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/43806cfa-3fa5-4a17-b7f7-8bc7a7a1d9f6.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/c4565522-cde8-4bce-90f8-73562a987bb7.jpg?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:51:59 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:51:59 GMT</pubDate>
+</item>
+<item>
+<title>消息称三星显示器年内仍将在国内市场销售，本月还将推出 15 款新品</title>
+<link>https://www.ithome.com/0/948/850.htm</link>
+<guid>https://www.ithome.com/0/948/850.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，博板堂 &amp; 视讯堂旗下公众号“ChannelGate 视博合聚”发文，透露三星显示器今年内仍将在国内市场销售，中国三星显示器的唯一拥有进货权的还是国代翰林汇，主要原因是国代合作协议尚未到期。因此后续翰林汇包销的机型依然将正常销售。</p><p>目前，国代翰林汇已更新三星显示器 5 月出货价格表，同时还增添了 15 款新品，<strong>绝大部分是 27 英寸和 32 英寸的商用 SD700 和 SD800 系列机型</strong>，这也让外界猜测，国代翰林汇已经拿下销售授权，开始接手三星显示器部门退出后的相关销售工作。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/9eb07c48-d460-472f-a891-bb53424c4958.jpg?x-bce-process=image/format,f_auto" /></p><p>具体价格方面，5 月出货价格表里，有四款 OLED 机型出货价格上涨，涉及 Q360Hz 和 U240Hz 机型，上涨幅度 200 元至 350 元不等。同时 32 寸 UHD 144Hz 机型也将上调 200 元，带鱼屏 49 寸 144Hz 型号也上涨 100 元，57 寸 Mini LED 240Hz 型号涨幅更是高达 1000 元。</p><p>当然也不是所有型号价格都会上调，也有部分型号下调的型号，包括 37 寸和 40 寸曲面 756 系列，降幅在 100 元至 300 元不等，而 Mini LED 的 32 寸两款 UHD 机型也将有 20 元至 50 元的降价。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:48:58 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:48:58 GMT</pubDate>
+</item>
+<item>
+<title>华为 Mate 80 Pro Max 风驰版手机鸿蒙 6.1 将“转正”，开推 HarmonyOS 6.1.0.117 SP10 升级</title>
+<link>https://www.ithome.com/0/948/848.htm</link>
+<guid>https://www.ithome.com/0/948/848.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，华为 Mate 80 Pro Max 风驰版手机已开启 <strong>HarmonyOS 6.1.0.117 SP10 </strong>版本升级，带来了全新沉浸光感视效、星盾防诈、限时加密分享等功能。这意味着该机的鸿蒙 6.1 即将“转正”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3935bb78-3d31-4e89-9156-b5243d30a7cb.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附华为 Mate 80 Pro Max 风驰版手机鸿蒙 6.1 版本更新内容如下：</p><blockquote><h3>亮点推荐</h3><ul class="medium-size list-paddingleft-2"><li><p>新增全新沉浸光感视效，开启后将增强系统在锁屏、桌面、控制中心、通知中心界面，以及图库、音乐、视频等应用内的光感视效，同时部分界面底部将采用半透明毛玻璃质感悬浮导航栏，视觉上既带来更沉浸的内容显示，又更具通透光影效果，同时支持沉浸光感通透度与光感效果调整，带给您更精致、灵动的交互体验 (设置&gt; 桌面和个性化 &gt; 沉浸光感)</p></li></ul><h3>主题</h3><ul class="medium-size list-paddingleft-2"><li><p>互动萌宠主题全面进化，部分萌宠支持毛发颜色、性格、背景自定义，同时具有更强的互动能力，它可以是春日花园中傲娇的橘猫，也可以是秋日田野中害羞的奶牛猫，与您随时在桌面互动，给予您温暖的陪伴</p></li></ul><h3>隐私安全</h3><ul class="medium-size list-paddingleft-2"><li><p>1. 新增星盾防诈功能，可为您智能拦截通信、网页、应用等多场景诈骗风险，还能精准识别涉诈环境，对符合诈骗剧本的行为进行阻断并及时提醒 (设置&gt; 隐私和安全 &gt; 星盾防诈)</p></li><li><p>2. 加密分享新增限时查看功能，在加密分享文件、图片、视频时，可设置“查看有效时长”，秘密限时看，分享更安心</p></li><li><p>3. 加密分享新增“水印保护”功能，对加密分享的文件设置水印，可有效防止加密文件被滥用，降低泄密风险</p></li><li><p>4. 密码保险箱支持添加和管理更多类型的账号密码 (如银行卡、门禁锁等)，同时支持在桌面添加卡片，将为您在更多场景提供便捷使用体验</p></li><li><p>5. 应用锁支持同时使用人脸和指纹快速解锁加锁的应用，同时新增“机主注视显示通知内容”功能，可通过自动识别手机屏幕前是否为机主智能判断显示或隐藏加锁应用通知内容通知新增优先通知功能，优先通知会在锁屏界面、通知中心、横幅位置自动优先展示，帮助您快速获取重要信息 (设置&gt; 通知和状态栏 &gt; 优先通知)</p></li></ul><h3>相机</h3><ul class="medium-size list-paddingleft-2"><li><p>1. 新增全新五一劳动节限时水印，截至 2026 年 5 月 15 日零点拍摄照片时可添加该水印，为出游留下生动印记 (打开相机，在快门下方点击向上箭头，或在快门键附近上滑打开百宝箱&gt; 设置 &gt; 自动添加水印 &gt; 限时水印，可点击水印卡片中间的编辑图标调整背景色和文字)</p></li><li><p>2. 优化相机界面视觉显示效果，交互操作更醒目、舒适，提升交互操作体验</p></li></ul><h3>图库</h3><ul class="medium-size list-paddingleft-2"><li><p>1. 新增“艺术化视图”功能，在照片页点击左下角切换视图按钮，年视图和月视图呈现精选图片和视频，日视图艺术化呈现所有图片和视频</p></li><li><p>2. 新增长按多选功能，可在照片页或相册中通过长按多选图片或视频，滑动手指可快速勾选，批量选择更方便 (图库&gt; 设置 &gt; 宫格视图长按操作 &gt; 选择“长按多选”)</p></li><li><p>3. 图库视频支持 0.25X 至 2X 多档倍速播放，慢放精彩或快速浏览，节奏由您掌控 (视频播放界面&gt; 点击左下角视频倍速图标即可选择 0.25X 至 2X 倍速播放)</p></li><li><p>4. 新增一键隐藏相册功能，打开目标相册，点击右上角四点图标，选择“隐藏该相册”可一键隐藏整个相册，操作更便捷</p></li></ul><h3>智慧多窗</h3><ul class="medium-size list-paddingleft-2"><li><p>1. 分屏模式支持按 1:9 比例分屏，大小窗口随心切换</p></li><li><p>2. 新增悬浮窗样式可选项，可自由显隐顶部按钮 (设置&gt; 系统 &gt; 智慧多窗 &gt; 悬浮窗样式)3. 悬浮窗侧边条支持上下自由拖动，吸附位置由您定义</p></li></ul><h3>畅连</h3><ul class="medium-size list-paddingleft-2"><li><p>1. 畅连消息支持发送动态图片，动图更精彩</p></li><li><p>2. 畅连消息新增实时对讲功能，实时对讲过程中可实时共享位置，即使退至后台也可长按音量上键便捷对讲备忘录自定义文件夹支持创建子文件夹，让您的备忘录分类更清晰，整理更高效 (备忘录&gt; 长按自定义的文件夹 &gt; 新建子文件夹)</p></li></ul><h3>日历</h3><ul class="medium-size list-paddingleft-2"><li><p>1. 重要提醒支持设置全屏闹铃提醒，锁屏状态下可以收到全屏提醒并播放长铃声 (新建日程&gt; 重要提醒 &gt; 提醒方式 &gt; 全屏闹铃)</p></li><li><p>2. 在日历中点击日程可显示应用来源，日程来源一目了然</p></li><li><p>3. 重要日卡片支持设置最近重要日，到期会自动切换到下一个重要日 (在桌面长按重要日卡片&gt; 编辑 &gt; 选择日期 &gt; 最近重要日)</p></li></ul><h3>录音机</h3><ul class="medium-size list-paddingleft-2"><li><p>录音后支持录音剪辑，可灵活编辑录音片段，高效便捷</p></li></ul><h3>系统</h3><ul class="medium-size list-paddingleft-2"><li><p>1. AI 隔空传送动效全新升级，多选图片、文件，隔空抓取、投递可生成更炫酷、更精致的待分享和接收动效，让您沉浸式体验一抓一放高效分享的快乐</p></li><li><p>2. 实况窗新增横向滑动隐藏 / 唤出实况窗胶囊功能</p></li><li><p>3. 超丝滑方舟引擎全新升级，应用秒启秒开秒加载，系统更流畅，操作更丝滑</p></li><li><p>4. 超空间内存技术，在前台保持丝滑流畅的同时，大幅提升后台保活效率</p></li></ul></blockquote><p>华为目前常采用分批的方式进行升级推送，未收到更新的用户需继续等待。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/3/e625378c-4aa4-4813-8cc0-6ac6d91b083f.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><figcaption>▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏</figcaption>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:48:31 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:48:31 GMT</pubDate>
+</item>
+<item>
+<title>HDD 盘片制造商 Resonac 宣布将扩产 31% 至年产 2.1 亿片</title>
+<link>https://www.ithome.com/0/948/845.htm</link>
+<guid>https://www.ithome.com/0/948/845.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，Resonac（IT之家注：力森诺科，曾称昭和电工）是一家总部位于日本东京的功能性化学品制造商，拥有机械硬盘 (HDD) 盘片制造业务，是全球 HDD 产业链的关键一环。</p><p>该企业当地时间今日宣布将<strong>把</strong><strong>机械硬盘记录介质的生产能力从当前的每年 1.6 亿片扩展至 2.1 亿片</strong>，增产幅度约 31%；新生产线计划从 2027 年起根据市场环境逐步上线。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a0217f23-e839-4765-ae25-c74c837542a6.png?x-bce-process=image/format,f_auto" /></p><p>Resonac 的此次扩产以其新加坡分支 (RHDS) 为中心，将在这一生产基地引入新的制造设备。此前关闭的<a href="https://www.ithome.com/0/756/419.htm" target="_blank">中国台湾地区产线</a>的部分设备也将迁移至新加坡以提高投资效率。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:46:26 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:46:26 GMT</pubDate>
+</item>
+<item>
+<title>乘联会：2026 年 4 月全国乘用车零售 138.4 万辆，同比下降 21.5%</title>
+<link>https://www.ithome.com/0/948/886.htm</link>
+<guid>https://www.ithome.com/0/948/886.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，乘联会现已发布 2026 年 4 月国内车市数据，<strong>4 月全国乘用车市场零售 138.4 万辆，同比下降 21.5%</strong>，环比下降 16.0%；今年 1-4 月累计零售 560.4 万辆，同比下降 18.5%。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/79f97d75-c18d-4a1c-a94e-2bcdda28cf43.png?x-bce-process=image/format,f_auto" /></p><p>IT之家获悉，其中 4 月新能源乘用车市场零售 84.9 万辆，同比下降 6.8%，环比下降 0.3%；4 月常规燃油乘用车零售 53 万辆，同比下降 37%，环比下降 33%。具体来看，4 月新能源车在国内总体乘用车的零售渗透率 61.4%，较去年同期增长 9.7 个百分点，环比增长 9.6 个百分点。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/54cdb558-b76d-4c84-b60f-09a50b11b93d.png?x-bce-process=image/format,f_auto" /></p><p>4 月自主品牌零售 97 万辆，同比下降 16%，环比下降 5%。当月自主品牌国内零售份额为 69.6%，同比增长 4 个百分点。自主品牌在新能源市场和出口市场总体较平稳。部分头部传统车企转型升级表现优异，吉利汽车、长安汽车等传统车企品牌份额提升明显。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/67fb193d-c0bd-4829-86d9-4ef40dd574da.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6456f282-7bb1-461c-8152-5c2cde5e1d78.png?x-bce-process=image/format,f_auto" /></p><p>在 4 月国内零售中，自主品牌中的新能源车渗透率 80.1%；豪华车中的新能源车渗透率 26.1%；而主流合资品牌中的新能源车渗透率上升到 14.1%。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:42:59 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:42:59 GMT</pubDate>
+</item>
+<item>
+<title>消息称阶跃星辰即将完成 25 亿美金融资，腾讯已进入股东名单并连续跟投</title>
+<link>https://www.ithome.com/0/948/834.htm</link>
+<guid>https://www.ithome.com/0/948/834.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，今日，《科创板日报》记者获悉，老股东腾讯已跟投阶跃星辰新一轮融资。上周有消息人士对记者称，阶跃即将完成 25 亿美金（IT之家注：现汇率约合 170.18 亿元人民币）融资，并已拆除红筹架构，加速赴港 IPO 准备。据了解，早在阶跃 B 轮融资，<strong>腾讯就已进入其股东名单</strong>，并连续跟投。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3fceb446-cdf7-4a97-88a4-e91b7a1ae032.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，今年 4 月，腾讯云与阶跃签署战略合作，双方将围绕智能座舱 Agent 展开深度共创，充分发挥阶跃的大模型技术优势，以及腾讯云在云计算、智慧出行、内容及应用生态领域的优势，<strong>打造全新的智能座舱 Agent 助手：</strong></p><ul class=" list-paddingleft-2"><li><p>以语音为入口的交互中枢，免唤醒、能连续对话、可识别情绪。既能机智地住接梗，也能陪你谈天说地。</p></li><li><p>基于用户情绪、驾驶状态、环境和历史信息秒懂你的意图，精准推荐腾讯系海量内容及应用生态，如音乐、视频、地图等。</p></li><li><p>打通腾讯在支付、地图、出行服务等领域的生态接口，为你提供一站式服务。</p></li></ul>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:41:41 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:41:41 GMT</pubDate>
+</item>
+<item>
+<title>国产晶圆代工最大并购，中芯国际 406 亿元购买中芯北方剩余股权今日上会</title>
+<link>https://www.ithome.com/0/948/832.htm</link>
+<guid>https://www.ithome.com/0/948/832.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据 EETOP 报道，按照最新日程安排，上海证券交易所并购重组审核委员会于今日（ 5 月 11 日）召开 2026 年第 5 次并购重组审核委员会会议，<strong>专门审议中芯国际本次发行股份购买资产暨关联交易相关事项</strong>。</p><p>据IT之家此前报道，中芯国际于 2025 年底披露<a href="https://www.ithome.com/0/909/073.htm" target="_blank">发行股份购买资产暨关联交易报告书草案</a>，公司拟向国家集成电路基金等 5 名中芯北方股东发行股份购买其所持有的标的公司 49.00% 股权，<strong>交易价格 406.01 亿元</strong>。这是国产晶圆代工行业历史上金额最大的并购案。</p><p>中芯北方作为中芯国际的控股子公司，主要为客户提供不同工艺平台的 12 英寸集成电路晶圆代工及配套服务。本次交易完成后，中芯国际将持有中芯北方 100.00% 的股权，<strong>中芯北方将成为中芯国际的全资子公司</strong>。</p><p>业内分析指出，中芯国际通过全资拿下中芯北方、整合成熟制程晶圆产能，将进一步夯实自身国内代工龙头地位，同时提升产能规模与工艺协同能力，更好应对全球半导体行业的激烈竞争。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:37:39 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:37:39 GMT</pubDate>
+</item>
+<item>
+<title>疑似谷歌 Aluminium OS 壁纸现身，标记为“桌面平台专属”</title>
+<link>https://www.ithome.com/0/948/831.htm</link>
+<guid>https://www.ithome.com/0/948/831.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，外媒 Android Authority 挖掘出了四张疑似来自谷歌 Aluminium OS 桌面系统的壁纸，相应壁纸在 Pixel 手机上显示为“桌面专属”，强烈暗示其“专为大屏幕设备设计”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9e037abb-46ee-46ce-96e2-af20fb9ffa3a.jpg?x-bce-process=image/format,f_auto" /></p><p>具体来看，四张壁纸命名分别为 Light Spark（亮色火花）、Dark Spark（暗色火花）、Sand Currents（沙流）、Glacial Sediments（冰川沉积），其中前两张 Spark 壁纸深受 Gemini 品牌形象的影响，其闪亮多彩的火花图标部分让人联想到谷歌的 AI 标志。而后两张壁纸则采用了更具自然气息的设计。</p><p>同时，外媒认为这四张壁纸美学设计与最近泄露的 Pixel 11 Pro Fold 壁纸相似，暗示谷歌正在平衡各平台的视觉语言。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/17e19754-8053-4075-9957-88fed3415014.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 近期泄露的 Pixel 11 Pro Fold 壁纸</figcaption>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:37:02 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:37:02 GMT</pubDate>
+</item>
+<item>
+<title>上汽大众 ID. ERA 5S 汽车官图发布，搭载“行云智行”高阶智能辅助驾驶系统</title>
+<link>https://www.ithome.com/0/948/830.htm</link>
+<guid>https://www.ithome.com/0/948/830.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，上汽集团发布官方微博今日放出了上汽大众 ID. ERA 5S 汽车官图。<strong>新车将搭载“行云智行”高阶智能辅助驾驶系统与“云栖智舱”智能座舱</strong>，主打德系美学 + 高阶智能。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f58165bc-9c52-4238-9ed3-388d23044225.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/48fd9c56-46c4-4874-9811-c225b6c23499.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d874fc80-f1f8-443b-bd68-50c10c337fa9.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0acc55a2-22b2-4a29-8e6a-e4d666b447bc.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6ea1d8ab-9246-47b9-b890-c4bfbea2b709.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c1abefaa-09a5-4e95-9ba1-eb50a21ff8b0.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: left;">IT之家注意到，工信部在 5 月 9 日晚发布了第 407 批《道路机动车辆生产企业及产品公告》新产品公示，<a href="https://www.ithome.com/0/948/365.htm" target="_blank">上汽大众 ID. ERA 系列首款轿车 5S 现身</a>。该车尺寸为长 4836mm、宽 1880mm、高 1505mm，轴距为 2766mm。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/588fd36e-5638-44e0-8baf-c0c797e93064.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0c9fa68e-c394-4671-a953-406be5db9765.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>动力方面，新车将搭载 1.5T 插电混动系统，其中发动机最大净功率为 77kW，驱动电机额定功率为 57.6kW，峰值功率为 130kW。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/4be75043-2f41-404a-b596-77ac4731242c.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:36:01 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:36:01 GMT</pubDate>
+</item>
+<item>
+<title>消息称联发科天玑 8600 芯片采用 3nm 制程，架构和工艺全升级</title>
+<link>https://www.ithome.com/0/948/827.htm</link>
+<guid>https://www.ithome.com/0/948/827.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据博主 @数码闲聊站 今日爆料，天玑 8600 芯片采用 3nm 制程，架构和工艺全升级，联发科中端性能芯终于迎来了大换代。此外，他还透露，目前多家品牌都有新机在评估，<strong>预计年底前后上新</strong>，有万级巨容量电池。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b4eee6f5-a3df-4624-a6d5-d41dadb6f191.jpg?x-bce-process=image/format,f_auto" /></p><p>目前，尚不清楚这款处理器的更多规格信息。</p><p>IT之家注意到，今年 1 月发布的<strong>天玑 8500 芯片</strong>采用台积电 N4P 工艺，采用第二代全大核 CPU，性能对比上代提升 7%。CPU 架构为 1*3.4GHz Cortex-A725 + 3*3.20GHz Cortex-A725 + 4*2.20GHz Cortex-A725。</p><p>GPU 方面，天玑 8500 峰值性能较天玑 8400 提升 25%，功耗在峰值性能下降 20%，逼真光追体验率先落地轻旗舰档位，GPU 采用 Mali-G720 MC8。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:33:49 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:33:49 GMT</pubDate>
+</item>
+<item>
+<title>部分用户数月无法正常使用，微软承认 Outlook 快捷步骤功能出现故障</title>
+<link>https://www.ithome.com/0/948/825.htm</link>
+<guid>https://www.ithome.com/0/948/825.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，微软确认经典版 Outlook 出现一个新问题，部分用户在近期更新后发现快捷步骤（Quick Steps）功能莫名变为灰色、无法使用。根据微软发布的官方支持说明，该漏洞在 Microsoft 365 版 Outlook 更新至 2512 版本（内部版本 19530.20138）后出现。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/8c34b9b9-85c6-43c3-af64-e203494ca280.png?x-bce-process=image/format,f_auto" /></p><p>当快捷步骤中包含 Outlook 判定为“无法执行”的操作时，就会触发此问题。微软表示，受影响的多为涉及邮件标记或分类的指令，例如“清除邮件标记”“清除分类标签”等。举例来说，如果某条快捷步骤的设置为移动邮件并清除其分类，而所选邮件本身未设置任何分类，该快捷步骤就会失效变灰。</p><p>用户此前已在微软官方论坛、Reddit 等多个平台发帖抱怨该问题长达数月，如今微软终于正式登记并着手处理该故障。</p><p>据IT之家了解，快捷步骤是 Outlook 中非常实用的效率工具，支持用户一键自动化处理重复性邮件操作。在经典版 Outlook 中，用户可将移动邮件、转发邮件、标记已读、设置分类等多项操作整合为一个快捷指令。微软介绍，该功能旨在帮助用户更高效地管理邮箱，同时支持自定义工作流与键盘快捷键。</p><p>微软称，Outlook 团队目前已着手排查该漏洞。在官方推出永久修复补丁前，微软给出临时解决建议：为快捷步骤设置键盘快捷键。</p><p>操作方法：进入管理快捷步骤，选中对应快捷步骤并点击编辑，在「快捷键」下拉菜单中选择自定义组合键即可。</p><p>若上述方法无效，还可以选择以下替代方案：回退至 2511 版本（内部版本 19426.20218）、临时使用 Outlook 网页版（OWA），或是改用新版 Outlook 应用。</p><p>回退 Office 版本操作步骤</p><p>1. 以管理员身份打开命令提示符；</p><p>2. 将以下命令复制粘贴到命令提示符窗口，按下回车键执行：</p><p>"%programfiles%\Common Files\Microsoft <span class="link-text-start-with-http">Shared\ClickToRun\officec2rclient.exe</span>" /update user updatetoversion=16.0.19426.20218</p><p>3. 若要防止 Office 自动更新回最新版本，可依次点击：文件 &gt; Office 账户 &gt; 更新选项 &gt; 禁用更新。</p><p>建议在日历中设置 7 月 14 日提醒，届时查看该已知问题的修复进展，官方或会提前推送修复补丁。目前该漏洞尚未完成分级评估，具体修复进度暂未公布。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:32:42 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:32:42 GMT</pubDate>
+</item>
+<item>
+<title>AI 热潮中最早获巨额回报的一批人：OpenAI 员工每人最高可套现 3000 万美元</title>
+<link>https://www.ithome.com/0/948/823.htm</link>
+<guid>https://www.ithome.com/0/948/823.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据《华尔街日报》周日报道，OpenAI 去年允许员工通过二级市场交易出售股票，每人最高可套现 3000 万美元（IT之家注：现汇率约合 2.04 亿元人民币）。据此，数百名 OpenAI 现任和前员工，成为 AI 热潮中<strong>最早获得巨额财务回报的一批人</strong>。</p><p>报道称，去年 10 月，600 多名 OpenAI 现任和前员工参与二级市场交易，合计出售 66 亿美元（现汇率约合 449.29 亿元人民币）股票。这笔交易对应的 OpenAI 估值约为 4000 亿美元（现汇率约合 2.72 万亿元人民币）。</p><p>这项交易让符合条件的员工能够出售部分所持股权。约 75 名参与者卖出了最高允许额度，每人套现 3000 万美元（现汇率约合 2.04 亿元人民币）。</p><p>OpenAI 计划在 2026 年第四季度上市，IPO 可能让 OpenAI 估值最高达到 1 万亿美元（现汇率约合 6.81 万亿元人民币）。竞争对手 Anthropic 也计划最早在 10 月上市。</p><p>英国《金融时报》3 月报道称，OpenAI 预计到 2026 年底将员工规模<strong>从 4500 人扩至 8000 人</strong>，接近翻倍。</p><p>OpenAI 2015 年以非营利组织形式成立，后来设立营利性部门。现在名为 OpenAI Foundation 的非营利组织持有 26% 股份，并可在达到特定里程碑后获得更多股份。</p><p>The Information 报道称，截至 2 月底，OpenAI 年化收入已超过 250 亿美元（现汇率约合 1701.84 亿元人民币）。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:32:11 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:32:11 GMT</pubDate>
+</item>
+<item>
+<title>消息称 AI 浪潮致互联网档案馆 / 维基百科维护成本暴涨：存储硬件涨价、爬虫持续消耗平台流量</title>
+<link>https://www.ithome.com/0/948/819.htm</link>
+<guid>https://www.ithome.com/0/948/819.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据外媒 404 Media 报道，由于 AI 浪潮带来了存储硬件涨价潮，目前互联网档案馆（网络时光机）和维基百科的维护成本正大幅上涨。</p><p>以互联网档案馆为例，目前其拥有 210PB 档案，每天平台平均新增 100TB 数据，创始人布鲁斯特 · 卡勒透露，<strong>如今服务器所需的 28-30TB 硬盘要么缺货，要么价格虚高</strong>，目前平台正通过捐助者以“变通方法”尝试解决问题。</p><p>维基百科基金会则是向 404 Media 透露，如今维持平台所需的内存和硬盘供应已相当紧张，目前平台拥有超过 6500 万篇文章，业界涨价潮令基金会必须极度谨慎考虑资源分配。</p><p>除硬件成本上升外，互联网档案馆和维基百科正不断遭受 AI 爬虫消耗流量，许多 AI 公司无休止地从互联网获取内容，还在无形中把更高的运营成本转嫁给了网站所有者，进一步让各大网站维护成本飞涨。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:26:55 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:26:55 GMT</pubDate>
+</item>
+<item>
+<title>Linux 7.1-rc3 发布：AI 驱动内核开发补丁量激增成新常态</title>
+<link>https://www.ithome.com/0/948/818.htm</link>
+<guid>https://www.ithome.com/0/948/818.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，Linus Torvalds 刚刚发布了 Linux 7.1-rc3 版本。他表示，代码补丁规模异常偏大，大概率是开发中使用 AI 工具所致，这并非偶然现象，实际上已成为 Linux 内核开发的新常态。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/a8443851-3e82-480c-b1f9-8bd92d43885c.png?x-bce-process=image/format,f_auto" /></p><p>本版本周期内，网络相关补丁占比最高，达到所有更新与修复内容的三分之一。同时版本包含大量安全与稳定性补丁，修复了蓝牙和显卡驱动中的释放后重用漏洞；新增对苹果 Mac 电脑 USB-C 网络功能、高端 AlphaTheta / 先锋 DJ 专业设备的适配支持。</p><p>Torvalds 在近期版本发布中提到，内核补丁提交数量持续增多，他起初怀疑只是短期波动，如今则认定这已成为常态。目前早已过主版本迭代节点，而当前版本体量仍远超同期预期，由此可以判断：大规模代码变更将成为后续内核开发的常态模式。</p><p>以往在版本开发的这个阶段，开发人员通常只会整合已完成新增的功能特性；而借助 AI 开发工具后，开发效率大幅提升，每周能提交更多代码补丁。</p><p>IT之家注意到，本次版本中，33% 的补丁集中在网络核心与驱动模块。此外还优化了苹果 Mac 的 USB-C 网络适配，并为阿尔法西塔（先锋 DJ）EUPHONIA 系列专业音频设备提供专属音频处理支持。本周发布的版本还针对国产龙芯 LoongArch 架构投入大量开发工作，重点优化 KVM 虚拟化与中断处理机制。</p><p>本次版本的一大亮点是内存安全补丁数量大幅增加，同时内核中 Rust 语言的应用占比进一步提升。Rust 语言原生具备内存安全特性，随着更多内核组件改用 Rust 编写，现阶段大量高频出现的内存安全漏洞修复工作将会逐步减少。</p><p>希望本轮偏大的补丁体量不会造成版本发布延期，确保正式版能按时面向公众推送，让用户更快获得新硬件的适配支持。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:26:34 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:26:34 GMT</pubDate>
+</item>
+<item>
+<title>联想拯救者游戏手机 Y70 新一代开启预约：骁龙 8 Gen 5、京东方 2K 屏、8000mAh 电池</title>
+<link>https://www.ithome.com/0/948/817.htm</link>
+<guid>https://www.ithome.com/0/948/817.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，联想拯救者官方今日宣布，拯救者游戏手机 Y70 新一代开启预约，这款手机将于 5 月 19 日正式发布。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/18ac94eb-6701-432a-84c8-1f5acdf101b1.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HrK8Aoj" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/430980/4/11240/63404/6a00a48aFe61b6806/00833203208dc12a.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name"> 1 元权益包 / 会员 0.01 元 锁定拯救者 Y70 新一代</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 1 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p>IT之家从商品页面获悉，这款新机搭载<strong>高通第五代骁龙 8 处理器</strong>（8 Gen 5），使用凝胶 + 液金 + VC 组合三重散热；采用京东方 Q10 发光材料 2K <strong> </strong>猎速电竞屏，峰值亮度 7000nits；搭载 8000mAh 星环电池，支持旁路充电。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/f333a172-fbda-4a1f-9cb8-3a5f03871d5a.jpg?x-bce-process=image/format,f_auto" /></p><p>这款手机采用拯救者家族设计语言，搭载<strong>细润晶砂玻璃背板</strong>与<strong>航空级铝合金金属边框</strong>；采用电竞握持工学，不卡手模组设计。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/8f4b098f-8885-4a68-8410-2808ed06cca4.png?x-bce-process=image/format,f_auto" /></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:25:56 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:25:56 GMT</pubDate>
+</item>
+<item>
+<title>奇瑞回应“进军日本市场”：仅为 EMT 项目股东、并不参与经营管理</title>
+<link>https://www.ithome.com/0/948/816.htm</link>
+<guid>https://www.ithome.com/0/948/816.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据《日本经济新闻》今天报道，<strong>奇瑞汽车与日本汽车用品巨头澳德巴克斯（AUTOBACS SEVEN）等成立合资公司</strong>，将在日本销售中国生产的纯电动汽车，预计 2027 年起投放产品。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/72caaf4c-535a-41ba-b835-e90e8a79893a.jpg?x-bce-process=image/format,f_auto" /></p><p>此外，江苏悦达汽车集团、电池公司国轩高科、日本涂装设备公司阿耐思特岩田也将参与合作，多方共同在新加坡成立了合资公司。</p><p>报道称合资公司将通过旗下的开发销售公司 EMT（IT之家注：位于日本横滨）推出自己的电车品牌，作为源自日本的品牌进行销售。EMT 还有本田、马自达等车企出身的技术人员加入，面向日本开发车辆。</p><p>据第一财经报道，奇瑞方面针对“进军日本市场”做出回应：公司只是作为多个股东方之一投资了 EMT 项目，<strong>并不参与经营管理</strong>。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:24:16 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:24:16 GMT</pubDate>
+</item>
+<item>
+<title>“广东地震局短信”上热搜，官方回应系科普公益短信</title>
+<link>https://www.ithome.com/0/948/815.htm</link>
+<guid>https://www.ithome.com/0/948/815.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，今天早上，有不少广东网友在社交平台上晒出截图称收到广东省地震局的提醒短信，相关话题 #广东地震局短信# 也登上了微博热搜。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4225c8e9-94df-4858-9339-7ee1d7c77165.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附短信内容如下：</p><blockquote><p>【广东省地震局】温馨提示您：地震预警可在破坏性地震来临前，提前提醒广大群众采取紧急避险措施，科学应对震情，守护生命安全！</p></blockquote><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/242de61f-8309-494d-8c2c-50138182db75.jpg?x-bce-process=image/format,f_auto" /></p><p>然而，该短信系地震局在全国防灾减灾周的公益宣传之举，并非地震预警。</p><p>据广东省地震局今日公布信息，2026 年 5 月 12 日是第 18 个全国防灾减灾日。为让全省公众能及时接收地震预警信息，增强公众防灾减灾意识，广东省地震局将于 2026 年 5 月 11 日-17 日（全国<span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit"><span class="need_reinit">防灾减灾宣传</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>周）在全省范围内推送地<strong>震预警科学普及公益短信</strong>，提醒大家关注“南粤地震预警”微信小程序。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/50c9ead1-7552-4a71-9da4-d21c8655c808.jpg?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:23:07 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:23:07 GMT</pubDate>
+</item>
+<item>
+<title>三星 AI 冰箱在美迎来重大升级：接入谷歌 Gemini 模型，提升食材识别与交互体验</title>
+<link>https://www.ithome.com/0/948/811.htm</link>
+<guid>https://www.ithome.com/0/948/811.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，三星已在美国为 Bespoke AI Family Hub 冰箱系列推送了全新软件更新。本次为重大版本更新，新增谷歌 Gemini 大模型，依托 AI 视觉技术升级食材识别能力；同时带来功能更强的三星智能助手 Bixby，以及可提供个性化资讯推送的即时简报小组件。该更新已于数月前在韩国率先上线。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e7b97c85-3adf-4027-9cf9-358d9177ae97.png?x-bce-process=image/format,f_auto" /></p><p>三星宣布，即日起向美国市场配备 32 英寸显示屏的指定款 Bespoke AI Family Hub 冰箱，推送全新在线远程（OTN）软件更新。9 英寸显示屏机型的更新将于今年内分批次陆续推出。</p><p>本次更新接入谷歌 Gemini 模型，可识别更多品类食材，涵盖生鲜食材与包装食品，识别精准度大幅提升。在此之前，这款冰箱已支持识别 40 种预设食材品类。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/cb9a2317-b5a7-4a53-b4b7-8d4771a2a163.jpg?x-bce-process=image/format,f_auto" /></p><p>冰箱还能自主学习用户的食材消耗习惯，当某类食材需要补货时，会主动发出提醒。</p><p>升级后的 Bixby 助手，能够更精准地理解自然语言指令与日常对话。例如对它说：“Bixby，帮我制作饮品用的球形冰块”，冰箱便会自动开启球形制冰模式；若说：“Bixby，室外气温升高时把冰箱调凉一点”，助手会询问设定的触发温度，用户确认后，一旦室外温度达到该数值，冰箱就会自动调节温控设置。</p><p>借助即时简报功能，Bespoke AI Family Hub 冰箱可展示贴合用户需求的专属小组件：</p><ul class=" list-paddingleft-2"><li><p>可推送三星美食平台的热门菜谱；</p></li><li><p>食材备忘录小组件会展示用户近一周常用食材，以及适配这些食材的相关菜谱；</p></li><li><p>今日吃什么小组件可随机推荐菜谱，也能根据冰箱内现有食材智能匹配菜谱。</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/2f9f880b-8db0-4e3f-ac0c-52896f9bd062.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家了解，家庭每位成员均可通过声纹身份识别获得专属个性化内容推荐。该功能可通过声纹区分家庭成员，提供以下个性化服务：</p><ul class=" list-paddingleft-2"><li><p>纪念日与生日提醒</p></li><li><p>三星健康的每日动态更新</p></li><li><p>趣味表情符号</p></li><li><p>个性化兴趣资讯</p></li><li><p>三星健康睡眠作息报告</p></li><li><p>日历待办事项提醒</p></li></ul><p>三星数字家电事业部研发团队负责人、副总裁 Jeong Seung Moon 表示：“家电产品的价值不应定格在购买那一刻，而应随着周边科技发展持续进化。通过本次家庭中枢冰箱更新，三星打造出更智能的厨房体验，实现更广品类食材识别、自然对话交互，并适配每个家庭的生活作息习惯。”</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:17:24 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:17:24 GMT</pubDate>
+</item>
+<item>
+<title>任天堂 NGC 游戏《塞尔达传说：黄昏公主》非官方 PC 移植现身，支持解锁帧率</title>
+<link>https://www.ithome.com/0/948/809.htm</link>
+<guid>https://www.ithome.com/0/948/809.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据科技媒体 TweakTown 今天报道，任天堂 NGC / Wii 时代经典游戏《塞尔达传说：黄昏公主》如今有了非官方 PC 移植版，支持解锁帧率等增强功能。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/05da3df5-e909-41e1-88d9-590d6d89fea4.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，该项目名为“Dusk”，<strong>支持 Windows、macOS、Linux、Android 和 iOS 等平台</strong>，甚至针对 Steam Deck 进行优化。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/49b1f96d-40e2-4c1d-9037-0ddc3efd5965.png?x-bce-process=image/format,f_auto" /></p><p>项目团队表示，他们利用现代开发技术，<strong>确保游戏突破 30 帧后</strong>，<strong>依然不会出现逻辑错误</strong>、<strong>物理系统崩坏等问题</strong>。同时该移植版游戏还提供 4K 分辨率、成就系统、难度调节等功能，纹理也经过优化，可在高分辨率下提供更多细节。</p><p>不过，玩家仍然需要 NTSC 或 PAL（欧版）版《黄昏公主》NGC 光碟备份文件才能运行 Dusk，无法直接游玩。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:17:10 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:17:10 GMT</pubDate>
+</item>
+<item>
+<title>李想谈第一代理想 L9 遗憾：最主要是底盘、芯片、电芯，但真正想要的是鱼与熊掌可以兼得</title>
+<link>https://www.ithome.com/0/948/806.htm</link>
+<guid>https://www.ithome.com/0/948/806.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，理想汽车 CEO 李想今日发文，谈及了第一代理想 L9 有什么遗憾。他表示，最主要有三个：底盘、芯片、电芯。</p><p>李想称，初代 L9 设计之时，受限于技术条件，所有同级别大尺寸 SUV，<strong>都只能在底盘调校上做取舍平衡</strong>，让驾驶者和乘坐者之间互相妥协。即便初代 L9 已经做到了当时技术下的最优解，但我们心里一直清楚，真正想要的是鱼与熊掌可以兼得。</p><p>他表示，理想 L9 Livis 的核心任务，就是彻底解决这个难题：驾驶者对操控的极致追求和全家人对舒适的不妥协都能兼顾。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/5850c099-3893-4d33-8ed7-e81f589af545.jpg?x-bce-process=image/format,f_auto" /></p><p>李想还晒出了全新理想 L9 Livis 的绕桩表现视频，称在这台车重近三吨的全尺寸 SUV 上，真正做到了“不妥协”。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5297371853291524?mid=5297381068508416" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/993f76a7-9b90-466b-a5e2-c26814aadb9d.jpg?x-bce-process=image/format,f_auto" /></a></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5297372033646633?mid=5297381068508416" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7a1166a6-4d4a-46c1-8e0c-866091f369b2.jpg?x-bce-process=image/format,f_auto" /></a></p><p>据IT之家了解，全新一代理想 L9 Livis 定位全尺寸旗舰六座 SUV，预售价为 55.98 万元，将于 5 月 15 日正式上市并同步开启交付。IT之家届时将为大家带来详细报道。车身尺寸方面，其长宽高分别为 5255 毫米、2000 毫米与 1810 毫米，轴距为 3125 毫米。</p><p>动力方面，新车搭载了全新的 5C 增程系统，配备容量为 72.7 千瓦时的 5C 增程电池以及新一代 1.5T 增程器，CLTC 纯电续航里程为 420 公里，综合续航里程达 1650 公里；WLTC 工况下百公里油耗降至 6.3 升，相比现款降低约 20%。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b79d1b4c-c6e1-40d9-9985-b828ec466336.jpg?x-bce-process=image/format,f_auto" /></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:15:55 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:15:55 GMT</pubDate>
+</item>
+<item>
+<title>消息称京东方正在生产以 24.5" 为主的 2K OLED 显示器面板</title>
+<link>https://www.ithome.com/0/948/803.htm</link>
+<guid>https://www.ithome.com/0/948/803.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，韩国显示研调机构 UBI Research 在 4 月 30 日透露，<strong>京东方正在其（合肥）B5 工厂生产 2K (QHD) 级 WOLED 显示面板</strong>，尺寸上以 24.5 英寸为主；该企业还计划在南京 B18 工厂新增每月 1.6~1.8 万片的 WOLED 显示器面板产能。</p><p>IT之家注意到，京东方高管在去年 9 月的 2025 年半年度业绩网上说明会上曾表示会在同年 11 月发布一款 24.5 英寸白光 OLED 电竞产品；此前也有消息传出三星显示考虑加速 24.5" OLED 面板上市。但目前这两款面板均无进一步的官方消息。</p><p>京东方的加入有望进一步丰富 OLED 显示器的面板选择，扩大潜在市场。<strong>当前主流电竞 OLED 桌面显示器的最低尺寸为 26.5 (27) 英寸</strong>，新面板的出现有利于桌面较小或是预算有限的潜在用户。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f7d33aea-9131-493d-b9c7-55cce09c163a.jpg?x-bce-process=image/format,f_auto" /></p><p>UBI Research 在同一文章中提到，2026 年 OLED 显示器出货预计将达到 500 万台，同比增长 56.25%；而到 2030 年这一数据有望达到 1560 万台，CAGR（复合年均增长率）达 37.28%。</p><p><span class="referenceTitle">参考</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://en.ubiresearchnet.com/oled-gaming-monitor-market-growth-2026/" target="_blank">OLED Gaming Monitor Market Set to Enter Full-Scale Growth Phase from 2026</a></p></li></ul>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:15:13 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:15:13 GMT</pubDate>
+</item>
+<item>
+<title>安伯尼克 Anbernic 掌机 RG Rotate 国内发售：3.5 英寸 720×720 旋屏，569 元起</title>
+<link>https://www.ithome.com/0/948/797.htm</link>
+<guid>https://www.ithome.com/0/948/797.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，安伯尼克 Anbernic 旗下新款旋转屏掌机 RG Rotate 国行现已在京东上架并发售，定价为 699 元起，首发价 569 元起。</p><ul class="medium-size list-paddingleft-2"><li><p>极夜黑（铝合金 + ABS 材质）：699 元，首发价 569 元</p></li><li><p>激光银（全铝合金材质）：原价 849 元，首发价 699 元</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1c263ac4-c3a2-484f-9988-d98becc00527.png?x-bce-process=image/format,f_auto" /></p><p>该机配备一块 3.5 英寸 720x720 分辨率方形 IPS LCD 触摸屏，配备合金转轴可随心旋转。机身配有可替换高肩键和挂绳孔。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ec0b8414-08e2-4188-a5ba-972c20b4f291.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/044d0567-4afe-45d3-bc85-25f4bb384cf2.png?x-bce-process=image/format,f_auto" /></p><p>规格方面，该机搭载紫光展锐 T618 处理器，配备 3GB RAM 内存和 32GB 存储空间，内置 2000mAh 电池，支持 Wi-Fi 5 和蓝牙 5.0，运行安卓 12 系统。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/c9d1cba9-4a1a-4acb-9ebc-a0c376fd7d65.png?x-bce-process=image/format,f_auto" /></p><p>IT之家附产品参数：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/a6b74ab3-575f-4f17-8131-90ee972dbe6c.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HGK0Ekh" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/431995/31/8446/50769/6a014598Fa99aa53c/00833203201408b5.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">安伯尼克 Anbernic 掌机 RG Rotate</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 券后 569 元起</span><span class="card-btn-deep">领 130 元券</span></span></span></span></a></dir>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:12:14 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:12:14 GMT</pubDate>
+</item>
+<item>
+<title>中汽协：4 月汽车销量 252.6 万辆同比下降 2.5%，新能源占比超五成</title>
+<link>https://www.ithome.com/0/948/783.htm</link>
+<guid>https://www.ithome.com/0/948/783.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，今日，中国汽车工业协会公布<span class="js_title_inner"> 2026 年 4 月我国汽车工业产销情况，IT之家整理部分内容如下：</span></p><p>4 月，<strong>汽车产销分别完成 257.5 万辆和 252.6 万辆</strong>，环比分别下降 11.7% 和 12.9%，同比分别下降 1.7% 和 2.5%。1-4 月，汽车产销分别完成 961.4 万辆和 957.4 万辆，同比分别下降 5.5% 和 4.8%。</p><p>4 月，汽车国内销量完成 162.5 万辆，环比下降 19.7%，同比下降 21.6%。其中，传统燃料汽车国内销量 71 万辆，环比下降 37.8%，同比下降 32.2%。1-4 月，汽车国内销量 644.7 万辆，同比下降 20.6%。其中，传统燃料汽车国内销量 352.7 万辆，同比下降 21%。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/1/5b9c9dc2-9776-41eb-acf8-b4854a612781.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto" /></p><p>4 月，汽车出口 90.1 万辆，环比增长 3%，<strong>同比增长 74.4%</strong>。1-4 月，汽车出口 312.7 万辆，同比增长 61.5%。</p><p>4 月，新能源汽车产销分别完成 132 万辆和 134.4 万辆，同比分别增长 5.5% 和 9.7%。<strong>新能源汽车新车销量达到汽车新车总销量的 53.2%</strong>。1-4 月，新能源汽车产销分别完成 428.5 万辆和 430.4 万辆，产量同比下降 3.2%，销量同比增长 0.1%，新能源汽车新车销量达到汽车新车总销量的 45%。</p><p>4 月，新能源汽车国内销量 91.4 万辆，环比增长 3.7%，同比下降 10.8%。1-4 月，新能源汽车国内销量 292 万辆，同比下降 20.2%。</p><p>4 月，新能源汽车出口 43 万辆，环比增长 16%，同比增长 1.1 倍。1-4 月，新能源汽车出口 138.4 万辆，同比增长 1.2 倍。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:06:19 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:06:19 GMT</pubDate>
+</item>
+<item>
+<title>沃尔沃首席商务官塞维林森痛批汽车基础功能付费订阅制：对客户不该斤斤计较</title>
+<link>https://www.ithome.com/0/948/782.htm</link>
+<guid>https://www.ithome.com/0/948/782.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，当地时间 10 日，外媒 motor1 发布了采访沃尔沃首席商务官埃里克 · 塞维林森的内容。塞维林森在谈到“如何看待订阅功能”及“客户是否已准备好为座椅加热功能付费”时直言，如果卖的是高端产品，<strong>就不该在基础功能上和客户斤斤计较</strong>。</p><p style="text-align: center;"><img id="1778483052466_1" src="https://img.ithome.com/newsuploadfiles/2026/5/88e56221-219e-4a80-823f-8bd83ec6a2cc.png?x-bce-process=image/format,f_auto" /></p><p>塞维林森表示，消费者已经花了约 8 万美元（IT之家注：现汇率约合 54.5 万元人民币）买车，<strong>就不应该</strong>再为了座椅加热这类基础配置每月多付 5 美元（现汇率约合 34 元人民币），尤其是很多便宜得多的车型本来就标配这些功能，<strong>这条路走不通</strong>。</p><p>而他同时也认为，订阅模式并非完全没有意义。更完整的软件服务可以采用付费模式，像<strong>车联网功能包、高级驾驶辅助套件</strong>等可以做成订阅包，或者是几类服务打包销售。类似 Netflix 或 Disney+，订阅的价值应该来自<strong>额外且有吸引力的内容</strong>。关键仍然在于，让客户觉得自己买到的是<strong>高端、省心、没有额外麻烦</strong>的体验。只有这种体验才能真正创造价值，并最终转化为利润。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/938/043.htm" target="_blank">无视用户反对，美国车企正逐渐将订阅制功能视为核心收入来源</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 07:06:02 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 07:06:02 GMT</pubDate>
+</item>
+<item>
+<title>消息称苹果 Vision Products Group 事业部去年已被解散，官网岗位纳新只为 AR 眼镜和 visionOS</title>
+<link>https://www.ithome.com/0/948/773.htm</link>
+<guid>https://www.ithome.com/0/948/773.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，古尔曼在 X 平台发文，重申苹果早在 2025 年就已经解散了 Vision Products Group 事业部，虽然官方仍在以 Vision Products Group 的名义进行招聘，但新的岗位主要是为了开发 Apple Glass 智能眼镜并优化 visionOS 系统。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a97476eb-53d4-4cd7-85ce-00e758ca9514.jpg?x-bce-process=image/format,f_auto" /></p><p>目前，Vision Products Group 已实质性被拆分为软件工程和硬件工程两个部门，其中硬件团队主要负责 Apple Glass 智能眼镜项目，而软件团队部分负责全新 Siri 项目、部分负责开发维护 visionOS。</p><p>参考IT之家先前报道，Vision Pro 自发布以来热度不足，总销量约 60 万台，同时该产品退货比例异常偏高，超过近年其他苹果硬件产品。M5 版本未能改善需求，令后续产品路线承压。</p><p>IT之家注：苹果公司于 2025 年 10 月升级 Vision Pro 头显，芯片方面升级到 M5 芯片，并加入更舒适的 Dual Knit Band，但外观与核心硬件没有其他变化。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:59:56 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:59:56 GMT</pubDate>
+</item>
+<item>
+<title>vivo X500 Pro Max 现身 GSMA 数据库，预计面向全球发售</title>
+<link>https://www.ithome.com/0/948/768.htm</link>
+<guid>https://www.ithome.com/0/948/768.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据科技媒体 SmartPrix 今天报道，vivo 旗下三款新机 X500、X500e、X500 Pro 近日现身 GSMA IMEI 数据库。而今天 GSMA 更新显示，X500 Pro Max 也出现在数据库中。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/d20f1704-a650-4176-8d74-6b42299c4776.png?x-bce-process=image/format,f_auto" /></p><p>IT之家在此援引 SmartPrix，X500 Pro Max 将是 vivo X500 系列中定位最高、配置最强的旗舰机型。<strong>其“Pro Max”之名暗示 vivo 将在影像系统、性能等方面进一步突破极限</strong>。</p><p>从数据库来看，这款手机预计将面向全球市场发售。不过考虑到智能手机行业变化极快，目前我们还无法确认全球发布计划是否板上钉钉。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b4501173-b0dc-49b5-99f9-3a3441cec865.jpg?x-bce-process=image/format,f_auto" /></p><p><a href="https://www.ithome.com/0/929/030.htm" target="_blank">据微博博主 @智慧皮卡丘 此前爆料</a>，某厂新机将首发天玑 9600 芯片，标准版为 9600、Pro/ Pro Max 机型对应 9600 Pro，预计为 vivo X500 系列。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:54:36 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:54:36 GMT</pubDate>
+</item>
+<item>
+<title>实体游戏式微：今年第一季度 85% 的 PS5 和 PS4 游戏通过数字方式购买</title>
+<link>https://www.ithome.com/0/948/766.htm</link>
+<guid>https://www.ithome.com/0/948/766.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，在索尼最近一个财季（截至 3 月 31 日的三个月周期）中，高达 85% 的 PS5 和 PS4 游戏是通过数字方式购买的。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/68c4bc89-0ad9-4384-8756-c4b2dbc2dbae.jpg?x-bce-process=image/format,f_auto" /></p><p>整个财年的数字游戏购买占比平均达到 78%，同比提升 2%，创下索尼 PlayStation 品牌历史新高。</p><p>十年前，数字版销量占比仅为 19%；2020 年受疫情影响，数字版占比大幅飙升至 65%，迎来最大涨幅，此后便一直稳步攀升。</p><p>IT之家注意到，这一数据出炉的背景，是近期 PlayStation 商店爆发的数字版权管理（DRM）风波，曾引发玩家对数字版游戏所有权的担忧。事实是，索尼只是上线了一项新的账号核验功能，旨在杜绝玩家利用退款漏洞进行作弊，用户实际游玩体验并未发生实质性改变，数字版游戏依旧可以离线游玩。</p><p>值得一提的是，尽管上一财年实体游戏仅占 PS5、PS4 游戏销量的 22%，但折算下来实体盒装游戏销量仍有约 7000 万份，体量依旧不容小觑。</p><p>考虑到实体游戏仍具备庞大的潜在市场，且 PlayStation 拥有全球海量用户，部分玩家无法接入高速网络，因此 PS6 大概率仍会保留实体光盘介质版本。</p><p>不过目前来看，光盘驱动器大概率不会作为 PS6 标配，尤其是内存及其他硬件元器件成本持续上涨，索尼很可能会在硬件配置上尽可能控制成本。</p><p>实体游戏并不会彻底消亡，只会逐渐变成更具收藏格调的小众选择，有点类似黑胶唱片如今的定位。如果游戏厂商能回归初心，为实体典藏版附赠艺术设定集及周边衍生品，让愿意额外付费的玩家享受到高品质的盒装收藏体验，其实会是一件很棒的事。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:54:25 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:54:25 GMT</pubDate>
+</item>
+<item>
+<title>Cloudflare CEO 普林斯自曝不喜欢当前公司名称，但仍好过最初的想法</title>
+<link>https://www.ithome.com/0/948/762.htm</link>
+<guid>https://www.ithome.com/0/948/762.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，Cloudflare CEO 马修 · 普林斯并不喜欢 Cloudflare 这个公司名。一名 X 用户称，Cloudflare 这个名字“不好”，也“不够有愿景感”。</p><p>普林斯随后表示认同：“我还会补充几点：名字太长；英语母语者<strong>很难把 Cluh 和 Fluh 连在一起发出来</strong>，所以经常会念成<strong> Cloudfare</strong>；flare 和 flair 的拼法也容易混。”</p><p>不过，普林斯表示，Cloudflare 至少比他最初想的名字好。<strong>他曾考虑过“Project Web Wall”</strong>，并开玩笑说，这个名字对已故电视新闻人芭芭拉 · 沃尔特斯来说会是“噩梦”，因为她有明显的发音障碍。</p><p>Cloudflare 是支撑互联网后台运行的重要公司之一。公司帮助网站和应用提升加载速度、分配流量，并防御 DDoS 攻击、机器人流量等网络威胁。Cloudflare 表示，其工具可以保护网站、应用、API 和 AI 工作负载，同时通过内容分发网络提升性能。</p><p>如果 Cloudflare 出现故障，互联网大范围服务往往也会一起受影响。去年，Cloudflare 一次大规模宕机就<strong>曾波及 ChatGPT、X 和其他主要网站</strong>。</p><p>普林斯这番自嘲发生在 Cloudflare 经历动荡一周之后。据IT之家了解，当地时间 7 日，Cloudflare <strong>裁掉超过 1100 名员工，约占员工总数 20%</strong>。</p><p>据《商业内幕》今日报道，Cloudflare 高管在裁员备忘录中表示，公司 AI 使用量“仅过去三个月就增长超过 600%”。为了更快行动、向客户提供更多价值，Cloudflare 需要重新思考组织结构。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:52:09 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:52:09 GMT</pubDate>
+</item>
+<item>
+<title>努比亚推出 GT Buds 耳机：支持 35dB 降噪、充电盒半透明设计带 RGB 灯，269 元</title>
+<link>https://www.ithome.com/0/948/760.htm</link>
+<guid>https://www.ithome.com/0/948/760.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，努比亚现已在京东上架 GT Buds 耳机，该耳机主打“未来主义”设计，搭载蓝牙 6.0 技术，<strong>定价为 269 元，将于明天开启首销</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/27b6f13c-1a30-4de8-96a2-f5c8375369e9.jpg?x-bce-process=image/format,f_auto" /></p><p>该耳机整体使用透明 + RGB 设计，耳机盒采用半透明设计，可以看到电路纹路，同时带有 RGB 灯效。耳机本体可长按 2 秒开启语音助手。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e78e98f5-18a2-41fa-92f0-c2f19a46bc88.jpg?x-bce-process=image/format,f_auto" /></p><p>该耳机支持 35dB 主动降噪，搭载蓝牙 6.0 技术，游戏延迟低至 70ms。耳机单耳续航 6 小时，在搭配充电盒的情况下至高提供 40 小时续航。</p><p>IT之家附耳机参数如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9a3fbcd0-3a1a-4e3d-be3d-1aa0d120b87a.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HOM9JT7" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/428192/2/2387/83984/69f07e18F5201894e/0083320320558271.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">努比亚 GT Buds 耳机</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 269 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:51:40 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:51:40 GMT</pubDate>
+</item>
+<item>
+<title>Switch 2 涨价叠加“大作荒”担忧，任天堂股价单日大跌 7%</title>
+<link>https://www.ithome.com/0/948/750.htm</link>
+<guid>https://www.ithome.com/0/948/750.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据路透社报道，任天堂于当地时间周一在东京股市股价下跌 7%，原因是公司上调了 Switch 2 售价，同时市场担忧缺少重磅大作来拉动产品热度。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/588baa0e-a274-4cb8-bb7f-2a6afe592f00.jpg?x-bce-process=image/format,f_webp/quality,q_75" /></p><p>在截至 3 月的财年中，任天堂硬件销量表现强劲；尽管该公司向来以保守的业绩预期著称，但其本年度展望仍令市场大失所望。</p><p>这家总部位于京都的企业依靠《塞尔达传说》等系列游戏，延长了初代 Switch 的产品生命周期。虽然任天堂也推出了《宝可梦 Pokopia》等爆款作品，但外界认为其目前缺乏具备爆款潜力的 3A 大作储备。</p><p>晨星（Morningstar）分析师伊藤和典在研报中写道：“游戏出货量预期同比下滑，这一迹象恐怕表明任天堂对自身游戏新作储备缺乏信心。”</p><p>他同时表示：“不过，主机产品周期的第二年通常会迎来用户活跃度的攀升，我们认为市场当前的看法过于悲观。”</p><p>任天堂还宣布将上调 Switch 2 售价，日版机型自 5 月 25 日起涨价 10000 日元（IT之家注：现汇率约合 433.8 元人民币），售价调整至 59980 日元（现汇率约合 2602 元人民币）；美国等市场则从 9 月 1 日起执行新售价。</p><p>任天堂的用户群体中有大量休闲玩家，这类人群对涨价尤为敏感。此次调价恰逢各大电子厂商正面临存储芯片价格暴涨的压力。</p><p>杰富瑞分析师阿图尔・戈亚尔在研报中指出：“主机周期的第二年至关重要，我们持非市场主流观点，认为任天堂今年将推出一款马里奥系列 3A 大作。”</p><p>他表示：“任天堂刻意调低了业绩预期基准 —— 过去四个财年，其实际营业利润均超出初始预期。”</p><p>与业务更多元化的同行索尼不同，即便任天堂旗下游戏角色与 IP 在影视、主题公园领域大受欢迎，公司营收仍高度依赖核心游戏业务。</p><p>不对称咨询公司分析师阿米尔・安瓦尔扎德在研报中称，由于 PlayStation 5 上市周期更长，“索尼在将存储芯片涨价成本转嫁至消费者方面拥有更大优势”。</p><p>索尼周一东京股市股价上涨 10%。公司预计游戏业务销量将下滑，但利润有望提升。索尼还宣布，计划与台积电在日本成立新合资企业，共同研发并生产图像传感器，以此控制成本。</p><p>伯恩斯坦分析师戴大卫在研报中表示：“此次业绩表现至少印证了一个观点：索尼可以通过缩减 PS5 出货量，保障集团整体利润水平。”</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:47:55 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:47:55 GMT</pubDate>
+</item>
+<item>
+<title>泰坦军团推出“KG277R PLUS”27 英寸显示器：2K 245Hz 超频，943 元</title>
+<link>https://www.ithome.com/0/948/747.htm</link>
+<guid>https://www.ithome.com/0/948/747.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，泰坦军团现已在京东上架一款型号为“KG277R PLUS”的 27 英寸显示器，该机主打 2K 245Hz，<strong>定价为 943 元</strong>，部分地区国补后低至 849 元。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8b4d7cfa-5f9b-483d-9e96-989d4400e887.png?x-bce-process=image/format,f_auto" /></p><p>该机配备一块 2560x1440 分辨率 245Hz 超频（原生 200Hz）Fast IPS 面板，显示器亮度 500 尼特，GtG 响应速度 1ms，静态对比度 1000:1，支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% sRGB 色域。</p><p>该机支架支持升降 / 倾斜 / 俯仰，显示器本体支持 VESA 壁挂，提供 2 个 HDMI 2.0、2 个 DP 1.4、1 个 3.5mm 音频接口。</p><p>IT之家附显示器参数：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b22c7534-c36f-441b-be26-3aa5824cdb30.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HgMkbTs" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/422450/35/20007/100968/69f0497bF8e999633/0083320320462df4.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">泰坦军团“KG277R PLUS”显示器</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 943 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:45:06 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:45:06 GMT</pubDate>
+</item>
+<item>
+<title>世界首创 + 中国智造：首套“三元混合气”盾构带压作业装备正式应用于最长海底高铁隧道</title>
+<link>https://www.ithome.com/0/948/746.htm</link>
+<guid>https://www.ithome.com/0/948/746.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据上铁集团今日分享，由中铁十一局自主研发的<strong>世界首套“三元混合气”盾构带压作业装备</strong>已于 5 月 8 日正式应用于世界最长海底高铁隧道 —— 甬舟铁路金塘海底隧道。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/445a78cf-1a0e-41a6-b314-04814f5318f5.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，金塘海底隧道是甬舟铁路控制性工程，横跨浙江宁波与舟山之间的金塘水道，全长 16.18 公里，盾构段长 11.21 公里，为世界最长海底高铁隧道。<strong>项目建设采用两台超大直径盾构机</strong>，分别从宁波、舟山两侧同步始发、相向掘进，在穿越高水压及多种复杂地层后，在海底实现高精度对接。</p><p>金塘海底隧道最大埋深位于海平面下 78 米，<strong>最高水土压力达 8.5bar</strong>，相当于一元硬币面积需承受近三十公斤的重量。盾构超高压进舱作业是世界公认难题，中铁十一局创新提出盾构氦氮氧“三元混合气”带压作业理念。</p><p>历经两年多时间，研发团队在 5.9bar 至 7.5bar 不同压力条件下进行了数百次模拟试验及现场实测，实现了实际工况中 200 余人次安全进出舱作业验证，为装备正式投用奠定了坚实基础。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/5659349251/QEPNAo4D1?refer_flag=1001030103_" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5a3fc19b-19f8-432c-b5e6-1bf6ebec3197.jpg?x-bce-process=image/format,f_auto" /></a></p><p>IT之家从上铁集团了解到，该装备涵盖配气、供气两大关键模块，集配气枢纽、供气枢纽、人体呼吸器、甲板减压舱、压力监测与流量控制等 113 个子模块于一体，采用全自动与手动控制相结合的方式运行，对人体在不同高压环境下呼吸的氦气、氮气、氧气进行科学配比，满足世界级工程超高压带压作业需求。</p><p>另外，<strong>该装备单次可支持 3 人同时进舱作业，每次持续 60 分钟，通过两组人舱配合可实现 24 小时连续作业</strong>。模块化结构设计便于快速适配不同水压及复杂地层的盾构施工，具有模块化设备进场快、人员劳动强度低、换刀作业效率高等优势。</p><p>目前，金塘海底隧道盾构段掘进 9362 米，约完成 83.6%。公开资料显示，甬舟铁路是国家《中长期铁路网规划（2016-2030 年）》重大项目，线路全长 76.4 公里，设计时速 250 公里，是一条以中长途旅游客流为主、兼顾舟山宁波之间城际客流的高速铁路。项目建成运营后，将结束舟山群岛不通铁路的历史，长三角唯一不通高铁的地级市舟山市将接入全国铁路网。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2025/5/fa0f602a-127c-4deb-bfc3-5e6044164f6f.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:45:03 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:45:03 GMT</pubDate>
+</item>
+<item>
+<title>山灵 EC Play 便携式 CD 播放器开售：998 元，搭载 CS43198 DAC</title>
+<link>https://www.ithome.com/0/948/742.htm</link>
+<guid>https://www.ithome.com/0/948/742.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，山灵 EC Play 便携式 CD 播放器现已开售，新品搭载 3.5mm+4.4mm 耳机接口、CS43198 旗舰 DAC，支持蓝牙 6.0，<strong>售价 998 元</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/234828d5-9a1e-439e-bb50-d74472c42329.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款播放器重量 418g，拥有羽绿、曜石黑、月光银三种配色可选，带有定制托盘式碟舱 + 主动式磁吸压镇，相比常见卡珠式固定稳定度更高，可有效减少机械振动，更不易损伤碟片。采用专业 CD 方案机芯，定制伺服系统，读碟稳定性更加出色。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/34d40e3c-3902-4ec5-af6f-2f37eccbc700.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/239b44a5-923f-4b44-96a7-c12a5c2efb62.jpg?x-bce-process=image/format,f_auto" /></p><p>规格方面，这款播放器搭载 Cirrus Logic CS43198 DAC 芯片，失真度-115dB、动态范围 130dB，带有双 SGM8262 运放，输出功率可达 700mW@32Ω，配备 3.5mm 单端 +4.4mm 平衡双耳机接口，兼容各种耳机。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d06a65f3-7c33-46cf-b62e-fabcb9ade353.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/86ee9ae0-7b3a-4f78-929d-ec0e6ce745fc.jpg?x-bce-process=image/format,f_auto" /></p><p>同时，这款播放器带有双向蓝牙 6.0，支持连接蓝牙音箱、耳机。具有 USB DAC 输入功能，可硬解 PCM 384kHz/32Bit、DSD256。配备 3450mAh 电池，续航可达 12 小时。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c8495f5c-ac9f-4fa2-8617-c6b14d7a4e5a.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附该播放器详细参数如下：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6a75db61-4579-40a3-a02f-73e4809fbf66.jpg?x-bce-process=image/format,f_auto" /></p><p>目前这款播放器已在京东开售，售价 998 元。</p><dir><a contenteditable="false" href="https://u.jd.com/H6KqWK6" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/426534/39/874/56550/69eb5385F57412bc1/008332032071e647.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">山灵（SHANLING）EC Play 便携式 CD 机</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 998 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:43:11 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:43:11 GMT</pubDate>
+</item>
+<item>
+<title>高通 CEO 安蒙：2026 是“智能体元年”，智能手机中心地位将终结，眼镜有望接棒</title>
+<link>https://www.ithome.com/0/948/739.htm</link>
+<guid>https://www.ithome.com/0/948/739.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，据《财富》杂志今日报道，高通 CEO 安蒙（Cristiano Amon）接受采访，探讨他是如何领导高通公司的，以及智能手机之后的下一个主要设备可能是什么。</p><p>安蒙表示，高通是一家非常独特的公司。在人们听说骁龙之前，我们曾经说高通可能是“最不为人们所知的最大公司”。我认为在无线领域，我们已经涉足了每一代无线技术。</p><p>安蒙认为，高通的技术，基本上由移动产业的规模推动，开始走向许多不同的方向。今天的高通不仅存在于智能手机领域，还进入了 PC 领域、可穿戴设备领域，包括那些未来的个人 AI 设备。高通在汽车领域进行大规模的商业活动，并且将进入工业领域，一直到未来，机器人、数据中心等。</p><p>安蒙还称，<strong>高通已经为 AI 浪潮做好了 100% 的准备，并称 2026 年是“智能体元年”</strong>，开始看到智能体的巨大规模，并且人们刚刚开始理解现在有的各种智能体。不管是在消费领域，还是在企业领域，高通都对这一点感到兴奋，因为它将创造一个新设备的大周期。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/2359f327-d9fb-4d42-a39b-31ab83eb9862.jpg?x-bce-process=image/format,f_auto" /></p><p>在谈到 6G 时，安蒙表示：你周围的一切，你将能够使用 AI 来优化和识别不同的物体，你将创造整个世界的数字孪生，随着我们对计算的理解不断进化，这将是非常重要的数据。所以 6G 是一场巨大的变革，我对此非常兴奋。</p><p>关于从智能手机到个人 AI 设备的转变，安蒙举了一个例子：我们所有人最早接触到的个人计算设备是 PC。我们在 PC 上做了很多事情，但后来手机的到来，发生的事情是人们并没有放弃 PC。你仍然拥有并使用 PC，但某些工作负载确实从 PC 转移到了手机上。</p><blockquote><p>目前有大量公司正在构建个人 AI 设备，<strong>有一些秘密的形态我无法告诉你</strong>，但我认为我们与几乎所有这些公司都在合作。</p><p>而且人们会穿戴不同的东西，<strong>眼镜是最容易理解的一种</strong>，但还会有更多。会有首饰、徽章、吊坠，穿戴的东西，可以连接到智能体并开始对话。</p><p>如果 AI 能理解我们写的内容，能阅读我们读的一切，看到我们看到的一切，那么用例将会更加个性化。</p><p>例如，你可能会在逛街时戴着 AI 眼镜，然后你会说，我真的很喜欢这个衣服。我想买这个。它在亚马逊上的价格是多少？然后它会回答，哦，这是它在亚马逊上的价格。你会问，能让我看看穿上这个后我看起来会是什么样子吗？然后它就会生成渲染效果。所以这将是一种不同类型的低摩擦体验。工作负载也将开始像从电脑到手机那样转移。</p></blockquote><p>安蒙还透露，<strong>公众有望在今年年底开始看到一些个人 AI 智能体设备</strong>。</p><p>安蒙认为，以智能手机为主的时代即将迎来变革，2026 年是“智能体元年”，将看到越来越多可穿戴的设备形态。<strong>到了 2027 年、2028 年，会开始看到工作负载的转移，但智能手机不会消失</strong>。</p><blockquote><p>例如，假设你佩戴了一款带有摄像头的智能眼镜，你收到一张餐厅账单，你查看账单时发现上面有一个二维码，然后说一句“支付此账单，完成后通知我”，就这样，事情就完成了。所以我认为，在 2027 年、2028 年期间，我们将看到大量工作负载转移到这些设备上。</p></blockquote><p>安蒙还认为，到 2027 年、2028 年，个人 AI 设备将实现规模化。目前这些设备数量在数百万级别。他认为在未来五年内，它们很有可能达到数十亿级别，并最终达到百亿级别。</p><p><strong>安蒙对眼镜这一形态非常看好</strong>。他认为人类对眼镜非常适应，而且眼镜非常自然。你转头，摄像头就会看到你眼睛所看到的地方。它离你的耳朵很近，离你的嘴巴也很近。你要读什么东西，摄像头也能读出来。所以我认为，眼镜将是主要的形态。</p><p>未来会出现苹果或谷歌这样的 AI 设备巨头吗？<strong>安蒙认为个人 AI 设备会更加多样化，而且将更加分散</strong>。将会有更多的碎片化，因为不是每个人都穿同样的衣服，不是每个人都戴同样的眼镜。所以他认为会有许多不同的公司，关键在于控制点，曾经有操作系统和应用商店，现在将变成智能体，而且不会只有一个统治一切的智能体，而是会有不同的智能体供你选择使用。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:41:25 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:41:25 GMT</pubDate>
+</item>
+<item>
+<title>福耀科技大学获批未来机器人、人工智能等 5 个新兴本科专业</title>
+<link>https://www.ithome.com/0/948/727.htm</link>
+<guid>https://www.ithome.com/0/948/727.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 11 日消息，教育部现已公布了 2026 年度普通高等学校本科专业备案和审批结果，其中福耀科技大学获批未来机器人、人工智能、智能车辆工程、生物科学、数字经济 5 个本科专业。其中，<strong>未来机器人专业是 2026 年首批被列入本科专业目录“交叉学科”门类的专业之一</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/cfe7844b-7c4f-42db-a6f9-742b8dc3b099.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家获悉，福耀科技大学在去年（2025 年）已获批智能制造工程、计算机科学与技术、材料科学与工程、车辆工程四个本科专业。目前，福耀科技大学本科专业总数已增至 9 个。</p><p>2026 年，福耀科技大学拟继续按照智能制造工程专业招收本科生。2026 级本科生入学后，在大一期间接受通识教育，大二时可根据个人兴趣爱好和优势专长，在已有的 9 个专业中自由选择专业方向。</p>
+]]></content:encoded>
+<pubDate>Mon, 11 May 2026 06:35:43 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 06:35:43 GMT</pubDate>
+</item>
+
+<item>
 <title>消息称华为在测全新电池材料 + 电芯体系：容量将达行业最高水平，落地可能远超 10000mAh</title>
 <link>https://www.ithome.com/0/948/702.htm</link>
 <guid>https://www.ithome.com/0/948/702.htm</guid>
 <content:encoded><![CDATA[
 <div> 华为, 电池材料, 电芯体系, 10000mAh, 快充功率
-<br><br>总结: 1. 华为正测试全新电池材料与电芯，落地容量或远超10000mAh，将达到行业最高水平。2. 调研显示用户更偏好大容量，因此快充仍维持在最高100/120W，未同步提升功率。3. 新机预计搭载1.5K LTPS高刷屏和麒麟8系处理器，电池容量将超越畅享90 Pro Max的8500mAh。4. 畅享90 Pro Max目前已独占巨鲸电池，并补足了智能路况提醒、HiCar、熄屏显示等旗舰特性。 <div>
+<br /><br />总结: 1. 华为正测试全新电池材料与电芯，落地容量或远超10000mAh，将达到行业最高水平。2. 调研显示用户更偏好大容量，因此快充仍维持在最高100/120W，未同步提升功率。3. 新机预计搭载1.5K LTPS高刷屏和麒麟8系处理器，电池容量将超越畅享90 Pro Max的8500mAh。4. 畅享90 Pro Max目前已独占巨鲸电池，并补足了智能路况提醒、HiCar、熄屏显示等旗舰特性。 <div>
 <p>IT之家 5 月 11 日消息，博主 @数码闲聊站 今日发文透露，称华为在测全新的电池材料 + 全新的电芯体系。容量会达行业最高水平，<strong>而落地容量可能远超 10000mAh</strong>（微博原文使用 3 个“+”号进行强调）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/cffee3e7-a56e-440e-9f00-46af3bd04ef6.jpg?x-bce-process=image/format,f_auto" /></p><p>有网友询问，新手机的电池容量逐渐加大，充电功率是否会有所提升。博主回复称：“可是调研是都想要更大容量，<strong>快充还是最高 100/120W</strong>。”</p><p>据IT之家此前报道，<a href="https://www.ithome.com/0/942/134.htm" target="_blank">此前有消息称华为中端线还有一个 7 英寸级别巨屏新机</a>，配备 1.5K LTPS 高刷屏、搭载麒麟 8 系处理器，电池更大（结合爆料背景来看，电池容量或超过畅享 90 Pro Max）。</p><p>目前，畅享 90 Pro Max 手机独占了华为史上最大容量电池 —— 8500mAh 巨鲸电池。而该机也在不断补上一些旗舰特性，例如业内首发“智能路况提醒”功能，并更新支持了 HiCar 车机互联、熄屏显示、智感握姿等功能。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/3/f4ee1ece-f092-4937-b64c-098194e19927.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><figcaption>▲ IT之家开箱：<span class="hot-topic">华为畅享 90 Pro Max</span> 实拍图赏</figcaption>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:57:04 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:57:04 GMT</pubDate>
 </item>
 <item>
@@ -21,10 +684,9 @@
 <link>https://www.ithome.com/0/948/699.htm</link>
 <guid>https://www.ithome.com/0/948/699.htm</guid>
 <content:encoded><![CDATA[
-<div> 关键词: QClaw 文件空间 腾讯文档 ima知识库 AI协作<br><br>总结: 腾讯云QClaw上线文件空间功能，一次授权打通本地文件、腾讯文档与ima知识库；用户可直接在QClaw打开腾讯文档（文档、表格、导图），勾选文件让AI生成可协作的活化文档；生成文档可转为协作链接，同事在网页或QClaw协同修改；支持调取ima知识库及广场资料拉入对话框分析；AI写的方案可一键保存回ima，反哺后续创作。 <div>
+<div> 关键词: QClaw 文件空间 腾讯文档 ima知识库 AI协作<br /><br />总结: 腾讯云QClaw上线文件空间功能，一次授权打通本地文件、腾讯文档与ima知识库；用户可直接在QClaw打开腾讯文档（文档、表格、导图），勾选文件让AI生成可协作的活化文档；生成文档可转为协作链接，同事在网页或QClaw协同修改；支持调取ima知识库及广场资料拉入对话框分析；AI写的方案可一键保存回ima，反哺后续创作。 <div>
 <p>IT之家 5 月 11 日消息，腾讯云今日宣布，QClaw 正式上线“文件空间”功能。只需一次授权，QClaw 就能将用户<strong>本地文件、腾讯文档、ima 知识库一站式全面打通</strong>。</p><p>IT之家获悉，因为是官方深度的集成打通，整个过程无论是权限管控还是同步稳定性，都和原生体验一模一样。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2f475009-19a5-4325-9996-c7278fb45c13.jpg?x-bce-process=image/format,f_auto" /></p><p>一键授权后，用户在 QClaw 里就能直接打开腾讯文档中的内容（无论是文档、表格还是导图），且可以随意勾选几份文件，直接给 AI 派活。AI 生成的不仅是一段局限在对话框里的文字，还是一份活化的腾讯文档。用户可以直接生成一个协作链接丢到工作群里，同事点开就能在网页上接着改，或者用他们自己的 QClaw 协同处理这份文档。</p><p>此外，用户可以直接在 QClaw 里调取 ima 知识库的文件，或访问知识库广场，把行业资料直接拉进对话框里做分析。在 QClaw 里让 AI 写的方案，也可以一键保存回 ima，反哺下一次的创作。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:54:21 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:54:21 GMT</pubDate>
 </item>
 <item>
@@ -32,10 +694,9 @@
 <link>https://www.ithome.com/0/948/679.htm</link>
 <guid>https://www.ithome.com/0/948/679.htm</guid>
 <content:encoded><![CDATA[
-<div> OPPO 母亲节 营销文案 致歉 审核机制<br><br>总结: 1. OPPO为母亲节营销文案内容冒犯及事后敷衍致歉，承认价值观与敬畏心缺失；2. 反思因追逐流量忽视主流价值观底线，回应麻木傲慢；3. 已对分管中国市场高级副总裁段要辉及营销管理者从严处罚；4. 市场业务部门全员反思，管理团队检讨工作理念，回归真诚情感；5. 重构内容审核流程，完善分层分级审核机制，恪守主流价值观底线。 <div>
+<div> OPPO 母亲节 营销文案 致歉 审核机制<br /><br />总结: 1. OPPO为母亲节营销文案内容冒犯及事后敷衍致歉，承认价值观与敬畏心缺失；2. 反思因追逐流量忽视主流价值观底线，回应麻木傲慢；3. 已对分管中国市场高级副总裁段要辉及营销管理者从严处罚；4. 市场业务部门全员反思，管理团队检讨工作理念，回归真诚情感；5. 重构内容审核流程，完善分层分级审核机制，恪守主流价值观底线。 <div>
 <p>IT之家 5 月 11 日消息，OPPO 官方刚刚就母亲节营销文案存在的问题再发致歉声明，称将重构内容审核流程，完善分层分级的内容审核机制，恪守主流价值观底线。</p><p>IT之家附 OPPO 此次致歉声明原文如下：</p><blockquote><p>针对我们在母亲节营销文案中存在的问题，<strong>我们向所有社会公众致以最深刻的歉意，对不起！</strong></p><p>无论是营销内容本身的冒犯，还是事后第一时间的敷衍应对，都暴露出我们在价值观和敬畏心上存在严重的缺失。</p><p>我们错误地在这样一个充满温情的母亲节，因追逐流量而忘记本心；我们因为错误的认知，忽视了社会主流价值观的底线，所以在各个环节都未能发现问题；特别是在看到大家最初众多的善意提醒时，我们是麻木的、傲慢的，没有真正理解到大家的感受，也没有敞开评论认真听取公众的意见，是非常不真诚开放的表现。</p><p><strong>这次事件严重地伤害了公众的感情，也违背了公司一贯坚持的文化价值观</strong>。经过深刻反思，公司已经对分管中国市场业务的高级副总裁段要辉以及营销相关管理者作出了从严处罚；市场业务部门全员将对本次事件进行全面反思，管理团队将严肃检讨工作理念，回归真诚的情感表达；同时，<strong>我们将重构内容审核流程，完善分层分级的内容审核机制，恪守主流价值观底线</strong>。</p><p>我们会通过实际行动避免类似的问题再发生，请大家监督与指正。</p></blockquote><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/48fb1355-e5e3-47d9-9b6f-6a77542f31c8.png?x-bce-process=image/format,f_auto" /></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/948/677.htm" target="_blank">OPPO 就母亲节文案事件发布问责通告，中国区业务负责人段要辉职级直降两级</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/948/526.htm" target="_blank">中国广告协会批个别品牌母亲节低俗营销：广告行业肩负文化引领、价值传递、风尚倡导社会责任</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/948/487.htm" target="_blank">武汉大学就 OPPO 母亲节文案发声：极不认同内容表述和价值倾向</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/947/890.htm" target="_blank">OPPO 就母亲节宣传文案争议道歉：已第一时间下架全部相关物料</a>》</p></li></ul>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:36:49 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:36:49 GMT</pubDate>
 </item>
 <item>
@@ -43,10 +704,9 @@
 <link>https://www.ithome.com/0/948/678.htm</link>
 <guid>https://www.ithome.com/0/948/678.htm</guid>
 <content:encoded><![CDATA[
-<div> 失控进化 鸿蒙版 限量删档 生存对抗 多端互通<br><br>总结：1. 腾讯手游《失控进化》鸿蒙版于5月11日开启限时技术测试，采取限量删档不计费形式，名额领完即止；2. 游戏获Rust正版授权，为生存对抗类型，支持PC/iOS/Android/鸿蒙/平板多端互通；3. 提供4x4km海陆空无缝探索地图，需从零采集资源、建造庇护所，面对气候、饥饿及玩家间生存挑战；4. 独创动态攻防系统，强化领地攻防的策略博弈体验。 <div>
+<div> 失控进化 鸿蒙版 限量删档 生存对抗 多端互通<br /><br />总结：1. 腾讯手游《失控进化》鸿蒙版于5月11日开启限时技术测试，采取限量删档不计费形式，名额领完即止；2. 游戏获Rust正版授权，为生存对抗类型，支持PC/iOS/Android/鸿蒙/平板多端互通；3. 提供4x4km海陆空无缝探索地图，需从零采集资源、建造庇护所，面对气候、饥饿及玩家间生存挑战；4. 独创动态攻防系统，强化领地攻防的策略博弈体验。 <div>
 <p>IT之家 5 月 11 日消息，腾讯旗下手游《失控进化》鸿蒙版今天开启限时技术测试，采取限量删档不计费形式。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8efa708c-6c6c-42f5-ac39-be1061506bc3.jpg?x-bce-process=image/format,f_auto" /></p><p>据官方介绍，本次测试限量开放，开启后可下载游戏注册，<strong>名额领完即止</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/40818832-2332-4c6f-822c-6c8bdf58ca05.jpg?x-bce-process=image/format,f_auto" /></p><p><a href="https://www.ithome.com/0/944/683.htm" target="_blank">据IT之家此前报道</a>，《失控进化》是一款 Rust 正版玩法授权的生存对抗游戏，支持 PC / iOS / Android / 鸿蒙 / 平板多端互通。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/1a55baab-7189-468b-861e-c805d91ad919.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>《失控进化》将带给玩家更刺激的生存对抗体验：4x4km 海陆空无缝探索地图，拟真开放世界等待玩家探索；从零开始采集资源、建造庇护所，直面气候、饥饿及玩家间的生存挑战；独创动态攻防系统，顶级策略博弈领地攻防体验。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:33:59 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:33:59 GMT</pubDate>
 </item>
 <item>
@@ -54,10 +714,9 @@
 <link>https://www.ithome.com/0/948/677.htm</link>
 <guid>https://www.ithome.com/0/948/677.htm</guid>
 <content:encoded><![CDATA[
-<div> OPPO、母亲节文案、品牌事故、问责处罚、段要辉<br><br>总结：2026年母亲节OPPO官方文案因不当追星表述引发重大负面舆情，被定性为重大品牌事故。公司内部问责严厉，中国区业务负责人段要辉负最终管理责任被降两级、冻结调薪36个月；直属业务部长、公关部长及项目主管均受降级、绩效冻结等处分。OPPO已致歉并下架全部物料，承诺全面审查内容审核机制，防止再犯。 <div>
+<div> OPPO、母亲节文案、品牌事故、问责处罚、段要辉<br /><br />总结：2026年母亲节OPPO官方文案因不当追星表述引发重大负面舆情，被定性为重大品牌事故。公司内部问责严厉，中国区业务负责人段要辉负最终管理责任被降两级、冻结调薪36个月；直属业务部长、公关部长及项目主管均受降级、绩效冻结等处分。OPPO已致歉并下架全部物料，承诺全面审查内容审核机制，防止再犯。 <div>
 <p>IT之家 5 月 11 日消息，据界面新闻今日报道，就 OPPO 因母亲节不当文案事件，<strong>OPPO 今日内部正式发布问责通告，对相关责任人进行了定级处罚</strong>。</p><p>其中，OPPO 中国区业务负责人段要辉负最终管理责任，<strong>职级直降两级</strong>；其余相关管理人员也均做出处分决定。知情人士表示，此次处罚“属于 OPPO 历史上罕见严厉的处罚力度”。</p><blockquote><p style="text-align: center;">关于 2026 年母亲节品牌营销事故问责的通告</p><p>5 月 8 日，官方微博及小红书账号发布的母亲节营销文案，对广大公众、用户和员工都造成了很大的伤害，也引发了大规模负面舆情，严重影响了品牌声誉，也违背了公司一贯坚持的文化价值观。</p><p>依据《公司品牌事故问责制度》，判定为重大品牌事故，对相关责任人进行定级处罚如下：</p><ul class=" list-paddingleft-2"><li><p>公司中国区业务负责人段要辉：负最终管理责任，职级直降两级，本年度绩效不高于 C，从本月起冻结调薪 36 个月；</p></li><li><p>直属业务部门部长王怡：负直接管理责任，未有效履行审核把关职责，职级降一级，本年度绩效不高于 C，从本月起冻结调薪 12 个月；</p></li><li><p>公关部部长马新：负管理责任，当年度绩效不高于 C，从本月起冻结调薪 12 个月；</p></li><li><p>项目团队主管：负直接项目管理责任，O 职级降一级，本年度绩效不高于 C。</p></li></ul><p>此次事件体现了相关团队对社会主流价值观的底线的忽视，也反映了具体业务机制中存在的漏洞。希望团队引以为戒、快速改进。</p></blockquote><p style="text-align: left;">综合IT之家此前报道，“OPPO 文案价值观”话题于 5 月 8 日一度登上微博热搜。OPPO 此次母亲节宣传文案中，出现“我妈有两个‘老公’，一个是我爸，另一个一年见两回；跟我爸约会基本不打扮，见另一个，她‘恨不得穿婚纱’”的文案，并搭配“追星”为主题的图片。</p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2026/5/cca050d2-9dcd-43c7-b07d-5733dd554621.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" title="武汉大学就 OPPO 母亲节文案发声：极不认同内容表述和价值倾向" /></p><p>5 月 8 日下午，OPPO 官微发文，就本次母亲节宣传文案引起的争议致歉。</p><blockquote><p>关于本次母亲节宣传文案引起的争议，我们诚恳表示歉意。</p><p>我们的创作初衷，是希望打破刻板印象，呈现更多元、更立体的当代母亲形象：母亲可以热爱马拉松，可以沉浸文字创作，也可以拥有自己的追星爱好。</p><p>我们已第一时间下架全部相关物料。我们将认真倾听各方批评，全面审查内容审核机制，确保此类问题不再发生。</p></blockquote><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2026/5/9d0ae5ad-1cdf-41a9-85d8-ca4d82c2e800.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" title="武汉大学就 OPPO 母亲节文案发声：极不认同内容表述和价值倾向" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:27:40 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:27:40 GMT</pubDate>
 </item>
 <item>
@@ -65,10 +724,8 @@
 <link>https://www.ithome.com/0/948/676.htm</link>
 <guid>https://www.ithome.com/0/948/676.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，荣耀平板 20 现已在京东开启预约，新品主打多彩配色，<strong>拥有超长发灰、森林绿、耀眼粉三种配色可选</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9648141c-e936-49d5-90d2-9f46a8a2f689.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/ae5e8007-67a7-4ace-8324-2a8b7ee36824.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HGKwxq8" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/59149dd9-aa38-40db-adee-06c486dfc028.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">荣耀平板 20</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 待发布</span><span class="card-btn-deep">立即预约</span></span></span></span></a></dir><p>商品页面显示，<strong>荣耀平板 20 将配备 12.1 英寸 3K 全彩类纸屏</strong>，支持类纸笔记体验、AI 备考智能体等，背板带有小圆镜组，官方暂未公布更多信息。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ecb64ccc-798e-4ea8-b9da-1ae6213b6064.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b32d2fa9-3716-4b81-910d-db2db13e8a7a.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/e86c506b-0700-40fc-83e1-d6e8ffcb91c1.jpg?x-bce-process=image/format,f_auto" /></p><p>作为参考，荣耀平板 10 发布于去年 5 月，采用星光云环设计、全金属一体机身，可选日出印象、天青色、苍山灰三款配色。<strong>首发价 1499 元（IT之家注：8GB+128GB）起</strong>，国补价 1274.15 元起。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2025/5/f8c4ab90-5153-4d4b-9fa6-f484c13df548.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:23:24 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:23:24 GMT</pubDate>
 </item>
 <item>
@@ -76,10 +733,8 @@
 <link>https://www.ithome.com/0/948/675.htm</link>
 <guid>https://www.ithome.com/0/948/675.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，据中国载人航天工程办公室消息，天舟十号货运飞船入轨后顺利完成状态设置，于北京时间 2026 年 5 月 11 日 13 时 11 分，<strong>成功对接于空间站天和核心舱后向端口</strong>。交会对接完成后，天舟十号将转入组合体飞行段。</p><p class="text_align-left" style="text-align: left;">后续，神舟二十一号航天员乘组将进入天舟十号货运飞船，按计划开展货物转运等相关工作。</p><p class="text_align-left" style="text-align: left;">今早，搭载天舟十号货运飞船的长征七号遥十一运载火箭，在我国文昌航天发射场点火发射，天舟十号货运飞船与火箭成功分离并进入预定轨道，之后飞船太阳能帆板顺利展开，<a href="https://www.ithome.com/0/948/573.htm" target="_blank">发射任务圆满成功</a>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ce03864b-c6ef-4ac1-8be7-4b9643861805.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>据IT之家此前报道，天舟十号作为中国天舟系列的第十艘货运飞船，是目前世界上现役货物运输能力最大、在轨支持能力最全面的货运飞船之一。<strong>此次任务计划上行近 6.3 吨重的补给物资</strong>，主要用于保障神舟二十三号和神舟二十四号两批航天员乘组在轨正常工作、生活所需的物品。</p><p>这份物资清单涵盖航天员系统、空间站系统、货运飞船系统和应用任务领域共计 220 多件（套）货物，同时搭载 700 公斤重的推进剂。这次任务是我国载人航天工程进入空间站应用与发展阶段后的第 5 次货运补给任务，是工程立项实施以来的第 39 次发射任务，也是长征系列运载火箭的第 641 次飞行、天舟飞船的第 10 次飞行。</p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2026/5/0bd3644e-4135-455f-9df0-0adab0ca4f4a.png?x-bce-process=image/format,f_auto/auto-orient,o_1" title="天舟十号船箭组合体正在进行垂直转运" /></p><figcaption>▲ 天舟货运飞船构型</figcaption>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:21:14 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:21:14 GMT</pubDate>
 </item>
 <item>
@@ -87,10 +742,8 @@
 <link>https://www.ithome.com/0/948/674.htm</link>
 <guid>https://www.ithome.com/0/948/674.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，从上周开始，微软悄悄为 Win11 系统测试“低延迟配置文件”功能，可在点击开始菜单、上下文面板、启动应用时，<strong>将 CPU 频率瞬间拉到最高</strong>，<strong>持续 1-3 秒</strong>，加快响应速度。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f798ded2-efcd-4b0a-990b-2872a137b87d.png?x-bce-process=image/format,f_auto" /></p><p>随后有用户认为，微软不想着怎么优化系统，却通过“CPU 暴力提频”这种方式提升速度，其实是治标不治本。</p><p>而微软 / GitHub 副总裁斯科特 · 汉塞尔曼（IT之家注：Scott Hanselman）昨天在 X 平台表示，这种做法并非“作弊”，所有现代操作系统都会通过短暂提升 CPU 频率方式，优先处理交互式任务降低延迟。<strong>且苹果 macOS、Linux 等操作系统都这么干</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/54f5f0f5-af77-400a-b267-326d804de922.jpg?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:14:24 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:14:24 GMT</pubDate>
 </item>
 <item>
@@ -98,10 +751,8 @@
 <link>https://www.ithome.com/0/948/673.htm</link>
 <guid>https://www.ithome.com/0/948/673.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，英伟达 CEO 黄仁勋日前在美国卡内基梅隆大学 <a href="https://www.ithome.com/0/948/566.htm" target="_blank">2026 届毕业典礼上发表了主题演讲</a>，并获颁科学与技术荣誉博士学位。而为其授予学位的人是英特尔首席执行官陈立武。</p><p>陈立武今日在 X 上发帖表示，<strong>祝贺好朋友黄仁勋获得科学与技术荣誉博士学位，很荣幸为他授予这一荣誉</strong>。英特尔和英伟达正在合作开发令人兴奋的新产品。</p><p>英伟达 AI 部门官方账号转发了这一推文，并评论了一个绿色的爱心符号。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/bdabc324-0c02-4dc8-aa8b-90fb5cbbd197.jpg?x-bce-process=image/format,f_auto" /></p><p>综合IT之家此前报道，去年 9 月，英伟达宣布向英特尔投资 50 亿美元，将共同开发“革命性”芯片。</p><p class="p1">双方计划通过英伟达 NVLink 实现架构无缝连接，将英伟达的 AI 与加速计算能力与英特尔领先的 CPU 技术及 x86 生态整合，为客户提供顶尖解决方案。</p><p class="p1">在个人计算方面，<strong>英特尔将制造并销售集成英伟达 RTX GPU 小芯片的 x86 系统芯片（SOC）</strong>，这些 SOC 将为需要顶级 CPU 与 GPU 整合的各类 PC 提供动力。</p><p class="p1">在数据中心方面，英特尔将制造英伟达定制的 x86 CPU，英伟达将把这些 CPU 集成到其 AI 基础设施平台并推向市场。</p><p><a href="https://www.ithome.com/0/916/048.htm" target="_blank">陈立武今年 1 月在财报电话会议中证实</a>，英特尔正与英伟达合作开发一款面向企业级和数据中心应用、深度集成 NVLink 技术的至强（Xeon）处理器，<strong>目标直指新一代 AI 主机节点</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5d3675e4-300d-4807-a09a-f1ba5dd3db6f.png?x-bce-process=image/format,f_auto" /></p><p>此外，<a href="https://www.ithome.com/0/907/249.htm" target="_blank">曝光的英特尔未来处理器路线图显示</a>，Serpent Lake 将结合英特尔的 CPU 和英伟达的 GPU 方案。消息称 Serpent Lake 处理器将采用基于 Rubin 架构的英伟达 GPU，16x LPDDR6 显存，很可能由台积电 N3P 工厂生产，CPU 架构将基于 Titan Lake。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 05:10:37 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 05:10:37 GMT</pubDate>
 </item>
 <item>
@@ -109,10 +760,8 @@
 <link>https://www.ithome.com/0/948/671.htm</link>
 <guid>https://www.ithome.com/0/948/671.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，网易游戏今日官宣，2026 年网易游戏 520 发布会定档 <strong>5 月 20 日 19:30</strong>，将公布新游快讯、年度版本大更新、惊喜福利等。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/f24dd9f0-1fe2-4e02-8095-977a34284129.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附参与 2026 年网易游戏 520 线上发布会的游戏名单（排名不分先后）：</p><ul class=" list-paddingleft-2"><li><p>《梦幻西游》电脑版</p></li><li><p>《梦幻西游》手游</p></li><li><p>《梦幻西游》网页版</p></li><li><p>大话西游 IP</p></li><li><p>《新大话西游 3》</p></li><li><p>逆水寒 IP</p></li><li><p>倩女幽魂 IP</p></li><li><p>《率土之滨》</p></li><li><p>《天下：万象》</p></li><li><p>《一梦江湖》</p></li><li><p>《天谕》手游</p></li><li><p>《燕云十六声》</p></li><li><p>《漫威争锋》</p></li><li><p>《界外狂潮》</p></li><li><p>《七日世界》</p></li><li><p>《全明星街球派对》</p></li><li><p>《遗忘之海》</p></li><li><p>《星绘友晴天》</p></li><li><p>《万民长歌：三国》</p></li><li><p>《山海奇旅》</p></li><li><p>《第五人格》</p></li><li><p>《蛋仔派对》</p></li><li><p>永劫无间 IP</p></li><li><p>《明日之后》</p></li><li><p>《暗黑破坏神：不朽》</p></li><li><p>实况足球 IP</p></li><li><p>《萤火突击》</p></li><li><p>《漫威终极逆转》</p></li><li><p>《光 · 遇》</p></li><li><p>《阴阳师》</p></li><li><p>《世界之外》</p></li><li><p>《星际猎人》</p></li><li><p>《时空中的绘旅人》</p></li><li><p>《我的世界》</p></li><li><p>《狼人杀》</p></li><li><p>《哈利波特：魔法觉醒》</p></li><li><p>《歧路旅人：大陆的霸者》</p></li><li><p>《忘川风华录》</p></li><li><p>《灵兽大冒险》</p></li><li><p>《战意：三国》</p></li><li><p>网易大神</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/2967651c-c9b3-4343-a808-699d1cc1eec4.png?x-bce-process=image/format,f_auto" /></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:47:47 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:47:47 GMT</pubDate>
 </item>
 <item>
@@ -120,10 +769,8 @@
 <link>https://www.ithome.com/0/948/670.htm</link>
 <guid>https://www.ithome.com/0/948/670.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，沃尔沃汽车今日宣布其大中华区管理层最新任命，在沃尔沃汽车工作 16 年后，<strong>沃尔沃汽车大中华区总裁兼 CEO 袁小林决定卸任公司日常运营管理工作</strong>，将更多的时间留给家庭。</p><p style="text-align: center;"><img alt="袁小林" src="https://img.ithome.com/newsuploadfiles/2026/5/797f89f2-a2b1-4ed8-b3fa-e13f79607d44.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 袁小林</figcaption><p><strong>段建军</strong>被任命为沃尔沃汽车大中华区新任总裁兼 CEO, 加入集团全球核心管理层以及全球销售管理层，并向中国董事会汇报。他将即刻履新，全面执掌大中华区端到端业务，负责全价值链的工业和商业整体运营（研产供销）。袁小林则将在未来的一段时间支持管理层的平稳交接。</p><p style="text-align: center;"><img alt="段建军" src="https://img.ithome.com/newsuploadfiles/2026/5/588a1547-da9e-4383-a9da-7bc1b390329b.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 段建军</figcaption><p style="text-align: justify;">袁小林于 2010 年吉利收购沃尔沃汽车期间加入公司，担任并购负责人。2017 年，他被任命为沃尔沃汽车集团全球高级副总裁，亚太区总裁兼 CEO，并加入集团执行管理团队。此后，他出任沃尔沃汽车大中华区总裁兼 CEO。</p><p style="text-align: justify;">段建军拥有超过 30 年的汽车行业经验，曾在梅赛德斯-奔驰、宝马豪华汽车品牌在华企业担任高级管理职务。他与沃尔沃汽车的渊源可以追溯至 30 多年前，当时他以维修技师身份为沃尔沃汽车售后服务工作。</p><p style="text-align: justify;">据IT之家此前报道，段建军曾任北京梅赛德斯-奔驰销售服务有限公司总裁兼 CEO，系该职位首位中国籍高管，<a href="https://www.ithome.com/0/921/856.htm" target="_blank">于 2026 年 2 月 14 日因个人原因辞去职务</a>。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:40:28 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:40:28 GMT</pubDate>
 </item>
 <item>
@@ -131,10 +778,8 @@
 <link>https://www.ithome.com/0/948/669.htm</link>
 <guid>https://www.ithome.com/0/948/669.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，小米通讯技术有限公司一款型号为 26109VP30C 的设备于 4 月 24 日通过工信部无线电核准，博主 @数码闲聊站 表示这是<strong>小米新一代智能座舱</strong>。</p><blockquote><p>小米新一代智能座舱入网了，猜猜是不是传说中的昆仑……26109VP30C 型号可以倒推大致排期，看来这个时间节点重量级产品很多……</p></blockquote><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/772d434f-8a20-4b04-a893-6db7a950cf35.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家查询发现，该设备在 4 月 30 日又获发证书，明确设备名称为“<strong>车载无线终端</strong>”，支持 5G-增强移动宽带（eMBB）技术，还支持双卡双待机模式。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2b01f63d-76d2-49f4-9c89-6e4a2eac7700.jpg?x-bce-process=image/format,f_auto" /></p><p><a href="https://www.ithome.com/0/946/462.htm" target="_blank">参考IT之家先前报道</a>，小米汽车首款增程式 SUV 内部代号为“昆仑 N3”，有望归属于全新的独立子品牌“寻天”（英文名：SKYNOMAD）。该车型将不再悬挂小米主品牌标识，计划于 2026 年下半年正式推向市场。</p><p>同时，相应车型谍照此前已经多次曝光。画面显示这款车型将提供可升降车顶，车顶升起后预计可作为房车使用。</p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2026/4/ee0c331f-d2e9-4c20-ab31-a0f1d8d596b7.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" title="小米科技有限责任公司申请注册多枚“寻天”“SKYNOMAD”商标，有望为旗下首款增程式 SUV 铺路" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:30:39 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:30:39 GMT</pubDate>
 </item>
 <item>
@@ -142,10 +787,8 @@
 <link>https://www.ithome.com/0/948/668.htm</link>
 <guid>https://www.ithome.com/0/948/668.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，TikTok 今日宣布，在接下来的几个月里，英国 18 岁及以上年龄用户的账户将逐渐能够订阅一个新的无广告订阅选项 ——TikTok Ad-Free，订阅费用为<strong>每月 3.99 英镑</strong>（IT之家注：现汇率约合 36.9 元人民币）。</p><p>TikTok 表示，对于那些选择不订阅的用户，他们将能够继续像往常一样使用带有个性化广告的 TikTok。无论用户选择 TikTok 无广告模式还是保留带广告的版本，<strong>他们的核心 TikTok 体验都不会改变</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/cea1c176-40be-43f6-9558-bf30f00045ab.jpg?x-bce-process=image/format,f_auto" /></p><p>TikTok 称其平台上的广告帮助当地企业产生了数亿英镑的收入，并为英国整体的 GDP 增长做出了贡献。TikTok 英国区总经理 Kris Boger 表示：</p><blockquote><p>在 TikTok 上，我们社区的选择权与英国企业的增长是相辅相成的。<strong>我们平台上的广告已经在帮助成千上万的英国企业触达新客户、增加销售额并创造就业机会</strong>，而我们新的无广告选项则让人们能够更好地控制自己的体验。总之，这确保了我们在继续产生实际经济影响的同时，赋予我们的社区以适合他们的方式参与 TikTok 的灵活性。</p></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:28:08 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:28:08 GMT</pubDate>
 </item>
 <item>
@@ -153,10 +796,8 @@
 <link>https://www.ithome.com/0/948/666.htm</link>
 <guid>https://www.ithome.com/0/948/666.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，佳能（中国）有限公司今日发布了 <strong>PIXMA TS8880 智能触屏照片一体机</strong>（以下简称为 TS8880）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/7f5c6ab0-fc15-4593-808f-93b6e80fcc35.png?x-bce-process=image/format,f_auto" /></p><p>此次发布的新品延续了上一代 TS8380 的核心功能，还在此基础上升级了用户体验，操作界面更加直观便捷，<strong>照片输出速度提升至 13 秒</strong>，同时还融入了更实用的新复印功能。</p><p>佳能 TS8880 保留了黑、红、白三款经典配色，在智能操作方面实现优化。</p><p>针对屏幕上功能繁多，用户难以快速找到所需功能的痛点，<strong>TS8880 按照功能分类配色，并实现跨设备图标一致</strong>，降低操作门槛。机身仅保留电源键，<strong>配备 4.3 英寸彩色触摸屏</strong>，智能用户界面直观易懂。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e6c9b99a-859b-4e04-b504-07adeb1172c3.png?x-bce-process=image/format,f_auto" /></p><p>在此基础上，TS8880 还为用户提供个性化设置，可根据工作、学习、生活等不同场景一键切换模式，并支持自定义场景名称、图标及背景色；同时，手机端与 PC 端图标设计保持一致，无需额外学习即可快速上手。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/264b1a51-3eb2-4d16-ba35-ecee2e1d5769.png?x-bce-process=image/format,f_auto" /></p><p><strong>佳能 TS8880 打印机可实现自动双面打印、SD 卡插卡打印和光盘标签打印</strong>。同时，打印流程被大幅简化，用户只需用手机扫描打印机液晶屏上显示的二维码，即可实现手机与打印机无线直连。</p><p>即使身处无网络覆盖的环境下，用户也能通过直连功能打印手机中的照片、文档等各类内容，让打印不再受网络条件限制。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/d1193c7f-ff98-4619-b93b-9212be955c89.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: start;"><strong>佳能 TS8880 使用 6 色独立式混合墨水</strong>，支持打印黑白文档以及彩色照片。在打印速度方面，佳能 TS8880 的 A4 彩色文档打印速度约为 10.0 ipm，4×6 英寸无边距照片打印约 13 秒。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9b2cda97-0c0f-41d1-a4b7-387c014f6e77.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: start;">值得一提的是，<strong>佳能 TS8880 新增“彩色去除复印”和“书册复印”两项功能</strong>。</p><p style="text-align: start;">具体来看，借助“彩色去除复印”功能，该设备能够智能识别并去除原稿中的彩色元素，仅保留非彩色部分进行复印，这使得涂色本和作业纸等得以循环利用。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6d225772-4fd6-4850-bc96-7a0f09b40fb2.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: start;">而“书册复印”功能则解决了成册资料复印的痛点。复印杂志、笔记本等书册内容时，TS8880 可同时扫描书册左右两页，并自动调整方向进行打印，无需用户手动排版和二次整理，降低了资料在复印过程中损坏的风险。</p><p style="text-align: start;">IT之家查询佳能官网获悉，佳能 PIXMA TS8880 智能触屏照片一体机的建议零售价为 <strong>2388 元</strong>。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:12:18 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:12:18 GMT</pubDate>
 </item>
 <item>
@@ -164,10 +805,8 @@
 <link>https://www.ithome.com/0/948/665.htm</link>
 <guid>https://www.ithome.com/0/948/665.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，存储器模组企业嘉合劲威 (POWEV) 本月 9 日宣布，旗下品牌神可 (SINKER) 的 64GB DDR5-5600 RIDMM 服务器内存条<strong>已通过多家大厂严格测试并成功实现规模化量产交付</strong>。</p><p>这意味着神可的 DDR5 服务器内存现已可以大批量向大客户、渠道伙伴、品牌方等稳定供货，满足项目定点交付和批量备货的需求。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6ce66c1d-37f0-4473-85b4-4fe2b8e4cf9d.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家了解到，<strong>这一内存模组基于嘉合劲威封装的原厂 DRAM 晶圆</strong>，采用 2Rank×8 结构，通过 25~85℃ 7×24 全天候满负载拷机测试和模拟机房供电波动的供电容错性测试，能够稳定应对各类企业级业务场景。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:12:04 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:12:04 GMT</pubDate>
 </item>
 <item>
@@ -175,10 +814,8 @@
 <link>https://www.ithome.com/0/948/664.htm</link>
 <guid>https://www.ithome.com/0/948/664.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，米哈游法务部今日公布，米哈游诉网络博主许某鹏（网名“自由人米八”）、罗某杰（网名“Joker”“内幕哥”“不锈钢脸盆爱好者”）商业诋毁案近日迎来终审判决。</p><p>此前，两人在直播中使用侮辱性、煽动性语言，恶意炮制、大肆传播“皮套论”，<strong>杜撰米哈游旗下多个游戏角色为公司员工“皮套”的谣言</strong>，蓄意歪曲、抹黑公司员工与游戏角色间的关系，严重践踏了玩家与游戏角色之间珍贵的情感联结，对热爱这些角色的玩家造成巨大伤害。</p><p>谣言发酵后迅速成为网络暴力的导火索，引发大量针对米哈游员工及游戏玩家的恶意辱骂、人身攻击，对游戏社区生态造成持续性的严重破坏。同时该行为对米哈游的商业信誉也造成了严重损害。</p><p>此外，许某鹏多次在直播中侮辱、谩骂米哈游及旗下游戏，利用“黑流量”带货牟利。针对上述侵权行为，米哈游依法提起诉讼。<strong>法院最终认定许某鹏与罗某杰构成商业诋毁，判决两人赔偿共计 43 万元并公开发布声明消除其造成的不良影响</strong>。</p><p>一审法院认定：“皮套论”是一种具备产业“颠覆性损害”的新类型网络谣言。法院指出，该行为通过将虚拟角色与现实人物强行关联，导致玩家产生“被欺骗”的巨大情感落差，引发对于游戏公司的负面评论，该行为的损害范围还会扩散、波及至上下游全产业链条，更可能导致文化创意产业向谣言“让步”，陷入固步自封的创作困境，最终损害整个行业的创新活力与玩家的内容消费体验。</p><p>法院同时认定，被告许某鹏和罗某杰炮制、传播“皮套论”等虚假信息，主观恶意明显，构成商业诋毁。同时，许某鹏长期通过直播形式谩骂米哈游及旗下游戏，借机引流带货，相关言论同样构成商业诋毁。</p><p>IT之家获悉，一审法院判决被告许某鹏、罗某杰就其共同实施的商业诋毁行为，向米哈游赔偿 30 万元，并分别就其单独实施的商业诋毁行为，赔偿 10 万元、3 万元，<strong>合计 43 万元</strong>。此外，二人须公开发布声明，消除不良影响。<strong>二审法院终审维持原判</strong>。</p><p>米哈游法务部表示：</p><blockquote><p>每一位玩家对角色的喜爱与投入，都值得被尊重与守护。健康、有序的讨论氛围是社区良性发展的基础，米哈游始终尊重并欢迎玩家基于事实提出批评与建设性意见。但网络空间绝非“法外之地”，更不应成为造谣者谋取私利的“生意场”，对于故意编造、散布不实信息，恶意抹黑、诋毁玩家及企业的行为，我们将持续予以严厉打击。对于假意敷衍道歉、毫无悔改诚意，转而更换账号、动用小号持续恶意抹黑、造谣诋毁的行为，我们也坚决零容忍，一经发现必从严惩处、绝不姑息，切实维护广大玩家及企业的合法权益。</p></blockquote><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/d43ad605-fbe7-4b3e-967e-4d193e569aeb.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:09:44 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:09:44 GMT</pubDate>
 </item>
 <item>
@@ -186,10 +823,8 @@
 <link>https://www.ithome.com/0/948/659.htm</link>
 <guid>https://www.ithome.com/0/948/659.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，拓竹科技今日发布纯净 PLA 耗材，<strong>售价 75 元起 / 件</strong>，6 件起低至 51 元 / 件。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/1bed6c3b-8c36-4374-8693-189baf40f4bb.jpg?x-bce-process=image/format,f_auto" /></p><p>拓竹纯净 PLA 是食品接触级耗材，仅由五种原料构成，通过欧盟权威安全认证，可打果盘、儿童玩具、宠物用品等。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5f153ecf-4fe8-4687-9315-14b9fb846489.png?x-bce-process=image/format,f_auto" /></p><p>据官方介绍，拓竹纯净 PLA 力学性能对标拓竹基础 PLA，层间强度媲美市面上绝大部分 PLA 耗材。拓竹纯净 PLA 保留了拓竹现有的 RFID 指南识别技术，放入 AMS 中机器即可自动识别耗材类型，打印模型时直接应用原厂精调参数。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f9c63fbe-d08b-4c6c-91a3-d50ec9aba4c1.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: left;">IT之家附拓竹纯净 PLA 色值表如下：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3888888d-6f24-4937-b8a6-2ea26fb49fba.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HrM0dOY" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/432377/6/6537/75301/6a0136e6F80e8c6f9/008332032064d0f6.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">拓竹纯净 PLA Pure 3D 打印耗材</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 75 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 04:00:01 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 04:00:01 GMT</pubDate>
 </item>
 <item>
@@ -197,10 +832,8 @@
 <link>https://www.ithome.com/0/948/658.htm</link>
 <guid>https://www.ithome.com/0/948/658.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，荣耀终端股份有限公司全场景产品线负责人 @荣耀潇哥 今日官宣了一款平板新品 —— 荣耀平板 20。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9b8a5a03-082a-43b9-927c-64ba2a9ab197.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，荣耀平板 20 主打多彩配色，预热海报显示，新平板后置小圆镜组，将拥有粉色、绿色等配色。同时荣耀平板 20 还将配备 12.1 英寸 3K 荣耀全彩类纸屏，<strong>支持类纸笔记体验、AI 备考智能体等</strong>。</p><p>目前，荣耀官方暂未公布荣耀平板 20 更多信息。作为参考，荣耀平板 10 发布于去年 5 月，采用星光云环设计、全金属一体机身，可选日出印象、天青色、苍山灰三款配色。首发价 1499 元起，国补价 1274.15 元起。IT之家附价格信息如下：</p><h3>荣耀平板 10</h3><ul class="medium-size list-paddingleft-2"><li><p>8GB+128GB 首发价 1499 元</p></li><li><p>8GB+256GB 首发价 1799 元</p></li><li><p>12GB+256GB 首发价 1999 元</p></li><li><p>12GB+512GB 首发价 2299 元</p></li></ul><h3>荣耀平板 10 柔光版</h3><ul class="medium-size list-paddingleft-2"><li><p>8GB+256GB 首发价 1999 元</p></li><li><p>12GB+256GB 首发价 2199 元</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2025/5/f8c4ab90-5153-4d4b-9fa6-f484c13df548.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:48:43 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:48:43 GMT</pubDate>
 </item>
 <item>
@@ -208,10 +841,8 @@
 <link>https://www.ithome.com/0/948/657.htm</link>
 <guid>https://www.ithome.com/0/948/657.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，据科技媒体 Reclaim the net 上周（5 月 6 日）报道，美国联邦通信委员会（FCC）上月通过一项提案，<strong>拟要求电信运营商开通电话号码前验证用户身份</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/94b47851-35c1-470f-8d85-b956a00c98aa.jpg?x-bce-process=image/format,f_auto" /></p><p>据报道，FCC 推行实名验证的原因在于打击骚扰电话、保护通信网络免受攻击。新提案要求电信网络运营商加强 KYC（了解你的客户）措施，<strong>目前正在讨论的验证方式包括核对姓名</strong>、<strong>住址</strong>、<strong>政府签发身份证件</strong>、<strong>备用电话号码</strong>。</p><p>FCC 主席<span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"> Brendan Carr 表示：“过去一年里，我们持续调查非法骚扰电话问题。结果发现某些运营商并没有认真审核用户身份，导致不法分子能够渗透电话网络。<strong>某些公司只是做了最低限度的验证工作</strong>，<strong>甚至已经成为诈骗体系的共犯</strong>”。</span></p><p>作为对比，目前 FCC 要求电信运营商采取“积极且有效”的措施验证来电者身份并拦截非法电话。但实际上，<strong>这种规则几乎完全依赖“自我信任”</strong>。</p><p>同时，FCC 还在考虑借鉴银行业反洗钱制度，未来用户销号后，运营商可以继续保留其身份文件至少四年，并要求运营商自动比对执法机构观察名单。</p><p>未来，FCC 还可能按照非法电话数量罚款运营商。如果用户拨出非法电话，<strong>电信运营公司可能面临 1000 至 15000 美元（IT之家注：现汇率约合 6807 元至 10.2 万元人民币）罚款</strong>。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:46:51 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:46:51 GMT</pubDate>
 </item>
 <item>
@@ -219,10 +850,8 @@
 <link>https://www.ithome.com/0/948/656.htm</link>
 <guid>https://www.ithome.com/0/948/656.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，畅网微控 (CWWK) 在上周举行的英特尔 AI NAS 与 Thunderbolt 雷电解决方案峰会上公布了三款 NAS 硬件与 CWOS 这一跨平台开源 NAS 系统。</p><h3>口袋 AI NAS</h3><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/41ed5c68-7311-4b3d-bb18-a82a2eeb67df.jpg?x-bce-process=image/format,f_auto" /></p><p>这一产品基于第三代酷睿 "Wildcat Lake"，提供 4 个 PCIe Gen4 的 M.2 2280 NVMe SSD 盘位，具备 10GbE RJ45 有线网口、Wi-Fi 7 无线网卡，可通过插卡式蜂窝模块实现 5G 移动网络连接，还提供了 2 个 USB4 / 雷电 4 接口。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d397eac6-b62c-461c-b8ff-8e068bfd4e70.jpg?x-bce-process=image/format,f_auto" /></p><h3>九 M.2 盘位全闪 AI NAS</h3><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d72de064-6e50-48b7-88e0-986c4eea25f2.jpg?x-bce-process=image/format,f_auto" /></p><p>这一产品可选英特尔酷睿 Ultra X9 处理器 378H，具备 12 Xe-core GPU。部分配置集成 1 个 M.2 2230 系统盘位和 8 个 M.2 2280 存储盘位、2 个 10GbE RJ45、1 个 2.5GbE RJ45，支持 Wi-Fi 7，同样也是双 USB4 / 雷电 4。</p><blockquote><p><strong>IT之家注：</strong></p><p>根据英特尔官方产品文档，Ultra X9 处理器 378H 不支持 DDR5 内存，也仅有 12 条 PCIe 通道。厂商这里可能混淆了两种不同配置。</p></blockquote><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/32429f0e-70bc-4692-99bb-0ffa9affc877.jpg?x-bce-process=image/format,f_auto" /></p><h3>算力 AI NAS</h3><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/cb9d52f2-8fbc-4550-acba-a4b1bfc524c6.jpg?x-bce-process=image/format,f_auto" /></p><p>对于算力 AI NAS，畅网提供了支持英特尔锐炫 Arc Pro B70 32GB 的 6 / 8 / 12 盘位解决方案。其核心是酷睿 Ultra X7 356H，可安装一块 SSD 系统盘和二块 SSD 加速盘，同样具备 2 个 10GbE、1 个 2.5GbE RJ45、2 个 USB4 / 雷电 4。</p><h3>系统</h3><p>畅网表示其 CWOS 内置多模态 AI 智能搜索功能，支持语音即搜，可为用户节省资料查找时间；未来还计划实现结果导出 + 一键分享、物体 + 人脸识别等功能。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:44:29 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:44:29 GMT</pubDate>
 </item>
 <item>
@@ -230,10 +859,8 @@
 <link>https://www.ithome.com/0/948/654.htm</link>
 <guid>https://www.ithome.com/0/948/654.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，联想今天在微博预热 YOGA Air 14 Ultra 笔记本，张凌赫代言。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ae9af100-47fc-4bce-ade4-fd521c1e5874.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家了解，这款笔记本是“不普通的 AIPC”，可使用天禧 AI 进行同声传译。<strong>搭载 14 英寸触控屏幕</strong>，5 月 19 日晚 19 点发布。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/44f9f22c-545d-4527-8c22-0bf4f0859484.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f6cdcc2f-f52b-42e3-bf69-d1170568f5f6.jpg?x-bce-process=image/format,f_auto" /></p><p>规格方面，这款笔记本拥有“云绢”“烟绫”“夜缎”三种配色可选，<strong>主打 975 克极致轻薄设计</strong>，具备 3.4 克拉钻石铜散热模组。主板采用凌云架构打造，搭载英特尔酷睿 Ultra X Series 3 系列处理器。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/5772455192/QEgMKzrTu" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/4d181c29-d9e4-4181-a2bc-0e0df3f0444d.jpg?x-bce-process=image/format,f_auto" /></a></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:30:07 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:30:07 GMT</pubDate>
 </item>
 <item>
@@ -241,10 +868,8 @@
 <link>https://www.ithome.com/0/948/653.htm</link>
 <guid>https://www.ithome.com/0/948/653.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，广汽昊铂官方今日宣布，昊铂 S600 预售发布会定档 <strong>5 月 17 日</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b0a3f18f-22a8-4fc7-9e8c-ecc73ef94066.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家此前报道，<a href="https://www.ithome.com/0/946/063.htm" target="_blank">广汽昊铂 S600 于 2026 北京车展开启盲订</a>，定位“新豪华智慧运动 SUV”，该车尺寸为 5015mm/1933mm/1700mm，轴距为 2936mm。</p><p>广汽昊铂 S600 提供茱比莉红、夜影黑、冰岩灰、玛瑙紫、极地白、液钛银、深海绿等车漆，配备主动进气格栅 + 双真气道。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b919b46a-c1c8-4692-a7f6-c5f351ad31a8.png?x-bce-process=image/format,f_auto" /></p><p>智能化方面，新车全系标配广汽星灵智行 ADiGO GSD、17.3 英寸智能大屏、高通 8295P 高性能芯片、ADiGO 6.0 智能座舱、27 英寸 W-HUD、<strong>激光雷达</strong>等。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5e954aed-f81c-4fe0-a14a-cceb029435aa.png?x-bce-process=image/format,f_auto" /></p><p>动力方面，新车提供双电机四驱动力系统，综合功率 370kW，<strong>零百加速 4.3 秒</strong>；配备双腔空气悬挂 + SDC 可变阻尼减振器，前双叉臂 + 后五连杆独立悬挂；搭载星源增程，拥有行业第一 3.73kW·h/L 油电转化率、行业第一 85kW 最高持续发电功率等。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/af439838-b589-4401-99d8-0c4783b7070c.png?x-bce-process=image/format,f_auto" /></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:27:09 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:27:09 GMT</pubDate>
 </item>
 <item>
@@ -252,10 +877,8 @@
 <link>https://www.ithome.com/0/948/652.htm</link>
 <guid>https://www.ithome.com/0/948/652.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，本田中国今日发布 2026 年 4 月在中国的终端汽车销量。</p><p>2026 年 4 月，<strong>本田在中国的终端汽车销量为 22,595 辆</strong>。2026 年 1~4 月，本田在中国的终端汽车累计销量为 145,065 辆。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6d0bca70-6423-4949-bfc2-2dcfd15c484e.png?x-bce-process=image/format,f_auto" /></p><p>IT之家以此计算，本田中国 4 月终端汽车销量<strong>同比下降 48.3%</strong>，1-4 月终端汽车销量同比下降 28%。</p><p><a href="https://www.ithome.com/0/947/811.htm" target="_blank">据日本经济新闻报道</a>，本田汽车 2025 财年（截至 2026 年 3 月）的合并营业损益（国际会计准则）预计将出现约 4000 亿日元（IT之家注：现汇率约合 173.53 亿元人民币）亏损，而上一财年为盈利 1.2134 万亿日元（现汇率约合 526.4 亿元人民币）。</p><p>报道提到，电动汽车（EV）相关损失对业绩造成沉重打击。<strong>这也是本田上市以来首次出现营业亏损</strong>。公司计划在 2026 财年依靠摩托车业务持续强劲等因素重返盈利。</p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2026/5/751102c2-7845-412e-bfcc-def44fb86027.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" title="本田上市以来首次营业亏损，预计 2025 财年巨亏 4000 亿日元" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:21:09 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:21:09 GMT</pubDate>
 </item>
 <item>
@@ -263,10 +886,8 @@
 <link>https://www.ithome.com/0/948/651.htm</link>
 <guid>https://www.ithome.com/0/948/651.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，今年 1 月，<a href="https://www.ithome.com/0/912/920.htm" target="_blank">红魔游戏手机产品总经理姜超发文吐槽行业里的设计风气太离谱</a>，称抄袭完 iPhone17 Pro，抄 17 Air，或者拿上一代的产品改改镜头模组，再出个新颜色，千篇一律，审美倒退。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/1/34683a1e-60ec-4e22-89dd-225564b91450.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，红魔游戏手机产品总经理姜超今日再发吐槽，称自己的观点依旧没变 —— <strong>现在的手机圈，“果味”还是太重了</strong>。</p><p>他表示，游戏玩家是一群特立独行的人，他们都有自己的审美，有自己的态度，不喜欢随大流。手机设计必须要足够特别，足够出彩才能赢得他们的认可。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9c5b4565-9e90-455f-8b80-160d8be5258f.jpg?x-bce-process=image/format,f_auto" /></p><p>姜超随后介绍了红魔 11S Pro 系列手机的外观。系列新机将透明进行到底，同时还将水冷内置进去，让水冷在透明机身里真正跑起来。除此之外，红魔 11S Pro 还叠加了纳米级浮雕星轨纹理，让透明机身更有层次。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/fb3940fc-19d3-4e52-b398-b494bc368ec0.jpg?x-bce-process=image/format,f_auto" /></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/912/920.htm" target="_blank">红魔产品经理姜超吐槽手机行业设计风气“太离谱”：千篇一律，审美倒退</a>》</p></li></ul>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:20:47 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:20:47 GMT</pubDate>
 </item>
 <item>
@@ -274,10 +895,8 @@
 <link>https://www.ithome.com/0/948/649.htm</link>
 <guid>https://www.ithome.com/0/948/649.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，据日经中文网今日报道，奇瑞汽车与日本汽车用品公司澳德巴克斯（AUTOBACS SEVEN）等公司合作，将在日本销售中国生产的纯电动汽车。</p><p>IT之家获悉，澳德巴克斯在日本拥有约 1200 家店铺，除汽车用品之外还涉足二手车销售业务。该公司还将业务扩展到比亚迪和现代汽车等品牌的新车销售。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d7b1a22a-9a49-44d1-97cd-b07f27ce0fb5.png?x-bce-process=image/format,f_auto" /></p><p>此外，江苏悦达汽车集团、电池公司国轩高科、日本涂装设备公司阿耐思特岩田也将参与合作，多方共同在新加坡成立了合资公司。</p><p>报道称合资公司将通过旗下的开发销售公司 EMT（位于日本横滨）推出自己的电车品牌，作为源自日本的品牌进行销售。EMT 还有本田、马自达等车企出身的技术人员加入，面向日本开发车辆。</p><p><strong>第 1 款纯电动汽车计划 2027 年开始在日本交付</strong>。利用奇瑞在中国市场积累的技术，搭载高级驾驶辅助等功能。具体价格将在今后确定，但会瞄准普及价位，新车将在悦达汽车位于中国的工厂生产。</p><p>到 2029 年，该公司预计将投放 4 款车型，并考虑拓展日本之外的海外业务，还将探讨 2030 年以后在日本生产。</p><p>新公司将充分运用澳德巴克斯的店铺网络，首年计划设立数百个包括销售和服务在内的基地，在降低开店费用的同时扩大与消费者的接触。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:15:11 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:15:11 GMT</pubDate>
 </item>
 <item>
@@ -285,10 +904,8 @@
 <link>https://www.ithome.com/0/948/648.htm</link>
 <guid>https://www.ithome.com/0/948/648.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，荣耀 600 系列手机现已在京东开启新品预约，目前可购买 1 元权益包，开售后购买荣耀 600 系列有机会获得限量“怦然星动”礼盒。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/dd014dc6-1971-439f-af47-24baf91addd2.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/H1MBOGF" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/435741/4/282/71123/6a013093F24bf7e65/008332032057cd8f.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">荣耀 600 系列 新品预约</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">待发布</span><span class="card-btn-deep">立即预约</span></span></span></span></a></dir><p>作为参考，荣耀 600 系列手机已经在海外市场发布，包含荣耀 600 及荣耀 600 Pro 两种型号。两款机型采用了类似的外观设计，<strong>采用 6.57 英寸 AMOLED 屏幕</strong>（1264×2728 像素，120Hz 刷新率，8000 尼特）；配备 6400mAh 大电池（符合欧洲标准），IT之家附详细参数如下：</p><h2>荣耀 600 Pro</h2><ul class="medium-size list-paddingleft-2"><li><p>处理器：骁龙 8 Elite</p></li><li><p>存储： 12GB 内存 + 512GB 机身存储空间</p></li><li><p>摄像头： 200MP 主摄（OIS）+ 50MP 长焦镜头（3.5x）、 50MP 前置镜头</p></li><li><p>连接：支持 Wi-Fi 7 和蓝牙 6.0。</p></li><li><p>其他：支持 50W 无线充电。</p></li><li><p>土耳其售价： 64,999 里拉，首发 61,999 里拉（IT之家注：现汇率约合 9,281.25 元人民币）</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ded2e4a9-06ff-4c85-93a8-6de5dda1e25e.jpg?x-bce-process=image/format,f_auto" /></p><h2>荣耀 600</h2><ul class="medium-size list-paddingleft-2"><li><p>处理器：骁龙 7 Gen4</p></li><li><p>存储： 8GB 运行内存 + 256GB 存储空间</p></li><li><p>摄像头： 200MP 主摄（OIS）+ 12MP 辅助摄像头、 50MP 前置镜头</p></li><li><p>连接： Wi-Fi 6 和蓝牙 5.4。</p></li><li><p>土耳其售价： 39,999 里拉，首发 34,999 里拉（现汇率约合 5,239.35 元人民币）</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/02484553-e081-4d55-936a-140c07988713.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>不过荣耀官方暂时还没有公布 600 系列手机的国行售价，IT之家将持续关注，第一时间带来最新消息。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/55b21307-157f-44fe-8f8d-0e17e961bc9c.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:13:57 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:13:57 GMT</pubDate>
 </item>
 <item>
@@ -296,10 +913,8 @@
 <link>https://www.ithome.com/0/948/647.htm</link>
 <guid>https://www.ithome.com/0/948/647.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，小鹏集团董事长、CEO 何小鹏今日发布了“我为什么要造小鹏 GX 这台车”主题视频，<strong>并宣布小鹏 GX“下周见”</strong>。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/2455476364/QEPK67ilW" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5575b045-7de4-441d-8a4d-ba9a3427e928.jpg?x-bce-process=image/format,f_auto" /></a></p><p>何小鹏表示，自己造这台车没有那么多理由，<strong>就是想给自己和朋友们造一台车</strong>。而他的朋友们就是想要一台既能自己开得爽、大气、科技、豪华，又可以照顾全家人的各种需求，也一定要是一辆能在各种环境都完全放心托付的车。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7927aa05-c9db-4f72-a2b0-d02a73831506.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/31c7ce7a-7513-4332-ad9f-270845b62976.png?x-bce-process=image/format,f_auto" /></p><p>作为品牌首款全尺寸豪华 SUV，<a href="https://www.ithome.com/0/939/613.htm" target="_blank">小鹏 GX 已于 4 月 15 日正式开启预售</a>，预售价 39.98 万元起。作为小鹏汽车全新一代物理 AI 技术架构 SEPA 3.0 的首发车型，小鹏 GX 定位为 AI 新豪华大六座旗舰 SUV，融合了 Robotaxi 智驾、飞行汽车安全冗余、具身智能芯片及架构等前沿技术。IT之家附预售价如下：</p><h3>小鹏 GX 纯电四驱旗舰版</h3><ul class=" list-paddingleft-2"><li><p>续航 750km：39.98 万元</p></li></ul><h3>小鹏 GX 超级增程四驱旗舰版</h3><ul class=" list-paddingleft-2"><li><p>纯电续航 430km，综合续航 1585km：39.98 万元</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0370d0cf-af79-41a5-bfbb-0221637120ad.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:09:37 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:09:37 GMT</pubDate>
 </item>
 <item>
@@ -307,10 +922,8 @@
 <link>https://www.ithome.com/0/948/646.htm</link>
 <guid>https://www.ithome.com/0/948/646.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，乘联分会今日发布 2026 年 4 月份全国乘用车市场分析，4 月全国乘用车市场零售 138.4 万辆，同比下降 21.5%，环比下降 16.0%；今年 1-4 月累计零售 560.4 万辆，同比下降 18.5%。<strong>4 月全国乘用车市场呈现出“总量承压、结构分化”的复杂特征</strong>。</p><p>4 月新能源乘用车生产达到 120.9 万辆，同比增长 4.7%，环比增长 7.6%。1-4 月累计新能源乘用车生产达到 391.3 万辆，同比下降 4.2%。</p><p>4 月新能源乘用车批发销量达到 122.5 万辆，同比增长 7.5%，环比增长 7.0%；1-4 月新能源乘用车批发销量达到 395.3 万辆，同比下降 1.1%。4 月常规燃油乘用车批发销量达到 89 万辆，同比下降 16%，环比下降 28%。</p><p>4 月新能源乘用车市场零售 84.9 万辆，同比下降 6.8%，环比下降 0.3%；1-4 月新能源乘用车市场零售 275.8 万辆，同比下降 17.2%。4 月常规燃油乘用车零售 53 万辆，同比下降 37%，环比下降 33%。</p><p><strong>4 月新能源车在国内总体乘用车的零售渗透率 61.4%</strong>，较去年同期增长 9.7 个百分点，环比增长 9.6 个百分点。在 4 月国内零售中，自主品牌中的新能源车渗透率 80.1%；豪华车中的新能源车渗透率 26.1%；而主流合资品牌中的新能源车渗透率上升到 14.1%。</p><p>从月度新能源车国内零售份额看，4 月自主品牌新能源车零售份额 65.2%，同比下降 7.2 个百分点；主流合资品牌新能源车份额 4.9%，同比增长 1.7 个百分点；新势力份额 25.6%，零跑汽车、理想汽车、蔚来汽车等品牌拉动新势力份额同比增长 5.6 个百分点；特斯拉份额 3.1%，同比下降 0.1 个点。</p><p>4 月国内新能源乘用车零售突破 2 万辆的企业品牌是：</p><ul class=" list-paddingleft-2"><li><p>比亚迪汽车（182,025 辆）</p></li><li><p>吉利汽车（95,585 辆）</p></li><li><p>长安汽车（64,471 辆）</p></li><li><p>零跑汽车（57,162 辆）</p></li><li><p>小米汽车（36,702 辆）</p></li><li><p>奇瑞汽车（34,768 辆）</p></li><li><p>上汽通用五菱（34,497 辆）</p></li><li><p>理想汽车（34,085 辆）</p></li><li><p>鸿蒙智行（32,759 辆）</p></li><li><p>蔚来汽车（29,312 辆）</p></li><li><p>东风汽车（27,056 辆）</p></li><li><p>广汽埃安（27,042 辆）</p></li><li><p>特斯拉中国（25,956 辆）</p></li><li><p>小鹏汽车（25,005 辆）</p></li><li><p>长城汽车（22,683 辆）</p></li><li><p>上汽乘用车（20,770 辆）</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/97ee74df-593c-4856-aacb-ebf3fa87a210.png?x-bce-process=image/format,f_auto" /></p><p><strong>4 月新能源乘用车厂商出口 40.6 万辆，同比增长 111.8%</strong>，环比增长 18.3%；1-4 月新能源乘用车厂商出口 130.6 万辆，同比增长 118.7%，4 月常规燃油乘用车出口 36 万辆，同比增长 55%，环比增长 5%。</p><p>IT之家附 4 月厂商新能源出口方面优秀的企业名单：</p><ul class=" list-paddingleft-2"><li><p>比亚迪汽车（130,042 辆）</p></li><li><p>奇瑞汽车（57,910 辆）</p></li><li><p>特斯拉中国（53,522 辆）</p></li><li><p>吉利汽车（48,901 辆）</p></li><li><p>上汽乘用车（24,262 辆）</p></li><li><p>零跑汽车（14,225 辆）</p></li><li><p>东风汽车（10,673 辆）</p></li><li><p>长安汽车（9,824 辆）</p></li><li><p>上汽通用五菱（8,561 辆）</p></li><li><p>小鹏汽车（6,006 辆）</p></li><li><p>光束汽车（5,571 辆）</p></li><li><p>极星汽车（4,323 辆）</p></li><li><p>长城汽车（4,094 辆）</p></li><li><p>长安马自达（3,615 辆）</p></li><li><p>一汽红旗（3,282 辆）</p></li><li><p>智马达汽车（2,658 辆）</p></li><li><p>沃尔沃亚太（2,590 辆）</p></li><li><p>北京汽车制造厂（2,339 辆）</p></li><li><p>赛力斯汽车（湖北）（2,226 辆）</p></li><li><p>广汽埃安（2,122 辆）</p></li><li><p>一汽奔腾（1,383 辆）</p></li></ul>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 03:07:21 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 03:07:21 GMT</pubDate>
 </item>
 <item>
@@ -318,10 +931,8 @@
 <link>https://www.ithome.com/0/948/642.htm</link>
 <guid>https://www.ithome.com/0/948/642.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，华硕 TUF GAMING 1000W 装弹手 EVO 金牌全模组电源现已开售，新品主打 80 PLUS 金牌认证，自带优质压纹线，售价 1229 元。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5e5c45be-d16a-4209-871d-0fb5592175d3.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，<strong>这款电源兼容 ATX 3.1、PCIe 5.1 标准</strong>，适配英伟达 RTX 50 系、AMD RX 9000 系显卡，通过 MTBF、跌落、震动、极端温度测试。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/e4f1dff4-c6ce-4fd0-ae5c-2bf17df20c33.jpg?x-bce-process=image/format,f_auto" /></p><p>规格方面，这款电源具备双滚珠轴承风扇，具有 8000 小时寿命，PCB 带有三防涂层，可防止短路现象出现。采用全模组设计，方便玩家理线，自带优质压纹线，支持 8 年质保。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d648106e-3bcf-4a1a-9ceb-7bf6de10c83d.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6dc3affc-dbd4-4be6-bb4d-5fc7f6aab8b1.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/bb269e37-3a48-420e-9f00-fcc2d2e4f1d0.jpg?x-bce-process=image/format,f_auto" /></p><p>值得注意的是，华硕最近还上架了装弹手 EVO 1200W 款，标价 1499 元，<strong>不过目前处于无货状态</strong>。</p><p>IT之家附该电源详细参数如下：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5cc2af23-b1a0-41de-9b2a-168868a4ccbd.jpg?x-bce-process=image/format,f_auto" /></p><p>目前这款电源已在京东开售，<strong>售价 1229 元</strong>。</p><dir><a contenteditable="false" href="https://u.jd.com/HOMPJeH" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/420750/31/22036/71303/69eaddaaFbe5af0b2/00833203200a7d9a.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">华硕（ASUS）TUF GAMING 1000W 装弹手 EVO 金牌全模组电源 </span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">1229 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:59:24 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:59:24 GMT</pubDate>
 </item>
 <item>
@@ -329,10 +940,8 @@
 <link>https://www.ithome.com/0/948/641.htm</link>
 <guid>https://www.ithome.com/0/948/641.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，超频三 (PCcooler, CPS) 现已宣布，其处理器一体式 (AIO) 液冷散热器“双境”<strong>DX360 ARGB Display 将于 5 月 16 日发布并开售</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ac5ec139-6280-4ba1-a9dd-8a1fca3c76cf.jpg?x-bce-process=image/format,f_auto" /></p><p>可以看到这款水冷的<strong>冷头部分拥有一对呈钝角的 IPS LCD 屏幕显示模块</strong>，侧面则配有金属质感饰板。</p><p>IT之家注意到，参考超频三在电商平台上传的数据，DX360 ARGB Display 预计搭载 27mm 标准厚度冷排和 12025 标准规格风扇。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/254ed392-546d-4668-a073-0dff88366672.jpg?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:58:38 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:58:38 GMT</pubDate>
 </item>
 <item>
@@ -340,10 +949,8 @@
 <link>https://www.ithome.com/0/948/640.htm</link>
 <guid>https://www.ithome.com/0/948/640.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，由 NEXON 开发，盛趣游戏代理运营的经典游戏《冒险岛》怀旧服今日官宣，“归岛测试”将于 5 月 20 日正式开启，<strong>限量发放 2000 个测试名额</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e90079a7-a5ec-43c4-a791-e65da263d0bc.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，游戏将在 5 月 15 日在官网公布测试的抽选结果。另外，虽然本次测试为删档测试，<strong>但参与玩家有望获得公测纪念奖励</strong>。</p><p>IT之家注：《冒险岛》怀旧服，是官方推出的首个怀旧服，游戏宣称忠实还原了《冒险岛》上线初期的地图、职业与任务。另外，怀旧服将率先开放战士、法师、飞侠、弓箭手和海盗五大经典初始职业。</p><p>游戏介绍如下：</p><blockquote><p>在彩虹岛上有一个美丽的蘑菇村，村民安居乐业。其中有四种职业战士、魔法师、弓箭手、飞侠特别受到别人的尊敬。每年这四个职业的优秀代表要到一个叫金银岛的地方打猎并展示精湛的技艺。这一年，村里的两个小伙子小强和小乖偷偷溜上了去金银岛的船。他们一路跟随战士、魔法师、弓箭手、飞侠组成的冒险小组。</p><p>这天，冒险小组要完成最后一个任务－挑战史前巨兽蝙蝠魔，蝙蝠魔是一种蝙蝠的变异并且学会了魔法。小强和小乖尾随冒险小组进入地下迷宫，蝙蝠魔巨大的身影出现了，冒险小组的成员使用各自的绝技对蝙蝠魔展开围攻，蝙蝠魔渐渐支持不住。就在蝙蝠魔准备逃跑的时候发现了小强和小乖，一把抓住他们俩飞走了。消息传到彩虹岛，为了找到小强和小乖的下落许多人赶到金银岛展开了大规模的搜救。</p></blockquote><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/4/7088dcf3-9eff-4468-9288-b1ee6b725db0.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/4/a260b901-e14e-49fb-9166-e354e3774c1e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/4/0eda0910-4183-4e60-8715-2db8c9ca8647.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:57:55 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:57:55 GMT</pubDate>
 </item>
 <item>
@@ -351,10 +958,8 @@
 <link>https://www.ithome.com/0/948/639.htm</link>
 <guid>https://www.ithome.com/0/948/639.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，微软 Windows 11 系统曾大幅改动了右键菜单，去掉文件资源管理器右键“刷新”，目前只在桌面保留了该功能。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/691b7663-227c-4b37-9415-bc631dd75455.jpg?x-bce-process=image/format,f_auto" /></p><p>而在最新的 Windows 11 预览版本中，“刷新”按钮终于重新添加到文件资源管理器的右键菜单中。此外，“打印”选项也终于直接显示，不用点击“显示更多选项”了。</p><p>根据 PhantomOfEarth 在 5 月 9 日晒出的截图，<strong>“刷新”功能终于被添加到文件资源管理器的右键菜单中</strong>，不过该功能目前还是隐藏的，IT之家小伙伴可以等待后续版本使用。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ec78d309-6580-4a27-97d2-d90a68e94367.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e1b48dd3-f3c0-42fa-9deb-6c71973ac6e2.png?x-bce-process=image/format,f_auto" /></p><p>此外，<strong>“打印”功能也出现在新版的右键菜单中</strong>，还新增了快速创建快捷方式的选项。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/2609137f-9d37-4071-9015-cd319d81e592.jpg?x-bce-process=image/format,f_auto" /></p><p><a href="https://www.ithome.com/0/943/728.htm" target="_blank">据 Windows Central 此前报道</a>，微软 Windows 负责人帕万 · 达武鲁里（Pavan Davuluri）今年 3 月在交流会中确认，将着手解决用户反馈，目标把 Windows 11 打造成全球最稳定的操作系统。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/4/e05852af-fdad-4258-b60b-2daa096a98f6.png?x-bce-process=image/format,f_auto/auto-orient,o_1" title="拯救 Win11！揭秘微软 Windows K2 宏伟计划" /></p><p>尽管微软的对外说辞并不能完全反映内部真实想法。但内部消息人士透露，微软确实在认真地将 Windows 11 打造成“最佳平台”，<strong>目标 2026 年末-2027 年，让 Windows 11 处于更理想的状态</strong>。</p><p>据内部消息，这项宏伟的整改计划名为“Windows K2”，于 2025 年下半年启动，旨在解决 AI 功能过于臃肿、可靠性下降等用户反对声浪。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:56:50 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:56:50 GMT</pubDate>
 </item>
 <item>
@@ -362,10 +967,8 @@
 <link>https://www.ithome.com/0/948/638.htm</link>
 <guid>https://www.ithome.com/0/948/638.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，上汽通用五菱今日宣布，自 4 月 14 日开启预售以来，<strong>缤果 Pro</strong><strong> 大订</strong><strong>已突破</strong><strong> 30000</strong><strong> 台</strong>。同时，新车<strong>未上市已热销 10000 台</strong>，正在全国范围内陆续交付。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/71870848-ae63-4422-bc84-531ac295027b.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注：这款纯电小车定位为“精致缤纷座驾”，<strong>预售价为 5.88 万元起。</strong></p><ul class=" list-paddingleft-2"><li><p>330 KM 尊享款：5.88 万元起</p></li><li><p>330 KM 旗舰款：6.58 万元起</p></li><li><p>403 KM 尊享款：6.68 万元起</p></li><li><p>403 KM 旗舰款：7.28 万元起</p></li></ul><p>该车长宽高为 4050mm*1758mm*1580mm，轴距为 2560mm，总质量 1670kg，整备质量 1270kg，最高车速 130km/h。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/8e4fadc5-1d85-4b1e-a965-6540a8499381.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>该车以“新复古主义美学”为核心设计语言，推出赫本绿、漫游银、松弛灰、放空白 4 款摩登晶彩车色。内饰方面车辆可选浅米棕与焦糖咖两种配色，采用五座布局，同时为长美甲用户特别设计浮岛式开关。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/69065132-1281-461f-978b-e0ca9f1085e5.png?x-bce-process=image/format,f_auto" /></p><p>座舱方面，该车搭载大尺寸“水韵浮岛”悬浮式中控屏、双辐多功能方向盘以及 50W 手机无线充电功能，内置灵语智能系统，支持语音控制。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/3/9ff8aa6e-29f1-45ae-bb21-cb6578e82103.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:54:25 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:54:25 GMT</pubDate>
 </item>
 <item>
@@ -373,10 +976,8 @@
 <link>https://www.ithome.com/0/948/637.htm</link>
 <guid>https://www.ithome.com/0/948/637.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，华为终端刚刚宣布，鸿蒙智行智界 V9 旗舰 MPV 将搭载智能隐私调光玻璃：<strong>支持明暗调节</strong>，手势轻挥，瞬时遮光。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/1839167003/QEPW8iGvw" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/36de2355-01a6-47b4-b32e-1b2889d9bdb2.jpg?x-bce-process=image/format,f_auto" /></a></p><p>IT之家注意到，智能隐私调光玻璃也算是鸿蒙智行家族化设计之一。去年 3 月发布的问界 M9 2025 款旗舰 SUV、5 月发布的尊界 S800 旗舰轿车就采用了相似设计。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/3032210184/PitOzvXCb" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/33c5212e-83dc-4f4f-85ee-5ab6021a6122.jpg?x-bce-process=image/format,f_auto" /></a></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/3032210184/PxnTrkQhI" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/35da832e-4849-4975-9d0d-e119d372feef.jpg?x-bce-process=image/format,f_auto" /></a></p><p>华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日上午已官宣，鸿蒙智行首款旗舰 MPV 车型 —— <a href="https://www.ithome.com/0/948/583.htm" target="_blank">智界 V9 将于 5 月 15 日发布</a>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1225cafc-9e31-4c09-bb38-dcec8e4d8e0c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:50:12 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:50:12 GMT</pubDate>
 </item>
 <item>
@@ -384,10 +985,8 @@
 <link>https://www.ithome.com/0/948/636.htm</link>
 <guid>https://www.ithome.com/0/948/636.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，Vbot 维他动力今日宣布已完成 Pre-A 轮融资。本轮融资将主要用于大规模量产、销售网络建设，和新一代人形机器人的研发。</p><p><strong>本轮融资金额近 5 亿元</strong>，由东方嘉富，华泰紫金，复星锐正联合领投，上汽集团旗下尚颀资本，明荟致远共同参与投资，凯辉基金、今日资本、高瓴创投、渶策资本、BV 百度风投、柏睿资本等老股东继续投资。</p><p>IT之家获悉，Vbot 首款产品 ——Vbot 超能机器狗已于 5 月 8 日正式启动交付，首批量产 500 台产品，<strong>今日正式下线</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/21878073-8cb8-47b1-89cb-184d488648d8.jpg?x-bce-process=image/format,f_auto" /></p><p>Vbot 超能机器狗<strong>售价 12988 元</strong>，搭载双目深度感知高精度激光雷达，AI 算力可达 128TOPS，续航超 5 小时，官方宣称是全球首款无需遥控的智能机器狗。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/f9c10e71-4522-4c42-9c27-854cf1d31764.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HgMnLLc" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/379174/33/9933/88860/6949ef76F6c0c6d2b/5a64afee54347383.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name"> Vbot 维他动力 BoBo 超能机器狗 四足机器人 白色 </span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">12988 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:44:55 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:44:55 GMT</pubDate>
 </item>
 <item>
@@ -395,10 +994,8 @@
 <link>https://www.ithome.com/0/948/634.htm</link>
 <guid>https://www.ithome.com/0/948/634.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，华硕 (ASUS) 此前在官网上线了 TUF Gaming Platinum 全模组电源。现在这批采用氮化镓 (GaN) MOSFET 的主流级产品以“白金重炮手”之名登陆国行市场，<strong>首发 1000W 款定价 1450 元</strong>，850W 款和 1200W 款预计也将陆续推出。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3d713d8a-7f16-44e0-9271-f9d2ac54231a.jpg?x-bce-process=image/format,f_auto" /></p><p>TUF Gaming Platinum 系列<strong>取得 80 PLUS 与 Cybenetics 白金转换效率认证</strong>、Cybenetic A- 噪声认证。其采用 150mm 长度 ATX 外形规格设计；符合 ATX 3.1 和 PCIe CEM 5.1 规范，可通过高导热性 12V-2×6 端子提供 600W 供电；搭载 135mm 双滚珠轴承风扇。</p><p>其选用 TUF 5K 长寿黑金电容，PCB 覆盖保护性涂层，具备六大主要安全防护机制，通过跌落、高低温循环、盐雾、火焰等系列严苛耐久度测试，<strong>享受 8 年质保</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/4/82584796-5381-4b48-b386-255c4c680184.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HrMfkO2" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/430416/31/13167/2854829/6a00a660F84e0c331/008366066028ab6b.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">华硕 TUF Gaming Platinum 电源 1000W</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">1450 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:41:47 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:41:47 GMT</pubDate>
 </item>
 <item>
@@ -406,10 +1003,8 @@
 <link>https://www.ithome.com/0/948/632.htm</link>
 <guid>https://www.ithome.com/0/948/632.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，小米金沙江充电宝超薄磁吸 10000 45W 今天在有品平台开启众筹，新品拥有新国标设计，支持 20W Max 无线充电，建议零售价 399 元、<strong>众筹价 349 元</strong>（<a href="https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d183568%26amp" target="_blank">点此购买</a>）。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8ac56b9d-c725-42b2-8461-56104da5b5a5.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家从商品页面了解到，这款充电宝搭载小米金沙江硅碳负极电池，能量密度高达 840Wh/L，拥有 16% 旗舰级含硅量。机身采用轻薄设计，整机尺寸 102*70.5*13.2mm，内置两块 5000mAh 电池，重量 195g。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/cbfee02c-dbff-46c2-bcb7-294bbc656aec.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a214e360-52d2-4f83-b0e2-a5dc0068dfe7.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/497b6f7f-19d2-4867-adf2-dddb261f0010.png?x-bce-process=image/format,f_auto" /></p><p>规格方面，这款充电宝具备 20W Max 磁吸无线快充，兼容小米、苹果 iPhone 手机；带有 45W Max 有线快充，向下兼容 40W/30W/27W 等功率，支持有线无线双设备同时充电。自充功率可达 30W Max，兼容 QC、PD 等协议。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7a974eb4-ed73-4197-a29c-949526f119ae.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/76c76d21-f2ce-42da-9df1-987598b45cd3.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a3fe5208-c6b1-43f9-8d1f-dcdd3e0383e8.png?x-bce-process=image/format,f_auto" /></p><p>此外，这款充电宝内置 NTC 智能温控芯片，搭配大面积石墨烯散热材料与高性能导热硅胶。支持连接电脑查看设备状态、电池健康、溯源信息和异常记录等。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/53be8caf-6867-43f7-9e8b-033f506c7ca8.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f2b4c35f-ddd5-4f25-bc07-f76ee1e55bfa.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:40:31 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:40:31 GMT</pubDate>
 </item>
 <item>
@@ -417,10 +1012,8 @@
 <link>https://www.ithome.com/0/948/629.htm</link>
 <guid>https://www.ithome.com/0/948/629.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，红魔游戏手机官方刚刚正式公布了 11S Pro 系列“超未来旗舰”手机的外观，号称“重新定义未来电竞性能美学”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/fc4ea378-3435-46d4-9e79-b69ca2b6d5e4.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1b618872-ce00-4312-9da0-7195c9d5d381.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3cd6a6ab-21bf-4b84-aff7-feb45c4ea3ae.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: left;">红魔官方预热图显示，红魔 11S Pro 系列手机延续了 11 Pro 系列的家族式氘锋透明 + 风水双冷设计，<strong>提供银翼 / 暗夜双色</strong>，将在 5 月 18 日 15:00 发布。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e0fee5da-8a0c-4896-b6a1-c93e61b9d812.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/7cc786c7-ff5b-41b2-9f5d-c4592485980e.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/a7dfd344-40bd-4ad2-b46e-133f617ef161.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家今日早些时候报道，Geekbench 6 跑分平台显示，5 月 10 日，<a href="https://www.ithome.com/0/948/604.htm" target="_blank">一台努比亚的 nubia NX809J 机型单核跑分达到了 4010 分</a>，多核达到 11187 分。消息称这应该是有正经上传跑分记录的第一台在 Geekbench <span class="link-text-start-with-http">6.X</span> 单核测试里跑到 4000+ 的 Android 手机，来自红魔 11S Pro+。</p><p>根据红魔官方预热，红魔 11S Pro 系列手机将搭载超频的第五代骁龙 8 至尊领先版，配备主动散热风扇 + 水冷设计，支持手游 2K 144Hz 超分超帧并发。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/53efa03b-38be-4253-9516-3de7fda1c493.jpg?x-bce-process=image/format,f_auto" /></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:36:56 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:36:56 GMT</pubDate>
 </item>
 <item>
@@ -428,10 +1021,8 @@
 <link>https://www.ithome.com/0/948/621.htm</link>
 <guid>https://www.ithome.com/0/948/621.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，千问 App 今日宣布，<strong>千问与淘宝全面打通</strong>，将千问 App 更新至最新版（6.9.1 及以上），打开千问即可完成淘宝上的<strong>商品挑选、对比及下单购买</strong>。</p><p>官方表示，在挑选一些对性能有要求的商品时，往往需要花大量时间，反复对比各种参数，才能选出最优解，现在千问能省去这些麻烦，快速筛选出同时满足用户需求的商品。</p><p>即使用户说不清想购买商品的性能和条件，千问也能根据描述进行理解，并给出准确的推荐；面对一些更复杂的购物问题，比如长途旅行、爬山露营等需要置办一堆物品时，千问能根据场景特点，推荐一整套的商品组合。</p><p>除了推荐合适商品，有时遇到一些“智商税”或伪需求，千问也能进行辨别，给出理性的购物建议。比如“想买玉石床治糖尿病”，千问会直接回答无法治疗，“没有任何科学研究能证明这一点”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9b1ded71-b296-412c-9c78-f476dda28a15.png?x-bce-process=image/format,f_auto" /></p><p>据IT之家此前报道，今年 3 月，<a href="https://www.ithome.com/0/931/591.htm" target="_blank">阿里千问宣布上线打车能力</a>，可一句话完成选车型、添加途经点、预约时间等操作，还支持“要空气清新的车，价格不超过 30 元”“驾驶平稳”“服务态度好”等个性化需求。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:31:24 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:31:24 GMT</pubDate>
 </item>
 <item>
@@ -439,10 +1030,8 @@
 <link>https://www.ithome.com/0/948/620.htm</link>
 <guid>https://www.ithome.com/0/948/620.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，2026 款比亚迪海鸥车型今日正式上市，<strong>官方指导价 6.99 万元-9.79 万元</strong>，是首款支持搭载激光雷达的 A00 级车型。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/343b9b15-158c-4bc3-afe5-1857548cf6e3.jpg?x-bce-process=image/format,f_auto" /></p><p>2026 款比亚迪海鸥宣称“增配不增价”，<strong>续航可选 305km 和 405km 版本</strong>，其中两个续航的高配版可选装天神之眼 B 辅助驾驶，也就是选装激光雷达。</p><ul class=" list-paddingleft-2"><li><p>305km 活力版 6.99 万元</p></li><li><p>305km 自由版 7.89 万元</p></li><li><p>305km 自由版选装天神之眼 B 总价 9.09 万元</p></li><li><p>405km 自在版 7.89 万元</p></li><li><p>405km 飞翔版 8.59 万元</p></li><li><p>405km 飞翔版选装天神之眼 B 总价 9.79 万元</p></li></ul><p>2026 款比亚迪海鸥的尺寸为 3780×1715×1540mm，轴距 2500mm，<strong>搭载 55kW 电机，配有 30.08kWh 或 38.88kWh 电池</strong>，前麦弗逊 + 后扭力梁悬架，标配前排双安全气囊、全景影像。</p><p>2026 款比亚迪海鸥两个续航的高配版本搭载千里眼、哨兵模式、天神之眼 C — 辅助驾驶（DiPilot 100），可选装天神之眼 B — 辅助驾驶激光版（DiPilot 300）。</p><p>IT之家附官方一图知：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9aed511c-903d-42df-9f3c-4765f626152a.jpg?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:28:37 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:28:37 GMT</pubDate>
 </item>
 <item>
@@ -450,10 +1039,8 @@
 <link>https://www.ithome.com/0/948/619.htm</link>
 <guid>https://www.ithome.com/0/948/619.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，怒喵 (Angry Miao) 本月 9 日发布 CYBERMAT R3“魔毯”。这一设备集成 11 个线圈，可支持 5 台设备同时无线充电，<strong>总输出能力达到 45W</strong>，售价 1180 元。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/37874485-d9a7-4bf4-96cb-bcce168126cb.png?x-bce-process=image/format,f_auto" /></p><p>CYBERMAT R3 长 909mm、宽 405mm，由底垫、面垫和充电系统构成。其内含 3 个金属充电模块，<strong>左侧为支持磁吸的 15W 单线圈</strong>，<strong>中部则是一对均支持双设备无线充电的 15W 五线圈区域</strong>，右侧不支持无线充电。</p><p>其底垫基于 9mm 固态硅胶，相较前代铝合金大幅减重，拥有 3D 防滑纹基底和斜纹散热格栅；原装面垫为 2mm 织物材质；充电系统具备 OCP、OVP、UVP、OPP、SIP 安全机制，同时<strong>还有可智能识别金属异物的 FOD 异物检测功能</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/5e3c8c07-d76c-4f17-a8cc-d56ca9b0b527.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/H1MvAUr" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/427673/32/19600/362168/69feed5bFa9116b0b/00835a05a0dc22fe.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">怒喵 CYBERMAT R3 魔毯</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 1180 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:28:01 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:28:01 GMT</pubDate>
 </item>
 <item>
@@ -461,10 +1048,8 @@
 <link>https://www.ithome.com/0/948/618.htm</link>
 <guid>https://www.ithome.com/0/948/618.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，荣耀手机官方广告发布“神秘讯号”，并正式官宣了荣耀 600 系列新机。海报暗示，系列新机将由肖战代言。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/0db8df5e-68e1-49c7-8869-0f6f86fe18e4.jpg?x-bce-process=image/format,f_auto" /></p><p>荣耀手机微博的设备小尾巴显示，官方已换用荣耀 600 Pro 手机。此次公布的预热海报是谍战风悬念风格，IT之家从 AI 获悉，暗号分两部分解读，包括经纬度坐标和摩斯密码。</p><h3>坐标</h3><p>海报上的四组坐标，对应了四个城市的户外大屏打卡点：</p><ul class="medium-size list-paddingleft-2"><li><p>116.375E 39.908N → 北京</p></li><li><p>121.559E 31.239N → 上海</p></li><li><p>120.214E 30.252N → 杭州</p></li><li><p>113.945E 22.516N → 深圳</p></li></ul><h3>摩斯密码</h3><p>海报下方的摩斯电码，破译后是 LUCKY STAR（幸运星），预计将对应荣耀 600 的“星星背板”设计。</p><ul class="medium-size list-paddingleft-2"><li><p>第一行：· — · · /· · — &nbsp;/ — · — · /—·— / —·— — → LUCKY</p></li><li><p>第二行：··· / — / ·— &nbsp; / ·—· → STAR</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/f6def074-680b-4ef0-a7e9-291469b13a28.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家此前报道，荣耀已于 5 月 6 日在土耳其伊斯坦布尔举行新品发布会，推出新一代荣耀 600 及荣耀 600 Pro 智能手机。</p><p>两款机型采用了类似的外观设计，采用 6.57 英寸 AMOLED 屏幕（1264×2728 像素，120Hz 刷新率，8000 尼特）；配备 6400mAh 大电池（符合欧洲标准），支持 80W 有线快充；后置 200MP 主摄，支持 OIS 光学防抖；支持 IP68 和 IP69K 防水防尘；<span class="no-auto-spacing">预装基于 </span><span class="no-auto-spacing">Android 16</span><span class="no-auto-spacing"> 的 MagicOS 10 系统</span>。</p><h2>荣耀 600 Pro</h2><ul class="medium-size list-paddingleft-2"><li><p>处理器：骁龙 8 Elite</p></li><li><p>存储： 12GB 内存 + 512GB 机身存储空间</p></li><li><p>摄像头： 200MP 主摄（OIS）+ 50MP 长焦镜头（3.5x）、 50MP 前置镜头</p></li><li><p>连接：支持 Wi-Fi 7 和蓝牙 6.0。</p></li><li><p>其他：支持 50W 无线充电。</p></li><li><p>土耳其售价： 64,999 里拉，首发 61,999 里拉（IT之家注：现汇率约合 9,281.25 元人民币）</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e4da8a18-70e6-4d62-be9e-e25d62ed601c.jpg?x-bce-process=image/format,f_auto" /></p><h2>荣耀 600</h2><ul class="medium-size list-paddingleft-2"><li><p>处理器：骁龙 7 Gen4</p></li><li><p>存储： 8GB 运行内存 + 256GB 存储空间</p></li><li><p>摄像头： 200MP 主摄（OIS）+ 12MP 辅助摄像头、 50MP 前置镜头</p></li><li><p>连接： Wi-Fi 6 和蓝牙 5.4。</p></li><li><p>土耳其售价： 39,999 里拉，首发 34,999 里拉（现汇率约合 5,239.35 元人民币）</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/02484553-e081-4d55-936a-140c07988713.jpg?x-bce-process=image/format,f_auto" /></p><p>荣耀同时还在土耳其官网推出了持续至 5 月 15 日的促销活动，用户可获得价值高达 10000 土耳其里拉（现汇率约合 1,497.00 元人民币）的优惠和礼品。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:27:57 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:27:57 GMT</pubDate>
 </item>
 <item>
@@ -472,10 +1057,8 @@
 <link>https://www.ithome.com/0/948/617.htm</link>
 <guid>https://www.ithome.com/0/948/617.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，金龙机电今天就网络传闻“公司为苹果手机三折屏手机提供微马达”作出回应。</p><p>IT之家查询深交所互动易平台发现，4 月 22 日有网友向金龙机电询问：“<span class="el-popover__reference-wrapper">请问网传公司为苹果手机三折屏手机提供微马达？是否属实？是否有批量出货？</span>”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/77ac5c48-1400-4853-82e9-7f400a8b740c.jpg?x-bce-process=image/format,f_auto" /></p><p>而金龙机电今天回应道：“不属实。感谢您对公司的关注”。</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:22:45 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:22:45 GMT</pubDate>
 </item>
 <item>
@@ -483,10 +1066,8 @@
 <link>https://www.ithome.com/0/948/616.htm</link>
 <guid>https://www.ithome.com/0/948/616.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，联想旗下斗战者锋 7000 系列台式机今日新增多款配置可选，<strong>首发到手价 7899 元起</strong>，将于 5 月 13 日正式开售。</p><ul class=" list-paddingleft-2"><li><p>Ultra 5 230F、RTX 5060 Ti、24GB+1TB：8699 元</p></li><li><p>Ultra 5 230F、RTX 5060 Ti、24GB+512GB：8199 元</p></li><li><p>Ultra 5 230F、RTX 5060、24GB+512GB：7899 元</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/e6e11ac4-436c-4999-afcc-28f8a4d0bf45.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/H1MGiLj" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/424657/20/11277/117042/69f1d5aaFd7b27266/00833203207c043b.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">联想来酷斗战者锋 7000 游戏主机 U5-230F RTX5060 24G DDR5 512GB</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 首发优惠券后 7899 元</span><span class="card-btn-deep">领 300 元券</span></span></span></span></a></dir><p>这款台式机搭载英特尔酷睿 Ultra 5 230F 10 核心 10 线程处理器，显卡可选英伟达 RTX 5060/5060 Ti，搭载 500W 电源，机箱散热风道设计至高可解约 700W，支持 Wi-Fi 6 和蓝牙 5.2。售后方面，这款台式机支持 3 年质保 +3 年上门服务。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9c662c0b-a1b5-4c55-8190-9fbf9183b7f0.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附这款新品详细参数如下（RTX 5060 版）：</p><p style="text-align: center;"><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/423485/22/19552/60813/69f1d60dF27792d6a/00d62ee3520e3004.jpg" /></p><p style="text-align: center;"><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/427618/31/6314/44305/69f1d60dF474f8b35/00d62ee3f19db0f5.jpg" /></p><p style="text-align: center;"><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/427532/26/6303/77129/69f1d60dF268d0bd0/00d62ee57f794594.jpg" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:19:12 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:19:12 GMT</pubDate>
 </item>
 <item>
@@ -494,10 +1075,8 @@
 <link>https://www.ithome.com/0/948/614.htm</link>
 <guid>https://www.ithome.com/0/948/614.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，小米电竞鼠标 2 今日上架小米有品众筹，建议零售价 399 元，<strong>众筹价 349 元</strong>（<a href="https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d183514" target="_blank" title="点此参与众筹">点此参与众筹</a>）。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0211240c-dd54-4a0c-a6db-1aff01c0fbbd.jpg?x-bce-process=image/format,f_auto" /></p><p>小米电竞鼠标 2 采用轻量化设计，<strong>拥有 58g 超轻机身</strong>，同时内部结构整体优化，机身采用贴合多种握持习惯的人体工学设计，搭配耐用按键与顺滑滚轮组件。</p><p>小米电竞鼠标 2 搭载全新<strong>原相 PAW3955XM 旗舰传感器、Telink TL3228 主控</strong>，原生双 8000Hz 回报率，至高 20000+ FPS。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/fb67e130-181d-4344-b09b-1ca236e14369.jpg?x-bce-process=image/format,f_auto" /></p><p><strong>小米电竞鼠标 2 支持有线 + 2.4GHz + 蓝牙 6.1 三模连接</strong>，可根据使用场景快速切换模式；530mAh 电池，标称 2.4GHz 模式下 1000Hz 回报率至高可达 160 小时续航。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/4f5b4b9a-95ae-4112-8d1a-e9f8206b1346.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/12af4ef5-9fbd-4bc1-b2be-06c718b05b1f.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附小米电竞鼠标 2 参数表如下（<a href="https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d183514" target="_blank" title="点此参与众筹">点此参与众筹</a>）：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f4ccb132-cabe-4829-bd65-611e2709966e.jpg?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:17:35 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:17:35 GMT</pubDate>
 </item>
 <item>
@@ -505,10 +1084,8 @@
 <link>https://www.ithome.com/0/948/613.htm</link>
 <guid>https://www.ithome.com/0/948/613.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，铭瑄 (MAXSUN) 本月 9 日上线了 MS-eSport B850M WIFI6E 主板。该型号<strong>搭载 8+2+1 相供电</strong>，<strong>核心部分选用 50A DrMOS</strong>，支持锐龙 7 9850X3D / 锐龙 9 9900X3D 处理器“跑满”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7bbb4fc0-65f6-47d4-b0e6-b8215e1b810c.jpg?x-bce-process=image/format,f_auto" /></p><p>这款主板采用 220mm 宽度的<strong>窄款 Micro-ATX 外形规格</strong>，内存槽方面为 2DIMM (1DPC/1SPC) 布局；<strong>提供 2 条 PCIe 插槽和 3 个 M.2 盘位</strong>；拥有天王星“冰蓝星环”外观装饰设计。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9afb2712-54a9-490b-9441-5077a3ba60fd.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家整理铭瑄 MS-eSport B850M WIFI6E 主板核心扩展性如下：</p><ul class=" list-paddingleft-2"><li><p>内存：</p></li><ul class=" list-paddingleft-2"><li><p>2× DDR5 UDIMM (1DPC)，支持 8000 MT/s 超频</p></li></ul><li><p>PCIe 插槽：</p></li><ul class=" list-paddingleft-2"><li><p>1× PCIe Gen5 ×16（直出）；</p></li><li><p>1× PCIe Gen4×4，物理全长。</p></li></ul><li><p>存储：</p></li><ul class=" list-paddingleft-2"><li><p>1× M.2 2280，PCIe Gen5 ×4（直出）</p></li><li><p>1× M.2 2280，PCIe Gen4 ×4；</p></li><li><p>1× M.2 2280，PCIe Gen4 ×4；</p></li><li><p>2× SATA III 6Gbps。</p></li></ul><li><p>网络：</p></li><ul class=" list-paddingleft-2"><li><p>有线：瑞昱 RTL8111M，支持 1GbE；</p></li><li><p>无线：联发科 MT7922，支持 Wi-Fi 6E &amp; BT 5.2。</p></li></ul><li><p>音频：</p></li><ul class=" list-paddingleft-2"><li><p>瑞昱 ALC897 CODEC。</p></li></ul><li><p>外部 I/O：</p></li><ul class=" list-paddingleft-2"><li><p>板内接口：1× USB-C 5Gbps、1× 一分二 USB-A 5Gbps、2× 一分二 USB-A 480Mbps、2× ARGB；</p></li><li><p>后部接口：1× USB-C 5Gbps、2× USB-A 5Gbps、4× USB-A 480Mbps、1× HDMI 1.4、1× 1GbE RJ45、一对 Wi-Fi 天线插孔、3× 音频插孔。</p></li></ul></ul>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:12:18 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:12:18 GMT</pubDate>
 </item>
 <item>
@@ -516,10 +1093,8 @@
 <link>https://www.ithome.com/0/948/612.htm</link>
 <guid>https://www.ithome.com/0/948/612.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，今天上午，搭载天舟十号货运飞船的长征七号遥十一运载火箭，在我国文昌航天发射场点火发射，天舟十号货运飞船与火箭成功分离并进入预定轨道，之后飞船太阳能帆板顺利展开，发射任务圆满成功！</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9e7999ce-1c6c-48a6-9806-3e78aaa42427.jpg?x-bce-process=image/format,f_auto" /></p><p>据央视新闻今日报道，本次任务随飞船上行的物资涵盖实验载荷、实验单元及样品、实验耗材等共 67 件，总重量约 768 公斤。这批物资送达中国空间站后，将及时转运安置，后续将依托空间站实验设施，<strong>分批开展空间生命科学与生物技术、微重力物理科学、空间应用新技术、空间天文与地球科学等领域的 41 项在轨科学实验项目</strong>。</p><p>据介绍，随着天舟十号上行，<strong>我国空间应用系统将搭建起覆盖低等脊椎动物到高等哺乳动物的完整太空胚胎研究链条</strong>，通过多项核心实验，破解太空环境对生命孕育影响的密码，为人类长期驻留太空提供关键生命保障。</p><p><strong>本次任务中将重点开展 5 项空间生命科学实验</strong>，主要研究太空环境如何损伤哺乳动物早期胚胎、失重环境下骨骼丢失和心肌变化的调控机制、空间环境下人类“人工胚胎”的构建与发育等关键问题。未来人类若想长期驻留太空甚至实现星际移民，必须解决太空环境下的生殖和健康保障问题。</p><p>本次天舟十号飞船还将搭载柔性封装单晶硅太阳电池样品进入太空，开展在轨空间环境实验，<strong>该实验项目将为我国商业航天互联网组网、太空算力及未来太空光伏产业发展提供技术支撑</strong>。电池原型样品由科研人员封装后，放入专用实验单元送上太空，将安置于中国空间站材料舱外暴露实验平台，开展空间粒子辐照、紫外辐照、原子氧侵蚀等空间综合极端环境下的暴露实验。</p><p>由香港科技大学牵头研制的轻小型高分辨率温室气体点源协同探测仪本次也随天舟十号飞船上行中国空间站，精准捕捉全球碳排放的细微变化。一款轻小型高分辨率温室气体点源协同探测仪的核心任务，就是测量全球中低纬度重点排放源的二氧化碳和甲烷浓度。</p><p>IT之家注意到，除了以上实验以外，随天舟十号飞船上行的其他实验项目，<strong>还包括微重力流体物理、燃烧科学、空间材料科学等多个领域</strong>。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/5872960861/QEPYfskGI?refer_flag=1001030103_" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/be91db59-6c75-4be6-88ca-e201f7ef6303.jpg?x-bce-process=image/format,f_auto" /></a></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/7496227484/QEPpf584D?refer_flag=1001030103_" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9455db03-2159-4d42-8444-2fb98cd6c52b.jpg?x-bce-process=image/format,f_auto" /></a></p>
 ]]></content:encoded>
-<pubDate>Mon, 11 May 2026 02:11:30 GMT</pubDate>
 <pubDate>Mon, 11 May 2026 02:11:30 GMT</pubDate>
 </item>
 <item>
@@ -527,13 +1102,10 @@
 <link>https://www.ithome.com/0/948/611.htm</link>
 <guid>https://www.ithome.com/0/948/611.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 11 日消息，据科技媒体 Wccftech 今天报道，产业链消息人士透露，英伟达已经与 ODM 厂商敲定 Vera Rubin 平台的最终生产方案。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4008060e-31c9-4af0-97d1-b1db14b32b88.jpg?x-bce-process=image/format,f_auto" /></p><p>据报道，Vera Rubin 的上市计划将分为多个阶段稳步推进。试产预计在下个月启动，<strong>首批产品将于今年 7 月运往北美大型 AI 数据中心和云服务企业</strong>，微软、谷歌、亚马逊、Meta 和甲骨文等客户预计将成为首批客户。</p><p>同时，台积电已在今年早些时候，基于 3nm 制程工艺量产 Vera Rubin 芯片。<strong>富士康、广达、纬创资通等合作伙伴将在下半年启动全面量产</strong>，<strong>预计第三季度大规模出货</strong>。</p><p>业内人士预计，英伟达 Vera Rubin AI 服务器机柜的价值约为 1.8 亿美元（IT之家注：现汇率约合 12.25 亿元人民币），配备强大的软件生态系统。</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 May 2026 02:06:41 GMT</pubDate>
-<pubDate>Mon, 11 May 2026 02:06:41 GMT</pubDate>
 </item>
-
 <item>
 <title>消息称小红书启动新一轮期权回购：在职员工 25.5 美元，离职 21 美元</title>
 <link>https://www.ithome.com/0/948/609.htm</link>

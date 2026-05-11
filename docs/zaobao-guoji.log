@@ -185,3 +185,15 @@ Append: [伊朗媒体公布德黑兰回应美方要点](https://www.zaobao.com/n
 Append: [逾40国11日聚首 商讨英法牵头霍尔木兹海峡护航计划](https://www.zaobao.com/news/world/story20260511-9027974)
 append_entries: 7
 Finish: 2026-05-11 05:57:05.935283
+------------------------------------------------------
+Started: 2026-05-11 08:58:58.757233
+Existing_entries: 57
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 266
+Summarized using deepseek-v4-pro
+Append: [从游轮回国 法国一女子汉坦病毒检测呈阳性](https://www.zaobao.com/news/world/story20260511-9030109)
+Token length: 889
+Summarized using deepseek-v4-pro
+Append: [特朗普称美国最高法院应对他的行政命令“忠诚”](https://www.zaobao.com/news/world/story20260511-9029513)
+append_entries: 2
+Finish: 2026-05-11 09:02:25.191347
