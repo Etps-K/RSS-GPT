@@ -2311,3 +2311,9 @@ Summarized using deepseek-v4-pro
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/109636)
 append_entries: 1
 Finish: 2026-05-11 12:34:01.986305
+------------------------------------------------------
+Started: 2026-05-11 16:22:56.958718
+Existing_entries: 111
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-05-11 16:22:59.510717
