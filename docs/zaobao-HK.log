@@ -264,3 +264,9 @@ Summarized using deepseek-v4-pro
 Append: [“习特会”本周四登场 仪式与博弈同步上演](https://www.zaobao.com/news/china/story20260512-9032618)
 append_entries: 1
 Finish: 2026-05-11 19:25:30.087792
+------------------------------------------------------
+Started: 2026-05-11 21:08:17.419653
+Existing_entries: 84
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-11 21:08:17.571541
