@@ -2302,3 +2302,12 @@ Summarized using deepseek-v4-pro
 Append: [手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
 append_entries: 1
 Finish: 2026-05-11 08:55:16.610754
+------------------------------------------------------
+Started: 2026-05-11 12:33:23.391723
+Existing_entries: 110
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-pro
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/109636)
+append_entries: 1
+Finish: 2026-05-11 12:34:01.986305

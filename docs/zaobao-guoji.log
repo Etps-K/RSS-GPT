@@ -197,3 +197,26 @@ Summarized using deepseek-v4-pro
 Append: [特朗普称美国最高法院应对他的行政命令“忠诚”](https://www.zaobao.com/news/world/story20260511-9029513)
 append_entries: 2
 Finish: 2026-05-11 09:02:25.191347
+------------------------------------------------------
+Started: 2026-05-11 12:36:26.607599
+Existing_entries: 59
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 679
+Summarized using deepseek-v4-pro
+Append: [美国大学生就业难 催生创业潮](https://www.zaobao.com/news/world/story20260511-8906069)
+Token length: 286
+Summarized using deepseek-v4-pro
+Append: [联合国：苏丹无人机袭击三个月致近900平民死亡](https://www.zaobao.com/news/world/story20260511-9031517)
+Token length: 879
+Summarized using deepseek-v4-pro
+Append: [韩国“黄昏离婚”首超“新婚离婚” 高龄化改变婚姻版图](https://www.zaobao.com/news/world/story20260511-9012635)
+Token length: 493
+Summarized using deepseek-v4-pro
+Append: [研究：工作时间长更容易肥胖](https://www.zaobao.com/news/world/story20260511-9030263)
+Token length: 392
+Summarized using deepseek-v4-pro
+Append: [日本迎来伊朗战争后首批阿塞拜疆原油](https://www.zaobao.com/news/world/story20260511-9030849)
+Append: [伊朗呼吁结束地区战争 解冻伊朗海外资产](https://www.zaobao.com/news/world/story20260511-9030571)
+Append: [涉疫游轮六乘客飞抵澳洲后 须立刻隔离三周](https://www.zaobao.com/news/world/story20260511-9030425)
+append_entries: 7
+Finish: 2026-05-11 12:45:54.710646
