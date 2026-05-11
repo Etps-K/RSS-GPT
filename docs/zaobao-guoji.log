@@ -162,3 +162,26 @@ Summarized using deepseek-v4-pro
 Append: [伊朗对美国和平方案回应 特朗普称完全不可接受](https://www.zaobao.com/news/world/story20260511-9027708)
 append_entries: 5
 Finish: 2026-05-11 02:05:01.654165
+------------------------------------------------------
+Started: 2026-05-11 05:51:28.254780
+Existing_entries: 50
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 253
+Summarized using deepseek-v4-pro
+Append: [俄罗斯驻日大使：俄日关系进入“冰河期”](https://www.zaobao.com/news/world/story20260511-9028995)
+Token length: 341
+Summarized using deepseek-v4-pro
+Append: [涉疫游轮四名德国乘客回国接受隔离](https://www.zaobao.com/news/world/story20260511-9028848)
+Token length: 91
+Summarized using deepseek-v4-pro
+Append: [土耳其客机在加德满都机场降落时起火](https://www.zaobao.com/news/world/story20260511-9028772)
+Token length: 679
+Summarized using deepseek-v4-pro
+Append: [特朗普：最高法院关税裁决应写入“已支付政府的税款不必偿还”](https://www.zaobao.com/news/world/story20260511-9028575)
+Token length: 453
+Summarized using deepseek-v4-pro
+Append: [最新民调：过半美国选民不满特朗普经济政策](https://www.zaobao.com/news/world/story20260511-9028468)
+Append: [伊朗媒体公布德黑兰回应美方要点](https://www.zaobao.com/news/world/story20260511-9028115)
+Append: [逾40国11日聚首 商讨英法牵头霍尔木兹海峡护航计划](https://www.zaobao.com/news/world/story20260511-9027974)
+append_entries: 7
+Finish: 2026-05-11 05:57:05.935283
