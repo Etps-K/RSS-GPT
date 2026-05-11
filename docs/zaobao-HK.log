@@ -255,3 +255,12 @@ Append: [下午察：赖清德“习特会”前跪拜八田与一](https://www.
 Append: [台媒：郑丽文6月访美 要让华盛顿相信国民党亲美立场未变](https://www.zaobao.com/news/china/story20260511-9031535)
 append_entries: 7
 Finish: 2026-05-11 16:27:57.378856
+------------------------------------------------------
+Started: 2026-05-11 19:24:20.200505
+Existing_entries: 83
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1546
+Summarized using deepseek-v4-pro
+Append: [“习特会”本周四登场 仪式与博弈同步上演](https://www.zaobao.com/news/china/story20260512-9032618)
+append_entries: 1
+Finish: 2026-05-11 19:25:30.087792
