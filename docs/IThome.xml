@@ -4,15 +4,14 @@
 <title>IT之家</title>
 <link>https://www.ithome.com/</link>
 
+
 <item>
 <title>谷歌安卓 17 新增系统验证功能：Pixel 10 等手机首发，识别恶意仿冒系统</title>
 <link>https://www.ithome.com/0/949/552.htm</link>
 <guid>https://www.ithome.com/0/949/552.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 Android Show I/O Edition 活动中，<strong>谷歌宣布将为安卓 17 系统引入操作系统验证功能，帮助用户确认设备是否运行官方认证的安卓版本，重点针对伪装成正版系统的恶意修改版。</strong></p><p>IT之家援引博文介绍，操作系统验证（OS verification）核心作用是让用户直接查看其手机运行的系统，<strong>是否属于谷歌认可、广泛分发的官方安卓版本，减少用户被伪装系统误导的风险。</strong></p><p>谷歌在活动中表示近期部分不法行为者发布经过修改的安卓版本，在外观方面非常接近官方系统，但可能在后台破坏设备完整性，甚至埋入安全风险。</p><p>而操作系统验证（OS verification）可以识别这类“看起来像正版”的系统，从官方截图来看，这一页面至少会展示 3 类信息，包括 Play Protect 状态、引导加载程序状态，以及版本号信息。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/c25f2203-d4d0-45e0-a07b-adb792fa6c5a.png?x-bce-process=image/format,f_auto" /></p><p>截图还暗示，用户或许还能借助另一台设备完成系统验证，不过谷歌暂未公开这一方式的更多细节。</p><p>上线节奏方面，操作系统验证功能将率先登陆 Pixel 10 等系列手机，预计随安卓 17 稳定版一同上线。按照安卓更新节奏，其他厂商后续在推送稳定版安卓 17 时，也有机会纳入这项能力，但具体时间仍取决于各家厂商安排。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 19:07:11 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 19:07:11 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://www.ithome.com/0/949/551.htm</link>
 <guid>https://www.ithome.com/0/949/551.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Central 今天（5 月 13 日）发布博文，报道称在 2026 年 Android Show I/O Edition 活动中，谷歌公布了 Android Auto 多项新变化，<strong>核心方向是让车联系统更贴合不同车型屏幕，也更接近日常手机体验。</strong></p><p>IT之家援引博文介绍，此次更新围绕界面设计、导航显示、车内娱乐和 Gemini 智能助手等推进，重点之一就是 Google Maps 地图应用。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/26cc0482-50c0-45b6-ac1e-adebd11760c3.png?x-bce-process=image/format,f_auto" /></p><p>新版采用贴边全屏设计，更好适配不同尺寸和比例的车载屏幕。与此同时，地图还会加入沉浸式导航功能，通过更丰富的 3D 视图强化驾驶中的路径识别能力，更直观展示建筑、道路和周边环境。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/71ee77aa-43cf-4bf3-9923-d24f70ef52a3.png?x-bce-process=image/format,f_auto" /></p><p>在细节层面，新的 3D 导航不只展示立体建筑，还会纳入高架、地形、车道和交通信号灯等关键信息。系统中代表车辆的小车模型也会跟随路线移动。</p><p>除地图外，Android Auto 首页还将支持常用联系人快捷入口，以及车库门一键开启按钮。系统进一步融合 Material 3 Expressive 设计语言，带来更流畅的动画、更多壁纸和更有辨识度的字体。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/c6ff2318-c219-43ba-857b-cd61281c4e47.png?x-bce-process=image/format,f_auto" /></p><p>车载娱乐方面，谷歌表示，针对停车状态或充电时的休闲场景，Android Auto 今年将支持 60fps 全高清视频播放，支持品牌包括 BMW、Ford、Genesis、Hyundai、Kia、Mahindra、Mercedes-Benz、Renault、Škoda、Tata 和 Volvo。出于道路安全考虑，车辆开始移动后，视频会自动暂停并切换为纯音频模式。</p><p>音频方面，杜比全景声首批覆盖 BMW、Genesis、Mahindra、Mercedes-Benz、Renault、Škoda、Tata 和 Volvo。YouTube Music 和 Spotify 也将迎来视觉更新。Gemini 正在扩大车载覆盖范围，Gemini Intelligence 预计今年晚些时候上线，可结合上下文回复短信、辅助下单 DoorDash 常点餐品。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 18:56:25 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 18:56:25 GMT</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@
 <link>https://www.ithome.com/0/949/550.htm</link>
 <guid>https://www.ithome.com/0/949/550.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 Android Show I/O Edition 活动中，<strong>谷歌宣布增强安卓 17 系统防盗能力，核心升级“Find Hub”的“标记为丢失”功能。</strong></p><p>“标记为丢失”功能新增 Biometric Authentication（生物识别认证），目标是即便窃贼已经拿到设备 PIN，也难以关闭追踪或重新控制手机。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/0cb9bd8c-761d-4255-b7a9-6322a0450605.png?x-bce-process=image/format,f_auto" /></p><p>IT之家援引博文介绍，安卓设备过去主要依赖密码或 PIN 锁定，而现在用户触发丢失模式后，想要重新获得访问权限，必须通过指纹或面部等生物识别方式完成验证。这样一来，仅掌握 PIN 的窃贼将被拦在系统之外。</p><p>在手机被标记为丢失后，系统会自动隐藏快捷设置，减少窃贼从下拉菜单快速关闭关键功能的机会。同时，设备还会禁用新的 Wi-Fi 和蓝牙连接，防止他人借助无线方式切断定位、配对配件或转移控制路径。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/aaa24a04-88c1-4f0b-9037-e89c7da91656.png?x-bce-process=image/format,f_auto" /></p><p>谷歌还默认开启 Remote Lock（远程锁定）和 Theft Detection Lock（盗窃检测锁）两项既有防盗能力。这项策略建立在巴西试点成功的基础上。今后所有新的安卓 17 设备，以及刚恢复出厂设置或刚升级到安卓 17 的设备，都会默认拥有这两层保护。</p><p>除功能层面的拦截外，Android 17 还压缩了 PIN 或密码的可尝试次数，并拉长连续输错后的等待时间，进一步限制暴力猜测。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 18:45:50 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 18:45:50 GMT</pubDate>
 </item>
 <item>
@@ -42,10 +37,8 @@
 <link>https://www.ithome.com/0/949/549.htm</link>
 <guid>https://www.ithome.com/0/949/549.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 Android Show I/O Edition 活动中，<strong>谷歌宣布重绘安卓系统全部约 4000 个 Emoji 标签，升级现有的扁平风格为 3D 设计，官方名称为 Noto 3D。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/2968f985-4711-4016-afb2-af790c24bf01.jpg?x-bce-process=image/format,f_auto" /></p><p>在名称方面，谷歌沿用了现有的 Noto emoji 体系，宣布推出 Noto 3D 全新设计，重绘安卓系统当前支持的约 4000 个 Emoji。谷歌强调，新版 3D 表情会显得“更鲜活”，进一步增强情绪表达效果，让表情不只是附着在文字后面的点缀，而是成为更有存在感的沟通元素。IT之家附上相关图片如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/7e8f2f1c-ffaa-4232-866d-8c1f23e29b65.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b48d641c-526c-4d07-943a-33f257e20b6c.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4c5063ce-4d6c-4382-bf96-0548ce9f651c.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/72af823f-a93a-465e-8f7d-932927cdbe91.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3ec16713-cb2b-4a4e-97b1-0ddedfa0477f.jpg?x-bce-process=image/format,f_auto" /></p><p>时间方面，谷歌给出的说法是“今年稍晚”，首批适配设备是 Pixel，随后会在 Gboard、YouTube 和 Gmail 中落地。报道指出，其它安卓设备何时获得新版表情，以及是否需要特定硬件或软件条件，目前都没有明确答案。</p><p>除了表情升级，谷歌还提到 Gboard 将加入新的 Rambler mode（Rambler 模式）。这一模式会清理口语中的赘词，让冗长、发散的表达更紧凑。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 18:38:01 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 18:38:01 GMT</pubDate>
 </item>
 <item>
@@ -53,10 +46,8 @@
 <link>https://www.ithome.com/0/949/548.htm</link>
 <guid>https://www.ithome.com/0/949/548.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 Android Show I/O Edition 活动中，谷歌宣布和苹果公司合作，<strong>进一步简化从 iPhone 转到安卓手机的换机流程。</strong></p><p>谷歌表示本次升级进一步降低用户换机门槛，优化 iPhone 向安卓手机的无线数据迁移流程，新增覆盖密码和主屏布局等选项。谷歌在博客中提到，用户的密码、照片、消息、常用应用、联系人，甚至主屏布局，都可以从 iPhone 无线迁移到新的安卓设备。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/74ede7a5-3a52-4707-a803-bf928a2b5deb.jpg?x-bce-process=image/format,f_auto" /></p><p>谷歌强调换机不再只是“复制文件”，<strong>而是更接近完整搬运原有数字生活，能明显减少重新登录、重新整理桌面的时间成本。</strong></p><p>与此同时，新流程还支持 eSIM（嵌入式 SIM 卡）转移，进一步减少实体卡操作步骤，对使用双卡或依赖运营商数字卡的用户更友好。</p><p>谷歌表示，这套新的无线迁移流程将在今年率先登陆三星 Galaxy 和谷歌 Pixel 机型，其它安卓厂商何时跟进，暂时还没有更明确时间表。不过从实际影响看，谷歌显然希望把跨平台换机体验做得更顺滑，以吸引更多 iPhone 用户尝试安卓生态。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 18:28:08 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 18:28:08 GMT</pubDate>
 </item>
 <item>
@@ -64,10 +55,8 @@
 <link>https://www.ithome.com/0/949/547.htm</link>
 <guid>https://www.ithome.com/0/949/547.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 Android Show I/O Edition 活动中，<strong>谷歌确认 Adobe Premiere 将于 2026 年夏季登陆安卓平台。这是其继 Windows、Mac、iOS 与 iPadOS 之后，首次覆盖安卓生态。</strong></p><p>谷歌表示，安卓版 Adobe Premiere 将引入来“独家”模板，帮助用户制作 YouTube Shorts，并支持直接上传发布。该模板主要面向短视频创作者，重点不只在剪辑本身，也在覆盖从拍摄、编辑到分发的完整创作链路。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/512eba21-c70f-4e11-941e-bcd5a5ec25e1.png?x-bce-process=image/format,f_auto" /></p><p>IT之家援引博文介绍，谷歌还表示为了减少用户对第三方专业工具的依赖，并提升 Instagram 等应用中的原生视频画质与创作效率，<strong>计划在未来几个月为安卓加入一套原生视频录制与编辑功能。</strong></p><p>谷歌目前还没有公开 Android 版 Adobe Premiere 的界面细节、工具范围和系统要求。考虑到手机屏幕较小，移动版大概率会采用更简化的操作流程。但如果面向折叠屏、平板等大屏设备，也很有可能出现专门的平板界面，从而承接更复杂的时间线编辑需求。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 18:17:20 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 18:17:20 GMT</pubDate>
 </item>
 <item>
@@ -75,10 +64,8 @@
 <link>https://www.ithome.com/0/949/546.htm</link>
 <guid>https://www.ithome.com/0/949/546.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，在 2026 年 The Android Show | I/O Edition 活动中，谷歌推出基于安卓技术栈、内置 Gemini 的高端笔记本新类别 Googlebooks，首批产品将于今年秋季上线。伴随着新产品方向明确，也带来一个现实问题：<strong>Chromebook 今后会不会被边缘化，甚至逐步退场。</strong></p><p>科技媒体 Android Authority 经过官方确认，表示对现有 Chromebook 用户来说，<strong>眼下最重要的消息是支持政策没有改变。</strong></p><p>IT之家援引博文介绍，谷歌表示，<strong>2021 年及之后发布的 Chromebook 可获得 10 年自动软件更新</strong>，部分更早的机型也符合延长更新条件。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/62f59e16-1c53-44b5-9028-9792d5526701.png?x-bce-process=image/format,f_auto" /></p><p>不过，谷歌并没有正面说明未来是否还会有新的 Chromebook 面世。在 The Android Show I/O Edition 前的沟通中，谷歌没有确认后续 ChromeOS 笔记本的发布计划。</p><p>虽然这类产品通常不是谷歌亲自推出，而是由合作品牌负责，但品牌方未来是否继续围绕 ChromeOS 推出新机，暂时仍不明朗。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/695db7a5-9dac-4e49-b646-6ce196f20260.jpg?x-bce-process=image/format,f_auto" /></p><p>从产品定位看，Chromebook 与 Googlebooks 的差异非常明显。Chromebook 过去依靠低价、易管理和轻量体验，在教育市场以及普通日常使用场景中积累了大量用户。Googlebooks 则被定义为高端设备，预计价格不会便宜，未来可能直接对标 MacBook 和高端 Windows 笔记本。</p><p>针对现有设备，<strong>谷歌公司确认部分硬件“有资格过渡到新体验”</strong>，但是官方并未明确说明相关细节，不过该媒体解读认为，部分现有 Chromebook 能部分获得 Googlebooks 式体验。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 18:08:07 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 18:08:07 GMT</pubDate>
 </item>
 <item>
@@ -86,10 +73,8 @@
 <link>https://www.ithome.com/0/949/545.htm</link>
 <guid>https://www.ithome.com/0/949/545.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 The Android Show | I/O Edition 活动中，<strong>谷歌针对用户“无意识刷屏”问题，公布安卓数字健康新功能 Pause Point。</strong></p><p>该功能核心目标是减少用户无意识刷短视频、刷社交媒体的时间，相比过去依靠硬性限时的管理方式，这项功能更强调“轻提醒”，试图在用户沉浸到分心应用前，先打断惯性动作。</p><p>在具体操作过程中，用户可把某些应用标记为“分心应用”。当再次打开这些应用后，安卓不会立刻阻止使用，而是先给出 10 秒缓冲时间，让用户想一想自己为何打开它、是否真要继续停留。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b996d63e-70e8-44e7-bb32-ba20106daa5a.png?x-bce-process=image/format,f_auto" /></p><p>在这 10 秒里，系统还会提供几种替代动作，帮助用户把注意力从刷屏转向更有目的的行为。可选内容包括短时呼吸练习、查看喜欢的照片、设置计时器，或直接跳转到有声书应用等其他应用建议。这个思路不是强制管理，而是给用户一个重新选择的机会。</p><p>Pause Point 还有一个细节设计：如果想关闭该功能，用户需要重启手机。这个门槛不算高，但足以避免用户在一时冲动下立刻取消限制。</p><p>IT之家援引博文介绍，与安卓现有按天统计使用时长、到点锁应用的模式相比，<strong>它更灵活，也更适合应对“本想看 2 分钟，结果刷了半天”的典型场景。</strong></p><p>从产品定位看，Pause Point 更像数字健康体系里的“中间层工具”。它不像应用计时器那样强硬，也不像单纯的时长统计那样被动，而是在使用行为发生当下介入，提醒用户停一下、想一下，再决定是否继续。</p><p>谷歌还表示，2026 年内会推出更多数字健康功能，但暂时没有披露细节。就现有信息看，Pause Point 不能彻底改变用户与手机的关系，却可能在一次次短暂停顿中，帮用户减少无意识刷屏，把注意力拉回现实生活。</p><p style="text-align: center;"> </p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 17:54:06 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 17:54:06 GMT</pubDate>
 </item>
 <item>
@@ -97,10 +82,8 @@
 <link>https://www.ithome.com/0/949/544.htm</link>
 <guid>https://www.ithome.com/0/949/544.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 The Android Show | I/O Edition 活动中，<strong>谷歌全面升级安卓智能助手生态，提出 Gemini Intelligence 系统性方案。</strong></p><p style="text-align: center;"> </p><p>在定位方面，谷歌希望通过 Gemini Intelligence，在安卓生态中让 Gemini 从“问答助手”转型为更主动的安卓助手形态，重点不是单纯聊天，而是让系统更了解用户需求，并能跨应用、跨网页代为完成任务。</p><p>Gemini Intelligence 方案的核心，就是任务自动化。谷歌表示 Gemini Intelligence 不只支持在应用内处理任务，还能借助 Chrome 浏览器完成网页操作。只要一项事务原本能在网页上完成，未来 Gemini 也希望能代用户执行。IT之家附上相关演示视频如下：</p><p style="text-align: center;"> </p><p>最直接的落地场景之一就是填写表单。相比 Chrome 以往主要面向重复表单的自动填充，Gemini Intelligence 目标是代用户完成填写，可以驾驭各种复杂表单。</p><p style="text-align: center;"> </p><p>谷歌同时强调，这类自动化具备明确边界。Gemini 只会在用户允许的应用中工作，也只处理用户直接指派的任务。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/296aa97c-6af2-4036-932e-cd0029d22120.png?x-bce-process=image/format,f_auto" /></p><p>除自动化外，Gemini Intelligence 还加入 2 项新工具。Create My Widget（创建我的小组件）允许用户用文字描述需要的小组件功能，再由 Gemini 生成对应代码。</p><p style="text-align: center;"> </p><p>Gboard 的 Rambler（润写）模式则面向语音输入场景，可整理重复、修改频繁的口述内容，把杂乱表达整理成更流畅的文本。</p><p>在算力分配上，谷歌采用端侧与云端结合策略。简单请求可交给设备本地的 Gemini Nano（双子座轻量模型）处理，遇到更复杂需求时，再调用云端 Gemini。</p><p>车机方面，支持机型连接 Android Auto 后也会看到 Gemini Intelligence。</p><p>谷歌目前计划分阶段陆续推送功能更新，其中 Chrome 自动浏览计划自 6 月起启动，Google Pixel 与部分三星 Galaxy 手机将从今年夏季开始分批获得这些能力。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 17:45:30 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 17:45:30 GMT</pubDate>
 </item>
 <item>
@@ -108,10 +91,8 @@
 <link>https://www.ithome.com/0/949/543.htm</link>
 <guid>https://www.ithome.com/0/949/543.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，在今天举办的 2026 年 The Android Show | I/O Edition 专场活动中，谷歌宣布扩展“快速分享”（Quick Share）功能，一方面第三方安卓应用接入，另一方面让更多安卓手机兼容苹果“隔空投送”（AirDrop）。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a5c40869-8e31-47bb-ac15-7ec317752f0e.jpg?x-bce-process=image/format,f_auto" /></p><p>谷歌认为应用内“快速分享”的意义在于补足设备差异，因此希望把本地文件分享带给更多用户。本次更新围绕着 2 个方面展开：</p><ul class="medium-size list-paddingleft-2"><li><p>其一是第三方安卓应用接入，首批接入应用为 WhatsApp。</p></li><li><p>其二，更多安卓品牌手机将在今年获得 AirDrop 兼容能力，覆盖三星、OPPO、OnePlus、vivo、小米和 HONOR 等厂商。</p></li></ul><p>IT之家援引博文介绍，即便用户的安卓手机暂时不兼容苹果“隔空投送”，用户也不需要先上传互联网再下载回来，<strong>可以在 WhatsApp 中直接把文件发给对方，而且传输可在本地完成。</strong></p><p>谷歌确认，第 3 方应用中的“快速分享”可与安卓、ChromeOS、Windows 上的原生 Quick Share 互通，这也是谷歌向开发者提供接入价值的关键部分。未来用户不只是在应用内分享，还可打通不同设备与系统之间的文件流转。</p><p>不过，限制也很明确。谷歌表示，若第 3 方应用集成 Quick Share，想与安卓、ChromeOS、PC 上的原生 Quick Share 互通，安卓设备仍需具备 GMS（谷歌移动服务）。这意味着未搭载 GMS 的安卓手机，即便未来部分应用接入，也可能无法获得完整互通体验。</p><p>除本地互传外，谷歌还给未支持 AirDrop 兼容的设备准备了另一套方案。从现在起，任何安卓手机都可借助“快速分享”生成 QR code（二维码），通过云端把文件即时分享给 iOS 设备。</p><p>谷歌称，文件采用端到端加密，保留在谷歌服务器上最长 24 小时，不占用个人 Google Drive 存储，但成功传输要求双方设备都接入互联网。</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 May 2026 17:28:10 GMT</pubDate>
 <pubDate>Tue, 12 May 2026 17:28:10 GMT</pubDate>
 </item>
 <item>
@@ -119,13 +100,10 @@
 <link>https://www.ithome.com/0/949/542.htm</link>
 <guid>https://www.ithome.com/0/949/542.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 13 日消息，2026 年 I/O 开发者大会下周（5 月 19~20 日）召开之前，谷歌今天（5 月 13 日）为安卓系统举办了“专场热身活动”，举办了 2026 年的 The Android Show | I/O Edition，<strong>正式宣布推出 Googlebooks 高端安卓笔记本品类。</strong></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/eadb9cc1-e1c6-40be-a51d-8db8d0924d3c.jpg?x-bce-process=image/format,f_auto" /></p><p>谷歌 Googlebooks 标志着安卓笔记本进入独立新品类，它并非谷歌自有笔记本，而是类似 Chromebooks 的合作品牌体系，<strong>由 Acer、ASUS、Dell、HP、Lenovo 率先推出首批高端机型，首发时间定在今年秋季。</strong></p><p style="text-align: center;"> </p><p>从产品定位看，Googlebooks 主打高端市场。现阶段官方没有披露处理器、内存、存储等硬件参数，只提到新机将采用高端材质，覆盖不同形态与尺寸，并配备一条兼具功能性与辨识度的发光灯带设计，这也是目前少数明确公开的外观特征。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/64454467-0020-41c3-9a66-b42ba6a3a9b3.png?x-bce-process=image/format,f_auto" /></p><p>软件层面才是 Googlebooks 此次亮相的重点。谷歌确认，这一新品类建立在安卓技术栈之上，虽然没有公开操作系统的正式名称，但外界普遍把它视为 Google 整合 ChromeOS 与 Android 路线的重要落地信号。</p><p>在体验上，Gemini 被放在 Googlebooks 的核心位置，其中主打功能 Magic Pointer 把 Gemini 能力绑定到光标交互中。用户晃动光标后，可按当前内容触发不同操作，比如对比图片内容、把家居场景与待购商品组合预览，或直接指向邮件中的日期来创建日程。</p><p style="text-align: center;"> </p><p>另一个重点功能是 Create My Widget。用户只需用自然语言描述想要的小组件，Gemini 就能自动生成。它还可联动 Gmail、Calendar 等 Google 应用，并结合网络搜索结果，组织出更个性化的桌面信息面板，提升信息汇总与入口效率。</p><p style="text-align: center;"> </p><p>跨设备协同则由 Cast My Apps 和 Quick Access 支撑。前者支持用户在 Googlebooks 上一键调用手机应用；后者允许直接在笔记本文件浏览器中查看、搜索、添加和下载手机文件。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/dfac2260-8d19-48cd-a240-3dc538498ef2.jpg?x-bce-process=image/format,f_auto" /></p><p>谷歌同时确认，Chromebooks 仍支持 10 年生命周期，但没有明确是否还会持续推出新款 Chromebooks。</p><p>会在 10 年生命周期内获得支持，但没有明确是否还会持续推出新款 Chromebooks。科技媒体 Android Authority 解读认为，Googlebooks 不仅是新品发布，也可能代表谷歌笔记本战略正从 ChromeOS 时代，逐步转向以安卓与 Gemini 为核心的新阶段。</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 May 2026 17:12:19 GMT</pubDate>
-<pubDate>Tue, 12 May 2026 17:12:19 GMT</pubDate>
 </item>
-
 <item>
 <title>美光向合作伙伴交付 256GB DDR5 RDIMM 内存样品：基于 1-gamma 技术，9200 MT/s 速率</title>
 <link>https://www.ithome.com/0/949/537.htm</link>

@@ -389,3 +389,9 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [特朗普访华前夕 美财长访日给高市派定心丸](https://www.zaobao.com/news/world/story20260512-9037924)
 append_entries: 3
 Finish: 2026-05-12 19:25:43.723015
+------------------------------------------------------
+Started: 2026-05-12 21:08:34.917524
+Existing_entries: 109
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-12 21:08:35.010685
