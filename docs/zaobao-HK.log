@@ -276,3 +276,24 @@ Existing_entries: 84
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-11 22:43:53.584310
+------------------------------------------------------
+Started: 2026-05-12 01:48:34.747665
+Existing_entries: 84
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 465
+Summarized using deepseek-v4-pro
+Append: [被列涉军中企名单 移远通信起诉美五角大楼](https://www.zaobao.com/news/china/story20260512-9033230)
+Token length: 898
+Summarized using deepseek-v4-pro
+Append: [美参议员促特朗普与习近平会谈时 不要在造船议题让步](https://www.zaobao.com/news/china/story20260512-9033243)
+Token length: 661
+Summarized using deepseek-v4-pro
+Append: [特朗普称将与中方讨论对台军售和黎智英案件](https://www.zaobao.com/news/china/story20260512-9033223)
+Token length: 498
+Summarized using deepseek-v4-pro
+Append: [浙江温州瓯海区学校男厕装摄像头 校方已拆除](https://www.zaobao.com/news/china/story20260512-9033138)
+Token length: 247
+Summarized using deepseek-v4-pro
+Append: [庄慧良：全民炒股表象下的狂潮与隐忧](https://www.zaobao.com/news/china/story20260512-9032535)
+append_entries: 5
+Finish: 2026-05-12 01:54:52.516982

@@ -264,3 +264,24 @@ Existing_entries: 76
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-11 22:43:53.723602
+------------------------------------------------------
+Started: 2026-05-12 01:54:52.591430
+Existing_entries: 76
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 273
+Summarized using deepseek-v4-pro
+Append: [法国官员：涉嫌策划暴力袭击卢浮宫的男子被捕](https://www.zaobao.com/news/world/story20260512-9033297)
+Token length: 477
+Summarized using deepseek-v4-pro
+Append: [伊朗议长：美国须接受伊朗方案所提伊朗人民权利](https://www.zaobao.com/news/world/story20260512-9033209)
+Token length: 758
+Summarized using deepseek-v4-pro
+Append: [马斯克库克预计随特朗普访华 黄仁勋据悉未入名单](https://www.zaobao.com/news/world/story20260512-9033155)
+Token length: 757
+Summarized using deepseek-v4-pro
+Append: [特朗普称美伊停火“严重依赖生命维持设备支撑”](https://www.zaobao.com/news/world/story20260512-9033083)
+Token length: 534
+Summarized using deepseek-v4-pro
+Append: [工党内部下台呼声上升 英国内长促斯塔默拟定离任时间表](https://www.zaobao.com/news/world/story20260512-9033031)
+append_entries: 5
+Finish: 2026-05-12 02:02:28.131852
