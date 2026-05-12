@@ -374,3 +374,18 @@ Summarized using deepseek-v4-pro
 Append: [世卫：应对汉坦病毒疫情工作“还未结束”](https://www.zaobao.com/news/world/story20260512-9037956)
 append_entries: 3
 Finish: 2026-05-12 16:17:55.789805
+------------------------------------------------------
+Started: 2026-05-12 19:25:41.686452
+Existing_entries: 106
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [涉巴尔的摩大桥坍塌惨案 新印两家航运公司面临刑事指控](https://www.zaobao.com/news/world/story20260513-9038488)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [韩国总统李在明将会见中美高官](https://www.zaobao.com/news/world/story20260512-9038371)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [特朗普访华前夕 美财长访日给高市派定心丸](https://www.zaobao.com/news/world/story20260512-9037924)
+append_entries: 3
+Finish: 2026-05-12 19:25:43.723015

@@ -425,3 +425,12 @@ Summarized using deepseek-v4-pro
 Append: [宇树科技发布全球首款量产版载人机甲 可作为民用交通工具](https://www.zaobao.com/news/china/story20260512-9037918)
 append_entries: 5
 Finish: 2026-05-12 16:16:00.020471
+------------------------------------------------------
+Started: 2026-05-12 19:25:40.673062
+Existing_entries: 137
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [“习特会”或谈对台军售 卓荣泰：持续推进台美军购三拼图](https://www.zaobao.com/news/china/story20260512-9038090)
+append_entries: 1
+Finish: 2026-05-12 19:25:41.582429

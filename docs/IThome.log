@@ -876,3 +876,30 @@ Append: [微软优化 WinUI 3 框架，Win11 系统响应速度获显著提升](
 Append: [Hugging Face 现山寨 OpenAI“Privacy Filter”模型项目：下载量超 20 万次、内含恶意木马](https://www.ithome.com/0/949/518.htm)
 append_entries: 13
 Finish: 2026-05-12 16:23:26.623913
+------------------------------------------------------
+Started: 2026-05-12 19:25:44.583160
+Existing_entries: 566
+Fetching from https://www.ithome.com/rss/
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [谷歌安卓 17 新增系统验证功能：Pixel 10 等手机首发，识别恶意仿冒系统](https://www.ithome.com/0/949/552.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [谷歌将升级 Android Auto：升级谷歌地图，60fps 全高清视频上车](https://www.ithome.com/0/949/551.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [谷歌升级安卓 17 防盗：窃贼即便拿到 PIN 码，也难关闭手机追踪](https://www.ithome.com/0/949/550.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [谷歌官宣安卓 Noto 3D 设计，重绘全部约 4000 个 Emoji 表情](https://www.ithome.com/0/949/549.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [谷歌携手苹果升级换机体验：iPhone 转安卓可无线迁移密码、主屏布局](https://www.ithome.com/0/949/548.htm)
+Append: [谷歌确认安卓版 Adobe Premiere 今夏上线，打通短视频制作到发布链路](https://www.ithome.com/0/949/547.htm)
+Append: [10 年支持不变：谷歌力保现有 Chromebook，部分笔记本“有资格过渡到新体验”](https://www.ithome.com/0/949/546.htm)
+Append: [谷歌安卓推出 Pause Point：想刷短视频等分心 App 前先让你冷静 10 秒](https://www.ithome.com/0/949/545.htm)
+Append: [谷歌今夏推进 Gemini Intelligence：重塑安卓手机 AI 交互，可操控浏览器填写表单等](https://www.ithome.com/0/949/544.htm)
+Append: [谷歌扩展安卓“快速分享”：WhatsApp 首批接入，更多手机兼容苹果“隔空投送”](https://www.ithome.com/0/949/543.htm)
+Append: [谷歌推出 Googlebooks 高端安卓笔记本品类：宏碁、联想等首发，今秋上线](https://www.ithome.com/0/949/542.htm)
+append_entries: 11
+Finish: 2026-05-12 19:25:49.791032
