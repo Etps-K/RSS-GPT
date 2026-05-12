@@ -359,3 +359,18 @@ Summarized using deepseek-v4-pro
 Append: [西班牙一男游轮乘客确诊汉坦病毒 目前出现症状](https://www.zaobao.com/news/world/story20260512-9037278)
 append_entries: 2
 Finish: 2026-05-12 13:57:58.010737
+------------------------------------------------------
+Started: 2026-05-12 16:16:00.120380
+Existing_entries: 103
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 234
+Summarized using deepseek-v4-pro
+Append: [五角大楼：美国在伊朗战争已耗资近290亿美元](https://www.zaobao.com/news/world/story20260512-9038293)
+Token length: 278
+Summarized using deepseek-v4-pro
+Append: [特朗普：古巴正在寻求帮助 双方将进行对话](https://www.zaobao.com/news/world/story20260512-9038100)
+Token length: 610
+Summarized using deepseek-v4-pro
+Append: [世卫：应对汉坦病毒疫情工作“还未结束”](https://www.zaobao.com/news/world/story20260512-9037956)
+append_entries: 3
+Finish: 2026-05-12 16:17:55.789805
