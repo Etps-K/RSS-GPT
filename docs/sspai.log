@@ -2344,3 +2344,12 @@ Summarized using deepseek-v4-pro
 Append: [派早报：大疆发布扫拖机器人 ROMO 2 系列等](https://sspai.com/post/109647)
 append_entries: 1
 Finish: 2026-05-12 01:48:34.669391
+------------------------------------------------------
+Started: 2026-05-12 05:29:11.054706
+Existing_entries: 112
+Fetching from https://sspai.com/feed
+Token length: 21
+Summarized using deepseek-v4-pro
+Append: [App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
+append_entries: 1
+Finish: 2026-05-12 05:29:55.337201

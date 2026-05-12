@@ -285,3 +285,18 @@ Summarized using deepseek-v4-pro
 Append: [工党内部下台呼声上升 英国内长促斯塔默拟定离任时间表](https://www.zaobao.com/news/world/story20260512-9033031)
 append_entries: 5
 Finish: 2026-05-12 02:02:28.131852
+------------------------------------------------------
+Started: 2026-05-12 05:38:03.691295
+Existing_entries: 81
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 655
+Summarized using deepseek-v4-pro
+Append: [美国家科学委员会解散 科学家警告损害抗衡中国能力](https://www.zaobao.com/news/world/story20260512-9034354)
+Token length: 576
+Summarized using deepseek-v4-pro
+Append: [世卫：汉坦病毒出现症状时最具传染性](https://www.zaobao.com/news/world/story20260512-9033699)
+Token length: 402
+Summarized using deepseek-v4-pro
+Append: [乌反腐机构破获洗钱团伙 泽连斯基前幕僚长涉嫌其中](https://www.zaobao.com/news/world/story20260512-9033423)
+append_entries: 3
+Finish: 2026-05-12 05:44:00.376070
