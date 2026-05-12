@@ -300,3 +300,21 @@ Summarized using deepseek-v4-pro
 Append: [乌反腐机构破获洗钱团伙 泽连斯基前幕僚长涉嫌其中](https://www.zaobao.com/news/world/story20260512-9033423)
 append_entries: 3
 Finish: 2026-05-12 05:44:00.376070
+------------------------------------------------------
+Started: 2026-05-12 08:24:28.060672
+Existing_entries: 84
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 366
+Summarized using deepseek-v4-pro
+Append: [日本实际家庭消费连续四个月同比下滑](https://www.zaobao.com/news/world/story20260512-9035033)
+Token length: 325
+Summarized using deepseek-v4-pro
+Append: [暴发疫情游轮上最后一批人员抵达荷兰](https://www.zaobao.com/news/world/story20260512-9034865)
+Token length: 396
+Summarized using deepseek-v4-pro
+Append: [以色列设特别军事法庭审2023年哈马斯突袭参与者](https://www.zaobao.com/news/world/story20260512-9034606)
+Token length: 1469
+Summarized using deepseek-v4-pro
+Append: [涉助伊朗售卖石油 美国制裁九家海外公司与三伊朗人士](https://www.zaobao.com/news/world/story20260512-9034284)
+append_entries: 4
+Finish: 2026-05-12 08:27:14.082018
