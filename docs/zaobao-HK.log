@@ -440,3 +440,12 @@ Existing_entries: 138
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-12 21:08:34.814428
+------------------------------------------------------
+Started: 2026-05-12 22:51:36.560803
+Existing_entries: 138
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [杨丹旭：特朗普访华的面子与里子](https://www.zaobao.com/news/china/story20260513-9038407)
+append_entries: 1
+Finish: 2026-05-12 22:51:37.495691
