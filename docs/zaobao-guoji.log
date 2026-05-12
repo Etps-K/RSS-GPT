@@ -347,3 +347,15 @@ Append: [特朗普支持暂时减免汽油税](https://www.zaobao.com/news/world
 Append: [冯德莱恩：欧盟应探讨限制儿童使用社交媒体](https://www.zaobao.com/news/world/story20260512-9035867)
 append_entries: 13
 Finish: 2026-05-12 11:59:04.428660
+------------------------------------------------------
+Started: 2026-05-12 13:56:35.019144
+Existing_entries: 101
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1014
+Summarized using deepseek-v4-pro
+Append: [韩军携手现代汽车推进“机器人前线化” 应对兵力锐减布局无人作战时代](https://www.zaobao.com/news/world/story20260512-9037390)
+Token length: 386
+Summarized using deepseek-v4-pro
+Append: [西班牙一男游轮乘客确诊汉坦病毒 目前出现症状](https://www.zaobao.com/news/world/story20260512-9037278)
+append_entries: 2
+Finish: 2026-05-12 13:57:58.010737
