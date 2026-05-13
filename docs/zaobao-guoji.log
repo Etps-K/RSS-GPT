@@ -513,3 +513,9 @@ Append: [俄罗斯重申结束俄乌冲突强硬立场](https://www.zaobao.com/n
 Append: [高市宣布科研投资翻倍 集中火力发展新科技](https://www.zaobao.com/news/world/story20260513-9043741)
 append_entries: 6
 Finish: 2026-05-13 16:20:33.642122
+------------------------------------------------------
+Started: 2026-05-13 19:27:52.642972
+Existing_entries: 139
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-13 19:27:52.755539

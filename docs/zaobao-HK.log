@@ -586,3 +586,12 @@ Append: [马斯克称他和黄仁勋是空军一号上唯二美国商界领袖](
 Append: [下午察：“崩老头”灰产链兴起，谁在消费谁？](https://www.zaobao.com/news/china/story20260513-9043082)
 append_entries: 8
 Finish: 2026-05-13 16:20:30.060993
+------------------------------------------------------
+Started: 2026-05-13 19:27:51.519868
+Existing_entries: 184
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [特朗普飞抵北京韩正接机 美国务卿防长商界巨头随行](https://www.zaobao.com/news/china/story20260514-9043924)
+append_entries: 1
+Finish: 2026-05-13 19:27:52.525148
