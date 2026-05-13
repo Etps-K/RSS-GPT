@@ -1279,3 +1279,12 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [思科 2026 财年第三财季净利润 33.73 亿美元，同比增长 35%](https://www.ithome.com/0/950/073.htm)
 append_entries: 1
 Finish: 2026-05-13 21:14:28.094141
+------------------------------------------------------
+Started: 2026-05-13 22:54:52.898263
+Existing_entries: 831
+Fetching from https://www.ithome.com/rss/
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [JPR 报告 2026Q1 全球消费端 CPU 同比跌 8.6％，服务器 CPU 增 13.6%](https://www.ithome.com/0/950/074.htm)
+append_entries: 1
+Finish: 2026-05-13 22:54:56.142598

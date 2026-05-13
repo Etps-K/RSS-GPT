@@ -601,3 +601,12 @@ Existing_entries: 185
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-13 21:14:23.528809
+------------------------------------------------------
+Started: 2026-05-13 22:54:50.694900
+Existing_entries: 185
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [沈泽玮：中国会不会“怀念特朗普”？](https://www.zaobao.com/news/china/story20260514-9044404)
+append_entries: 1
+Finish: 2026-05-13 22:54:51.633085
