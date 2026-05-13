@@ -1270,3 +1270,12 @@ Existing_entries: 830
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-13 19:27:58.752116
+------------------------------------------------------
+Started: 2026-05-13 21:14:24.942140
+Existing_entries: 830
+Fetching from https://www.ithome.com/rss/
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [思科 2026 财年第三财季净利润 33.73 亿美元，同比增长 35%](https://www.ithome.com/0/950/073.htm)
+append_entries: 1
+Finish: 2026-05-13 21:14:28.094141
