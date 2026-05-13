@@ -562,3 +562,27 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [鲁比奥随特朗普访华 中国或已取消制裁](https://www.zaobao.com/news/china/story20260513-9042182)
 append_entries: 3
 Finish: 2026-05-13 14:00:32.753476
+------------------------------------------------------
+Started: 2026-05-13 16:20:26.511203
+Existing_entries: 176
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [夏立言呼吁思考保障多数人维持现有生活方式的两岸统一模式](https://www.zaobao.com/news/china/story20260513-9044355)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [中美第七轮经贸磋商韩国落幕 学者：元首会晤前“临门一脚”](https://www.zaobao.com/news/china/story20260513-9044093)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [被指地图缺台湾后 中国重新发布神舟二十三号任务标识](https://www.zaobao.com/news/china/story20260513-9043367)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [民进党提名沈伯洋参选台北市长对决蒋万安](https://www.zaobao.com/news/china/story20260513-9043763)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [习特会前夕 中国国台办喊话要台海和平就须反台独](https://www.zaobao.com/news/china/story20260513-9042643)
+Append: [逾百人围观 特朗普车队抵达北京四季酒店](https://www.zaobao.com/news/china/story20260513-9044041)
+Append: [马斯克称他和黄仁勋是空军一号上唯二美国商界领袖](https://www.zaobao.com/news/china/story20260513-9043896)
+Append: [下午察：“崩老头”灰产链兴起，谁在消费谁？](https://www.zaobao.com/news/china/story20260513-9043082)
+append_entries: 8
+Finish: 2026-05-13 16:20:30.060993

@@ -491,3 +491,25 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [英媒：英国卫生部长准备辞职 挑战工党党魁之位](https://www.zaobao.com/news/world/story20260513-9043074)
 append_entries: 4
 Finish: 2026-05-13 14:00:36.096949
+------------------------------------------------------
+Started: 2026-05-13 16:20:30.189347
+Existing_entries: 133
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [俄罗斯希望美国停止将发展对俄关系与乌克兰挂钩](https://www.zaobao.com/news/world/story20260513-9044290)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [停靠法国游轮疑暴发肠胃疾病一人死亡 1700人被禁止下船](https://www.zaobao.com/news/world/story20260513-9044143)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [苏格兰民族党将推进针对斯塔默的不信任动议](https://www.zaobao.com/news/world/story20260513-9043997)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [英首相府：斯塔默对卫生部长斯特里廷充满信心](https://www.zaobao.com/news/world/story20260513-9043868)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [俄罗斯重申结束俄乌冲突强硬立场](https://www.zaobao.com/news/world/story20260513-9043888)
+Append: [高市宣布科研投资翻倍 集中火力发展新科技](https://www.zaobao.com/news/world/story20260513-9043741)
+append_entries: 6
+Finish: 2026-05-13 16:20:33.642122
