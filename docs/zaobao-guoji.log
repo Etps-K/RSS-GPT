@@ -401,3 +401,25 @@ Existing_entries: 109
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-12 22:51:37.647699
+------------------------------------------------------
+Started: 2026-05-13 01:53:19.061930
+Existing_entries: 109
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [俄罗斯试射携带核弹头的新型远程导弹](https://www.zaobao.com/news/world/story20260513-9039007)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [格陵兰总理：与美国谈判尚未达成协议](https://www.zaobao.com/news/world/story20260513-9038978)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [法国女子感染汉坦病毒 正在重症监护室治疗](https://www.zaobao.com/news/world/story20260513-9038943)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [伊拉克巴基斯坦与伊朗达成协议 运输石油液化天然气](https://www.zaobao.com/news/world/story20260513-9038900)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [无视辞职呼吁 斯塔默承诺继续执政](https://www.zaobao.com/news/world/story20260513-9038859)
+Append: [特朗普：无需中国帮助结束美伊冲突](https://www.zaobao.com/news/world/story20260513-9038845)
+append_entries: 6
+Finish: 2026-05-13 01:53:22.594964

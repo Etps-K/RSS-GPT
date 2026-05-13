@@ -2401,3 +2401,15 @@ Existing_entries: 115
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-12 22:51:36.446139
+------------------------------------------------------
+Started: 2026-05-13 01:53:08.795776
+Existing_entries: 115
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [Google 提前给 Android 办了场发布会，但主角依然不是 Android](https://sspai.com/post/109699)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等](https://sspai.com/post/109698)
+append_entries: 2
+Finish: 2026-05-13 01:53:15.238716

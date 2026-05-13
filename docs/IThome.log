@@ -915,3 +915,69 @@ Existing_entries: 577
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-12 22:51:39.792358
+------------------------------------------------------
+Started: 2026-05-13 01:53:23.328726
+Existing_entries: 577
+Fetching from https://www.ithome.com/rss/
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [智界 V9 官宣搭载华为非凡系列音响：9.3.8 独立声道设计，将应用独立音区技术](https://www.ithome.com/0/949/608.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [苹果将上线 AI 讲师，个性化定制销售培训课程](https://www.ithome.com/0/949/607.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [小米史上最强续航，卢伟冰称小米 17 Max 是 17 的“全面升舱版”](https://www.ithome.com/0/949/606.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [全新小米 17 Max 手机三色亮相：黑 / 蓝 / 白，徕卡影像加持](https://www.ithome.com/0/949/605.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [韶音发布 OpenDots 2 耳夹耳机“缮己新声”艺术限定礼盒，1898 元](https://www.ithome.com/0/949/603.htm)
+Append: [联想推出 169 元拯救者 10000mAh 移动电源 P5，支持 100W 快充](https://www.ithome.com/0/949/602.htm)
+Append: [多地将现今年首个高温：最高可超 37℃，国家应急广播提醒开空调前先清洗](https://www.ithome.com/0/949/601.htm)
+Append: [富士康美国工厂遭网络攻击，总计约 8TB 超 1100 万份文件泄露](https://www.ithome.com/0/949/600.htm)
+Append: [消息称年底那拨旗舰手机价格已确定“贵上天”，小米 17 Max 售价或有惊喜](https://www.ithome.com/0/949/599.htm)
+Append: [小米 BE7200 Pro Wi-Fi 7 路由器首销：全 2.5GE 网口，到手价 883.15 元](https://www.ithome.com/0/949/598.htm)
+Append: [SNK 将前《铁拳》制作人原田胜弘新工作室 VS Studio 纳入麾下](https://www.ithome.com/0/949/597.htm)
+Append: [京东 CFO 单甦：外卖业务一定会实现盈利，一季度实现成立以来幅度最大环比减亏](https://www.ithome.com/0/949/595.htm)
+Append: [OpenAI 前研究员揭露“公开秘密”：人类正打造无法完全控制的 AI](https://www.ithome.com/0/949/593.htm)
+Append: [海尔打造东南亚最大中央空调智造基地](https://www.ithome.com/0/949/592.htm)
+Append: [爆料称《深海迷航 2：异星水域》游戏提前泄露](https://www.ithome.com/0/949/591.htm)
+Append: [比亚迪海豹 08 旗舰高定车色“阿卡珊瑚红”公布，第三代元 PLUS 六款车色揭晓](https://www.ithome.com/0/949/590.htm)
+Append: [消息称 SK 海力士中国员工奖金不到韩国的 5%](https://www.ithome.com/0/949/589.htm)
+Append: [华为终端：鸿蒙智行问界 M6“新锐智慧 SUV”上市 19 天交付破万，25.98 万元起](https://www.ithome.com/0/949/588.htm)
+Append: [iQOO15T 官宣 5 月 20 日发售：搭载联发科天玑 9500，内置 8000mAh 大电池](https://www.ithome.com/0/949/586.htm)
+Append: [AMD 扩展锐龙 PRO 9000 商用处理器阵容，系统 2026H2 推出](https://www.ithome.com/0/949/585.htm)
+Append: [小米 17 Max 手机官宣：6.9 英寸超大直屏，本月发布](https://www.ithome.com/0/949/584.htm)
+Append: [曝华为鸿蒙 HarmonyOS 6.1.0.120 版本正逐步适配推送，新增截屏 AI 服务直达、图库智能清理等功能](https://www.ithome.com/0/949/583.htm)
+Append: [ANKER 安克发布 Prime 三折叠风冷多合一无线充电器：总功率 35W，799 元](https://www.ithome.com/0/949/582.htm)
+Append: [微软推送 Win11 26H1 五月累积更新，增强辅助功能和系统交互](https://www.ithome.com/0/949/581.htm)
+Append: [微软确认 Xbox 模式不会立即向所有 Win11 用户开放，安装五月更新后仍需服务器端激活](https://www.ithome.com/0/949/580.htm)
+Append: [小米米家空气净化器 6 今起首销：双滤芯架构 + 双扇叶设计，1399 元](https://www.ithome.com/0/949/579.htm)
+Append: [微软推送 Win10 五月扩展安全更新：修复 120 个漏洞、解决远程桌面警告异常](https://www.ithome.com/0/949/577.htm)
+Append: [降本增效：沃尔玛将整合全球 AI 团队，削减或迁移约 1000 个技术与产品岗位](https://www.ithome.com/0/949/576.htm)
+Append: [胖东来：从未在任何网络平台开展直播带货业务](https://www.ithome.com/0/949/575.htm)
+Append: [大 1.5 匹 2499 → 1826 元：美的华凌神机二代 Pro 空调 618 限时购](https://www.ithome.com/0/949/574.htm)
+Append: [微软 Win11 推送 5 月累积更新，文件管理器原生扩展支持 uu 等 4 种压缩包](https://www.ithome.com/0/949/573.htm)
+Append: [特斯拉推出全新购车“轻松贷”服务：Model 3 首付 5.59 万元起，还有 5 年 0 息等方案](https://www.ithome.com/0/949/572.htm)
+Append: [腕上“龙虾”助理来袭：小米澎湃 OS 3 运动健康为部分内测设备上线 Xiaomi miclaw 手表版](https://www.ithome.com/0/949/570.htm)
+Append: [联想 ThinkPad X13/L14 Gen 7 及 L16 Gen 3 发布：可更换电池设计，1439 美元起](https://www.ithome.com/0/949/569.htm)
+Append: [海尔智家 3D 视图 2.0 版本上线，将实现车家互联双向操控](https://www.ithome.com/0/949/568.htm)
+Append: [三星劳资谈判破裂，5 万人计划罢工 18 天威胁 AI 芯片生产](https://www.ithome.com/0/949/567.htm)
+Append: [突破 300 美元：曝高通第六代骁龙 8 至尊 Pro 版芯片单价恐飙升至 330 美元](https://www.ithome.com/0/949/566.htm)
+Append: [AMD 3D V-Cache 首次登陆专业工作站：联想 ThinkStation P4 首发，搭载英伟达 RTX Pro 6000 Blackwell](https://www.ithome.com/0/949/565.htm)
+Append: [细节微调：神舟二十三号载人飞行任务最新版标识发布](https://www.ithome.com/0/949/564.htm)
+Append: [微信员工回应微信状态访客记录“截图”：不要瞎 P 图，这是造谣](https://www.ithome.com/0/949/563.htm)
+Append: [谷歌联手 SpaceX 推进太空数据中心项目，计划 2027 年发射原型卫星](https://www.ithome.com/0/949/562.htm)
+Append: [中国电信量子-经典空芯共纤传输刷新全球纪录，40Tbps 超大容量融合通信获重大突破](https://www.ithome.com/0/949/561.htm)
+Append: [IT早报 0513：腾讯收购喜马拉雅获市监总局附条件批准；390 万元起宇树发布全球首款载人机甲；微信不会开发已读与访客功能；DeepSeek 灰度聊天记录搜索功能...](https://www.ithome.com/0/949/560.htm)
+Append: [松下推出 LUMIX L10 相机：配 24-75mm 镜头，1499 美元起](https://www.ithome.com/0/949/559.htm)
+Append: [一机两用：华为 Pura X Max 横阔折手机推 HarmonyOS 6.1.0.120 SP16 升级，内置平板模式布局](https://www.ithome.com/0/949/558.htm)
+Append: [雷蛇推出猎魂光蛛 V3 竞技版 8KHz 键盘：保留 Pro TKL 8KHz 核心规格](https://www.ithome.com/0/949/557.htm)
+Append: [奥尔特曼否认背叛 OpenAI 使命：是马斯克想要夺取控制权并从中牟利，2023 年被驱逐时曾考虑不再回来](https://www.ithome.com/0/949/556.htm)
+Append: [SiFive 推出 Performance P570 Gen 3 内核：RVA23 完整合规，性能显著改进](https://www.ithome.com/0/949/555.htm)
+Append: [Apple Intelligence 画饼迟迟无法交付？巴西再对苹果启动调查](https://www.ithome.com/0/949/554.htm)
+Append: [苹果 iOS 27 前瞻：相机 App 支持全面自定义且 Siri 迎来重大重构，Safari 和天气设计焕新](https://www.ithome.com/0/949/553.htm)
+append_entries: 50
+Finish: 2026-05-13 01:53:28.916813

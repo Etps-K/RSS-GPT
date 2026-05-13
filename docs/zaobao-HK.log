@@ -449,3 +449,24 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [杨丹旭：特朗普访华的面子与里子](https://www.zaobao.com/news/china/story20260513-9038407)
 append_entries: 1
 Finish: 2026-05-12 22:51:37.495691
+------------------------------------------------------
+Started: 2026-05-13 01:53:15.354661
+Existing_entries: 139
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [特朗普盼白宫和华盛顿翻修工程及时完工 迎接习近平年底访美](https://www.zaobao.com/news/china/story20260513-9039097)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [消息：中美磋商采购玉米等美农产品 习特会或达成协议](https://www.zaobao.com/news/china/story20260513-9039010)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [梅拉尼娅将不会与特朗普一同前往中国](https://www.zaobao.com/news/china/story20260513-9038975)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [习特会前夕 王毅盼巴基斯坦妥善解决霍尔木兹海峡开放问题](https://www.zaobao.com/news/china/story20260513-9038879)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [尽管遭中国制裁 鲁比奥将以新中文名访北京](https://www.zaobao.com/news/china/story20260513-9038822)
+append_entries: 5
+Finish: 2026-05-13 01:53:18.971059
