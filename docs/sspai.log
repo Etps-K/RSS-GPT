@@ -2419,3 +2419,12 @@ Existing_entries: 117
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-13 05:39:17.865519
+------------------------------------------------------
+Started: 2026-05-13 08:30:15.009964
+Existing_entries: 117
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
+append_entries: 1
+Finish: 2026-05-13 08:30:17.198328

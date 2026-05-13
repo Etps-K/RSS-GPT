@@ -438,3 +438,12 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [特朗普发布图片 称委内瑞拉是美国第51个州](https://www.zaobao.com/news/world/story20260513-9039022)
 append_entries: 3
 Finish: 2026-05-13 05:39:23.374185
+------------------------------------------------------
+Started: 2026-05-13 08:30:21.211596
+Existing_entries: 118
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [韩外长对锁定袭击韩国货船主谋态度谨慎](https://www.zaobao.com/news/world/story20260513-9040987)
+append_entries: 1
+Finish: 2026-05-13 08:30:22.633469
