@@ -2428,3 +2428,12 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
 append_entries: 1
 Finish: 2026-05-13 08:30:17.198328
+------------------------------------------------------
+Started: 2026-05-13 11:53:25.005363
+Existing_entries: 118
+Fetching from https://sspai.com/feed
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
+append_entries: 1
+Finish: 2026-05-13 11:53:27.065712

@@ -447,3 +447,29 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [韩外长对锁定袭击韩国货船主谋态度谨慎](https://www.zaobao.com/news/world/story20260513-9040987)
 append_entries: 1
 Finish: 2026-05-13 08:30:22.633469
+------------------------------------------------------
+Started: 2026-05-13 11:53:33.940398
+Existing_entries: 119
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [欧盟对美国天然气依赖升至历史新高](https://www.zaobao.com/news/world/story20260513-9042339)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [美参院批准沃什任美联储理事 主席提名最早周三表决](https://www.zaobao.com/news/world/story20260513-9042973)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [特朗普称无须中国相助 美国终将战胜伊朗](https://www.zaobao.com/news/world/story20260513-9042155)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [美中首脑会谈前夕 两国经济首长同步访韩](https://www.zaobao.com/news/world/story20260513-9042070)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [消息：沙特3月底曾反击伊朗 软硬兼施寻求与德黑兰降温](https://www.zaobao.com/news/world/story20260513-9042087)
+Append: [日媒：高市早苗拟访问英国和意大利](https://www.zaobao.com/news/world/story20260513-9042553)
+Append: [英国承诺为霍尔木兹海峡护航行动提供军机军舰](https://www.zaobao.com/news/world/story20260513-9041800)
+Append: [国际能源署：受伊朗战争影响 石油库存以创纪录速度下降](https://www.zaobao.com/news/world/story20260513-9042162)
+Append: [德黑兰东部发生多次小型地震 引发大地震担忧](https://www.zaobao.com/news/world/story20260513-9041912)
+Append: [英王妃凯特访问意大利两天 患癌后首次出访](https://www.zaobao.com/news/world/story20260513-9041714)
+append_entries: 10
+Finish: 2026-05-13 11:53:37.189504

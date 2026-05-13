@@ -526,3 +526,24 @@ Append: [中国供应商上调价格 美国消费者恐迎昂贵圣诞季](https
 Append: [浙江宣传称“基本盘”成嘲讽爱国热词 批境外认知战倒灌](https://www.zaobao.com/news/china/story20260513-9040896)
 append_entries: 13
 Finish: 2026-05-13 08:30:21.109895
+------------------------------------------------------
+Started: 2026-05-13 11:53:27.200964
+Existing_entries: 168
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [美联物业：4月大陆买家香港置业大增47.7%](https://www.zaobao.com/news/china/story20260513-9042374)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [中国知名网红“峰哥亡命天涯”被禁言半年后恢复更新](https://www.zaobao.com/news/china/story20260513-9042336)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [郑丽文：如特朗普在北京表明反台独 这完全合乎国民党立场](https://www.zaobao.com/news/china/story20260513-9042207)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [涉嫌巨额诈骗 中国籍黑客头目被引渡至韩受审](https://www.zaobao.com/news/china/story20260513-9042151)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [习特会当天 央视电影频道播中美首部合拍动画《功夫熊猫3》](https://www.zaobao.com/news/china/story20260513-9041862)
+append_entries: 5
+Finish: 2026-05-13 11:53:33.840272
