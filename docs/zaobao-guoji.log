@@ -423,3 +423,18 @@ Append: [无视辞职呼吁 斯塔默承诺继续执政](https://www.zaobao.com/
 Append: [特朗普：无需中国帮助结束美伊冲突](https://www.zaobao.com/news/world/story20260513-9038845)
 append_entries: 6
 Finish: 2026-05-13 01:53:22.594964
+------------------------------------------------------
+Started: 2026-05-13 05:39:21.492157
+Existing_entries: 115
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [太平洋岛国瑙鲁将公投 寻求更名摆脱殖民历史](https://www.zaobao.com/news/world/story20260513-9039481)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [伊朗谈判代表：美国必须接受德黑兰和平计划](https://www.zaobao.com/news/world/story20260513-9039441)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [特朗普发布图片 称委内瑞拉是美国第51个州](https://www.zaobao.com/news/world/story20260513-9039022)
+append_entries: 3
+Finish: 2026-05-13 05:39:23.374185

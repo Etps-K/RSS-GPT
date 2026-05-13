@@ -470,3 +470,30 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [尽管遭中国制裁 鲁比奥将以新中文名访北京](https://www.zaobao.com/news/china/story20260513-9038822)
 append_entries: 5
 Finish: 2026-05-13 01:53:18.971059
+------------------------------------------------------
+Started: 2026-05-13 05:39:18.002565
+Existing_entries: 144
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [彭丽媛会见联合国教科文组织总干事阿纳尼](https://www.zaobao.com/news/china/story20260513-9040231)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [鲁比奥穿马杜罗被捕同款服装赴华 中国网民称“敌意满满”](https://www.zaobao.com/news/china/story20260513-9040238)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [中美经贸磋商在韩国开始举行](https://www.zaobao.com/news/china/story20260513-9040113)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [万科再获大股东深铁集团输血25亿人民币](https://www.zaobao.com/news/china/story20260513-9039203)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [特朗普称他将要求习近平进一步开放中国](https://www.zaobao.com/news/china/story20260513-9039985)
+Append: [国台办：买再多武器都是螳臂当车 只会让台独加速灭亡](https://www.zaobao.com/news/china/story20260513-9039784)
+Append: [习特会当天 可俯瞰天安门的正阳门箭楼“配合重要活动”闭馆](https://www.zaobao.com/news/china/story20260513-9039733)
+Append: [被指地图缺台湾后 中国重新发布神舟二十三号任务标识](https://www.zaobao.com/news/china/story20260513-9039414)
+Append: [路透：黄仁勋将随特朗普访华](https://www.zaobao.com/news/china/story20260513-9039249)
+Append: [人民日报：中美关系回不到过去 双方打交道心态变化底线更清晰](https://www.zaobao.com/news/china/story20260513-9039211)
+Append: [美财长贝森特抵韩 与何立峰展开经贸磋商](https://www.zaobao.com/news/china/story20260513-9039122)
+append_entries: 11
+Finish: 2026-05-13 05:39:21.380854
