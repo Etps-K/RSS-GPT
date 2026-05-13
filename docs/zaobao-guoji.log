@@ -473,3 +473,21 @@ Append: [德黑兰东部发生多次小型地震 引发大地震担忧](https://
 Append: [英王妃凯特访问意大利两天 患癌后首次出访](https://www.zaobao.com/news/world/story20260513-9041714)
 append_entries: 10
 Finish: 2026-05-13 11:53:37.189504
+------------------------------------------------------
+Started: 2026-05-13 14:00:32.868179
+Existing_entries: 129
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [美上诉法院暂缓执行特朗普10%关税禁令](https://www.zaobao.com/news/world/story20260513-9043378)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [以色列空袭黎南公路汽车致八死](https://www.zaobao.com/news/world/story20260513-9043175)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [泽连斯基希望特朗普与中国讨论结束俄乌战争](https://www.zaobao.com/news/world/story20260513-9043261)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [英媒：英国卫生部长准备辞职 挑战工党党魁之位](https://www.zaobao.com/news/world/story20260513-9043074)
+append_entries: 4
+Finish: 2026-05-13 14:00:36.096949

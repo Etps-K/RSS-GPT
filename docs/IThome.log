@@ -1197,3 +1197,42 @@ Append: [12799 元起微星神影 16 Max 2026 游戏本新增配置开售：Ultr
 Append: [搭载 Android XR 系统，消息称三星 Galaxy 智能眼镜将于 7 月发布](https://www.ithome.com/0/949/938.htm)
 append_entries: 51
 Finish: 2026-05-13 11:53:44.720956
+------------------------------------------------------
+Started: 2026-05-13 14:00:37.127714
+Existing_entries: 795
+Fetching from https://www.ithome.com/rss/
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [徕芬高速吹风机 SE 2 Wiggle 联名版发布，国补到手价 424.15 元](https://www.ithome.com/0/950/058.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [延保 1 年仅 29.9 元：石头 P20 Max 自清洁扫拖机器人 3490 元起京东新低](https://www.ithome.com/0/950/057.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [佳能推出“RF20-50mm F4 L IS USM PZ”内变焦相机镜头，9099 元](https://www.ithome.com/0/950/056.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [佳能推出 EOS R6 V 相机：3250 万像素 7K 传感器、取消电子取景器 / 机械快门，13999 元](https://www.ithome.com/0/950/055.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [最后一辆宝马 Z4 下线，20 多年经典敞篷车谢幕](https://www.ithome.com/0/950/054.htm)
+Append: [徕芬智能化妆镜 M8 发布：内置 64 颗 Ra98 高显色灯珠、配毫米波雷达，499 元](https://www.ithome.com/0/950/053.htm)
+Append: [消息称 vivo Pocket 手持云台相机 Q4 发布，备货预期百万台](https://www.ithome.com/0/950/052.htm)
+Append: [徕芬智能卷发棒 Styler 发布：360 度全包裹透明设计、双 D-ToF 激光传感器，499 元](https://www.ithome.com/0/950/051.htm)
+Append: [“就像把显微镜放进太阳核心”：全球首个天基中微子探测器发射入轨](https://www.ithome.com/0/950/050.htm)
+Append: [比亚迪：SHARK 皮卡今年将进入方程豹序列](https://www.ithome.com/0/950/047.htm)
+Append: [再降 100 元：大疆 Osmo Pocket 3 云台相机 3499 → 2199 元新低](https://www.ithome.com/0/950/046.htm)
+Append: [网信中国：截至 4 月 30 日，我国累计有 868 款生成式人工智能服务完成备案](https://www.ithome.com/0/950/045.htm)
+Append: [Meta 更新开源沉浸式 Web 开发框架 Immersive Web SDK，新增支持接入 AI 工具](https://www.ithome.com/0/950/044.htm)
+Append: [30.58 万元起比亚迪方程豹豹 8 / 豹 5 闪充版上市：搭云辇-P Ultra 技术、二代刀片电池](https://www.ithome.com/0/950/043.htm)
+Append: [过这村就没这店了，萨博最后 7 辆原厂 9-3 新车将被公开拍卖](https://www.ithome.com/0/950/042.htm)
+Append: [宝马官宣纯电动版 M3 明年首发，路试谍照曝光](https://www.ithome.com/0/950/041.htm)
+Append: [微软警告“Dirty Frag”Linux 内核漏洞已遭黑客利用](https://www.ithome.com/0/950/040.htm)
+Append: [我国科研人员探索脑机接口神经探针技术，为慢性疼痛治疗提供新路径](https://www.ithome.com/0/950/038.htm)
+Append: [微软 Xbox 电脑端应用暗示：Game Pass 服务有望进入中国大陆市场](https://www.ithome.com/0/950/037.htm)
+Append: [小米手环 10 Pro 陶瓷版亮相，搭配柔软贴合氟橡胶表带](https://www.ithome.com/0/950/036.htm)
+Append: [ANKER 安克 Air+ 磁吸充电宝开售：10000mAh、无线 15W、有线 30W，399 元](https://www.ithome.com/0/950/035.htm)
+Append: [赠灵犀手写笔 + 免费送装一体：75 英寸华为智慧屏 V6 国补后 7999 → 5845 元](https://www.ithome.com/0/950/034.htm)
+Append: [比亚迪云辇-P Ultra 技术发布：可提轮换胎、脱困，三个轮子也能跑](https://www.ithome.com/0/950/032.htm)
+append_entries: 23
+Finish: 2026-05-13 14:00:43.640771

@@ -547,3 +547,18 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [习特会当天 央视电影频道播中美首部合拍动画《功夫熊猫3》](https://www.zaobao.com/news/china/story20260513-9041862)
 append_entries: 5
 Finish: 2026-05-13 11:53:33.840272
+------------------------------------------------------
+Started: 2026-05-13 14:00:30.254632
+Existing_entries: 173
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [摩根士丹利：中国企业盈利前景料持续改善](https://www.zaobao.com/news/china/story20260513-9043368)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [特朗普飞抵北京开始对华国事访问](https://www.zaobao.com/news/china/story20260513-9042744)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [鲁比奥随特朗普访华 中国或已取消制裁](https://www.zaobao.com/news/china/story20260513-9042182)
+append_entries: 3
+Finish: 2026-05-13 14:00:32.753476
