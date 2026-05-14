@@ -634,3 +634,24 @@ Summarized using deepseek-v4-flash
 Append: [美媒：中企拟借道第三国向伊朗转运武器](https://www.zaobao.com/news/world/story20260514-9048386)
 append_entries: 5
 Finish: 2026-05-14 13:24:56.300876
+------------------------------------------------------
+Started: 2026-05-14 16:03:01.541736
+Existing_entries: 166
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 710
+Summarized using deepseek-v4-flash
+Append: [日本超级油轮罕见穿越霍尔木兹海峡](https://www.zaobao.com/news/world/story20260514-9050856)
+Token length: 231
+Summarized using deepseek-v4-flash
+Append: [全球最大蓝绿色钻石拍卖 成交价1700万美元创纪录](https://www.zaobao.com/news/world/story20260514-9047916)
+Token length: 542
+Summarized using deepseek-v4-flash
+Append: [伊媒：伊朗允许一些中国船只通过霍尔木兹海峡](https://www.zaobao.com/news/world/story20260514-9050584)
+Token length: 226
+Summarized using deepseek-v4-flash
+Append: [白宫：中美一致认为 霍尔木兹海峡必须保持开放](https://www.zaobao.com/news/world/story20260514-9050495)
+Token length: 981
+Summarized using deepseek-v4-flash
+Append: [波斯湾风云涌动 伊朗战争正改变中东势力格局](https://www.zaobao.com/news/world/story20260514-9049918)
+append_entries: 5
+Finish: 2026-05-14 16:03:36.762886

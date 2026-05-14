@@ -750,3 +750,24 @@ Summarized using deepseek-v4-flash
 Append: [特稿：烟草经济与公共卫生拉锯 中国控烟路漫漫](https://www.zaobao.com/news/china/story20260514-9001582)
 append_entries: 3
 Finish: 2026-05-14 13:24:35.928217
+------------------------------------------------------
+Started: 2026-05-14 16:02:34.559691
+Existing_entries: 252
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1183
+Summarized using deepseek-v4-flash
+Append: [中美元首会后初步经贸成果释出 涵盖晶片金融农产品领域](https://www.zaobao.com/news/china/story20260514-9050114)
+Token length: 1335
+Summarized using deepseek-v4-flash
+Append: [习特会怎么谈台湾问题？北京严词示警华府沉默](https://www.zaobao.com/news/china/story20260514-9050036)
+Token length: 1223
+Summarized using deepseek-v4-flash
+Append: [会见随特朗普访华美企巨头 李强承诺政策环境稳定开放](https://www.zaobao.com/news/china/story20260514-9050030)
+Token length: 99
+Summarized using deepseek-v4-flash
+Append: [下午察：耿同学的“五连发”举报](https://www.zaobao.com/news/china/story20260514-9050820)
+Token length: 541
+Summarized using deepseek-v4-flash
+Append: [【图集】北京烤鸭配国产葡萄酒 中国七道菜款待特朗普](https://www.zaobao.com/news/china/story20260514-9050571)
+append_entries: 5
+Finish: 2026-05-14 16:03:01.404250
