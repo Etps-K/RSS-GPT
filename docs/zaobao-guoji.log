@@ -655,3 +655,18 @@ Summarized using deepseek-v4-flash
 Append: [波斯湾风云涌动 伊朗战争正改变中东势力格局](https://www.zaobao.com/news/world/story20260514-9049918)
 append_entries: 5
 Finish: 2026-05-14 16:03:36.762886
+------------------------------------------------------
+Started: 2026-05-14 19:25:36.647489
+Existing_entries: 171
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 888
+Summarized using deepseek-v4-flash
+Append: [分析：特朗普处于弱姿态与习近平谈判](https://www.zaobao.com/news/world/story20260514-9050736)
+Token length: 391
+Summarized using deepseek-v4-flash
+Append: [巴勒斯坦法塔赫举行第八次代表大会 阿巴斯承诺推进改革](https://www.zaobao.com/news/world/story20260514-9051035)
+Token length: 473
+Summarized using deepseek-v4-flash
+Append: [俄罗斯：正与阿富汗塔利班建立“全面伙伴关系”](https://www.zaobao.com/news/world/story20260514-9051013)
+append_entries: 3
+Finish: 2026-05-14 19:25:50.016932

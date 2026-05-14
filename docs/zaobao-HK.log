@@ -771,3 +771,12 @@ Summarized using deepseek-v4-flash
 Append: [【图集】北京烤鸭配国产葡萄酒 中国七道菜款待特朗普](https://www.zaobao.com/news/china/story20260514-9050571)
 append_entries: 5
 Finish: 2026-05-14 16:03:01.404250
+------------------------------------------------------
+Started: 2026-05-14 19:25:32.655260
+Existing_entries: 257
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1837
+Summarized using deepseek-v4-flash
+Append: [【视频】“习特会”通报落差：北京提中美关系新定位与台湾 白宫强调伊朗问题共识](https://www.zaobao.com/news/china/story20260515-9050862)
+append_entries: 1
+Finish: 2026-05-14 19:25:36.485572
