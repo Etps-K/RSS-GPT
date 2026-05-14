@@ -786,3 +786,15 @@ Existing_entries: 258
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-14 21:01:41.501600
+------------------------------------------------------
+Started: 2026-05-14 22:46:18.091870
+Existing_entries: 258
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 447
+Summarized using deepseek-v4-flash
+Append: [韩咏红：特朗普访华一次峰会两套表述](https://www.zaobao.com/news/china/story20260515-9051053)
+Token length: 498
+Summarized using deepseek-v4-flash
+Append: [北京烤鸭招待 国宴播放特朗普竞选标志歌曲](https://www.zaobao.com/news/china/story20260515-9050879)
+append_entries: 2
+Finish: 2026-05-14 22:46:26.119232

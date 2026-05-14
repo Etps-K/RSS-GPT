@@ -1656,3 +1656,9 @@ Summarized using deepseek-v4-flash
 Append: [应用材料 2026 财年第二财季净利润 28.06 亿美元，同比增长 31%](https://www.ithome.com/0/950/651.htm)
 append_entries: 2
 Finish: 2026-05-14 21:01:49.933832
+------------------------------------------------------
+Started: 2026-05-14 22:46:27.844510
+Existing_entries: 1002
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2026-05-14 22:46:30.303378
