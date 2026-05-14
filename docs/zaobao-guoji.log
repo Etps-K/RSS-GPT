@@ -613,3 +613,24 @@ Append: [阿富汗粮食危机：联合国称本可多救助百万儿童](https:
 Append: [澳大利亚首个特朗普品牌酒店告吹 合作双方各持理由](https://www.zaobao.com/news/world/story20260514-9048774)
 append_entries: 7
 Finish: 2026-05-14 11:42:52.972687
+------------------------------------------------------
+Started: 2026-05-14 13:24:36.077965
+Existing_entries: 161
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 257
+Summarized using deepseek-v4-flash
+Append: [英国卫生部长辞职 质疑斯塔默领导力](https://www.zaobao.com/news/world/story20260514-9050283)
+Token length: 313
+Summarized using deepseek-v4-flash
+Append: [中东战争致油墨短缺 日本薯片包装黯然“失色”](https://www.zaobao.com/news/world/story20260514-9050127)
+Token length: 853
+Summarized using deepseek-v4-flash
+Append: [各国释放储备难补缺口 今年石油料供不应求](https://www.zaobao.com/news/world/story20260514-9049882)
+Token length: 229
+Summarized using deepseek-v4-flash
+Append: [日本启用“卫星星座”增强导弹反击能力](https://www.zaobao.com/news/world/story20260514-9050065)
+Token length: 586
+Summarized using deepseek-v4-flash
+Append: [美媒：中企拟借道第三国向伊朗转运武器](https://www.zaobao.com/news/world/story20260514-9048386)
+append_entries: 5
+Finish: 2026-05-14 13:24:56.300876

@@ -735,3 +735,18 @@ Append: [马斯克携小儿子访华](https://www.zaobao.com/news/china/story202
 Append: [台行政院考虑重新提交遭否决的国防预算项目](https://www.zaobao.com/news/china/story20260514-9048394)
 append_entries: 18
 Finish: 2026-05-14 11:42:34.310522
+------------------------------------------------------
+Started: 2026-05-14 13:24:21.762346
+Existing_entries: 249
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 361
+Summarized using deepseek-v4-flash
+Append: [三政治局常委出席特朗普访华国宴 较2017年少四人](https://www.zaobao.com/news/china/story20260514-9050058)
+Token length: 624
+Summarized using deepseek-v4-flash
+Append: [小鹏汽车据报计划收购欧洲工厂 承接大众汽车过剩产能](https://www.zaobao.com/news/china/story20260514-9049257)
+Token length: 2720
+Summarized using deepseek-v4-flash
+Append: [特稿：烟草经济与公共卫生拉锯 中国控烟路漫漫](https://www.zaobao.com/news/china/story20260514-9001582)
+append_entries: 3
+Finish: 2026-05-14 13:24:35.928217
