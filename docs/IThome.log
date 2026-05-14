@@ -1288,3 +1288,62 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [JPR 报告 2026Q1 全球消费端 CPU 同比跌 8.6％，服务器 CPU 增 13.6%](https://www.ithome.com/0/950/074.htm)
 append_entries: 1
 Finish: 2026-05-13 22:54:56.142598
+------------------------------------------------------
+Started: 2026-05-14 01:56:01.913615
+Existing_entries: 832
+Fetching from https://www.ithome.com/rss/
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [任天堂：《塞尔达传说》真人电影提前至 2027 年 4 月 30 日上映](https://www.ithome.com/0/950/122.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [华为余承东：鸿蒙智行智界 V9 开起来非常灵活轻巧，还有蟹行模式加持](https://www.ithome.com/0/950/121.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [Tower 2026Q1 营业利润大增 96%，获 13 亿美元硅光子合同](https://www.ithome.com/0/950/120.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [泡泡玛特高层：冰箱产品收入约 600 万，没有计划向传统家电方向发展](https://www.ithome.com/0/950/119.htm)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [2 周内第 3 个高危漏洞：Linux 内核再曝 Fragnesia 缺陷，本地用户可提权至 root](https://www.ithome.com/0/950/118.htm)
+Append: [荣耀 600 系列手机亮相：主打色「幸运星」先行，新机有望近期发布](https://www.ithome.com/0/950/116.htm)
+Append: [消息称微软旗下领英将裁员约 5%](https://www.ithome.com/0/950/115.htm)
+Append: [部分 Win11 用户反馈微软 5 月累积更新安装失败、上网变慢](https://www.ithome.com/0/950/114.htm)
+Append: [佰维京东 JOY 联名京卡 BJ100 microSD 存储卡开售：100MB/s 顺序读取，49.9 元起](https://www.ithome.com/0/950/113.htm)
+Append: [以实际行动支持国产系统发展：腾讯蔡光忠透露微信成立了 800 人团队适配鸿蒙，约占开发人员一半](https://www.ithome.com/0/950/112.htm)
+Append: [两个未修复微软 Win11 漏洞披露，涉及 BitLocker 绕过和本地提权](https://www.ithome.com/0/950/111.htm)
+Append: [京东红包今日 10:00 再加码，猜拳至高赢 5 元](https://www.ithome.com/0/950/110.htm)
+Append: [消息称 AI 芯片企业 Cerebras 曾拒绝 Arm 和软银的收购兴趣](https://www.ithome.com/0/950/109.htm)
+Append: [全新 Xiaomi 17 Max 手机官宣搭载小米首款徕卡 2 亿像素主摄、8000mAh 金沙江电池，本月见](https://www.ithome.com/0/950/105.htm)
+Append: [保时捷中国传媒公关副总裁唐凤靓：设计语言容易被致敬、模仿，但设计背后的灵魂不会轻易被平替](https://www.ithome.com/0/950/104.htm)
+Append: [华为鸿蒙 HarmonyOS 6 终端设备数突破 6000 万](https://www.ithome.com/0/950/103.htm)
+Append: [七彩虹确认 iGame M16 Origo 游戏本 270HX Plus + 5060 配置到手价 8999 元](https://www.ithome.com/0/950/102.htm)
+Append: [警方侦破 2 起有偿删除商品差评案，刑拘 7 人](https://www.ithome.com/0/950/101.htm)
+Append: [雷军谈小米自动驾驶模型 Xiaomi OneVL：业内率先通过潜空间推理将 VLA、世界模型统一到一套框架](https://www.ithome.com/0/950/100.htm)
+Append: [收集一手反馈，微软邀请部分用户直接共同优化 Win11](https://www.ithome.com/0/950/099.htm)
+Append: [最重仅 899g，饭山 PC 推第三代英特尔酷睿 Ultra 处理器超轻薄本](https://www.ithome.com/0/950/097.htm)
+Append: [消息称小鹏汽车正与大众就收购欧洲工厂进行洽谈](https://www.ithome.com/0/950/096.htm)
+Append: [CounterPoint：苹果 2026Q1 美国销量逆势同比涨 1.3%，iPhone 占三大运营商 75% 份额](https://www.ithome.com/0/950/095.htm)
+Append: [小米耳夹耳机说明书曝光，有望是昨日预热的“惊喜新品”](https://www.ithome.com/0/950/094.htm)
+Append: [影石 Insta360 官宣 5 月 19 日发布彩色墨水屏麦克风，支持展示自定义内容](https://www.ithome.com/0/950/093.htm)
+Append: [联想 YOGA Air 14 轻薄本 2026 款 Ultra 7 258V 配置上架，5 月 19 日开售](https://www.ithome.com/0/950/092.htm)
+Append: [集邦咨询称 5 月现货市场继续分化：DRAM 内存卖方惜售提价，NAND 闪存买方观望压价](https://www.ithome.com/0/950/091.htm)
+Append: [我国科研团队研发出全球首例气‑固氢负离子原型电池，有望破解储氢核心技术难题](https://www.ithome.com/0/950/090.htm)
+Append: [铠侠推出高性能 PCIe Gen5 PC OEM 固态硬盘 XG10](https://www.ithome.com/0/950/089.htm)
+Append: [苹果加码广告业务，组建新团队主动拉拢开发者投放](https://www.ithome.com/0/950/088.htm)
+Append: [星舰 V3 火箭首次亮相，SpaceX 星舰第十二次试飞最早北京时间 5 月 20 日发射](https://www.ithome.com/0/950/087.htm)
+Append: [全球变暖警报升级，研究称南极海冰急剧减少](https://www.ithome.com/0/950/086.htm)
+Append: [消息称苹果调整 iOS 27，搜索入口回归并入应用底栏](https://www.ithome.com/0/950/085.htm)
+Append: [并非独立品牌？小米寻天 N90 新车尾标曝光，车头处还可见 Xiaomi 品牌 LOGO 轮廓](https://www.ithome.com/0/950/084.htm)
+Append: [思科计划裁员约 4000 人，投入更多资源到 AI 及相关增长领域](https://www.ithome.com/0/950/083.htm)
+Append: [苹果为谷歌辩护，反对“安卓向第三方 AI 开放服务”的欧盟要求](https://www.ithome.com/0/950/082.htm)
+Append: [华为 MateBook 14 / Pro 鸿蒙笔记本推 HarmonyOS 6.1.0.117SP68，支持 USB 连外置光驱读光盘文件](https://www.ithome.com/0/950/081.htm)
+Append: [IT早报 0514：马化腾回应腾讯 AI 是否落后；阿里 2026 财年净利润 1059.04 亿元；腾讯控股 2026 年 Q1 归母净利润 581 亿元；元宝 App 支持总结微信聊天记录...](https://www.ithome.com/0/950/080.htm)
+Append: [苹果 iOS 26.5 为 Apple Maps 广告铺路，初期配两个入口](https://www.ithome.com/0/950/079.htm)
+Append: [张雪机车：部分 820RR 机油泵供油不畅，新模具预计本月下旬完成、免费更换](https://www.ithome.com/0/950/078.htm)
+Append: [鸿蒙智行旗舰 MPV 智界 V9 试驾车发运，使用尊界车辆同款外包装进行保护](https://www.ithome.com/0/950/077.htm)
+Append: [消息称苹果评估 AI 编程类应用入驻方案，担心恶意软件与收入流失](https://www.ithome.com/0/950/076.htm)
+Append: [华为 Pura X Max 大阔折真香礼盒开售：含阿玛尼香水、唇膏等，13198 元起](https://www.ithome.com/0/950/075.htm)
+append_entries: 43
+Finish: 2026-05-14 01:56:07.477487

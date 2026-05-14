@@ -610,3 +610,21 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [沈泽玮：中国会不会“怀念特朗普”？](https://www.zaobao.com/news/china/story20260514-9044404)
 append_entries: 1
 Finish: 2026-05-13 22:54:51.633085
+------------------------------------------------------
+Started: 2026-05-14 01:55:54.467649
+Existing_entries: 186
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [谢锋：中美是伙伴还是对手 决定两国关系发展方向性问题](https://www.zaobao.com/news/china/story20260514-9045216)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [中国媒体：花旗将获中国第七张外商独资券商牌照](https://www.zaobao.com/news/china/story20260514-9045173)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [鲁比奥：美国希望中国促伊朗改变在海湾地区做法](https://www.zaobao.com/news/china/story20260514-9045158)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [中国贸促会：中美务实合作空间广阔潜力巨大](https://www.zaobao.com/news/china/story20260514-9045107)
+append_entries: 4
+Finish: 2026-05-14 01:55:57.250963

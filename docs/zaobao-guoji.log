@@ -531,3 +531,24 @@ Existing_entries: 139
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-13 22:54:51.816411
+------------------------------------------------------
+Started: 2026-05-14 01:55:57.383937
+Existing_entries: 139
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [美航空燃油出口创新高 填补中东供应缺口](https://www.zaobao.com/news/world/story20260514-9045440)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [美4月通胀升至3年来高峰 万斯罕见承认“不理想”](https://www.zaobao.com/news/world/story20260514-9045241)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [最后期限已过 美参院仍支持特朗普对伊朗开战](https://www.zaobao.com/news/world/story20260514-9045195)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [内坦亚胡办公室称总理伊战期间秘访阿联酋 阿联酋：没这回事](https://www.zaobao.com/news/world/story20260514-9045085)
+Summarization failed, append the original article
+error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [美参院确认沃什出任美联储下任主席](https://www.zaobao.com/news/world/story20260514-9045021)
+append_entries: 5
+Finish: 2026-05-14 01:56:00.669900
