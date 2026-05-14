@@ -552,3 +552,18 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [美参院确认沃什出任美联储下任主席](https://www.zaobao.com/news/world/story20260514-9045021)
 append_entries: 5
 Finish: 2026-05-14 01:56:00.669900
+------------------------------------------------------
+Started: 2026-05-14 05:40:14.968536
+Existing_entries: 144
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 435
+Summarized using deepseek-v4-flash
+Append: [古巴能源部长：柴油和燃油已耗尽](https://www.zaobao.com/news/world/story20260514-9045966)
+Token length: 410
+Summarized using deepseek-v4-flash
+Append: [特朗普要在机场附近建凯旋门 FAA启动风险评估](https://www.zaobao.com/news/world/story20260514-9045906)
+Token length: 475
+Summarized using deepseek-v4-flash
+Append: [伊朗战争导致美国更依赖中国稀土](https://www.zaobao.com/news/world/story20260514-9045592)
+append_entries: 3
+Finish: 2026-05-14 05:40:27.082318

@@ -628,3 +628,43 @@ error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': '
 Append: [中国贸促会：中美务实合作空间广阔潜力巨大](https://www.zaobao.com/news/china/story20260514-9045107)
 append_entries: 4
 Finish: 2026-05-14 01:55:57.250963
+------------------------------------------------------
+Started: 2026-05-14 05:39:53.002056
+Existing_entries: 190
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 148
+Summarized using deepseek-v4-flash
+Append: [特朗普乘车抵达天坛](https://www.zaobao.com/news/china/story20260514-9047027)
+Token length: 206
+Summarized using deepseek-v4-flash
+Append: [习近平会见随同特朗普访华的美国企业家](https://www.zaobao.com/news/china/story20260514-9046967)
+Token length: 55
+Summarized using deepseek-v4-flash
+Append: [中美元首会谈结束 历时超过两小时](https://www.zaobao.com/news/china/story20260514-9046902)
+Token length: 135
+Summarized using deepseek-v4-flash
+Append: [中美元首会谈前 鲁比奥不时抬头观察会场天花板](https://www.zaobao.com/news/china/story20260514-9046788)
+Token length: 621
+Summarized using deepseek-v4-flash
+Append: [台媒：特朗普是习特会台湾议题最大变数](https://www.zaobao.com/news/china/story20260514-9046717)
+Append: [习近平：维护台海和平稳定是中美双方最大公约数](https://www.zaobao.com/news/china/story20260514-9046558)
+Append: [习近平：中美经贸关系本质是互利共赢](https://www.zaobao.com/news/china/story20260514-9046460)
+Append: [马斯克黄仁勋等10余名美商界代表 进入中美元首会谈现场](https://www.zaobao.com/news/china/story20260514-9046475)
+Append: [马斯克黄仁勋库克现身北京人民大会堂](https://www.zaobao.com/news/china/story20260514-9046334)
+Append: [特朗普称赞习近平是一位伟大的领导人](https://www.zaobao.com/news/china/story20260514-9045990)
+Append: [习近平：能否跨越修昔底德陷阱是中美领导人需共同书写的答卷](https://www.zaobao.com/news/china/story20260514-9045939)
+Append: [习近平同特朗普举行会谈](https://www.zaobao.com/news/china/story20260514-9045839)
+Append: [习近平举行仪式欢迎特朗普访华](https://www.zaobao.com/news/china/story20260514-9045703)
+Append: [【直播】中国为特朗普举行欢迎仪式 习特会即将登场](https://www.zaobao.com/news/china/story20260514-9044035)
+Append: [中美元首会谈即将举行 会见桌中央摆放粉白杜鹃花](https://www.zaobao.com/news/china/story20260514-9045609)
+Append: [特朗普出发前往北京人民大会堂](https://www.zaobao.com/news/china/story20260514-9045599)
+Append: [鲁比奥贝森特等将参加中美元首会谈](https://www.zaobao.com/news/china/story20260514-9045538)
+Append: [美籍华裔男子充当中国政府代理人被判罪成](https://www.zaobao.com/news/china/story20260514-9045434)
+Append: [习近平将在人民大会堂东门外广场举行仪式 欢迎特朗普到访](https://www.zaobao.com/news/china/story20260514-9045442)
+Append: [习特会在即 北京多处加强安保](https://www.zaobao.com/news/china/story20260514-9045404)
+Append: [特朗普访华之际 OpenAI倡议建立纳入中国的全球AI治理机构](https://www.zaobao.com/news/china/story20260514-9045408)
+Append: [中国外交官：北京对欧洲投资限制计划非常失望](https://www.zaobao.com/news/china/story20260514-9045308)
+Append: [日本阁员拟赴沪出席APEC部长级会议](https://www.zaobao.com/news/china/story20260514-9045303)
+Append: [苹果CEO库克在特朗普下榻的四季酒店外接受安检](https://www.zaobao.com/news/china/story20260514-9045221)
+append_entries: 24
+Finish: 2026-05-14 05:40:14.855460
