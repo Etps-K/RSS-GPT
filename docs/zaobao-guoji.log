@@ -590,3 +590,26 @@ Append: [印度北方邦遭遇猛烈风暴 近90人死亡](https://www.zaobao.co
 Append: [黎巴嫩与以色列将举行新一轮和平谈判](https://www.zaobao.com/news/world/story20260514-9046727)
 append_entries: 7
 Finish: 2026-05-14 08:25:17.860929
+------------------------------------------------------
+Started: 2026-05-14 11:42:34.455390
+Existing_entries: 154
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 263
+Summarized using deepseek-v4-flash
+Append: [金砖国家外长会议 伊朗与阿联酋针锋相对](https://www.zaobao.com/news/world/story20260514-9049637)
+Token length: 281
+Summarized using deepseek-v4-flash
+Append: [加沙截肢少年 废墟中表演滑轮特技](https://www.zaobao.com/news/world/story20260514-9049487)
+Token length: 294
+Summarized using deepseek-v4-flash
+Append: [英国第一季度经济环比增长0.6%](https://www.zaobao.com/news/world/story20260514-9049186)
+Token length: 202
+Summarized using deepseek-v4-flash
+Append: [拉脱维亚总理宣布辞职](https://www.zaobao.com/news/world/story20260514-9049086)
+Token length: 648
+Summarized using deepseek-v4-flash
+Append: [战争快速消耗武器库 促美国重建稀土供应链](https://www.zaobao.com/news/world/story20260514-9048327)
+Append: [阿富汗粮食危机：联合国称本可多救助百万儿童](https://www.zaobao.com/news/world/story20260514-9048875)
+Append: [澳大利亚首个特朗普品牌酒店告吹 合作双方各持理由](https://www.zaobao.com/news/world/story20260514-9048774)
+append_entries: 7
+Finish: 2026-05-14 11:42:52.972687

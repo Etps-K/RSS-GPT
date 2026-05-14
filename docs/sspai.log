@@ -2494,3 +2494,15 @@ Summarized using deepseek-v4-flash
 Append: [用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
 append_entries: 1
 Finish: 2026-05-14 08:24:21.826621
+------------------------------------------------------
+Started: 2026-05-14 11:42:05.533190
+Existing_entries: 122
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
+append_entries: 2
+Finish: 2026-05-14 11:42:12.406933
