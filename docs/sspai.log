@@ -2485,3 +2485,12 @@ Summarized using deepseek-v4-flash
 Append: [AI 潮来，翻译何为](https://sspai.com/post/108816)
 append_entries: 1
 Finish: 2026-05-14 05:39:52.852759
+------------------------------------------------------
+Started: 2026-05-14 08:24:09.069919
+Existing_entries: 121
+Fetching from https://sspai.com/feed
+Token length: 136
+Summarized using deepseek-v4-flash
+Append: [用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
+append_entries: 1
+Finish: 2026-05-14 08:24:21.826621

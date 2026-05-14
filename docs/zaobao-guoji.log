@@ -567,3 +567,26 @@ Summarized using deepseek-v4-flash
 Append: [伊朗战争导致美国更依赖中国稀土](https://www.zaobao.com/news/world/story20260514-9045592)
 append_entries: 3
 Finish: 2026-05-14 05:40:27.082318
+------------------------------------------------------
+Started: 2026-05-14 08:24:45.530839
+Existing_entries: 147
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 314
+Summarized using deepseek-v4-flash
+Append: [阿联酋海域船只遭劫持 驶向伊朗水域](https://www.zaobao.com/news/world/story20260514-9048266)
+Token length: 314
+Summarized using deepseek-v4-flash
+Append: [伊朗吁金砖国家谴责美以违反国际法](https://www.zaobao.com/news/world/story20260514-9047930)
+Token length: 254
+Summarized using deepseek-v4-flash
+Append: [韩外交部：朝美首脑会晤可能性存在 但尚未准备](https://www.zaobao.com/news/world/story20260514-9047628)
+Token length: 375
+Summarized using deepseek-v4-flash
+Append: [俄军对乌克兰发动发规模空袭 造成一死数十人伤](https://www.zaobao.com/news/world/story20260514-9047535)
+Token length: 462
+Summarized using deepseek-v4-flash
+Append: [日自民党建议政府造稀土开发专用船](https://www.zaobao.com/news/world/story20260514-9047078)
+Append: [印度北方邦遭遇猛烈风暴 近90人死亡](https://www.zaobao.com/news/world/story20260514-9046912)
+Append: [黎巴嫩与以色列将举行新一轮和平谈判](https://www.zaobao.com/news/world/story20260514-9046727)
+append_entries: 7
+Finish: 2026-05-14 08:25:17.860929
