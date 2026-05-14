@@ -1644,3 +1644,15 @@ Summarized using deepseek-v4-flash
 Append: [微星推出“MAG 276QP42”27 英寸显示器：2K 425Hz，2199 元](https://www.ithome.com/0/950/650.htm)
 append_entries: 1
 Finish: 2026-05-14 19:26:00.144379
+------------------------------------------------------
+Started: 2026-05-14 21:01:43.194489
+Existing_entries: 1001
+Fetching from https://www.ithome.com/rss/
+Token length: 988
+Summarized using deepseek-v4-flash
+Append: [法拉第未来 2026 财年第一财季亏损 3885.6 万美元，同比下降 278.05%](https://www.ithome.com/0/950/652.htm)
+Token length: 1009
+Summarized using deepseek-v4-flash
+Append: [应用材料 2026 财年第二财季净利润 28.06 亿美元，同比增长 31%](https://www.ithome.com/0/950/651.htm)
+append_entries: 2
+Finish: 2026-05-14 21:01:49.933832

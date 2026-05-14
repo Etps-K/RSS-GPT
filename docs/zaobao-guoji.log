@@ -670,3 +670,9 @@ Summarized using deepseek-v4-flash
 Append: [俄罗斯：正与阿富汗塔利班建立“全面伙伴关系”](https://www.zaobao.com/news/world/story20260514-9051013)
 append_entries: 3
 Finish: 2026-05-14 19:25:50.016932
+------------------------------------------------------
+Started: 2026-05-14 21:01:41.662798
+Existing_entries: 174
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-14 21:01:41.722446
