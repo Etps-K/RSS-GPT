@@ -874,3 +874,25 @@ Append: [iPhone在华大减价 分析：或刺激一波新销售](https://www.za
 Append: [鲁比奥称美国对台政策未改变 台外长表达感谢](https://www.zaobao.com/news/china/story20260515-9053441)
 append_entries: 12
 Finish: 2026-05-15 08:36:05.756727
+------------------------------------------------------
+Started: 2026-05-15 11:46:23.995013
+Existing_entries: 290
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 567
+Summarized using deepseek-v4-flash
+Append: [消息：央视花6000万美元获美加墨世杯版权](https://www.zaobao.com/news/china/story20260515-9055568)
+Token length: 552
+Summarized using deepseek-v4-flash
+Append: [特习会无惊喜 中国股市下跌](https://www.zaobao.com/news/china/story20260515-9055312)
+Token length: 821
+Summarized using deepseek-v4-flash
+Append: [路透：英外长拟6月初访华 延续中英关系缓和势头](https://www.zaobao.com/news/china/story20260515-9055222)
+Token length: 812
+Summarized using deepseek-v4-flash
+Append: [随行人员：特朗普专机返美 禁带“任何来自中国的物品”](https://www.zaobao.com/news/china/story20260515-9055067)
+Token length: 597
+Summarized using deepseek-v4-flash
+Append: [香港公屋轮候时间下跌至逾八年新低](https://www.zaobao.com/news/china/story20260515-9054849)
+Append: [特朗普：罗斯福提供资金建立习近平母校清华大学](https://www.zaobao.com/news/china/story20260515-9054769)
+append_entries: 6
+Finish: 2026-05-15 11:46:54.757679

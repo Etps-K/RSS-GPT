@@ -2563,3 +2563,18 @@ Summarized using deepseek-v4-flash
 Append: [快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验](https://sspai.com/post/109708)
 append_entries: 1
 Finish: 2026-05-15 08:35:34.833474
+------------------------------------------------------
+Started: 2026-05-15 11:46:04.705024
+Existing_entries: 127
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
+append_entries: 3
+Finish: 2026-05-15 11:46:23.726536

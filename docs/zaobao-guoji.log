@@ -748,3 +748,26 @@ Append: [高市早苗下周访韩 在李在明故乡安东市举行首脑会谈]
 Append: [六名涉疫游轮乘客飞抵澳洲 将隔离至少三周](https://www.zaobao.com/news/world/story20260515-9053333)
 append_entries: 8
 Finish: 2026-05-15 08:36:45.632830
+------------------------------------------------------
+Started: 2026-05-15 11:46:54.937045
+Existing_entries: 194
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 462
+Summarized using deepseek-v4-flash
+Append: [美国民航事故遇难飞行员中 半数药物检测呈阳性](https://www.zaobao.com/news/world/story20260515-9055492)
+Token length: 274
+Summarized using deepseek-v4-flash
+Append: [部分原油或已运出波斯湾 贸易商维多据悉推销伊拉克石油](https://www.zaobao.com/news/world/story20260515-9055201)
+Token length: 509
+Summarized using deepseek-v4-flash
+Append: [美司法部指控耶鲁大学医学院 歧视白人亚裔申请者](https://www.zaobao.com/news/world/story20260515-9054095)
+Token length: 570
+Summarized using deepseek-v4-flash
+Append: [AI加剧美国大学“成绩通胀” 应届求职绩点含金量下降](https://www.zaobao.com/news/world/story20260515-9054773)
+Token length: 515
+Summarized using deepseek-v4-flash
+Append: [伊朗战争恐耗尽五角大楼运营资金](https://www.zaobao.com/news/world/story20260515-9054446)
+Append: [伊媒：美国拒绝伊朗14点谈判方案](https://www.zaobao.com/news/world/story20260515-9054838)
+Append: [林肯纪念堂倒影池翻修 引发招标与成本争议](https://www.zaobao.com/news/world/story20260515-9054173)
+append_entries: 7
+Finish: 2026-05-15 11:47:24.918212
