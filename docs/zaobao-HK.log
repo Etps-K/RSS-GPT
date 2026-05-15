@@ -798,3 +798,21 @@ Summarized using deepseek-v4-flash
 Append: [北京烤鸭招待 国宴播放特朗普竞选标志歌曲](https://www.zaobao.com/news/china/story20260515-9050879)
 append_entries: 2
 Finish: 2026-05-14 22:46:26.119232
+------------------------------------------------------
+Started: 2026-05-15 01:54:12.467858
+Existing_entries: 260
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 737
+Summarized using deepseek-v4-flash
+Append: [多名中国企业家亮相中美国宴 四人与马斯克黄仁勋等同桌](https://www.zaobao.com/news/china/story20260515-9051790)
+Token length: 756
+Summarized using deepseek-v4-flash
+Append: [习特会后 鲁比奥：美国对台政策未改变](https://www.zaobao.com/news/china/story20260515-9051763)
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [穿同款服装 鲁比奥：是马杜罗抄我的](https://www.zaobao.com/news/china/story20260515-9051685)
+Token length: 240
+Summarized using deepseek-v4-flash
+Append: [鲁比奥：关于黎智英等人案件 希望获中方正面回应](https://www.zaobao.com/news/china/story20260515-9051632)
+append_entries: 4
+Finish: 2026-05-15 01:54:32.798933

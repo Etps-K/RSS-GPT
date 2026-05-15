@@ -4,6 +4,600 @@
 <title>IT之家</title>
 <link>https://www.ithome.com/</link>
 
+<item>
+<title>最早用于 Exynos 2800：三星被曝研发新手机内存封装技术，带宽最高提升 30％</title>
+<link>https://www.ithome.com/0/950/709.htm</link>
+<guid>https://www.ithome.com/0/950/709.htm</guid>
+<content:encoded><![CDATA[
+<div> 三星 FOWLP 内存封装 铜柱纵横比 带宽提升
+
+<br><br>总结:
+1. 三星研发新一代Multi Stacked FOWLP移动内存封装技术，基于VCS铜柱堆叠，目标将铜柱纵横比从3-5:1提升至15-20:1。
+2. 通过更细（＜10微米）更高的铜柱增加I/O端子数，带宽提升15%-30%，堆叠容量增加1.5倍以上。
+3. 结合FOWLP工艺为超细铜柱提供支撑，解决易弯折断裂问题；技术仍在开发，最早用于Exynos 2800/2900，量产时间未定。 <div>
+<p>IT之家 5 月 15 日消息，韩媒 ETNews 昨日（5 月 14 日）发布博文，报道称三星正研发新一代移动内存封装技术 Multi Stacked FOWLP，<strong>有望提升带宽 15％至 30％，堆叠容量增加超过 1.5 倍。</strong></p><p>消息称这项内存封装技术建立在三星现有的垂直铜柱堆叠（VCS）技术之上，目标通过更高纵横比的铜柱，突破传统 LPDDR 封装的带宽和容量限制。</p><p>IT之家援引博文介绍，传统移动内存封装依赖铜线键合，I/O 端子数量大致受限在 128 到 256 个之间，同时还面临信号损耗更高、散热和能效较弱的问题。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/33d1f756-b869-4979-9308-ffab3ddae165.jpg?x-bce-process=image/format,f_auto" /></p><p>新方案则继续沿着这条路线走，只是把铜柱做得更细、更高，从而在有限空间里塞入更多连接点。更具体地说，三星计划调整 VCS 封装中铜柱的纵横比，从原来的 3—5:1 提高到 15—20:1，从而提高内存带宽。</p><p>不过该方案的挑战之一，在于铜柱一旦细到 10 微米以下，更容易弯折甚至断裂。因此三星结合 FOWLP 工艺，把芯片封装后向外延伸布线，用来给这些超细铜柱提供额外支撑。</p><p>按照报道说法，这种设计有望在相同面积内放入更多 I/O 端子，进而把带宽提高 15％到 30％，并让内存堆叠容量增加超过 1.5 倍。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3b9c2e10-2f01-4593-b938-f2adaf1c0085.png?x-bce-process=image/format,f_auto" /></p><p>放到实际设备里，这意味着手机或 XR 设备在本地跑更重的 AI 任务时，内存子系统的供数能力可能更强。只是原文没有给出测试条件，因此这些提升暂时还不能直接等同于终端体验涨幅。</p><p>不过，这项技术仍在开发阶段，量产和商用时间线还不清楚。部分业内观察人士认为，它最早可能用于 Exynos 2800，或 Exynos 2900。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:54:47 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:54:47 GMT</pubDate>
+</item>
+<item>
+<title>中芯国际赵海军：公司与客户协商上调定价，涨价效应逐步体现</title>
+<link>https://www.ithome.com/0/950/708.htm</link>
+<guid>https://www.ithome.com/0/950/708.htm</guid>
+<content:encoded><![CDATA[
+<div> 中芯国际、毛利率、产能利用率、专用存储器、人工智能
+
+<br><br>总结: 中芯国际一季报：销售收入25.05亿美元，毛利率20.1%环比升0.9个百分点，主因均价升2.5%及产品结构优化。消费电子占比46.2%居首，工业与汽车占比升至14.0%。新增产能9000片12英寸，产能利用率93.1%环比降2.6%，受AI虹吸效应及新厂开办影响。专用存储器紧缺，公司无法转产只能扩产，部分产品已涨价。Q2收入指引环比增14%-16%，毛利率20%-22%。管理层乐观：AI驱动电源管理芯片供不应求，海外虹吸效应致订单回流，新应用需求强劲，国产化诉求，客户提前备货。 <div>
+<p>IT之家 5 月 15 日消息，在今日（5 月 15 日）的一季报业绩说明会上，中芯国际联合 CEO 赵海军就多个业界关心的问题进行了解答。</p><p>按照国际财务报告准则，中芯国际一季度公司实现销售收入 25.05 亿美元，环比增长 0.7%；毛利率为 20.1%，环比增加 0.9 个百分点。</p><p>赵海军在今天的业绩说明会上表示，毛利率环比提升主要源于产品平均销售单价上升以及产品结构优化。一季度晶圆平均销售单价环比提升 2.5%，出货数量环比微降 0.2%，量价变化反映出公司在优势细分领域的部分产品代工价格稳中有升。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2534d583-c3cd-40a0-be8f-038416260978.png?x-bce-process=image/format,f_auto" /></p><p>从应用结构来看，消费电子以 46.2% 的占比仍居第一大类别；工业与汽车领域占比由去年同期的 9.6% 升至 14.0%，成为增幅最显著的细分板块，显示汽车电动化与工业自动化需求对相关客户备货的持续拉动。智能手机和电脑与平板两大传统品类占比则出现收缩，合计占比明显下降。</p><p>在产能方面，中芯国际一季度公司新增近 9000 片折合 12 英寸产能，整体产能利用率为 93.1%，环比下降 2.6 个百分点。</p><p>赵海军解释称，产能利用率环比下滑主要有两方面原因：一是受人工智能“虹吸效应”影响，去年四季度手机厂商担忧配套存储芯片供应不足而下调了订单，这一影响部分传导至一季度；二是一季度有新厂走出开办期，对应产能加入到利用率的分母中。</p><p>当月产能方面，一季度末月产能（折算 8 英寸标准逻辑）达 107.83 万片，较去年同期的 97.33 万片增长约 10.8%。</p><p>在供不应求的产品类别中，中芯国际已与客户协商上调定价，涨价效应正逐步体现。赵海军透露，部分客户因顾虑后续外部环境不确定性可能带来供应不足或继续推高供应链价格，提前提拉消费电子、物联网类产品的备货，使得公司在手订单充足。此外，由于机器人等人工智能应用对配套芯片需求强劲，中芯国际正在持续扩充产能。</p><p>面对专用存储器的紧缺格局，赵海军表示，受行业产能挤压影响，专用存储器市场面临紧缺局面，目前公司现有逻辑电路、MCU、功率器件等产品线产能均处于满载状态，无法直接抽调现有产能大规模转产专用存储器，只能依靠扩充整体总产量的方式，逐步分出部分产能投向专用存储器，现阶段专用存储器整体仍处于供不应求状态，短期内无法一次性满足客户全部需求。</p><p>展望第二季度，中芯国际给出的收入指引为环比增长 14% 到 16%，预计出货量和平均销售单价均有明显提升；毛利率指引为 20% 至 22%，与上一季度指引相比提升 2 个百分点，主要源于平均销售单价的上升。基于客户需求和在手订单情况，公司管理层表示，相较于上个季度，对于今年的整体运营情况更加乐观，公司将紧密跟踪客户需求，灵活调配资源，确保在复杂环境中保持高质量的交付。</p><p>赵海军表示，基于客户需求和在手订单情况，相较于上个季度，公司对于今年的整体运营情况更加乐观。主要是因为：</p><ul class=" list-paddingleft-2"><li><p>第一，人工智能对配套芯片的强劲需求，直接推动公司电源管理芯片产能供不应求；</p></li><li><p>第二，人工智能海外“虹吸效应”使得消费、IoT 等客户在内地寻找产能、订单回流；</p></li><li><p>第三，人工智能亦带动 ToF、电动汽车、机器人等新应用需求，本土公司积极开拓市场；</p></li><li><p>第四，产业链国产化诉求，推动国产逻辑、网通等芯片需求；</p></li><li><p>第五，涨价效应以及之前提到的客户因担忧供应不足而提前备货。</p></li></ul><p>他表示，在市场环境变化的情况下，公司的技术储备、平台多元和产能转换灵活性的优势，支撑了公司接收订单的能力。公司把产能切换到逻辑、专用存储、电源管理、AFE 模拟平台、高精度 ADC 转换器、Micro OLED 等持续迭代的产品上来。公司继续推进产能建设，与客户签订长期协议，锁定未来需求，为公司带来稳健的增长动能。</p><p>另外，当前全球宏观环境仍面临诸多不确定性，对供应链成本、稳定性、市场预期等带来持续挑战。延续这些年的经验积累，公司会持续强化供应链韧性管理，多渠道采购，尽最大努力降低影响。公司将紧密跟踪客户需求，灵活调配资源，加快产品响应速度，确保在复杂环境中依然能保持高质量的交付。同时，公司高度重视市值管理工作，于 2025 年一季度制定了《市值管理制度》并相应执行。过去一年，公司持续聚焦主业，经营业绩再上新台阶；持续推动技术攻关，协同产业链共同发展；持续建强人才队伍，全面推动绿色可持续发展；深化投资者与公司的双向沟通，通过线上线下多种方式积极向资本市场传递公司价值。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/950/517.htm" target="_blank">中芯国际 2026 年一季度净利润 13.61 亿元，同比增长 0.4%</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/949/016.htm" target="_blank">国产晶圆代工最大并购，中芯国际 406 亿元方案获上交所通过</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/933/038.htm" target="_blank">中芯国际 2025 年全年实现销售收入 93.27 亿美元，同比增长 16.2%</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:44:32 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:44:32 GMT</pubDate>
+</item>
+<item>
+<title>电影《新蝙蝠侠 2》官宣“黑寡妇”斯嘉丽和“冬兵”斯坦加盟</title>
+<link>https://www.ithome.com/0/950/706.htm</link>
+<guid>https://www.ithome.com/0/950/706.htm</guid>
+<content:encoded><![CDATA[
+<div> 斯嘉丽·约翰逊 塞巴斯蒂安·斯坦 新蝙蝠侠2 导演马特·里夫斯 2027年上映
+
+<br><br>总结:导演马特·里夫斯确认斯嘉丽·约翰逊加盟《新蝙蝠侠2》，角色未公布；塞巴斯蒂安·斯坦加入，可能饰演哈维·登特；查尔斯·丹斯饰演其父。里夫斯继续执导，罗伯特·帕丁森回归饰演蝙蝠侠。前作全球票房7.72亿美元，续集定档2027年10月1日。 <div>
+<p>IT之家 5 月 15 日消息，电影《新蝙蝠侠 2》（The Batman Part II）导演马特 · 里夫斯（Matt Reeves）昨日（5 月 14 日）在 X 平台发布推文，<strong>确认“黑寡妇”斯嘉丽 · 约翰逊（Scarlett Johansson）、“冬兵”塞巴斯蒂安 · 斯坦（Sebastian Stan）将加盟影片。</strong></p><p>IT之家附上相关截图如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/991b04d4-02b7-42ad-9d64-490dab5f7fad.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298769139531834?mid=5298769254157150" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/4338195b-3407-4abc-9608-b0eae141b1d3.jpg?x-bce-process=image/format,f_auto" /></a></p><p>里夫斯在 X 平台分享了一个短片，配发了她在《皮囊之下》中的动图，并写下“下一出口，哥谭…… 欢迎”。不过，里夫斯暂未透露她在片中的角色信息。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298771026706483?mid=5298771119311469" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/e921cd28-3f48-4d7f-a34e-344864aed3b1.jpg?x-bce-process=image/format,f_auto" /></a></p><p>此外里夫斯确认斯坦加入哥谭故事线，并配文“进入哥谭状态…… 欢迎”。根据此前报道，斯坦曾被看作哈维 · 登特一角的人选。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298769319624759?mid=5298769415375025" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/13bf83f9-97bc-422d-b851-1cd925baf368.jpg?x-bce-process=image/format,f_auto" /></a></p><p>除这 2 位演员外，消息称《权力的游戏》演员查尔斯 · 丹斯将饰演哈维 · 登特的父亲。主创方面，马特 · 里夫斯将继续执导这部作品，并与马特森 · 汤姆林共同编写剧本。主演罗伯特 · 帕丁森回归饰演蝙蝠侠。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298769269555294?mid=5298769356654135" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ee64e484-6284-4362-a350-95925d57b409.jpg?x-bce-process=image/format,f_auto" /></a></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298769215029347?mid=5298769310517041" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/dad5c33d-6dba-4c95-9384-797e3a2147cd.jpg?x-bce-process=image/format,f_auto" /></a></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298769370218571?mid=5298769471995927" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a294135e-6c7d-492b-b901-0166b5804882.jpg?x-bce-process=image/format,f_auto" /></a></p><p>从商业表现看，2022 年上映的前作《新蝙蝠侠》全球票房达到 7.72 亿美元，为续集奠定了稳固基础。按照当前计划，《新蝙蝠侠 2》将于 2027 年 10 月 1 日在影院上映。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:41:16 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:41:16 GMT</pubDate>
+</item>
+<item>
+<title>华硕 ROG 枪神 / 魔霸 / 魔霸新锐 2026 游戏本开启预约，共 8 大产品系列</title>
+<link>https://www.ithome.com/0/950/705.htm</link>
+<guid>https://www.ithome.com/0/950/705.htm</guid>
+<content:encoded><![CDATA[
+<div> 华硕ROG、2026款、枪神、魔霸、魔霸新锐
+
+<br><br>总结:2026款ROG Strix游戏本开启预约，枪神系列分标准版和超竞版，16/18英寸可选，全系搭载酷睿Ultra 9 290HX Plus；超竞版有AniMe Vision光显矩阵，可选RTX 5090。魔霸系列16/18英寸，16英寸可选锐龙9 9955HX3D+RTX 5070 Ti。魔霸新锐2026为16英寸，采用非最新处理器，配置RTX 5060。 <div>
+<p>IT之家 5 月 15 日消息，华硕 (ASUS) 玩家国度 (ROG) 官方今日上午宣布，2026 款 ROG 枪神 / 魔霸 / 魔霸新锐游戏笔记本开启预约，提供 8 大产品系列选择。</p><h2>枪神</h2><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/8d521bff-5c9c-455c-b38b-87a8fc4b7080.jpg?x-bce-process=image/format,f_auto" /></p><p>华硕今年的英特尔平台 ROG Strix 枪神系列游戏本分为标准版和超竞版两个分支，均提供 16" / 18" 机型，全系搭载酷睿 Ultra 9 290HX Plus 处理器。其中超竞版 A 面拥有 AniMe Vision 光显矩阵，可选 GeForce RTX 5090 笔记本电脑 GPU。</p><h2>魔霸</h2><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/7197e8ad-d391-4a83-9d46-114cf0816dd5.jpg?x-bce-process=image/format,f_auto" /></p><p>与枪神对应的魔霸系列分为 16" / 18" 双版本，其中 16" 可选锐龙 9 9955HX3D + GeForce RTX 5070 Ti 笔记本电脑 GPU。</p><h2>魔霸新锐</h2><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/450c4399-8a63-4793-94f4-097ba938a28b.jpg?x-bce-process=image/format,f_auto" /></p><p>作为 ROG Strix 游戏笔记本中定位较低的分支，魔霸新锐 2026 搭载 16" 屏幕，使用“非最新”处理器，显卡方面也是保持在 GeForce RTX 5060 笔记本电脑 GPU。</p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/950/206.htm" target="_blank">华硕 ROG 枪神 10 Plus 超竞版游戏本支持 320W 性能释放，明日发布</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:40:17 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:40:17 GMT</pubDate>
+</item>
+<item>
+<title>小米耳夹式耳机「珍珠白」配色公布，本月见</title>
+<link>https://www.ithome.com/0/950/704.htm</link>
+<guid>https://www.ithome.com/0/950/704.htm</guid>
+<content:encoded><![CDATA[
+<div> 珍珠白 透明发声球 皮革纹理 触控操作 查找功能<br><br>总结:1. 小米耳夹式耳机珍珠白配色亮相，本月发布。2. 外观一体流线型，采用透明发声球设计，充电盒顶盖为皮革纹理，圆角矩形造型。3. 耳机舱集成电源开关、指示灯、USB-C接口及扬声器（支持查找功能）。4. 耳机本体支持触控操作，触控区域覆盖C型桥和耳机两头。 <div>
+<p>IT之家 5 月 15 日消息，小米耳夹式耳机「珍珠白」配色今天亮相，新品将于本月发布。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ee98498a-19bb-4f5e-b493-c8d95b836d35.jpg?x-bce-process=image/format,f_auto" /></p><p>从官方公布的图片来看，<strong>珍珠白配色的小米耳夹式耳机拥有一体流线造型</strong>，整体外观较为低调，耳机本体采用创新透明发声球设计，更具科技感。而充电盒顶盖则是采用皮革纹理，整体造型呈圆角矩形。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/207b2d46-f391-487b-aa30-20e91bd17b65.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/2e1c402f-24e5-4814-8e90-16f593d53d08.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，目前一张小米耳夹耳机的说明书已在各大互联网社交平台曝光。画面显示，小米耳夹式耳机舱集成了电源开关、指示灯、USB-C 充电接口、扬声器（预计将用于支持查找功能）等。耳机本体则支持触控操作，触控区域覆盖 C 型桥和耳机两头区域。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/aee5ffc7-b247-468d-9df7-87a3f80c9cdb.png?x-bce-process=image/format,f_auto/auto-orient,o_1" title="小米首款耳夹式耳机官宣本月见：高亮镜面机身、透明发声球设计" /></p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:31:52 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:31:52 GMT</pubDate>
+</item>
+<item>
+<title>荣耀 600 系列行业首发双重磁吸工艺：三重幻彩设计，5 月 25 日正式发布</title>
+<link>https://www.ithome.com/0/950/703.htm</link>
+<guid>https://www.ithome.com/0/950/703.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，荣耀 600 系列手机国行将于 5 月 25 日发布，官方今日继续为该系列机型进行预热。</p><p>据介绍，荣耀 600 系列手机采用三重幻彩设计，行业首发双重磁吸工艺。该系列新机在配色、工艺、质感三大维度迎来革新。目前，荣耀 600 系列全新主打配色“幸运星”已同步官宣。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9d8dd6ab-a1c7-4387-a18f-24522a5e468f.jpg?x-bce-process=image/format,f_auto" /></p><p>根据官方预热信息来看，荣耀 600 系列手机国行版主打 4K 闪光微单 Live，将搭载 2 亿超清大底影像，并内置 8600mAh 青海湖大电池。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/15ff3847-fd8a-416b-8ef1-fe0f62995e02.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家整理目前已知信息和爆料如下：</p><h3>荣耀 600</h3><ul class=" list-paddingleft-2"><li><p>6.57 英寸 1.5K 直屏</p></li><li><p>8600mAh 电池 +80W 有线快充</p></li><li><p>前置 50MP</p></li><li><p>200MP（1/1.4）+12MP</p></li><li><p>骁龙 7 Gen4 处理器</p></li></ul><h3>荣耀 600 Pro</h3><ul class=" list-paddingleft-2"><li><p>6.57 英寸 1.5K 直屏</p></li><li><p>8000mAh 电池 +80W 有线快充 +50W 无线快充</p></li><li><p>前置 50MP</p></li><li><p>200MP（1/1.4）+12MP+50MP（3.5x）</p></li><li><p>天玑 8550 处理器</p></li></ul><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/950/637.htm" target="_blank">荣耀 600/Pro 手机规格曝光：6.57 英寸 1.5K 直屏，骁龙 7 Gen4 / 天玑 8550 处理器</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/950/137.htm" target="_blank">荣耀 600 系列手机国行定档 5 月 25 日发布：主打 4K 闪光微单 Live、8600mAh 青海湖大电池</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/950/116.htm" target="_blank">荣耀 600 系列手机亮相：主打色「幸运星」先行，新机有望近期发布</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/948/618.htm" target="_blank">荣耀 600 系列手机国行版官宣，肖战代言</a>》</p></li></ul><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:30:59 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:30:59 GMT</pubDate>
+</item>
+<item>
+<title>微软 Win11 26H1 RP 预览版 28000.2173 更新发布：新增触觉反馈设备，文件资源管理器再优化</title>
+<link>https://www.ithome.com/0/950/702.htm</link>
+<guid>https://www.ithome.com/0/950/702.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，微软今日面向 Windows 11 26H1 的 Release Preview 预览版用户推送了 <strong>Build 28000.2173（KB5089570）更新</strong>。</p><p>IT之家注：以下为逐步推送的内容，可用性因设备而异。</p><h2>新功能</h2><p>Xbox 模式在 Windows 11 电脑上可用，包括笔记本电脑、台式机和平板电脑。灵感来自 Xbox 游戏机体验，Xbox 模式提供简化的全屏界面，将游戏置于设备中心位置，同时最小化背景干扰。</p><p>玩家可以通过 Xbox 应用、游戏栏设置或按 Windows 键 + F11 进入 Xbox 模式。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/fcb77653-386f-4d92-a37b-71f7b3c3c884.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><h2>文件资源管理器</h2><ul class=" list-paddingleft-2"><li><p>扩展了文件资源管理器中可使用的归档格式列表，包括 uu、cpio、xar 和 NuGet 包（nupkg）。</p></li><li><p>当应用直接打开文件资源管理器的下载和文档等文件夹时，视图和排序偏好设置将被保留。</p></li><li><p>修复了在打开此电脑或调整暗黑模式时，详细信息窗格大小时可能出现的白色闪烁。</p></li><li><p>提高了相关 <span class="link-text-start-with-http">explorer.exe</span> 进程的可靠性，在关闭文件资源管理器窗口后会正确停止。</p></li></ul><h2>输入</h2><ul class=" list-paddingleft-2"><li><p>新增功能：在执行某些操作时，用户可以在兼容的输入设备上感受到触觉反馈效果，例如在 PowerPoint 中对齐对象、窗口吸附或调整大小。这些触觉信号可以在设置 &gt; 蓝牙和其他设备 &gt; 鼠标、触摸板或笔 &gt; 触觉信号中开启或关闭。Surface Slim Pen 2、ASUS Pen 3.0 和带有触觉反馈的 MSI Pen 2 支持此功能。随着硬件合作伙伴发布更新，可能还会支持更多兼容设备，包括 Logitech MX Master 4 等特定鼠标。</p></li><li><p>新增功能：触摸键盘上的语音输入现在看起来更简洁直观。更新后的设计去除了全屏覆盖层，并在语音输入键上直接显示语音输入动画，减少额外的视觉干扰。</p></li><li><p>新增功能：阿拉伯语 101 传统键盘布局现已可用。用户可以在时间和语言 &gt; 语言和区域设置中为阿拉伯语选择键盘时添加。</p></li><li><p>提高了在设置 &gt; 蓝牙和其他设备 &gt; Wheel 下设置自定义工具的可靠性。</p></li><li><p>提高了语音输入中流畅听写设置的持久性。</p></li><li><p>提升了 emoji 面板（Windows 键 + 句号）的键盘导航可靠性。</p></li><li><p>提升了使用 ADLaM 键盘时的打字可靠性。</p></li></ul><h2>共享</h2><p>新增功能：拖放托盘现更名为放置托盘。其设置现位于设置 &gt; 系统 &gt; 多任务处理（此前为邻近共享）。放置托盘使用更小的预览视图。此改进有助于防止放置托盘无意中打开，并在屏幕顶部附近工作时更容易关闭。</p><h2>任务栏监控智能体</h2><p>新增功能：Windows 正在任务栏中添加一种新的方式来监控智能体。此体验支持第一方和第三方应用中的智能体，其中 Microsoft 365 Copilot 应用中的 Researcher 作为首批采用者。当 Researcher 处理报告时，Windows 会在任务栏上显示进度，以便用户一目了然地查看更新。将鼠标悬停在 Microsoft 365 Copilot 图标上即可查看实时进度。报告准备好后，Windows 会通知用户。选择通知或图标即可返回应用并查看和使用结果。</p><h2>企业状态漫游（ESR）</h2><p>新增功能：ESR 现在可以通过组织的 Windows Backup 策略进行管理。这使得 IT 管理员的设置更加简单。</p><h2>基于策略的微软预装应用移除</h2><p>新增功能：为 Windows 企业和教育版本的“移除默认 Microsoft Store 包”策略添加了对动态应用移除列表的支持。管理员可以通过使用组策略指定其应用包家族名称来移除额外的 MSIX / APPX 打包应用。动态列表目前尚未在 Intune 设置目录中提供。必须使用组策略或自定义 OMA-URI 进行验证。</p><h2>打印</h2><p>新增功能：在打印设置中添加了一个新图标，用于显示打印机是否支持 Windows 受保护的打印模式。</p><h2>Windows 驱动策略更新</h2><p>新增功能：通过改变 Windows 内核对第三方驱动的信任方式来提高 Windows 的安全性。移除了跨签名驱动的默认信任，而来自 Windows 硬件兼容性计划（WHCP）的驱动和受信任的旧版驱动白名单仍然允许。Windows 在启用强制执行前会至少检查 100 小时和三次重启的驱动兼容性。强制执行后，一小部分跨签名驱动可能会被阻止。</p><h2>增强批处理文件的安全性和性能</h2><p>新增功能：管理员和应用控制业务策略作者现在可以更精细地控制系统如何处理批处理文件和命令提示符（CMD）脚本。从本次发布开始，管理员可以启用更安全的批处理文件处理模式。此模式可防止批处理文件在执行过程中更改。</p><p>要启用此设置，需要将以下值添加到注册表：</p><ul class=" list-paddingleft-2"><li><p>Key：<span class="link-text-start-with-http">HKEY_LOCAL_MACHINE\Software\Microsoft\Command</span> Processor</p></li><li><p>值名称：LockBatchFilesWhenInUse</p></li><li><p>类型：DWORD</p></li><li><p>要设置的值：0（禁用）或 1（启用）</p></li></ul><h2>微软应用商店</h2><p>减少了从 Microsoft Store 下载和安装应用时出现的意外错误，包括错误代码 0x80070057、0x80240008 和 0x80073d28。</p><h2>字体</h2><p>包含对泰语、老挝语、高棉语和龙塔拉文字符的 Leelawadee UI 字体家族的改进，以增强字形序列、位置和渲染。</p><h2>音频</h2><p>改进了第三方驱动程序与 <span class="link-text-start-with-http">midisrv.exe</span> 的兼容性。</p><h2>任务栏</h2><p>提升了任务栏系统托盘区域的加载可靠性。</p><h2>Windows Hello</h2><ul class=" list-paddingleft-2"><li><p>提升了 Windows Hello Face 的可靠性。</p></li><li><p>提升了 Windows Hello 指纹在升级过程中的持久性。</p></li></ul><h2>存储</h2><p>提升了查看设置 &gt; 系统 &gt; 存储 &gt; 高级存储设置 &gt; 磁盘和卷时，查看大容量存储信息的性能。</p><p>从命令行格式化 FAT32 卷的大小限制从 32GB 提高到 2TB。</p><h2>交付优化</h2><p>改进了内存使用，降低了意外使用大量内存的可能性。</p><h2>显示和图形</h2><p>改进了支持显示器颜色配置文件选项的持久性和可用性。</p><h2>Kiosk Mode</h2><p>简化了在 Microsoft Edge 是允许的应用之一时，Kiosk Mode 中允许的打包应用的配置。</p><h2>性能</h2><p>提升了开机自启动应用的性能（设置 &gt; 应用 &gt; 启动中的应用列表应用）。</p><h2>可靠性</h2><p>带来了底层更改，旨在提升 <span class="link-text-start-with-http">explorer.exe</span> 的可靠性，包括在登录时、与任务栏菜单和任务视图交互时、从文件资源管理器的快速访问中取消固定项目时，以及更多场景。</p><h2>其他更新（Normal rollout）</h2><p>Secure Boot：通过此更新，Windows 质量更新包含额外的设备目标数据，提高了符合自动接收新安全启动证书条件的设备覆盖率。设备只有在展示足够的成功更新信号后才能接收新证书，以保持受控和分阶段的推出。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:29:01 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:29:01 GMT</pubDate>
+</item>
+<item>
+<title>用户抱怨网页套壳粗制滥造后，微软承诺 Win11 将回归原生 UI</title>
+<link>https://www.ithome.com/0/950/701.htm</link>
+<guid>https://www.ithome.com/0/950/701.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，据科技媒体 Windows Latest 今天报道，微软正在全力押注 WinUI 3 框架，希望借此消除 Win11 过于臃肿的问题。与此同时，PC 用户对粗制滥造网页套壳应用的不满已经到达极点。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/57bff212-517a-4b93-80ee-2bf5daddd2b9.png?x-bce-process=image/format,f_auto" /></p><p>最近几年，<strong>越来越多开发者抛弃传统 Windows 原生应用</strong>，<strong>转而使用 PWA、Electron 等网页封装方案</strong>。虽然这些框架能显著降低跨平台开发成本，但这些开发方案本质只是浏览器套壳，即使只显示一个界面，也会吃掉大量内存、增加 CPU 负担。</p><p>本月微软测试“低延迟模式”时，许多用户批评微软治标不治本，用 CPU 暴力提频掩盖代码臃肿。<a href="https://www.ithome.com/0/948/674.htm" target="_blank">不过根据IT之家此前报道</a>，微软副总裁<span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"> Scott Hanselman 对此回应道，macOS、Linux 等系统也存在类似的提频机制。</span></p><p><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">并且，Win11 过去几年已经大量使用 WebView 2 组件，甚至大量核心功能都依赖网页套壳，因此用户经常感受到小卡顿、点击延迟，最终感受就是“不流畅”。此前已有消息称，微软正将 Win11 开始菜单从 React 网页组件迁移至原生 WinUI 3。</span></p><p><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">微软表示，WinUI 3 原生优化目前处于开发分支，<strong>将逐步纳入 winui3/main、WinAppSDK <span class="link-text-start-with-http">2.x</span></strong>。不过部分改动风险较高，可能无法通过常规系统更新推送。并且相关优化需要做出结构层面的妥协，主要原因是某些旧程序高度依赖自定义模板。</span></p><p><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">因此，微软将当前性能优化设置为可选方案，未来计划在 WinAppSDK 3.0 / 4.0 切换为默认启用，迫使应用生态向高性能方向发展。</span></p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:25:18 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:25:18 GMT</pubDate>
+</item>
+<item>
+<title>消息称苹果 iPhone 18 全系采用自研 5G 基带，附独有“限制精确位置”功能</title>
+<link>https://www.ithome.com/0/950/700.htm</link>
+<guid>https://www.ithome.com/0/950/700.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，科技媒体 MacRumors 今天（5 月 15 日）发布博文，报道称 iPhone 18 系列有望结束对高通基带的依赖，<strong>全系列使用自研 5G 芯片。</strong></p><p>消息称苹果公司目前正稳步推进自研基带芯片，计划在 iPhone 18 系列上全面采用自研 C 系列基带芯片，并配合 iOS 26.3 系统引入的“限制精确位置”（Limit Precise Location）功能，减少手机向运营商提供的位置数据。</p><p>IT之家曾于今年 1 月报道，用户开启“限制精确位置”后，可以限制蜂窝网络确定你所在位置的精确程度。运营商只能识别设备所在的“大致街区”，而无法获取具体的街道地址或精确坐标。</p><blockquote><p>限制精确位置的作用</p><p>蜂窝网络可以根据你的设备连接到的信号塔来确定你所在的位置。限制精确位置设置可通过降低蜂窝网络获取的位置数据的精确度，来增强你的位置隐私保护。</p><p>打开这项设置后，蜂窝网络获取的一些信息会受到限制。因此，蜂窝网络也许只能确定不太精确的位置（例如，你的设备所在的街区），而不是更精确的位置（例如街道地址）。这项设置不会影响信号质量或用户体验。</p><p>限制精确位置设置不会影响在紧急呼叫期间与应急响应人员共享的位置数据的精确度。</p></blockquote><p>该功能目前适用于搭载苹果自研 C1 和 C1X 基带的设备上，涵盖 iPhone Air、iPhone 16e、iPhone 17e 和 M5 iPad Pro。而采用高通基带的 iPhone 17 Pro 系列机型，暂未启用该选项。</p><p>不过该功能需要得到运营商的支持才能生效，现阶段支持的运营商数量不多。在美国市场，只有 Boost Mobile 支持；而在英国，支持的运营商有 EE、BT 和 Sky。</p><p>消息源称苹果正在研发的 C2 基带能力更强，性能接近高通最新基带，并且预计支持 mmWave 5G。相比 C1 和 C1X，C2 的定位不只是隐私选项扩展，网络能力也会继续补强。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:24:59 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:24:59 GMT</pubDate>
+</item>
+<item>
+<title>华硕白金重炮手氮化镓电源 850W 款上市，当前到手价低至 849 元</title>
+<link>https://www.ithome.com/0/950/699.htm</link>
+<guid>https://www.ithome.com/0/950/699.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，华硕 (ASUS) 现已在电商平台上架 TUF Gaming Platinum“白金重炮手”系列电源的 <strong>850W</strong> 版本，当前到手价低至 <strong>849 元</strong>；此外早前推出的同系列 <strong>1000W</strong> 款当前在叠加优惠券和萧山消费券政府补贴后到手价低至 <strong>1089.05 元</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/82584796-5381-4b48-b386-255c4c680184.jpg?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HayEft4" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/429362/31/16627/2798425/6a003cfcF01fd9cb1/0083714714bc6855.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">华硕 TUF Gaming Platinum 电源 850W</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 券后 899 元</span><span class="card-btn-deep">领 50 元券</span></span></span></span></a></dir><p>该系列 ATX 电源采用全模组设计，取得 80 PLUS 与 Cybenetics 白金转换效率认证、Cybenetic A- 噪声认证。其长度为 150mm，搭载 135mm 双滚珠轴承风扇，<strong>选用氮化镓 (GaN) MOSFET 和 TUF 5K 长寿黑金电容</strong>，符合 ATX 3.1 规范，提供 600W 12V-2×6 供电。</p><p>其 PCB 覆盖保护性涂层，具备六大主要安全防护机制，通过跌落、高低温循环、盐雾、火焰等系列严苛耐久度测试，<strong>享受 8 年质保</strong>。</p><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:22:59 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:22:59 GMT</pubDate>
+</item>
+<item>
+<title>京东红包今日 10 点再加码：猜大小赢至高 10 元红包</title>
+<link>https://www.ithome.com/0/950/697.htm</link>
+<guid>https://www.ithome.com/0/950/697.htm</guid>
+<content:encoded><![CDATA[
+
+<ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul><p>今日 10 点京东红包再加码，猜大小赢红包，至高可膨胀至 10 元。</p><blockquote><p>猜大小红包玩法：小伙伴们可以选择骰子点数大、小（1、2、3 点为小，4、5、6 点为大），获胜 1 局即可获得领取额外奖励的机会（每人至多 5 次机会），可随机获得京东红包、品类东券或店铺券等奖励。</p><p>当获胜 1 局后，可以选择直接领取奖励或者继续挑战。如果再次获胜，则红包奖励会膨胀一定倍数，如果失败则无法获得任何奖励。</p><p>连胜次数越多，红包奖金越高，连赢四局，红包膨胀三次，至高可达 10 元。</p></blockquote><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ed639bcb-cbe5-4b20-b3bf-e1c311cf7d86.png?x-bce-process=image/format,f_auto" /></p><p>蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~</p><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:21:10 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:21:10 GMT</pubDate>
+</item>
+<item>
+<title>Twitch 向全球所有主播开放收益化变现工具</title>
+<link>https://www.ithome.com/0/950/696.htm</link>
+<guid>https://www.ithome.com/0/950/696.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，Amazon（亚马逊）旗下直播平台 Twitch（“老鼠台”）当地时间 5 月 13 日宣布，将此前在美国试点的变现工具完全开放扩展至全球范围，这意味着<strong>世界上的所有 Twitch 主播都能实现收益化</strong>，不再局限于“联盟会员”或“合作伙伴”。</p><p>Twitch 还<strong>即将于 6 月初降低“联盟会员”资格的取得门槛</strong>，月直播时长、直播天数、同接数量、总粉丝数量要求都有所下调。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8ec782ef-4c32-4f83-8bf4-98f2cd2407ae.jpg?x-bce-process=image/format,f_auto" /></p><p>未获得“联盟会员”或“合作伙伴”身份的 Twitch 主播，仍无法将收入以现金形式提取；且 Twitch 设置了 50 美元的最低支付门槛。面对这一情况，<strong>Twitch 已在美国提供了“可支付余额”</strong>：一位主播可将小额收益用于支持其它主播，该功能也将适用于全球范围。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:13:50 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:13:50 GMT</pubDate>
+</item>
+<item>
+<title>微软推送 Win11 RP 26x00.8514 预览版：新增音频共享、NPU 监控</title>
+<link>https://www.ithome.com/0/950/695.htm</link>
+<guid>https://www.ithome.com/0/950/695.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，微软昨日（5 月 14 日）发布博文，邀请 Release Preview 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的 KB5089573 更新，<strong>24H2 用户安装后版本号升至 Build 26100.8514；25H2 用户安装后版本号升至 Build 26200.8514。</strong></p><p>IT之家注：在更新内容方面，本次内容分为渐进推送与常规推送 2 个方面，前者按设备分批覆盖，后者则面向符合条件设备同步下发，这意味着不同用户收到功能的时间可能并不一致。</p><h2>渐进推送</h2><p>本次预览版主要新增音频共享（Shared audio）功能。Windows 11 现可借助 Bluetooth LE Audio（蓝牙低功耗音频）广播技术，让 2 台已配对且已连接的设备同时收听同一台电脑的声音。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/808ca6f9-1c65-4c41-8232-5991ae724f1b.png?x-bce-process=image/format,f_auto" /></p><figcaption>图源：微软</figcaption><p>在辅助功能方面，该预览版升级放大镜功能，包括更清晰的屏幕阅读器播报、支持受许可保护内容放大，以及提升镜头模式移动流畅度。</p><p>任务管理器方面，新预览版针对配备 NPU（神经处理单元）的电脑，系统新增 NPU、NPU Engine、NPU 专用内存和共享内存等可选列，并把 GPU 内的神经引擎活动纳入性能页展示，方便用户观察 AI 负载情况。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/f3785500-660d-49f9-a089-075b03d7c5df.png?x-bce-process=image/format,f_auto" /></p><p>摄像头方面，新加入的 Multi-App Camera 允许多个应用同时访问摄像头流，Basic Camera 模式则适合排障或稳定性优化，企业管理员还能通过组策略统一配置。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4b3ce8a4-68f8-42a7-804f-ed6de6ebb10b.png?x-bce-process=image/format,f_auto" /></p><figcaption>图源：Mauro Huculak</figcaption><p>性能方面，本次更新加快应用启动，以及开始菜单、搜索、操作中心等核心界面响应，并修复 Windows Hello 恢复登录延迟与意外拦截问题。</p><h2>常规推送</h2><p>此次非安全更新还改进了安全启动证书分发机制。Windows 质量更新会加入更高置信度的设备定位数据，从而扩大可自动接收新 Secure Boot 证书的设备覆盖范围。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:10:21 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:10:21 GMT</pubDate>
+</item>
+<item>
+<title>荣耀李健官宣：全球首款机器人手机 Robot Phone 三季度上市</title>
+<link>https://www.ithome.com/0/950/694.htm</link>
+<guid>https://www.ithome.com/0/950/694.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，荣耀终端股份有限公司 CEO 李健今日官宣，全球首款机器人手机荣耀 Robot Phone <strong>将在三季度上市</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/8c5e91bb-1818-4a19-afb7-905dffcf7c94.jpg?x-bce-process=image/format,f_auto" /></p><p>荣耀今年 3 月在 MWC 2026 展会上带来了全新“机器人手机”Robot Phone，<strong>新机最显眼之处就是配备一颗硕大的电动翻转摄像头</strong>，号称是新形态具身智能 AI 终端。<a href="https://www.ithome.com/0/924/860.htm" target="_blank">IT之家在西班牙巴塞罗那现场第一时间前往了荣耀展区并看到了这台手机</a>。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/3/47af3bb5-8204-44d7-8bfd-7c4904d8ed7e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" title="【IT之家图赏】荣耀 Robot Phone 机器人手机现场实拍：三轴云台亮眼，号称“具身智能”加持" /></p><p>外观方面，Robot Phone 通体银灰色，边框则是采用了拉丝装饰。看起来就是一台正常的智能手机，只不过顶部多了个有点像大疆 Osmo Pocket 的三轴云台相机，同时背面还有“α”Logo，彰显该机的特殊之处。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/3/75de8715-3b6e-410c-ba68-b60a2bfd6a4e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" title="【IT之家图赏】荣耀 Robot Phone 机器人手机现场实拍：三轴云台亮眼，号称“具身智能”加持" /></p><p>功能方面，<strong>这台手机顶上的三轴云台相机配备 2 亿像素传感器</strong>，可以向前 / 向后翻转，方便用户拍摄自己或拍摄物体，还有影像大厂 ARRI 技术合作加持，支持 AI 物体追踪、AI 视频剪辑与智能拍摄，可支持实时感知与补偿，确保视频画面极度稳定。</p><p>荣耀在 MWC 2026 现场举行全球发布会，宣布与顶级电影摄影机厂商 ARRI 阿莱达成战略技术合作。<a href="https://www.ithome.com/0/924/851.htm" target="_blank">本次合作将率先在全球首款“手机机器人”Robot Phone 中落地</a>，旨在融合荣耀的移动影像以及 ARRI 百年底蕴的电影摄影技术。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/3/ac4b057b-8ab9-417e-842b-b5813f53c31c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" title="荣耀官宣成为第 79 届戛纳国际电影节中国之夜官方影像合作伙伴，“罗伯特”手机有望亮相" /></p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:06:12 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:06:12 GMT</pubDate>
+</item>
+<item>
+<title>小米 YU7 GT“车厘子红”官图公布，5 月底正式发布</title>
+<link>https://www.ithome.com/0/950/693.htm</link>
+<guid>https://www.ithome.com/0/950/693.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，小米汽车官方刚刚公布了一组小米 YU7 GT 全新的“车厘子红”（Crimson Red）官方图。小米 YU7 GT 已经官宣将于 5 月底正式发布，敬请期待。</p><blockquote><p>兼具力量与优雅，唤醒驾驶渴望，</p><p>陪你穿梭阡陌，奔赴山海，</p><p>看一路的风景，也成为路上的风景。</p></blockquote><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/7511019b-2db7-4465-86e5-a88d0604a0b2.jpg?x-bce-process=image/format,f_auto" /></p><p>根据官方此前预热，小米 YU7 GT 是一台原汁原味的纯血 GT。定位是一台充满驾驶乐趣，也能长途驾驶的跑车级 SUV，最大马力可达 1003ps，最高时速 300km/h，CLTC 纯电续航 705km。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/51b1cfb5-699f-4a85-a428-2cbd7728b913.jpg?x-bce-process=image/format,f_auto" /></p><p>新车拥有“战马姿态”，标志性的长车头和跑车级宽体设计，将顶级赛道纽北当成“最佳试验场”进行「德味调校」，弯道又快又稳，让长途旅行更尽兴从容。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/c36889eb-fdfd-40e6-b22e-ae3b14faf0f5.jpg?x-bce-process=image/format,f_auto" /></p><p>在 4 月 24 日上午的小米汽车北京国际车展发布会上，雷军宣布：小米 YU7 GT 将于 5 月底正式发布。IT之家届时将为大家带来更详细的报道。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/a9fdd08a-3fb9-4d21-abdd-447a0387bfb9.jpg?x-bce-process=image/format,f_auto" /></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/950/424.htm" target="_blank">小米 YU7 GT「车厘子红」高清实车图曝光，新车 5 月底正式发布</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/949/059.htm" target="_blank">小米 YU7 GT「车厘子红」无伪装实车上路，新车已官宣 5 月底正式发布</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/945/982.htm" target="_blank">小米 YU7 GT 为什么不叫 YU7 Ultra，官方回应称并非追求极致性能的赛车</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/942/864.htm" target="_blank">超千匹马力、300km/h 极速，雷军宣布小米 YU7 GT 新车 5 月底见</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:04:19 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:04:19 GMT</pubDate>
+</item>
+<item>
+<title>可识别 3mm 耳机线：小米米家扫拖机器人 6 Pro 水箱版 2488 元、上下水版 2828 元</title>
+<link>https://www.ithome.com/0/950/692.htm</link>
+<guid>https://www.ithome.com/0/950/692.htm</guid>
+<content:encoded><![CDATA[
+
+<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>小米米家扫拖机器人 6 Pro 开售于 2026 年 4 月 8 日，水箱版定价 3799 元、上下水版定价 4199 元。</p><p>京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后，水箱版仅需 2488.58 元、2828 元：</p><ul class=" list-paddingleft-2"><li><p>满 1 元立打 8.7 折券：<a href="https://u.jd.com/H1y28cn" target="_blank">点此查看</a>。</p></li><li><p>加入购物车时选择“<strong>以旧换新</strong>”补贴 &nbsp;200 元（可选加湿器），京东回收不看旧物品相，老、旧、坏电器皆可回收。</p></li><li><p>晒单再返 20 元京豆。</p></li></ul><dir><a contenteditable="false" href="https://u.jd.com/HryTG5B" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a249b219-cc8b-4013-baa3-54b7913ec106.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫拖机器人 6 Pro</span></span><span class="card-abstract"> 水箱版</span><span class="card-controls"><span class="price">以旧换新后 2488.58 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/HDygxmu" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/fb6f3671-f88b-47a1-948b-520a50b9d57d.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫拖机器人 6 Pro</span></span><span class="card-abstract"> 上下水版</span><span class="card-controls"><span class="price">以旧换新后 2828 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p>京东无门槛红包至高 26618 元，支持即领即用：<a href="https://u.jd.com/HGy3j74" target="_blank">点此抽取</a>。</p><p>2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：<a href="https://u.jd.com/A69r8nr" target="_blank">点此查看</a>。</p><p><strong>数码补贴：<a href="https://u.jd.com/AO9cF1s" target="_blank">点此领券</a></strong></p><ul class=" list-paddingleft-2"><li><p>手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。</p></li></ul><p><strong>家电补贴：<a href="https://u.jd.com/A696EUt" target="_blank">点此领券</a></strong></p><ul class=" list-paddingleft-2"><li><p>6 类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/e360e8e1-0f7d-4176-8334-fb8b421aed92.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/40740dfe-c368-4a61-89aa-d33feeb7cf00.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>IT之家从商品页面获悉，这款新品支持 AI 三摄全景识别，可识别数据线、拖鞋、沙发等 280 种常见障碍物和家具，最细可识别 3mm 耳机线；自研 AI 脏污识别算法，高效识别猫砂、狗粮、牛奶等 47 种干湿脏污，并智能匹配清洁策略；配备高清 AI 摄像头，可用米家 App 在视频模式下，随时查看宠物状态。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/3ee251a6-a8b3-44c9-8373-9be966146140.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>新品支持小米澎湃智联，一键远程启动、联动清洁。出门在外，只需打开米家 App，即可远程启动清洁任务，支持与门锁、空净、加湿器等小米智能设备联动。产品内置小爱同学，支持语控召唤、问答。</p><p>新品升级滚筒实时活水洗地，洗、刮、拖一体强效清洁。遇需越障场景，扫地机万向轮可以主动升高抬起，跨越 3cm 垂直台阶，进入卫生间、厨房等清洁。扫地模式下，还可跨越 4cm 的双台阶，进入阳台等更多家庭区域。低矮空间精准探测，深入床下、柜底盲区清洁。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/4835f2ae-b732-4337-8570-93295be45672.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p>滚筒和边刷搭载外扩机械臂，遇到墙边、转角等日常清洁死角，机械臂将自动伸出，贴边扫灰、拖渍。产品配备 30000Pa 超大风机，吸力较前代提升 30%。</p><p>此外，产品完成清洁任务后，自动 85°C 高温烫洗拖布，50°C 高温热风烘干。水箱版基座污水箱内置长效抑菌模块，抑菌率高达 99.99%，有效减缓污水箱异味，最长 40 天不发臭。清扫完成回基座后，机身尘盒内垃圾自动吸入集尘袋内，不易扬尘、不易脏手；超大容量尘袋，最长 75 天免倒尘。上下水版基座高度仅 29 厘米，能嵌入阳台柜体、水槽下方等区域。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/3af85e1c-7229-4805-ace5-2026c1cb9e2c.png?x-bce-process=image/format,f_auto/auto-orient,o_1" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/3af85e1c-7229-4805-ace5-2026c1cb9e2c.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HryTG5B" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a249b219-cc8b-4013-baa3-54b7913ec106.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫拖机器人 6 Pro</span></span><span class="card-abstract"> 水箱版</span><span class="card-controls"><span class="price">以旧换新后 2488.58 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/HDygxmu" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/fb6f3671-f88b-47a1-948b-520a50b9d57d.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫拖机器人 6 Pro</span></span><span class="card-abstract"> 上下水版</span><span class="card-controls"><span class="price">以旧换新后 2828 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:02:59 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:02:59 GMT</pubDate>
+</item>
+<item>
+<title>前 EA 高管 David Gardner：AI 无法拯救糟糕的游戏开发团队</title>
+<link>https://www.ithome.com/0/950/691.htm</link>
+<guid>https://www.ithome.com/0/950/691.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，据游戏媒体 Insider Gaming 昨天报道，前 EA（艺电）高管 David Gardner 最近表示，AI 已经助力小型游戏团队高速成长，但无法拯救糟糕的团队。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/73b6d5c9-d6eb-4505-bb6b-a63fe0792ab6.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家了解到，David Gardner 于 1982 年加入 EA，是公司第 11 名员工。在 EA 工作期间，他帮助公司进入欧洲市场，并为 EA Sports 系列 IP 立下汗马功劳。他在 2007 年离开 EA，并创立风投公司 London Venture Partners。</p><p>这名游戏行业老兵表示，AI 与小团队协同开发已经成为可行的商业模式，至少全新 IP 可以按照这条路走下去。公司们不再需要招聘庞大的开发团队，只需要使用 AI 智能体提升开发效率。</p><p>不过他强调，想让 AI 加速游戏开发的前提是团队足够优秀，它只能成为助推器而不是灵丹妙药。</p><p>Gardner 指出，<strong>游戏行业需要像当年 Web3、VR 热潮一样审视大局</strong>，<strong>筛掉大量低质量项目</strong>。在他看来，AI 只能帮助开发者更快抵达终点，但这个终点可能是成功、也可能是失败。</p><p>他进一步解释道：“我的判断逻辑很简单，只看这支团队能否真的把事做好、能不能理解玩家喜欢什么、能否在开发过程中保持良好合作”。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 01:02:42 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 01:02:42 GMT</pubDate>
+</item>
+<item>
+<title>新型远程控制木马被披露，黑客伪造苹果与雅虎 CDN 域名攻击</title>
+<link>https://www.ithome.com/0/950/689.htm</link>
+<guid>https://www.ithome.com/0/950/689.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，网络安全公司 Darktrace 昨日（5 月 14 日）发布博文，<strong>报道称有黑客利用伪造的苹果和雅虎 CDN 基础设施，在亚太地区发动长期潜伏攻击。</strong></p><p>IT之家注：CDN（内容分发网络）本意是把网站内容分发到不同节点，加快访问速度并提升稳定性。攻击者伪造带有品牌色彩的 CDN 域名，<strong>就是想让受害者和安全设备误以为流量来自可信服务。</strong></p><p style="text-align: center;"><img alt="Picture 1" src="https://img.ithome.com/newsuploadfiles/2026/5/70bbe456-32d2-4d93-8be5-2859ddaf1d58.jpg?x-bce-process=image/format,f_auto" /></p><p>攻击者通过 DLL 侧载（DLL sideloading）技术，将模块化远程访问木马隐藏在合法 Windows 进程中，绕过传统黑名单检测。</p><p>这次攻击具备很强的伪装，攻击者冒充大型科技品牌的 CDN（内容分发网络）基础设施，让流量看起来像正常访问。</p><p>已观测到的域名包括 <span class="link-text-start-with-http">yahoo-cdn.it.com</span> 和 <span class="link-text-start-with-http">icloud-cdn.net</span>，受害系统会先下载合法可执行文件，再拉取对应配置文件与恶意 DLL，从而降低传统拦截规则的命中率。</p><p style="text-align: center;"><img alt="Picture 2" src="https://img.ithome.com/newsuploadfiles/2026/5/f1bc2434-9b65-4894-b52d-b4046d24195c.jpg?x-bce-process=image/format,f_auto" /></p><p>在执行阶段，攻击者大量滥用可信 Windows 程序与 DLL sideloading（动态链接库侧载）。研究人员提到，Microsoft .NET 和 Visual Studio 相关进程，如 <span class="link-text-start-with-http">dfsvc.exe</span>、<span class="link-text-start-with-http">vshost.exe</span>，都曾被用来掩护恶意代码。</p><p style="text-align: center;"><img alt="Picture 3" src="https://img.ithome.com/newsuploadfiles/2026/5/1268ca72-98dd-4cf8-b3db-2df215170d77.jpg?x-bce-process=image/format,f_auto" /></p><p>另一个入侵链里，合法的搜狗拼音程序配合名为 <span class="link-text-start-with-http">browser_host.dll</span> 的恶意 DLL，把代码注入可信进程并劫持执行流程。</p><p>载荷部分疑似由升级版 FDMTP 后门框架驱动，该木马支持加密通信、插件加载、注册表持久化、计划任务、系统画像采集，以及基于 DMTP 的命令与控制通道。</p><p>攻击注册行为曾通过 / GetCluster 端点完成。研究人员还看到运行时字符串解密、AES 加密载荷分发和多种回退执行方式，说明这是一套成熟度较高的长期潜伏方案。</p><p>该活动自 2025 年 9 月底出现，手法以“中等置信度”关联至威胁集群 Twill Typhoon。普通苹果用户受直接影响较小，但企业和开发者需警惕供应链风险，加强网络监控与多因素认证。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:56:47 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:56:47 GMT</pubDate>
+</item>
+<item>
+<title>高温洗烘自清洁：小米米家扫地机器人 5 Pro 水箱版 2117 元、上下水版 2151 元</title>
+<link>https://www.ithome.com/0/950/687.htm</link>
+<guid>https://www.ithome.com/0/950/687.htm</guid>
+<content:encoded><![CDATA[
+
+<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>小米米家扫地机器人 5 Pro 开售于 2025 年 8 月 9 日，水箱版定价 3999 元、薄嵌上下水版定价 4699 元。</p><p>京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后，水箱版仅需 2117.91 元、薄嵌上下水版仅需 2151.75 元：</p><ul class=" list-paddingleft-2"><li><p>满 1 元立打 8.7 折券：<a href="https://u.jd.com/HGySiLm" target="_blank">点此查看</a>。</p></li><li><p>加入购物车时选择“<strong>以旧换新</strong>”补贴 50 元（可选加湿器），京东回收不看旧物品相，老、旧、坏电器皆可回收。</p></li><li><p>晒单再返 20 元京豆。</p></li></ul><dir><a contenteditable="false" href="https://u.jd.com/HGySRfB" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/769383f4-6cf2-44ed-a227-e301b2410540.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫地机器人 5 Pro </span></span><span class="card-abstract">水箱版</span><span class="card-controls"><span class="price">以旧换新后 2117.91 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/H1y1GX4" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/59fbf378-daf8-489c-85db-99b3c97c26c6.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫地机器人 5 Pro</span></span><span class="card-abstract"> 薄嵌上下水版</span><span class="card-controls"><span class="price">以旧换新后 2151.75 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p>京东无门槛红包至高 26618 元，支持即领即用：<a href="https://u.jd.com/HDyWZbP" target="_blank">点此抽取</a>。</p><p>2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：<a href="https://u.jd.com/A69r8nr" target="_blank">点此查看</a>。</p><p><strong>数码补贴：<a href="https://u.jd.com/AO9cF1s" target="_blank">点此领券</a></strong></p><ul class=" list-paddingleft-2"><li><p>手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。</p></li></ul><p><strong>家电补贴：<a href="https://u.jd.com/A696EUt" target="_blank">点此领券</a></strong></p><ul class=" list-paddingleft-2"><li><p>6 类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。</p></li></ul><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2025/8/bee2adaa-b1bc-4b7c-85a2-5422f65e271a.jpg?x-bce-process=image/format,f_auto" title="23000Pa 吸力 + 高温洗烘自清洁：3849 元起小米米家扫地机器人 5 Pro 首销" /></p><p style="text-align: left;">系列扫地机器人配备 AI 摄像头 + 红外摄像头 + 补光灯 + 点阵激光雷达，号称内置的 AI 可识别 200 种物体、47 种脏污，同时配备高温洗烘自清洁基座，支持最高 80 度烫洗、底盘自动刮洗、自动集尘，同时上下水版还支持自动换水 / 自动加清洁剂。</p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2025/8/3845f8d8-375a-497a-a277-6ee2e7c53072.jpg?x-bce-process=image/format,f_auto" title="23000Pa 吸力 + 高温洗烘自清洁：3849 元起小米米家扫地机器人 5 Pro 首销" /></p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2025/8/526783fe-2a85-4860-b92c-510bfffcd55f.jpg?x-bce-process=image/format,f_auto" title="23000Pa 吸力 + 高温洗烘自清洁：3849 元起小米米家扫地机器人 5 Pro 首销" /></p><p>系列扫地机器人提供 23000Pa 吸力，匹配扫、拖双机械臂，号称可以实现毫米级贴边扫净、拖净；机身搭载升降式激光雷达，最低可进入 9.5cm 低矮区域清洁。</p><p>IT之家附产品参数如下：</p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2025/8/f736411a-5545-4fab-bf0a-8eab00de6ac7.jpg?x-bce-process=image/format,f_auto" title="23000Pa 吸力 + 高温洗烘自清洁：3849 元起小米米家扫地机器人 5 Pro 首销" /></p><p style="text-align: center;"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2025/8/17de1966-6686-4bce-8e74-a32ecdc98b8d.jpg?x-bce-process=image/format,f_auto" title="23000Pa 吸力 + 高温洗烘自清洁：3849 元起小米米家扫地机器人 5 Pro 首销" /></p><dir><a contenteditable="false" href="https://u.jd.com/HGySRfB" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/769383f4-6cf2-44ed-a227-e301b2410540.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫地机器人 5 Pro </span></span><span class="card-abstract">水箱版</span><span class="card-controls"><span class="price">以旧换新后 2117.91 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/H1y1GX4" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/59fbf378-daf8-489c-85db-99b3c97c26c6.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫地机器人 5 Pro</span></span><span class="card-abstract"> 薄嵌上下水版</span><span class="card-controls"><span class="price">以旧换新后 2151.75 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:48:20 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:48:20 GMT</pubDate>
+</item>
+<item>
+<title>赠 68 元美团券包：爱奇艺黄金会员 + 京东 PLUS 联合年卡 158 元 618 预售</title>
+<link>https://www.ithome.com/0/950/686.htm</link>
+<guid>https://www.ithome.com/0/950/686.htm</guid>
+<content:encoded><![CDATA[
+
+<p>爱奇艺黄金会员年卡 + 京东 PLUS 年卡日常售价 258 元，<span class="font-color-red"><strong>5 月 15 日 10 点</strong></span>起，618 预售直降至 168 元，叠加 10 元补贴券，到手价为 158 元：</p><dir><a contenteditable="false" href="https://u.jd.com/HDyOR01" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/429950/5/18941/87927/6a056b09Fafeac270/00833203200c9ac2.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">爱奇艺黄金 VIP 会员年卡</span></span><span class="card-abstract">加京东 PLUS 会员年卡</span><span class="card-controls"><span class="price">券后 158 元</span><span class="card-btn-deep">领 10 元券</span></span></span></span></a></dir><p>如果需要爱奇艺白金卡，京东联合会员到手价为 249 元：</p><dir><a contenteditable="false" href="https://u.jd.com/HOyPX0r" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/426513/40/18313/92825/6a0570c9Fe4286f5b/00833203202d7a17.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">爱奇艺白金 VIP 会员年卡 + 支持电视端</span></span><span class="card-abstract">加京东 PLUS 会员年卡</span><span class="card-controls"><span class="price">券后 249 元</span><span class="card-btn-deep">领 20 元券</span></span></span></span></a></dir><p>全款预售，预售时间 <span class="font-color-red"><strong>5 月 15 日 10 点 ~20 日 9:59</strong></span>，20 日 10 点起到账。</p><p>* 全款预售期充值不到账，未充值前支持退款。</p><p>京东无门槛红包至高 26618 元，支持即领即用：<a href="https://u.jd.com/H6yv8y2" target="_blank">点此抽取</a>。</p><p>加赠 68 元美团神券包，包含：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ee6b6b46-76e4-4750-9f2d-e6685b7cccd9.png?x-bce-process=image/format,f_auto" /></p><ul class=" list-paddingleft-2"><li><p>京东 PLUS 会员：官方售价 299 元 / 年</p></li><li><p>爱奇艺黄金会员：官方售价 248 元 / 年</p></li></ul><p>京东 PLUS 年卡赠 12 积分，可用于：</p><ul class=" list-paddingleft-2"><li><p>5 积分换 2 小时保洁（可兑 1 次，大多数城市日常 40 元 / 小时）</p></li><li><p>3 积分洗一次鞋 / 衣服（可兑 2 次，可洗羽绒服）基础体检（爱康国宾）</p></li><li><p>1 积分免费寄快递（可兑 4 次，京东快递免首重）、洗车（可兑 1 次）、在线问诊（实测还是很靠谱的）</p></li></ul><p>如果实在用不上，海鲜市场约 8 元 / 积分还是很好出的（快递 7 元、洗衣 17 元、家政 45 元），12 积分也能回本小百元了。</p><p>爱奇艺登录手机号和京东 PLUS 会员须保持一致，且黄金会员年卡<span class="accentTextColor">不支持电视端</span>，白金年卡<span class="accentTextColor">支持电视端</span>。</p><p>下单前请确认下单账号是否有开通京东 PLUS 会员权限，否则将无法充值到账。</p><h2>黄金年卡会员权益：</h2><p style="text-align: center;"><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/160448/5/46128/109055/6639a1afF242bd012/2f910be635a1817d.jpg" /><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/133827/20/44197/74167/6639a1aeFaeece679/f6cc113f793ccb6d.jpg" /><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/248829/31/8513/63479/6639a1aeFa0dd476a/71fc70c6a00515c2.jpg" /><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/189147/25/45148/43706/6639a1aeFe3b80786/979b2c66ac65c080.jpg" /><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/198744/6/42301/71469/6639a1aeFeaf979ff/35fc7199616bbc53.jpg" /><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/244998/15/8225/71563/6639a1aeF21f8f155/f360af485caaedda.jpg" /><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/236876/4/16422/92375/6639a1aeFc0aef612/16ea063dc482b611.jpg" /><img alt="" src="https://img30.360buyimg.com/sku/jfs/t1/228787/22/16002/65835/6639a1aeF67ca91cc/db3365db8e09b559.jpg" /></p><dir><a contenteditable="false" href="https://u.jd.com/HDyOR01" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/429950/5/18941/87927/6a056b09Fafeac270/00833203200c9ac2.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">爱奇艺黄金 VIP 会员年卡</span></span><span class="card-abstract">加京东 PLUS 会员年卡</span><span class="card-controls"><span class="price">券后 158 元</span><span class="card-btn-deep">领 10 元券</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/HOyPX0r" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/426513/40/18313/92825/6a0570c9Fe4286f5b/00833203202d7a17.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">爱奇艺白金 VIP 会员年卡 + 支持电视端</span></span><span class="card-abstract">加京东 PLUS 会员年卡</span><span class="card-controls"><span class="price">券后 249 元</span><span class="card-btn-deep">领 20 元券</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:47:44 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:47:44 GMT</pubDate>
+</item>
+<item>
+<title>7999 元起：苹果 iPhone 17 Pro 系列京东、天猫降价 1000 元</title>
+<link>https://www.ithome.com/0/950/685.htm</link>
+<guid>https://www.ithome.com/0/950/685.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，苹果 iPhone 17 Pro 系列机型今天在京东、天猫平台迎来降价 1000 元优惠，<strong>原价 8999 元起现在降至 7999 元起，活动截至 6 月 21 日</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/331647b7-dd89-442a-8c6d-fa2e95a4bbef.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家查询 Apple 产品京东自营旗舰店发现，苹果 iPhone 17 系列所有机型目前均有不同程度优惠，其中 <span class="hot-topic">iPhone 17</span> 标准版可享受国补 500 元 +200 元优惠，到手价 5299 元起；<span class="hot-topic">iPhone 17e</span> 国补后到手价则是 3999 元起。</p><p>IT之家附 iPhone 17 系列机型优惠价如下：</p><table align="center"><tbody><tr class="firstRow"><td valign="top">机型</td><td valign="top">原价</td><td valign="top">优惠后到手价</td></tr><tr><td valign="top">iPhone 17 Pro Max</td><td valign="top">9999 元起</td><td valign="top">8999 元起</td></tr><tr><td valign="top">iPhone 17 Pro</td><td valign="top">8999 元起</td><td valign="top">7999 元起</td></tr><tr><td valign="top">iPhone Air</td><td valign="top">7999 元起</td><td valign="top">5499 元起</td></tr><tr><td valign="top">iPhone 17</td><td valign="top">5999 元起</td><td valign="top">5299 元起</td></tr><tr><td valign="top"><p>iPhone 17e</p></td><td valign="top">4499 元起</td><td valign="top">3999 元起</td></tr></tbody></table><dir><a contenteditable="false" href="https://u.jd.com/H6ypm3c" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/846c920f-e3a1-4683-9866-a0a6538fc825.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">苹果 iPhone 17 Pro Max</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">8999 元起</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/HDyZ544" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t20280513/433437/11/11909/47758/6a05eb2eF8e57d07a/0a02320320fa43b0.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">苹果 iPhone 17 Pro</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">7999 元起</span><span class="card-btn-deep">领 1000 元券</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/Hgyn3D3" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t20280323/408031/15/8392/46984/69c26cdeF13f91243/0a02320320ab2fa9.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">苹果 iPhone Air</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">5499 元起</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/HayrEgG" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t20280513/433593/3/9418/57471/6a05d7bdFbca21e3c/0a023203202fbaff.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">苹果 iPhone 17</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">5299 元起</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/HDyBlCp" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/397229/10/13811/9629/69a59f1dF494e0326/00833203206307db.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">苹果 iPhone 17e</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">3999 元起</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:46:08 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:46:08 GMT</pubDate>
+</item>
+<item>
+<title>罗永浩回呛保时捷高管“被抄袭无奈”：论流氓谁能跟保时捷比</title>
+<link>https://www.ithome.com/0/950/684.htm</link>
+<guid>https://www.ithome.com/0/950/684.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，保时捷中国传媒公关副总裁唐风靓 5 月 13 日在浙江举办的“易境思论坛”上谈及中国车企对其设计的模仿时表示，过去几年保时捷激发了一个高度统一的汽车设计审美，被抄袭“除了荣幸也有些许无奈”。</p><p>这一表态引发了广泛讨论，其中，罗永浩 5 月 14 日在微博上发文称，保时捷高管说“无奈”可以理解，但称中国车企抄袭的“高度统一”就是吹牛。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8a4c1a08-54fc-4646-80ec-477b565a0bf1.jpg?x-bce-process=image/format,f_auto" /></p><p>罗永浩认为，新能源车企抄袭保时捷固然是后进工业国在追赶发展过程中绕不过去的一个阶段，但保时捷历史上也没少抄袭。</p><p>他具体指出，保时捷曾抄袭捷克斯洛伐克太脱拉（Tatra）的设计。据罗永浩称，太脱拉公司原本就要打赢针对保时捷的抄袭官司，关键时刻保时捷请希特勒介入此事。1938 年，纳粹德国吞并捷克斯洛伐克后，太脱拉工厂被强行接管，与“甲壳虫”构成直接竞争且作为侵权铁证的 Tatra T97 车型被勒令停产，正常的商业诉讼被国家暴力机器直接抹除。</p><p>二战结束后，太脱拉的母公司在西德重新发起专利诉讼，这场跨越数十年的知识产权纠纷终于在 1965 年迎来终局：大众汽车为平息这段侵权历史，同意与太脱拉方面庭外和解，并支付了 100 万西德马克的赔偿金。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298135283728429?mid=5298135479879051" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/78e28c2b-cd30-4333-8379-bcc4b315d3ed.jpg?x-bce-process=image/format,f_auto" /></a></p><p>罗永浩称，这笔赔偿金在商业和法律事实上构成了对保时捷早期抄袭行为的最终定论，直言“今天抄袭保时捷的中国新能源固然流氓，但说到流氓程度，谁能跟保时捷比呢？”</p><p>罗永浩的这番表态随后引来部分网友的讨论。有网友指出，他的反驳方式犯了“诉诸伪善”的逻辑错误 —— 通过指责对方也做过类似甚至更糟糕的事情来回避当前指控，而不是直接回应当下的问题本身。</p><p>对此，罗永浩直接回怼称：“回避个屁，我都说了抄袭的也是流氓了，还要怎么样？臭 xx”</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/43384c50-ac94-4de6-be9d-2f10585174a0.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0a86948a-623a-4f92-9a3c-d15b6c776983.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9da1345b-ca7c-49c7-b5ed-457ab9ae981d.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:45:43 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:45:43 GMT</pubDate>
+</item>
+<item>
+<title>AI 音乐应用 Suno 上线苹果 CarPlay，丰富你的驾车听歌体验</title>
+<link>https://www.ithome.com/0/950/683.htm</link>
+<guid>https://www.ithome.com/0/950/683.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，科技媒体 9to5Mac 昨日（5 月 14 日）发布博文，报道称苹果 Carplay 第三方应用生态稳步扩充，<strong>本周两款新音频应用上架 CarPlay，为用户出行提供更多选择。</strong></p><p>IT之家附上相关视频如下：</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5298755843588126?mid=5298756049438145" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/13b8b019-c314-413a-8786-23a5c840fd22.jpg?x-bce-process=image/format,f_auto" /></a></p><figcaption></figcaption><p>第一款音频应用是 Suno，它是一款 AI 音乐生成应用，用户无需音乐基础，输入文字提示即可创作完整曲目。</p><p style="text-align: center;"><img alt="Picture 2" src="https://img.ithome.com/newsuploadfiles/2026/5/7c2b5c1d-9fc9-436b-839b-c1de6e065446.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>Suno 应用在 CarPlay 上的界面</figcaption><p>用户现在可以在 CarPlay 上启动 Suno，播放自己生成的音乐。其 CarPlay 界面分为两个部分：资料库可播放“我的歌曲”、播放列表及喜欢的曲目；探索区则提供其他用户创建的播放列表和合集。</p><p style="text-align: center;"><img alt="Picture 4" src="https://img.ithome.com/newsuploadfiles/2026/5/dbda0fd7-c086-4dcb-a258-7cdad64bdea2.jpg?x-bce-process=image/format,f_auto" /></p><p>另一款新应用是 Zeno Radio，它聚合了流媒体传统电台和播客内容。其电台资源涵盖儿童、高校、喜剧、音乐、新闻谈话等多个分类。用户可在驾驶时通过 CarPlay 便捷收听这些音频内容。</p><p style="text-align: center;"><img alt="Picture 1" src="https://img.ithome.com/newsuploadfiles/2026/5/b8e853e1-5dde-4e71-b9a1-180ae1556fb9.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>Zeno Radio 应用在 CarPlay 上的界面</figcaption><p style="text-align: center;"><img alt="Picture 3" src="https://img.ithome.com/newsuploadfiles/2026/5/20b15858-cfb1-4a8c-8704-6066f81c40ff.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>CarPlay 在 iOS 26 中的小组件与新界面</figcaption>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:44:06 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:44:06 GMT</pubDate>
+</item>
+<item>
+<title>微星发布电影《星球大战：曼达洛人与古古》联名 RTX 5080 16GB 显卡</title>
+<link>https://www.ithome.com/0/950/682.htm</link>
+<guid>https://www.ithome.com/0/950/682.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，微星 (MSI) 昨日发布了与电影《星球大战：曼达洛人与古古》联名的 GeForce RTX 5080 16GB OC 显卡。这款显卡为限量型号，<strong>欧洲区仅发售 500 张</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/87aad3bd-2be7-4d0d-a9cd-855db191072d.jpg?x-bce-process=image/format,f_auto" /></p><p>《星球大战：曼达洛人与古古》联名 RTX 5080 基于微星经典的 GAMING TRIO“魔龙”系列模具打造，并<strong>融入了这部即将于 5 月 22 日登上大荧幕的电影的标志性元素</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/e755831c-1ff0-474a-aa30-9f41a89d6383.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/1a111ae4-b39e-40ec-8784-1dbfb91e6a82.jpg?x-bce-process=image/format,f_auto" /></p><p>该显卡采用曼达洛人风格的配色方案，流线拉丝金属表面受到角色丁 · 贾伦 (Din Djarin) 的铠甲设计启发，背部通风口拥有 4 种主题替换徽标网罩，显卡支架则采用了古古造型。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3869db53-2888-4584-911f-d3f01bd9a35e.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/d9036c45-20c7-41db-8eab-e792f405f182.jpg?x-bce-process=image/format,f_auto" /></p><p><a href="https://api.zuihuimai.com/m/activity/cinema?fixtitle=%E7%94%B5%E5%BD%B1%E7%A5%A8&amp;showclose=1" target="_blank"><img class="lazy" src="https://img.ithome.com/newsuploadfiles/2025/5/bd9a6ff4-1fca-48b2-af81-1eb93b115012.jpg?x-bce-process=image/format,f_auto" title="《哪吒之魔童闹海》超过《复联 4》，成为中国影史工作日单日票房冠军" /></a></p><p>IT 之家小伙伴记得用<a href="https://api.zuihuimai.com/m/activity/cinema?fixtitle=%E7%94%B5%E5%BD%B1%E7%A5%A8&amp;showclose=1" target="_blank" title="最会买">最会买购买电影票</a>，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:38:06 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:38:06 GMT</pubDate>
+</item>
+<item>
+<title>马斯克诉 OpenAI 案收官前双方互怼：奥尔特曼是骗子、世界首富 AI 成功靠打官司</title>
+<link>https://www.ithome.com/0/950/681.htm</link>
+<guid>https://www.ithome.com/0/950/681.htm</guid>
+<content:encoded><![CDATA[
+
+<p>5 月 15 日，据路透社报道，当地时间周四，埃隆 · 马斯克 (Elon Musk) 起诉 OpenAI 案进入结案陈词阶段。</p><p>在庭审接近尾声之际，马斯克的律师对 OpenAI CEO 萨姆 · 奥尔特曼 (Sam Altman) 的可信度发起猛烈抨击。这场庭审的核心争议是，是否应追究 OpenAI 及其领导层将非营利组织转变为自我牟利工具的责任。</p><p style="text-align: center;"><img alt="奥特曼在法院" src="https://img.ithome.com/newsuploadfiles/2026/5/a8c07ee0-2678-4afc-a25d-285600185ed7.png?x-bce-process=image/format,f_auto" /></p><figcaption>奥尔特曼在法院</figcaption><p>OpenAI 则反击称，马斯克作为世界首富，等待了太久才提出 OpenAI 违反其创立协议的指控，也就是即构建安全且造福人类的 AI。同时，他们还表示，马斯克也不能声称自己对 OpenAI 的成功起到了不可或缺的作用。</p><p>“马斯克在某些领域或许有点石成金的本事，但在 AI 领域并非如此，”OpenAI 的律师威廉 · 萨维特 (William Savitt) 表示，“事实证明，马斯克想在 AI 领域取得成功，唯一会做的就是来法院打官司。”</p><p>马斯克的律师史蒂文 · 莫洛 (Steven Molo) 在结案陈词中对陪审团表示，包括马斯克本人、OpenAI 前董事会成员以及前首席科学家伊利亚 · 苏茨克弗 (Ilya Sutskever) 在内的五名证人作证称，奥尔特曼是个骗子。</p><p>莫洛还指出，在周二的交叉询问中，当被问到自己是否“完全值得信赖、不会在商业事务中误导他人”时，奥尔特曼并没有毫不含糊地直接回答“是”。</p><p>“奥尔特曼的可信度是本案的核心问题，”莫洛表示，“如果你们不相信他，他们就不可能胜诉。”</p><p>莫洛还指控 OpenAI 试图以牺牲非营利组织为代价，以不正当手段让投资者和内部人士致富，并且未能将 AI 的安全性放在优先位置。</p><p>代表 OpenAI 被告方的另一位律师莎拉 · 埃迪 (Sarah Eddy) 则在结案陈词中，指责马斯克及其法律团队只会诉诸“博眼球的片面之词和无关的虚假指控”。</p><p>埃迪表示，马斯克声称自己未曾阅读 2018 年那份讨论 OpenAI 寻求外部投资计划的四页条款清单，她对此感到难以置信。埃迪指出，“世界历史上最精明的商人之一”绝不会“把头埋进沙子里装聋作哑”。萨维特则指责马斯克患有“选择性失忆症”。</p><p>奥尔特曼和布罗克曼出席了当天的结案陈词。马斯克则正陪同美国总统在中国访问。</p><p style="text-align: left;">在本案中，马斯克要求 OpenAI 及其合作伙伴微软向其赔偿 1500 亿美元，这笔赔偿金将支付给 OpenAI 的非营利实体。他还要求撤去奥尔特曼和 OpenAI 总裁格雷格 · 布罗克曼 (Greg Brockman) 的职务。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:37:12 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:37:12 GMT</pubDate>
+</item>
+<item>
+<title>Mercury Research：AMD EPYC 服务器处理器 Q1 拿下 46.2% 营收份额创新高，出货量占 27.4%</title>
+<link>https://www.ithome.com/0/950/680.htm</link>
+<guid>https://www.ithome.com/0/950/680.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，据市场研究机构 Mercury Research 最新数据，AMD EPYC 服务器处理器按营收算在 2026 年第一季度创下 46.2% 的市场份额，这是该公司在服务器 CPU 领域的最高纪录。</p><p>AMD 于 5 月初公布了 2026 年第一季度财报，当季总营收 103 亿美元（IT之家注：现汇率约合 700.56 亿元人民币），其中数据中心业务贡献 58 亿美元（现汇率约合 394.49 亿元人民币），占公司总营收的 55.9%。</p><p>Mercury Research 数据显示，EPYC 系列处理器的增长主要来自云端和企业级市场的持续采用，第四代 EPYC（Genoa）与第五代 EPYC（Turin）表现尤为突出。在云市场，搭载 EPYC 处理器的云服务器实例同比增长近 50%，总量已超过 1600 个；企业端营收则创下历史最高纪录。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/5b85fbdf-a357-4c6d-b5d7-20a96e910995.png?x-bce-process=image/format,f_auto" /></p><p>从市场份额来看，AMD EPYC 的营收份额同比提升 6.8 个百分点，环比提升 4.9 个百分点。不过，在出货量层面，EPYC 仅占服务器 CPU 总出货量的 27.4%—— 这意味着 AMD 处理器的平均售价明显高于竞争对手。</p><p>这也意味着，英特尔仍以 54.9% 的出货量份额占据服务器 CPU 的多数出货量，但其份额环比下降 3.4 个百分点。在营收方面，英特尔服务器 CPU 营收份额为 53.8%。另外，基于 Arm 架构的服务器 CPU 出货量份额已达到 17.7%。</p><p>从整体 x86 CPU 市场来看，AMD 2026 年第一季度的总出货量份额达到 30.0%，同比增长 5.6 个百分点；总营收份额达到 38.1%，同比增长 6.5 个百分点，环比增长 2.7 个百分点。在客户端市场，AMD 台式机营收份额为 37.6%，笔记本营收份额为 28.9%。</p><p>AMD 此前在财报电话会上表示，AI 推理和智能体工作负载正在推动 CPU 需求的结构性变化。AMD 已将服务器 CPU 总潜在市场预期大幅上调，预计 2030 年将突破 1200 亿美元（现汇率约合 8161.91 亿元人民币）。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/946/628.htm" target="_blank">AMD 2026 财年第一财季净利润 13.83 亿美元，同比增长 95%</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/919/126.htm" target="_blank">苏姿丰定调：无惧内存涨价，AMD PC 业务靠“高端化”逆势增长</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/918/937.htm" target="_blank">AMD 2025 年营收 346 亿美元创纪录，净利润 43 亿美元同比增长 164%</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:30:07 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:30:07 GMT</pubDate>
+</item>
+<item>
+<title>保时捷 2026 款 Macan EV 已支持苹果 Apple Wallet 车钥匙功能</title>
+<link>https://www.ithome.com/0/950/679.htm</link>
+<guid>https://www.ithome.com/0/950/679.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，科技媒体 9to5Mac 昨日（5 月 14 日）发布博文，报道称苹果携手保时捷扩展 Apple Wallet 车钥匙功能，<strong>现已支持 2026 款 Macan EV，并计划 8 月加入支持 2026 款 Cayenne EV。</strong></p><p>IT之家援引博文介绍，苹果公司于 2025 年承诺，会有 13 个品牌支持 Apple Wallet 车钥匙功能，目前丰田、Rivian 和保时捷已落地，通用汽车等品牌尚未兑现。在保时捷此前官宣后，随着 Macan 近期大规模交付，该功能正式上线。</p><p>根据 Reddit 社区用户反馈，2026 款 Macan EV 已支持 Apple Wallet 车钥匙功能，今年 8 月还将扩展到 2026 款 Cayenne EV。</p><p>为了让更多车主摆脱实体车钥匙的束缚，苹果仍在推动更多车企加入。</p><p style="text-align: center;"><img alt="Picture 1" src="https://img.ithome.com/newsuploadfiles/2026/5/62268faa-c178-4fc6-8b3b-1a99043ad557.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>图源：保时捷</figcaption>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:28:12 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:28:12 GMT</pubDate>
+</item>
+<item>
+<title>xAI 发布 Grok Build 早期测试版编程智能体，仅限 SuperGrok 订阅用户使用</title>
+<link>https://www.ithome.com/0/950/678.htm</link>
+<guid>https://www.ithome.com/0/950/678.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，xAI 昨天发布 Grok Build 早期测试版编程智能体，<strong>目前仅限 SuperGrok 订阅用户可用</strong>，可直接在终端内运行。</p><p>据官方介绍，Grok Build 是专为软件工程、复杂编程领域打造的强大编程智能体。用户在开启复杂任务时，可以先进入“规划模式”，审核执行计划、单独修改某一步骤，或完全重写整个计划。一旦批准，所有改动都会以 Diff 展示。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6be3a3f4-7979-4a2f-9243-e43c1fbc27a9.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，Grok Build 还能够直接使用 <span class="link-text-start-with-http">AGENTS.md</span> 的文件、插件、hooks、skills 及 MCP 服务。兼容无头模式，可在脚本和自动化流程中轻松运行智能体。CLI 还提供完整的 ACP 支持，方便用户自行构建机器人、智能体编排应用。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/17f26640-6236-48b2-b450-1ed4a07a7fac.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:27:56 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:27:56 GMT</pubDate>
+</item>
+<item>
+<title>28000Pa 吸力 + 越障高度 40mm：小米米家扫拖机器人 6 水箱版 1613 元国补新低</title>
+<link>https://www.ithome.com/0/950/677.htm</link>
+<guid>https://www.ithome.com/0/950/677.htm</guid>
+<content:encoded><![CDATA[
+
+<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>小米旗下米家扫拖机器人 6 标准版发售于 2026 年 4 月，该机器人提供 28000Pa 吸力，其中水箱版本定价 2699 元。</p><p>京东 618 大促期间，按下方步骤下单，叠加 15% 国补后，水箱版仅需 1613.82 元：</p><ul class=" list-paddingleft-2"><li><p>满 1 元立打 8.7 折券：<a href="https://u.jd.com/H1yIiJC" target="_blank">点此查看</a></p></li><li><p>加入购物车时选择“以旧换新”补贴 100 元，京东回收不看旧物品相，老、旧、坏电器皆可回收。</p></li><li><p>晒单再返 20 元京豆。</p></li></ul><dir><a contenteditable="false" href="https://u.jd.com/HDybTMl" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8c539c22-aed8-46c0-8d86-08fb20e7df3f.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫拖机器人 6 水箱版</span></span><span class="card-abstract">扫拖一体 全自动清洗基站</span><span class="card-controls"><span class="price">以旧换新后 1613.82 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p>京东无门槛红包至高 26618 元，支持即领即用：<a href="https://u.jd.com/H6yS0SL" target="_blank">点此抽取</a>。</p><p>2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：<a href="https://u.jd.com/A69r8nr" target="_blank">点此查看</a>。</p><p><strong>数码补贴：<a href="https://u.jd.com/AO9cF1s" target="_blank">点此领券</a></strong></p><ul class=" list-paddingleft-2"><li><p>手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。</p></li></ul><p><strong>家电补贴：<a href="https://u.jd.com/A696EUt" target="_blank">点此领券</a></strong></p><ul class=" list-paddingleft-2"><li><p>6 类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/b4909d22-9939-4b63-b687-66ad55ee9c85.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/99735358-c452-4696-9a76-7d1f799b47b2.png?x-bce-process=image/format,f_auto" /></p><p>该扫拖机器人整体厚度 90mm，采用双摄像头定位系统，提供 28000Pa 吸力，内置双重防缠设计，支持地毯识别智能抬升拖布，越障高度 40mm。</p><p>IT之家附产品参数：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/fdbb7434-4778-4eac-b760-c4d08a60a23e.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/HDybTMl" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8c539c22-aed8-46c0-8d86-08fb20e7df3f.png?x-bce-process=image/format,f_auto" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米 米家扫拖机器人 6 水箱版</span></span><span class="card-abstract">扫拖一体 全自动清洗基站</span><span class="card-controls"><span class="price">以旧换新后 1613.82 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:15:42 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:15:42 GMT</pubDate>
+</item>
+<item>
+<title>Anthropic 最强 AI Mythos 辅助，专家发现苹果 macOS 26.4.1 提权漏洞</title>
+<link>https://www.ithome.com/0/950/676.htm</link>
+<guid>https://www.ithome.com/0/950/676.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，华尔街日报昨日（5 月 14 日）发布博文，报道称安全专家调用 Anthropic 最强 AI 模型 Claude Mythos，<strong>在苹果 macOS 26.4.1 系统中成功提权。</strong></p><p>来自安全公司 Calif 的研究人员利用 Claude Mythos 模型，目标针对苹果 macOS 26.4.1 更新，从普通本地账户起步，结合 2 个漏洞，最终拿到 root shell，并绕过了苹果面向 Apple Silicon 的 Memory Integrity Enforcement（内存完整性强制，简称 MIE）保护。</p><p>IT之家注：root shell 指系统中最高权限的命令行访问能力。拿到 root shell，意味着攻击者可直接执行高权限命令，修改系统配置、访问受限目录，甚至植入持续控制手段。</p><p>而 MIE 是苹果在新一代 Apple Silicon 设备上部署的硬件辅助安全机制，建立在 ARM 的内存标记能力之上，目标是在硬件层直接限制部分内存破坏利用方式，从而降低漏洞稳定复现和提权成功的概率。</p><p style="text-align: center;"> </p><p>攻击起点只是一个无特权本地账户，随后借助标准系统调用、2 个漏洞和多种利用技巧，把权限一路抬升到 root shell。</p><p style="text-align: center;"><img alt="Picture 3" src="https://img.ithome.com/newsuploadfiles/2026/5/2ed5cb55-c5ea-49eb-8971-957540369d85.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>Mythos 与 macOS 攻击相关视频封面</figcaption><p>参与项目的研究员相当重视这次发现，并前往苹果位于库比蒂诺的总部通报结果。后续公开信息显示，这条利用链被描述为“仅数据的内核本地权限提升链”，运行环境是启用 MIE 保护的 Apple M5 硬件。</p><p>从技术路径看，这次攻击并不是靠单一漏洞直接突破。研究团队称，Mythos 协助识别了已知漏洞类别，并加快了部分研究流程；真正的利用链则由人类研究员与 AI 共同打磨。</p><p>他们在 4 月下旬发现相关问题后，大约用 5 天完成了这条链。由于苹果公司依然在审查这些漏洞，团队没有公布漏洞编号、利用代码和完整技术报告。</p><p><span class="referenceTitle">参考</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://blog.calif.io/p/first-public-kernel-memory-corruption" target="_blank">First public macOS kernel memory corruption exploit on Apple M5</a></p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:14:11 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:14:11 GMT</pubDate>
+</item>
+<item>
+<title>《恋与深空》男主温泉半裸剧情引争议，叠纸游戏官方致歉并着手处理</title>
+<link>https://www.ithome.com/0/950/675.htm</link>
+<guid>https://www.ithome.com/0/950/675.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，叠纸游戏旗下女性向恋爱手游《恋与深空》近日因一段温泉剧情推广视频再次陷入内容尺度争议。官方于 5 月 13 日就该事件正式致歉，称“抱歉影响到玩家体验”，并表示已将投诉举报传达至相关部门处理。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/tv/show/1034:5297902646657026?mid=5297866494970750" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2bb7d4ad-b2fe-4682-9e12-12086a1c20c8.jpg?x-bce-process=image/format,f_auto" /></a></p><p>引发此次争议的视频素材中，可见男主角半裸在温泉中洗浴，女主角在旁以手部触碰角色胸背部作为互动表现，背景则配以带有明显喘息质感的音效。</p><p>该推广视频在社交平台上的播放量迅速突破了 300 万次。观看后，大量玩家认为这段内容超出了正常恋爱剧情能够合理描摹的氛围边界，出现了露骨乃至低俗的观感。部分玩家认为，这种露骨的画面表现破坏了游戏对于男主角人格魅力的塑造，是在透支长久积累下来的 IP 价值。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/7484247626/QD9rXgD94" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9f70325f-b617-47ea-8637-a17a1f9f23b8.jpg?x-bce-process=image/format,f_auto" /></a></p><p>不过，也有持不同意见的群体。一些观点认为，游戏本身面向成年人群体，视频场景更多应当被解释为恋爱养成游戏里为烘托亲密感而进行的常规性氛围塑造。在他们看来，温泉主题中出现类似肢体接触和特定背景音效属于在合理期待内，网友们的批评本质上属于过度解读。不少支持者同时指出，游戏中男性角色的衣着覆盖度甚至高于市场上多款主流男性向游戏中的女性角色，批评声音在涉及性别尺度时采用了不一致的标准。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/2cf7f11e-2fbb-4bc9-8cdb-1287cebc595e.jpg?x-bce-process=image/format,f_auto" /></p><p>自事件发酵以来，《恋与深空》官方尚未就视频是否下架或者具体如何进行内容整改发布公开的后续进展。IT之家注意到，这已并非该作品首次引发同类争议。此前，在涉及特定角色造型的宣发素材中，也曾出现过针对角色衣装及互动尺度等方面的大规模玩家投诉与反弹。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p style="text-align: justify;">《<a href="https://www.ithome.com/0/947/680.htm" target="_blank">停机维护超两月，游戏〈尘白禁区〉现已重新开服</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:13:17 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:13:17 GMT</pubDate>
+</item>
+<item>
+<title>特斯拉强制要求驾驶员接管 FSD 时提供反馈，屏幕弹窗引争议</title>
+<link>https://www.ithome.com/0/950/674.htm</link>
+<guid>https://www.ithome.com/0/950/674.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，据汽车媒体 electrek 昨天报道，特斯拉现已修改 FSD 使用规定，只要驾驶员接管车辆就必须提供反馈。</p><p>据报道，此前反馈提示会在屏幕上出现几秒后自动消失；而现在，<strong>反馈界面会一直停留在屏幕上</strong>，<strong>直到驾驶员选择原因或录制语音说明</strong>。本次变化随 FSD v14.3.2 一同到来，是 2026.2.9.9 软件更新的一部分。不过特斯拉并未说明这项改动，只是悄悄修改了日志补充说明。</p><p>目前，驾驶员需要在接管 FSD 时点击屏幕，并在四个原因中选择一个：个人偏好（IT之家注：Preference）、体验不适（Discomfort）、导航问题（Navigation）、严重问题（Critical），当然也可以通过方向盘的麦克风按钮录制语音反馈。整个界面没有超时消失机制，也不会出现关闭按钮。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8d146286-02ff-4ad1-9fe1-91a4a9cd051a.png?x-bce-process=image/format,f_auto" /></p><p>不过，用户可以直接双击麦克风按钮快速关闭提示框，因为这样会直接发送空白语音反馈。</p><p>作为参考，特斯拉强制驾驶员提供反馈的原因可能是需要改进数据，让 AI 训练时获取更高质量的分类数据。但许多车主对此表示质疑，并认为接管本身代表着路况出现变化，而这时屏幕却突然弹出窗口，本质是一种干扰。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:09:00 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:09:00 GMT</pubDate>
+</item>
+<item>
+<title>不用守电脑：手机端 ChatGPT 解锁 Codex，能实时远程控制 Mac 端 AI 任务</title>
+<link>https://www.ithome.com/0/950/673.htm</link>
+<guid>https://www.ithome.com/0/950/673.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，OpenAI 今天（5 月 15 日）发布公告，宣布 Codex 摆脱了电脑桌面的限制。用户可以通过手机端 ChatGPT 应用，<strong>远程控制桌面端 Codex，让用户离开电脑后，也能审批任务、查看进展，甚至发起新指令。</strong></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ecc41bd0-7ee7-40b2-aa61-bc34ff6d0b55.jpg?x-bce-process=image/format,f_auto" /></p><p>用户升级手机端 ChatGPT 至最新版本后，可以加载 Codex 在 Mac 上的实时状态，从而在手机上流畅地查看所有对话线程、审批请求、插件和项目上下文。</p><p>OpenAI 公司强调用户的文件、凭据和权限设置都留在运行 Codex 的原电脑上，而更新内容，如截图、终端输出、代码差异、测试结果和审批请求，会实时推送到手机。IT之家附上相关演示视频如下：</p><p style="text-align: center;"> </p><p>整个设置过程相对简单，用户在 Mac 上的 Codex 应用会生成一个二维码，用 ChatGPT 的 iPhone、iPad 或 Android 应用扫描即可配对。</p><p style="text-align: center;"><img alt="Picture 1" src="https://img.ithome.com/newsuploadfiles/2026/5/9544542f-f7c9-49b8-9046-81ffe331bc76.png?x-bce-process=image/format,f_auto" /></p><figcaption>Codex for Mac 生成二维码供手机扫描连接的界面</figcaption><p>OpenAI 强调，这不仅是远程派发任务，更是完整的移动工作体验，用户能在手机上处理所有对话、审查输出、批准命令、更换模型或启动新任务。</p><p>该远程访问功能目前仅支持 Codex for Mac，而 Codex for Windows 的远程控制支持将会在未来推出。</p>
+]]></content:encoded>
+<pubDate>Fri, 15 May 2026 00:00:23 GMT</pubDate>
+<pubDate>Fri, 15 May 2026 00:00:23 GMT</pubDate>
+</item>
+<item>
+<title>美国陆军揭晓 NGC2 战场网络，让直升机、无人机与地面部队实现数据互联</title>
+<link>https://www.ithome.com/0/950/672.htm</link>
+<guid>https://www.ithome.com/0/950/672.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，2026 年 5 月 12 日，美国陆军在科罗拉多州卡森堡举行的“常春藤集丛”（Ivy Mass）演习中测试了“下一代指挥与控制”（NGC2）技术，以确保部队、直升机与战场单位在未来高强度战争中的连接。</p><p>在此次演习中，美军第 4 步兵师（昵称“常春藤师”）的士兵使用了一个数字指挥网络，让 AH-64 阿帕奇直升机与地面部队及后勤单位在对抗性作战场景下实现数据互联。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6184993d-8a19-4326-b3af-80b74a83937b.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图片来源：美国战争部 / 国防部</figcaption><p>据介绍，NGC2 系统旨在用更快速、支持云计算的软件取代旧式指挥网络，实现战场数据在各单位之间的近实时传输。随着现代战争日益受到无人机、网络攻击、电子战和远程导弹打击的影响，陆军高层一直在推动这些升级，例如俄乌冲突就证明固定的指挥所和大型基地会迅速地成为敌方目标。</p><p>其演习模拟了一个通信网络面临电子干扰和远程攻击威胁的战场环境。各单位不再从大型集中地点行动，而是通过分布在区域内更小、更具机动性的位置进行作战。第 4 战斗航空旅的阿帕奇直升机在演习中发挥了重要作用。这些直升机从前沿区域的临时武装和加油点出发，这些临时站点使机组人员能够快速补给油弹，同时减少被敌方锁定的风险。</p><p>AH-64E 阿帕奇守护者直升机还展示了攻击直升机如何在更广泛的数字作战网络内运行。在行动中，该直升机与地面部队、无人机、炮兵部队和指挥团队交换了目标瞄准与侦察数据。这种连接使得战场信息在单位之间更快流动。无人机或侦察队收集的数据几乎可以立即传达到阿帕奇机组人员，帮助飞行员更快识别和打击目标。</p><p>陆军希望缩短从发现威胁到做出响应的时间。在未来的作战场景中，指挥官可能需要在遭受网络攻击、信号干扰或无人机监视的情况下进行操作。NGC2 旨在即使部分通信网络瘫痪时也能维持协调。陆军不再严重依赖集中式总部，而是转向能够在压力下继续运作的小型指挥结构。</p><p>此次演习还支持了陆军向多域作战的更广泛推进。该战略将地面战斗、航空、网络战、电子战和天基系统整合到一个统一作战框架中。NGC2 预计将成为连接这些能力的数字骨干，将士兵、作战车辆、直升机、无人机、传感器和指挥部整合到共享的战场画面中。陆军官员还在探索人工智能辅助工具，帮助指挥官在作战中更快处理大量作战数据。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:50:16 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:50:16 GMT</pubDate>
+</item>
+<item>
+<title>CPU-Z 发布 2.20 版本更新：支持一系列 AMD "Gorgon Halo" 处理器</title>
+<link>https://www.ithome.com/0/950/671.htm</link>
+<guid>https://www.ithome.com/0/950/671.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，PC 系统信息监测实用工具 CPU-Z 当地时间 5 月 14 日发布了面向 x86 / x64 Windows 系统的 2.20 版本。</p><p>这一版本添加了对大量硬件的识别支持，包括 AMD 锐龙 PRO 9000 系列新品、较低定位的锐龙 AI 400G 系列新品，英特尔 "Wildcat Lake"、"Bartlett Lake" 等。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/46e2e728-4770-4cb8-acf5-74a61f824f92.png?x-bce-process=image/format,f_auto" /></p><p>而这其中最令人注意的无疑是其<strong>提到了一系列 AMD "Gorgon Halo" 处理器</strong>，包括锐龙 AI Max+ 495 / 492 / 488、锐龙 AI Max 490 / 485、锐龙 AI Max PRO 495 / 490 / 485 / 480，为此前曝光的<a href="https://www.ithome.com/0/915/970.htm" target="_blank">产品线情况</a>提供了佐证。</p><p>此外，<strong>CPU-Z 2.20 还支持了 HUDIMM 和 HSODIMM 内存模组</strong>。HSODIMM 应该是 HUDIMM 对应的 SO-DIMM 版本，也采用单一子通道设计。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:49:53 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:49:53 GMT</pubDate>
+</item>
+<item>
+<title>VMware Workstation Pro 26H1 更新：升级 64 位、新增虚拟机时间戳</title>
+<link>https://www.ithome.com/0/950/670.htm</link>
+<guid>https://www.ithome.com/0/950/670.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，博通昨日（5 月 14 日）升级适用于 Windows、Linux 和 macOS 的虚拟化软件 VMware Workstation Pro，<strong>更新至 26H1 版本，拓展系统兼容性外，重点升级应用至 64 位。</strong></p><p>在扩展系统兼容性方面，本次更新扩展支持以下 Linux 发行版，IT之家附上相关列表如下：</p><table><tbody><tr class="firstRow"><th scope="col">Guest 操作系统</th><th scope="col">Host 操作系统</th></tr><tr><td><ul class=" list-paddingleft-2"><li><p>Ubuntu 26.04 LTS</p></li><li><p>Fedora 43</p></li><li><p>Fedora 44</p></li><li><p>SUSE Linux Enterprise 16</p></li><li><p>openSUSE 16.0</p></li><li><p>FreeBSD 15.0</p></li></ul></td><td><ul class=" list-paddingleft-2"><li><p>Ubuntu 26.04 LTS</p></li><li><p>Fedora 43</p></li><li><p>Fedora 44</p></li><li><p>SUSE Linux Enterprise 16 GA</p></li><li><p>openSUSE 16.0</p></li></ul></td></tr></tbody></table><p>本次更新主要针对 Windows 11 平台，升级 VMware Workstation Pro 应用至 64 位版本，所有安装文件、库、安装程序组件以及相关服务均以 64 位进程形式交付和运行，从而提升大内存场景下的虚拟化性能。</p><p>本次更新还将记录并报告时间戳，用户可以通过虚拟机的创建时间和最后一次开机时间戳，轻松识别虚拟机。此外本次更新新增对基于 ARM 的 ESX 主机远程连接支持，可执行基本虚拟机操作。</p><p>本次更新也整合安全补丁，并纠正了应用内帮助按钮和链接指向错误文档主页的问题。所有链接现在会直接跳转至正确的文章页面。</p><p>但更新引入了一个已知问题：在 Windows 主机上升级 VMware Workstation Pro 时，若新安装路径与旧路径不同，旧版安装目录中的 ISO 镜像文件（如 <span class="link-text-start-with-http">windows.iso</span>）不会被自动移除，它们会继续占用磁盘空间。用户需手动删除旧目录中的文件及文件夹。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/54577728-19a3-4581-b614-c3bb920ee2f9.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:49:45 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:49:45 GMT</pubDate>
+</item>
+<item>
+<title>戴尔 Dell 14S 笔记本发布：英特尔 Panther Lake 处理器、1600P IPS 面板</title>
+<link>https://www.ithome.com/0/950/669.htm</link>
+<guid>https://www.ithome.com/0/950/669.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，戴尔 Dell 14S 笔记本现已发布，新品搭载英特尔 Panther Lake 处理器，可以看作是 Dell 14 Plus 的继任机型，<strong>只是命名发生了变化</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/06dd0e4c-9ca6-42ad-befb-fb6678df0f8e.jpg?x-bce-process=image/format,f_auto" /></p><p>在国内市场，<strong>Dell 14S 拥有酷睿 Ultra5 322、336H 及 Ultra 7 356H 处理器可选</strong>。而在北美市场，该机还有 Ultra 9 386H、Ultra X7 358H 等配置。<strong>所有型号标配 70Wh 电池</strong>，支持 65W C 口充电。</p><p>规格方面，这款笔记本提供 16GB LPDDR5X-7467、32GB LPDDR5X-7467 内存，国内版本硬盘均为 1TB。<strong>屏幕则是 2560*1600 IPS 面板</strong>，<strong>峰值亮度可达 500 尼特</strong>，支持 48-120Hz 自适应刷新率。海外版本还有 1920*1200 OLED 面板可选，但最高亮度只有 300 尼特，刷新率则是 60Hz。</p><p>IT之家附该机国行版本定价如下：</p><ul class=" list-paddingleft-2"><li><p>Ultra 5 322+16GB LPDDR5X+1TB SSD：10999 元</p></li><li><p>Ultra 5 336H+32GB LPDDR5X+1TB SSD：13499 元</p></li><li><p>Ultra 7 356H+32GB LPDDR5X+1TB SSD：14499 元</p></li></ul>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:48:32 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:48:32 GMT</pubDate>
+</item>
+<item>
+<title>Spotify 宣布采用苹果 HLS 视频播客技术，托管节目可分发至 Apple Podcasts</title>
+<link>https://www.ithome.com/0/950/668.htm</link>
+<guid>https://www.ithome.com/0/950/668.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，当地时间周四，Spotify 宣布将采用苹果的 HLS（HTTP Live Streaming）视频技术。苹果近期已将这一技术引入 Apple Podcasts，以提升视频体验。</p><p>Spotify 的此次采用意味着，由其托管平台的播客节目将很快能够向 Apple Podcasts 分发视频播客并实现变现，从而在无需创作者调整现有设置的情况下扩大受众覆盖面。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b53092b6-30b3-43f7-b10f-00128b203ec5.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，采用 HLS 技术后，Spotify 用户无论使用何种网络连接，都应能获得一致的高质量视频体验。苹果方面的解释是，HLS 技术会根据网络速度实时自动调整视频质量 —— 无论用户在家中连接快速 Wi-Fi，还是依赖蜂窝数据。这意味着视频播客将以最少的卡顿流畅播放，缓冲减少，视频质量突然下降的情况也会更少。</p><p>此外，Spotify 正在让播客创作者更容易跨平台分发和变现视频内容。该公司宣布，使用 Libsyn、Podigee、Audioboom、Audiomeans 和 Podspace 等托管服务商的创作者，现在可以直接在 Spotify 上发布视频播客，并通过 Spotify 合作伙伴计划获得收入。</p><p>Spotify 称，上述五家托管平台已正式完成与 Spotify 分发 API 的集成。创作者可以将视频内容直接分发到 Spotify，并通过 Spotify 合作伙伴计划对符合条件的内容进行变现。在不久的将来，合作伙伴还将获得额外的变现选项，包括直销。</p><p>Spotify for Creators 和 Megaphone 将从今年开始支持 Apple Podcasts 的 HLS 视频技术，使 Spotify 托管的创作者能够在不改变现有设置的情况下，将视频播客内容分发至多个平台，同时在 Spotify 和 Apple Podcasts 上触达听众。Spotify 还将支持视频内容在 Apple Podcasts 上的变现。</p><p>Spotify 表示，视频正是播客增长发生的地方。将节目扩展到 Spotify 和 Apple Podcasts 上，意味着更高的可发现性、更高的参与度以及更多从现有内容中获利的方式。过去几年，自 2020 年推出视频播客以来，Spotify 一直在加码视频领域。今年早些时候，该平台通过降低视频变现门槛进一步扩大了创作者的接入范围。IT之家查询官方数据获悉，截至 2025 年 11 月，已有近 50 万个节目和超过 3.9 亿用户在 Spotify 上播放过视频播客。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:37:03 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:37:03 GMT</pubDate>
+</item>
+<item>
+<title>AMD 26.5.2 显卡驱动发布，支持《极限竞速：地平线 6》《007 初露锋芒》</title>
+<link>https://www.ithome.com/0/950/667.htm</link>
+<guid>https://www.ithome.com/0/950/667.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，AMD 当地时间昨日发布了 AMD Software: Adrenalin Edition 的最新 26.5.2 版本，为显卡驱动<strong>提供了对《极限竞速：地平线 6》《007 初露锋芒》这两款新游戏的支持</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/27961824-7a7a-4048-b2ce-1e0d6d98412f.jpg?x-bce-process=image/format,f_auto" /></p><p>该版本驱动<strong>修复了两项有关 Radeon RX 9000 系列显卡的问题</strong>：运行《RoadCraft》时可能会出现应用程序间歇性崩溃或驱动程序超时；运行《Satisfactory》时画面可能会出现畸变。</p><p>AMD 还注意到在锐龙 AI 9 HX 370 平台上运行《战地风云 6》时可能会出现应用程序间歇性崩溃或驱动程序超时。<strong>AMD 正与开发商积极合作寻求解决方案</strong>，并将尽快发布修复补丁。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:35:30 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:35:30 GMT</pubDate>
+</item>
+<item>
+<title>开源库 TanStack 被黑波及 OpenAI，官方敦促苹果 Mac 用户升级 ChatGPT 应用</title>
+<link>https://www.ithome.com/0/950/666.htm</link>
+<guid>https://www.ithome.com/0/950/666.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，OpenAI 昨日（5 月 14 日）发布公告，受开源库 TanStack 遭遇供应链攻击波及，<strong>要求 Mac 版 ChatGPT 桌面应用在 6 月 12 日前完成强制更新。</strong></p><p>IT之家此前报道，<a href="https://www.ithome.com/0/949/178.htm" target="_blank">开源库 TanStack 于 5 月 11 日遭遇 Mini Shul-Hulud 供应链攻击</a>，OpenAI 的两台员工设备受此影响，公司随即启动调查并聘请第三方数字取证与事件响应公司介入。</p><p>受影响范围限于这两名员工有权访问的内部源代码仓库子集。OpenAI 确认，黑客成功窃取的内容非常有限，仅限于部分凭证材料，其余信息与代码未受影响。</p><p>关键问题在于，相关代码具备为 OpenAI 产品签署证书的能力，因此 OpenAI 决定撤销现有证书，并阻止使用旧证书签名的应用打开。</p><p>对普通 Mac 用户而言，需要尽快升级 ChatGPT 桌面应用，用户收到更新提示后需立即更新，截止日期为 6 月 12 日。iOS 与 Windows 版应用不受影响，无需任何操作。</p><p>OpenAI 强调，目前未发现用户数据被访问，其自有系统也未被入侵。公司已采取遏制措施并持续监控系统状态，同时将为 Mac 用户提供额外指引。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:30:55 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:30:55 GMT</pubDate>
+</item>
+<item>
+<title>华硕 ROG Zephyrus G16 GU606 笔记本海外发布：最高 RTX 5090、酷睿 Ultra 9 386H</title>
+<link>https://www.ithome.com/0/950/665.htm</link>
+<guid>https://www.ithome.com/0/950/665.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，华硕现已在北美市场推出 ROG Zephyrus G16 GU606 笔记本，新品搭载英特尔 Panther Lake 处理器，<strong>最高可选 64GB 内存</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b041131d-92ff-402b-a9c4-f865787b7256.jpg?x-bce-process=image/format,f_auto" /></p><p>据介绍，这款笔记本的起售价是 3699 美元（IT之家注：现汇率约合 25174 元人民币），提供英特尔酷睿 Ultra 9 386H 处理器、32GB 内存、RTX 5070Ti 显卡、1TB 固态硬盘。然而令人费解的是，只是将内存升级到 64GB，该笔记本的售价就会直线上升至 4799 美元（现汇率约合 32661 元人民币）。</p><p>目前，华硕暂时还没有美国市场上架高配机型，不过在加拿大市场，RTX 5080、5090 等型号的机型价格已经公布，以下是价格详情：</p><ul class=" list-paddingleft-2"><li><p>酷睿 Ultra 9 386H + RTX 5060 + 32GB + 1TB SSD：3099 加元（现汇率约合 15388 元人民币）</p></li><li><p>酷睿 Ultra 9 386H + RTX 5070 + 32GB + 1TB SSD：4299 加元（现汇率约合 21347 元人民币）</p></li><li><p>酷睿 Ultra 9 386H + RTX 5070 Ti + 32GB + 1TB SSD：4999 加元（现汇率约合 24823 元人民币）</p></li><li><p>酷睿 Ultra 9 386H + RTX 5080 + 64GB + 2TB SSD：6999 加元（现汇率约合 34754 元人民币）</p></li><li><p>酷睿 Ultra 9 386H + RTX 5090 + 64GB + 2TB SSD：7699 加元（现汇率约合 38229 元人民币）</p></li></ul>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:28:55 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:28:55 GMT</pubDate>
+</item>
+<item>
+<title>马斯克 SpaceX 最快下周披露 IPO 招股说明书：瞄准 6 月 8 日启动路演，有望刷新全球募资纪录</title>
+<link>https://www.ithome.com/0/950/664.htm</link>
+<guid>https://www.ithome.com/0/950/664.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，CNBC 今日报道称，SpaceX 于今年 4 月秘密提交了 IPO 申请，计划最快于下周公开其首次公开募股（IPO）的招股说明书，与第三代星舰首飞时间重合。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/6ecd7d9f-8560-4046-8469-3b1e9846d5a2.jpg?x-bce-process=image/format,f_auto" /></p><p>消息人士表示，SpaceX 的目标是在 6 月 8 日启动路演，正式向投资者推销此次发行。根据规定，招股说明书需在路演开始前至少 15 个日历日披露，但知情人士称，SpaceX 及其顾问团队希望稍早一些完成披露，以便投资者有足够时间消化相关数据。不过消息人士也补充，具体时间仍可能发生变化。SpaceX 未立即回应置评请求。</p><p>此次 IPO 预期将成为史上规模最大的 IPO。今年 2 月，SpaceX 与马斯克旗下的 xAI 合并，合并后实体估值达到 1.25 万亿美元（IT之家注：现汇率约合 8.51 万亿元人民币）。</p><p>据彭博社报道称，该公司的上市规模目标约为 700 亿至 750 亿美元（现汇率约合 4763.99 亿至 5104.27 亿元人民币），这一数字是沙特阿美 2019 年创纪录发行规模的两倍多。</p><p>其中两位知情人士表示，由于此前从未有如此大规模的股票通过 IPO 出售，SpaceX 的顾问正在寻找独特的渠道，尤其是针对他们认为的境外长期零售持有者。其中一人称，顾问团队已在英国、日本、加拿大等国物色经纪商，以获取面向客户的配售额度。</p><p>在经历长达数年的新股上市低迷期后，华尔街对 IPO 的渴望非常强烈，投资者对任何与人工智能交易相关的项目都尤为兴奋。AI 芯片制造商 Cerebras 在周四首日交易中大涨 68%，收盘市值约为 950 亿美元。AI 模型巨头 OpenAI 和 Anthropic 也正在筹备最快于今年上市，这可能推动它们的估值突破 1 万亿美元。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/942/760.htm" target="_blank">SpaceX IPO 文件揭示：马斯克将维持对公司的绝对掌控</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/941/930.htm" target="_blank">SpaceX 招股书披露：IPO 后马斯克将拥有 79% 投票控制权</a>》</p></li></ul><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:27:38 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:27:38 GMT</pubDate>
+</item>
+<item>
+<title>消息称 2026 EWC 电竞世界杯计划转移至法国巴黎举行</title>
+<link>https://www.ithome.com/0/950/663.htm</link>
+<guid>https://www.ithome.com/0/950/663.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，外媒 GamesBeat 当地时间 14 日报道称，根据三位匿名行业人士的共同证言，原定于 7 月 6 日<span class="no-auto-spacing"> ~ </span>8 月 23 日在沙特阿拉伯首都利雅得举行的 <strong>2026 电竞世界杯计划转移至法国巴黎</strong>。</p><p>此前的两届电竞世界杯举办地均为利雅得，但当前中东地区的紧张态势不仅严重影响了办赛的安全性，也很大程度上阻碍了全球电竞生态参与者的旅行。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3efa2047-d4d3-4e2c-b225-fdb5dd94652a.jpg?x-bce-process=image/format,f_auto" /></p><p>值得注意的是，计划于利雅得举办的电竞赛事还有今年 11 月的首届电竞国家杯 (ENC)。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:26:22 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:26:22 GMT</pubDate>
+</item>
+<item>
+<title>IT早报 0515：华为何刚称鸿蒙生态今年有望突破 1 亿目标；英伟达市值超世界第三大经济体德国 GDP；微信团队投入一半人适配鸿蒙；小米 YU7 GT 实车图曝光...</title>
+<link>https://www.ithome.com/0/950/662.htm</link>
+<guid>https://www.ithome.com/0/950/662.htm</guid>
+<content:encoded><![CDATA[
+
+<p>“IT早报”时间，大家好，现在是 2026 年 5 月 15 日星期五，今天的重要科技资讯有：</p><h2>1、华为何刚：鸿蒙生态正迈向规模化发展，今年有望突破 1 亿目标</h2><p>华为终端 BG CEO 何刚 5 月 14 日发文，称自己今天在黄浦江边和鸿蒙伙伴们小聚交流时，收到 6000 万里程碑喜讯，大家都很振奋。他表示，鸿蒙生态正迈向规模化发展，今年有望突破 1 亿目标。&gt;&gt; <a href="https://www.ithome.com/0/950/635.htm" target="_blank">查看详情</a></p><h2>2、史上首家！英伟达市值破 5.5 万亿美元，超世界第三大经济体德国 GDP</h2><p>英伟达（NVIDIA）公司市值 5 月 13 日首次突破 5.5 万亿美元，刷新全球上市公司市值历史最高纪录，也是全球首家站上这一关口的上市公司。&gt;&gt; <a href="https://www.ithome.com/0/950/303.htm" target="_blank">查看详情</a></p><h2>3、以实际行动支持国产系统发展：腾讯蔡光忠透露微信成立了 800 人团队适配鸿蒙，约占开发人员一半</h2><p>据腾讯副总裁蔡光忠介绍，腾讯微信专门成立了 800 多人的团队在适配鸿蒙，整个占到了微信客户端开发的差不多一半的人员。微信也在按照月度大版本、周度小版本的路线加速适配鸿蒙。&gt;&gt; <a href="https://www.ithome.com/0/950/112.htm" target="_blank">查看详情</a></p><h2>4、小米 YU7 GT「车厘子红」高清实车图曝光，新车 5 月底正式发布</h2><p>多位博主 5 月 14 日分享了小米 YU7 GT「车厘子红」的高清实车图。画面显示，小米 YU7 GT「车厘子红」采用宽体低趴战马姿态设计，实际的车漆颜色比渲染图看着更深一些（可能是光线原因导致）。&gt;&gt; <a href="https://www.ithome.com/0/950/424.htm" target="_blank">查看详情</a></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5836bf79-8d36-41c2-a72e-c56d82e4a2d5.jpg?x-bce-process=image/format,f_auto" /></p><h2>5、《GTA 6》游戏正式解锁时间公布，新西兰最早玩到</h2><p>索尼 PlayStation 游戏商店公开了《GTA 6》的具体解锁时间，新西兰地区玩家可以第一时间解锁游戏。&gt;&gt; <a href="https://www.ithome.com/0/950/267.htm" target="_blank">查看详情</a></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b5f93119-57d9-4df4-8cdb-a61802bc2c01.jpg?x-bce-process=image/format,f_auto" /></p><h2>6、并非独立品牌？小米寻天 N90 新车尾标曝光，车头处还可见 Xiaomi 品牌 LOGO 轮廓</h2><p>多位博主 5 月 13 日晚曝光了小米汽车首款增程 SUV 车型的路试谍照，可以观察到新车更多细节。谍照显示，该车车头处可以看到小米汽车品牌 Logo 轮廓。新车的尾标则可以看到小米寻天 N90 字样。&gt;&gt; <a href="https://www.ithome.com/0/950/084.htm" target="_blank">查看详情</a></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7727629a-7a86-4eec-8f5b-7425ab2f2242.png?x-bce-process=image/format,f_auto" /></p><h2>7、哪所大学培养最多亿万富翁？哈佛在全球遥遥领先，浙大国内第一</h2><p>教育科技网站 Essay Humanizer 发布了一份 2026 年亿万富翁教育洞察报告，基于《福布斯 2026》数据（截至 2026 年 3 月分析），分析了 3184 名亿万富翁，绘制了他们学习的地点和所学内容，发现近一半的亿万富翁（45.38%）来自全球 100 所大学。&gt;&gt; <a href="https://www.ithome.com/0/950/459.htm" target="_blank">查看详情</a></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/f6b40dfd-86eb-4d2c-900e-86323c2a1fcc.png?x-bce-process=image/format,f_auto" /></p><h2>8、全新 Xiaomi 17 Max 手机官宣搭载小米首款徕卡 2 亿像素主摄、8000mAh 金沙江电池，本月见</h2><p>小米手机官方 5 月 14 日继续预热全新小米 17Max 手机。新机官宣搭载小米首款徕卡 2 亿像素主摄 + 3X 潜望长焦，同时内置 8000mAh 金沙江电池，拥有 Xiaomi 手机最强续航。&gt;&gt; <a href="https://www.ithome.com/0/950/105.htm" target="_blank">查看详情</a></p><h2>9、保时捷中国传媒公关副总裁唐凤靓：设计语言容易被致敬、模仿，但设计背后的灵魂不会轻易被平替</h2><p>唐凤靓表示，我们可能更多地希望看到的是，能够跟中国汽车行业更多的品牌，在这个原创设计背后的灵魂上的交流和切磋，和互相的取经。&gt;&gt; <a href="https://www.ithome.com/0/950/104.htm" target="_blank">查看详情</a></p><h2>10、比亚迪回应“计划收购 Stellantis 等欧洲车企闲置工厂”：消息属实</h2><p>近日有消息称，比亚迪正与 Stellantis 等欧洲汽车制造商就接管该地区未充分利用的工厂进行谈判。比亚迪方面 14 日回复中证金牛座称，该消息属实，但暂时没有更多信息可透露。&gt;&gt; <a href="https://www.ithome.com/0/950/647.htm" target="_blank">查看详情</a></p><h2>11、比亚迪未来三年将推多款欧洲专属车型，“海豚 G”下月抢先登陆</h2><p>比亚迪将在未来三年密集推出一批专为欧洲市场设计、并在欧洲开发的车型。首款车型将是下个月发布的插混车型“Dolphin G（海豚 G）”。&gt;&gt; <a href="https://www.ithome.com/0/950/622.htm" target="_blank">查看详情</a></p><h2>12、莲花跑车重返燃油动力：发动机将由吉利、雷诺共同打造，V6、V8 都有</h2><p>这台代号 W30 的全新 V6 发动机重 160 公斤。相比目前所有在产 V6 发动机，W30 至少轻 10 公斤，同时也是目前市场上尺寸最小的量产 V6 之一。&gt;&gt; <a href="https://www.ithome.com/0/950/505.htm" target="_blank">查看详情</a></p><h2>13、消息称华为 HarmonyOS NEXT 最高峰投入约 4 万人，比安卓 / iOS / Windows 任何一个大版本都要多</h2><p>博主 @Adak封狼居胥 透露，鸿蒙 NEXT 投入最高峰时，华为有 4 万人在做这个系统，比安卓、iOS、Windows 历史上任何一个大版本投入的人力都要多。博主表示，在用户看不到的地方，有太多太多的东西需要查漏补缺。&gt;&gt; <a href="https://www.ithome.com/0/950/393.htm" target="_blank">查看详情</a></p><h2>14、“三条腿”的车也能稳开：鸿蒙智行全新一代问界 M9 全主动底盘黑科技曝光，单轮抬升应对特殊场景</h2><p>据多位博主 5 月 14 日分享，鸿蒙智行全新一代问界 M9 系列汽车将支持单轮抬升功能：车辆抬起一个轮胎后，车辆依旧能够正常行驶，该功能可用于应对特殊极限的场景。&gt;&gt; <a href="https://www.ithome.com/0/950/249.htm" target="_blank">查看详情</a></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/6eaee335-df9d-4cf1-9cc8-9049c5b9e14a.jpg?x-bce-process=image/format,f_auto" /></p><h2>15、张雪机车：部分 820RR 机油泵供油不畅，新模具预计本月下旬完成、免费更换</h2><p>张雪机车官方 5 月 13 日宣布，部分 820RR 启动后处于怠速状态时，机油泵有概率出现供油不畅。官方现提供临时和最终两种解决方案。&gt;&gt; <a href="https://www.ithome.com/0/950/078.htm" target="_blank">查看详情</a></p><h2>16、ChatGPT 网页端流量份额一年内从 77.6% 跌至 53.7%，谷歌 Gemini 快速追赶</h2><p>Similarweb 最新统计显示，ChatGPT 网页端流量占比一年从 77.6% 跌至 53.7%，谷歌 Gemini 从 7.3% 飙升至 26.7%，Claude 涨幅同样显著，本次统计仅覆盖网页端流量。&gt;&gt; <a href="https://www.ithome.com/0/950/604.htm" target="_blank">查看详情</a></p><h2>17、消息称 20 周年纪念版 iPhone“四曲面”面板存在“边缘亮度下降”设计缺陷，苹果正与三星 / LG 联手解决</h2><p>苹果为纪念版 iPhone 研发的四曲面 OLED 屏幕，因镁银合金阴极材料在边缘区域存在形变风险，导致亮度下降和显示失真。苹果正考虑改用 IZO 材料，但可能赶不上明年的 iPhone 20，或将技术推迟至 iPhone 21。&gt;&gt; <a href="https://www.ithome.com/0/950/588.htm" target="_blank">查看详情</a></p><h2>18、特斯拉 FSD 在德国柏林工厂“偷偷”跑了 15 万公里：新车下线后自动开往停车场</h2><p>在德国公共道路尚未批准 FSD 的情况下，特斯拉柏林超级工厂已利用 FSD 技术让全新下线的 Model Y 自动驶向停车场，累计里程达 9.3 万英里。这套闭环系统在厂区内运行，路线固定、环境可控，有效节省了人力和时间成本。&gt;&gt; <a href="https://www.ithome.com/0/950/500.htm" target="_blank">查看详情</a></p><h2>19、理想 L9 Livis 5 月 15 日上市，李想致敬比亚迪王传福、小鹏何小鹏、小米雷军</h2><p>理想汽车创始人李想 5 月 14 日发文，致敬雷军、何小鹏、王传福等同行。全新 L9 Livis 搭载自研马赫 100 芯片、全线控底盘、800V 全主动悬架等硬核技术，预售价 55.98 万元，将于 5 月 15 日正式公布信息并开启交付。&gt;&gt; <a href="https://www.ithome.com/0/950/487.htm" target="_blank">查看详情</a></p><h2>20、华为余承东：尊界 S800 累计交付超 1.7 万台，连续 8 个月稳居 70 万以上豪华轿车榜首</h2><p>余承东在微博宣布：尊界 S800 在刚刚过去的 4 月取得上险量超 1100 台，累计交付超 17000 台，连续 8 个月稳坐 70 万以上超豪华轿车榜首，持续领跑市场。&gt;&gt; <a href="https://www.ithome.com/0/950/474.htm" target="_blank">查看详情</a></p><h2>21、比亚迪方程豹钛 7 EV 闪充版首发支持肯德基车载点单功能</h2><p>比亚迪方程豹钛 7 EV 闪充版首发支持肯德基车载点单功能，支持语音下单、免密支付，并可在“车速取”车道快速取餐。其他车型后续将通过 OTA 更新实现此功能。科技与餐饮跨界融合，让出行用餐更便捷。&gt;&gt; <a href="https://www.ithome.com/0/950/421.htm" target="_blank">查看详情</a></p><h2>22、腾讯辟谣“AI 一号位即将离职”：纯属子虚乌有</h2><p>腾讯官方 5 月 14 日发布严正声明，否认“AI 一号位即将离职”的传闻，称其为自媒体恶意造谣，并保留追究法律责任的权利。&gt;&gt; <a href="https://www.ithome.com/0/950/399.htm" target="_blank">查看详情</a></p><h2>23、小米首款耳夹式耳机官宣本月见：高亮镜面机身、透明发声球设计</h2><p>小米官方 5 月 14 日公开了即将上市的小米耳机“惊喜新品”—— 小米首款耳夹式耳机，这款耳机将于本月发布。&gt;&gt; <a href="https://www.ithome.com/0/950/355.htm" target="_blank">查看详情</a></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/664d0d5d-e092-48cb-bb04-393cf030da9f.jpg?x-bce-process=image/format,f_auto" /></p><h2>24、苹果 iPhone 18 Pro / Max 再爆：主打“深樱桃色”，后摄布局不变</h2><p>消息源 @MajinBuofficia 5 月 13 日在 X 平台发布推文，分享了一组摄像头保护元件照片，展示了苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的颜色。&gt;&gt; <a href="https://www.ithome.com/0/950/353.htm" target="_blank">查看详情</a></p><h2>25、电机峰值功率升级至 120kW，蔚来 firefly 萤火虫纯电小车获推 aster 紫菀 1.5.0 版本</h2><p>官方表示，萤火虫纯电小车电机峰值功率免费升级至 120kW，实测 50-100km/h 加速提升至 4.61s。&gt;&gt; <a href="https://www.ithome.com/0/950/196.htm" target="_blank">查看详情</a></p><h2>26、腾讯官宣《QQ 经典农场》上线华为鸿蒙系统，QQ / 微信一键开玩</h2><p>鸿蒙用户在 QQ / 微信搜索“QQ 经典农场”，即可一键开启农场主生涯，体验种田、偷菜、变异、装扮等游戏玩法。&gt;&gt; <a href="https://www.ithome.com/0/950/164.htm" target="_blank">查看详情</a></p><h2>27、荣耀 600 系列手机国行定档 5 月 25 日发布：主打 4K 闪光微单 Live、8600mAh 青海湖大电池</h2><p>荣耀手机 5 月 14 日宣布，荣耀 600 系列手机国行版将于 5 月 25 日 19:00 发布，代言人依旧是肖战。新机主打 4K 闪光微单 Live，将搭载 2 亿超清大底影像 + 8600mAh 青海湖大电池。&gt;&gt; <a href="https://www.ithome.com/0/950/137.htm" target="_blank">查看详情</a></p><h2>28、华为余承东：鸿蒙智行智界 V9 开起来非常灵活轻巧，还有蟹行模式加持</h2><p>华为常务董、终端 BG 董事长余承东表示，智界 V9 开起来非常灵活轻巧。新车标配后轮转向，最小转弯半径仅 5.35 米，还有蟹行模式加持，窄路掉头或转弯、侧方停车都能从容应对，完全不输 A 级小车。&gt;&gt; <a href="https://www.ithome.com/0/950/121.htm" target="_blank">查看详情</a></p><h2>29、雷军谈小米自动驾驶模型 Xiaomi OneVL：业内率先通过潜空间推理将 VLA、世界模型统一到一套框架</h2><p>小米技术 5 月 14 日正式发布并开源 Xiaomi OneVL 一步式潜空间语言视觉推理框架。小米创办人、董事长兼 CEO 雷军昨晚发文谈及该模型，称在推理、规划等多个主流基准上，Xiaomi OneVL 全面刷新了潜在推理方法的性能上限。&gt;&gt; <a href="https://www.ithome.com/0/950/100.htm" target="_blank">查看详情</a></p><h2>30、消息称苹果调整 iOS 27，搜索入口回归并入应用底栏</h2><p>科技媒体 9to5Mac 5 月 13 日发布博文，报道称在 iOS 27 系统中，苹果有望重新设计应用底栏，让整体交互逻辑重新接近 iOS 18 风格。&gt;&gt; <a href="https://www.ithome.com/0/950/085.htm" target="_blank">查看详情</a></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5ed7a342-a5a5-4aad-b774-14859ede3859.jpg?x-bce-process=image/format,f_auto" /></p><p>今天就先聊到这里，IT早报，咱们明天见。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:25:37 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:25:37 GMT</pubDate>
+</item>
+<item>
+<title>CNET 统计 33 款手机低电量充电 30 分钟表现：苹果 iPhone 17 Pro 综合第一</title>
+<link>https://www.ithome.com/0/950/661.htm</link>
+<guid>https://www.ithome.com/0/950/661.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，科技媒体 CNET 昨日（5 月 14 日）发布博文，<strong>统计测试了 33 款美国市场在售手机，并按照 30 分钟内有线 / 无线充电成绩排名。</strong></p><p>该机构统计其过去 1 年时间里，评测的 33 款在美国市场销售的手机，按照 30 分钟内充电速度排名，苹果 iPhone 17 Pro 的综合表现最为优秀。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3779b32b-46ff-4134-aa54-9e8425842454.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注：本次统计主要评估手机在低电量环境下的充电效果，首先在手机剩余电量不超过 10% 时开始测试，连续充电 30 分钟，再看能补回多少电。</p><p>CNET 用这个结果分别统计有线和无线成绩，并把两项平均成一个综合分数。因此，排名更看重“半小时能充电多少”，而不是厂商标称的最大瓦数。</p><p>单看有线充电，三星的 Galaxy S26 Ultra 排名第一，30 分钟补电 76％。iPhone 17 Pro 以 74％排第二，摩托罗拉的 Moto G Stylus（2025）同样是 74％。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e102f1f4-b986-46d7-b71c-9e8b7806a3c8.png?x-bce-process=image/format,f_auto" /></p><p>OnePlus 15 为 72％，而 iPhone 17、iPhone 17 Pro Max 和 Samsung Galaxy S25 FE 都是 69％。</p><p>无线充电的差距更明显。<span class="hot-topic">iPhone 17 Pro</span> 在 30 分钟无线测试中补电 55％，拿下第一。随后是 iPhone 17 Pro Max 的 53％、<span class="hot-topic">iPhone 17</span> 的 49％、iPhone Air 的 47％，第五名才是 Galaxy S26 Ultra 的 39％。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/06f8f16a-ebaf-4539-a5be-ed1ddbaa762b.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img alt="Picture 1" src="https://img.ithome.com/newsuploadfiles/2026/5/007815b3-6ed0-4fa8-8f43-a70dfebde774.jpg?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:18:32 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:18:32 GMT</pubDate>
+</item>
+<item>
+<title>美国三大运营商 AT&amp;T、T-Mobile 和 Verizon 宣布组建卫星联盟，助苹果 iPhone 消除信号盲区</title>
+<link>https://www.ithome.com/0/950/660.htm</link>
+<guid>https://www.ithome.com/0/950/660.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，当地时间 5 月 14 日，AT&amp;T、T-Mobile 与 Verizon 宣布达成原则性协议，计划共同成立一家新的合资企业。</p><p>该合资企业旨在通过整合有限的频谱资源来提升网络容量、改善客户体验，并借助统一平台帮助卫星服务提供商触达更多用户，从而助力消除美国境内（包括农村地区）的无线信号盲区。这意味着苹果 iPhone 的卫星联网能力将第一次在全美国范围内真正实现“有网可用”。</p><p>当然，该合资计划仍需各方最终协议谈判及满足惯例成交条件，具体何时落地尚未明确。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4c5b0a0f-2b02-40f4-8fce-e3eea15f73e9.jpg?x-bce-process=image/format,f_auto" /></p><p>卫星服务整体上作为用户核心无线服务的补充组件。通过在该合资项目上的合作，三家运营商将能够提升客户的使用便捷性，促进竞争，并推动行业内的创新与增长。</p><p>在此之前，T-Mobile 已与 Starlink 在 D2D 领域展开合作，而 AT&amp;T 和 Verizon 则分别携手 AST SpaceMobile。三大运营商通过结成联盟，在一定程度上是在“守住阵地”，避免未来卫星服务商直接面向终端用户提供移动连接，从而弱化传统运营商的角色。</p><p>一旦合资计划最终敲定，在传统蜂窝服务难以覆盖的区域，该合资企业将致力于为客户提供更强、更可靠的连接以及更多选择。IT之家附官方愿景如下：</p><ul class=" list-paddingleft-2"><li><p>减少覆盖盲区：几乎消除美国目前所有移动服务的信号盲区，覆盖此前未服务的区域。</p></li><li><p>紧急情况下的可靠连接：当现有地面网络因极端自然灾害或其他异常中断而不可用时，将提供冗余连接。</p></li><li><p>改善的网络性能：客户将获得更一致的性能表现，并能够更便捷地跨运营商接入卫星服务，从而加快功能更新，改善所有人的连接体验。</p></li><li><p>创新通信服务：通过三家合资伙伴的联合投资，服务提供商的选择将扩大，作为第一步，直连设备（D2D）接入将得到改进。随着消费者在卫星服务方面选择的增加，竞争也将加剧。新兴通信技术可以更轻松、更快速地开发和推出，以增强客户体验。</p></li><li><p>通用技术规范：统一的方法将带来行业范围内更好、更一致的客户体验。</p></li></ul><p>对于行业而言，该合资企业旨在通过促进竞争、培育创新、扩大接入和简化集成来推动行业进步，带来显著收益。具体包括：</p><ul class=" list-paddingleft-2"><li><p>扩大接入范围，更多卫星服务提供商将获得竞争、投资和增长的机会，合资企业还将与农村移动网络运营商合作，使其能够为客户推出新产品。</p></li><li><p>轻松实现技术集成，移动网络运营商能够更快地为客户部署创新服务。</p></li><li><p>技术中立的创新平台，通过将最佳技术解决方案应用于合适的使用场景，连接将扩展至全国目前覆盖有限或无信号的地区，进一步巩固美国的技术领导地位。</p></li><li><p>高效利用频谱，改进宝贵且稀缺的国家许可频谱资源的应用与利用率。</p></li><li><p>全行业设备兼容性，通过与操作系统提供商、移动应用开发商及原始设备制造商采用基于标准的方法，用户在卫星网络上的体验将得到改善。</p></li></ul><p>三家运营商还强调，现有运营商与卫星服务商之间的协议将继续有效，合资伙伴也可以独立继续进行各自的连接相关工作。</p><p>另外，在运营商加码 D2D 的同时，苹果自身也计划大幅扩展 iPhone 的卫星能力：</p><ul class=" list-paddingleft-2"><li><p>一方面将卫星导航与连接更深地整合进 Apple 地图，使地图在弱网或断网环境下也能借助卫星提供更可靠的定位与路线服务；</p></li><li><p>另一方面升级“信息”应用，让用户不仅能通过传统短信，还能通过卫星发送 RCS 等富媒体通讯内容。</p></li></ul><p>为提升使用场景的实用性，苹果还计划在硬件上进行改造，让设备在室内等缺乏卫星直视视线的环境中，仍能尽可能维持与卫星的连接，并引入 5G 非地面网络（Non‑Terrestrial Network，NTN）技术，使地面基站可以借助卫星延伸覆盖范围。</p><p>此外，苹果还准备开放专用 API，让第三方开发者能够在其应用中原生集成卫星连接能力，从而催生更多依托卫星网络的新型应用场景，例如应急指挥、户外探险协作、远程物联网监测等。在三大运营商联合推动 D2D 卫星网络的背景下，这意味着未来一部 iPhone 在美国的绝大多数地区都将拥有更强的网络冗余能力：当传统蜂窝网络不可用时，卫星网络将成为真正可用的“第二通道”，而不再仅仅停留在“紧急求助”的有限形态。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:15:40 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:15:40 GMT</pubDate>
+</item>
+<item>
+<title>雷蛇发布 2026 款灵刃 18 游戏本，聚焦细节升级</title>
+<link>https://www.ithome.com/0/950/659.htm</link>
+<guid>https://www.ithome.com/0/950/659.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，Razer（雷蛇）北京时间昨晚发布了 2026 款的灵刃 Blade 18 游戏笔记本电脑。这一产品大致延续了 2025 年版本的设计，并<strong>在细节上进一步提升表现</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/65ffc2d0-e211-4a07-83cd-eb927f3eae49.png?x-bce-process=image/format,f_auto" /></p><p>具体来看，新款灵刃 18 搭载英特尔酷睿 Ultra 9 处理器 290HX Plus；在所有可选预装内存配置下<strong>均支持 DDR5-6400</strong>；同时其<strong>屏幕峰值亮度从 500nits 升级至 600nits</strong>；散热系统的鳍片尺寸从 0.075mm 调整至 0.05mm。</p><p>此外，灵刃 18 的厚度有所提升，官方给出的大致尺寸数据为 22.79~28.7mm，去年款则是 21.99~27.94mm；不过整机质量还是保持在了 3.2kg 的水平。</p><p>灵刃 18 的可选独立显卡依旧是 NVIDIA GeForce RTX 5090 / 5080 / 5070 Ti 笔记本电脑 GPU，屏幕 3840×2400 240Hz / 1920×1200 440Hz 双模切换的特色也没有改变。</p><p>该笔记本电脑的配置与定价情况如下：</p><ul class=" list-paddingleft-2"><li><p>RTX 5070 Ti + 32GB + 1TB：31999 元；</p></li><li><p>RTX 5080 + 32GB + 1TB：35999 元；</p></li><li><p>RTX 5090 + 32GB + 2TB：42999 元；</p></li><li><p>RTX 5090 + 64GB + 2TB：47999 元。</p></li></ul>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:10:15 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:10:15 GMT</pubDate>
+</item>
+<item>
+<title>Xbox 精英手柄 3 谍照曝光：支持 Wi-Fi 6、蓝牙连接，可拆卸充电电池</title>
+<link>https://www.ithome.com/0/950/658.htm</link>
+<guid>https://www.ithome.com/0/950/658.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，据科技媒体 Tecnoblog 昨日爆料，Xbox 精英手柄 3 现已通过巴西电信局 Anatel 认证，谍照也随之流出。</p><p>IT之家在此援引 Tecnoblog，Xbox 精英手柄 3 与稍早曝光的<a href="https://www.ithome.com/0/950/656.htm?f=chrome" target="_blank">云游戏手柄</a>一样，支持 Wi-Fi 6 和蓝牙连接。虽然文档未透露具体规格，<strong>但微软很可能沿用 RTL8730E 芯片</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b9f7e0a8-ef01-46f9-9837-6d5ef1a10a2b.png?x-bce-process=image/format,f_auto" /></p><p>规格方面，这款手柄将带来多项升级，方向键采用可更换设计、背部带有拨片按钮。机身底部还带有两个用途不明的新按钮，形态类似滚轮，可能是为飞行模拟器游戏设计。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/944b17f7-ea02-4a94-a2c8-a38122770e81.png?x-bce-process=image/format,f_auto" /></p><p>文档显示，该手柄还将加入配对按钮，<strong>玩家可随时切换“本地”和“云游戏”模式</strong>，后者可进一步降低操作延迟。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/db1c0f5b-50e6-4158-995d-df7b8ba91b37.png?x-bce-process=image/format,f_auto" /></p><p>此外，<strong>微软还计划为该手柄加入可拆卸式充电电池</strong>，而不是像过去一样默认配备 5 号电池或不可更换充电电池。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/56e2a703-c9a5-432e-920b-6171b948d590.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:07:51 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:07:51 GMT</pubDate>
+</item>
+<item>
+<title>第 105 届 ADC 年度大奖公布，苹果 iOS 26“液态玻璃”设计斩获 4 项权威奖项</title>
+<link>https://www.ithome.com/0/950/657.htm</link>
+<guid>https://www.ithome.com/0/950/657.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（5 月 14 日）发布博文，报道称苹果公司凭借 iOS 26 引入的“液态玻璃”（Liquid Glass）设计语言，<strong>在 ADC 年度大奖中斩获四项荣誉，其中包括交互 / UX / UI 类别的金立方奖。</strong></p><p>IT之家注：ADC 年度大奖是由艺术指导俱乐部主办的设计与广告领域权威奖项，创立于 1921 年，是全球历史最悠久的行业奖项之一。</p><p style="text-align: center;"><img alt="Picture 2" src="https://img.ithome.com/newsuploadfiles/2026/5/cbf0f7f0-8ee9-463a-b88f-59db227a4686.jpg?x-bce-process=image/format,f_auto" /></p><p>其评选范围覆盖广告、数字体验、品牌设计、产品设计等多个领域，尤其注重作品的艺术性和工艺水准，金立方奖为其最高荣誉。</p><p>具体奖项方面，苹果共计获得四项荣誉：</p><ul class="medium-size list-paddingleft-2"><li><p>交互 / UX / UI 类别的金立方奖</p></li><li><p>体验设计 / 数字体验类银立方奖</p></li><li><p>体验设计 / 消费者体验铜立方奖</p></li><li><p>创新类别的铜立方奖</p></li></ul><p>古尔曼解读指出，此次获奖意味着“液态玻璃”设计语言已确立其专业地位，赢得设计师的认可。对于用户而言，苹果公司接下来的重心会放在深耕“液态玻璃”设计语言上，预估会在 iOS 27 上进一步打磨优化。</p><p>科技媒体 9to5Mac 解读指出，设计的专业认可并不完全等同于所有用户的个人偏好，目前 iPhone 用户对“液态玻璃”的反馈依然存在分歧，但苹果有望在 iOS 27 系统中进一步打磨优化。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 23:06:58 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 23:06:58 GMT</pubDate>
+</item>
+<item>
+<title>微软 Xbox 全新紧凑型手柄曝光，将服务于 xCloud 云游戏玩家</title>
+<link>https://www.ithome.com/0/950/656.htm</link>
+<guid>https://www.ithome.com/0/950/656.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，巴西科技媒体 Tecnoblog 当地时间昨日曝光了一款 Microsoft（微软）Xbox 旗下一款手柄控制器新品的外观。这一设备得到了巴西 Anatel 认证。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/8846c01d-c7a3-4bdb-9755-9e743ac6e434.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图源：Tecnoblog</figcaption><p>该手柄的输入布局与传统 Xbox 手柄相同，但<strong>整体形制更为紧凑</strong>。其基于瑞昱 RTL8730E IoT SoC，支持 USB-C 有线、蓝牙无线、Wi-Fi 6 (20MHz) 三种连接方式，<strong>顶部似乎配备了云与本地模式显示区域</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/36e51483-6a09-4971-9983-f450580fd65e.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图源：Tecnoblog</figcaption><p>从 Wi-Fi 支持和顶部区域来看，这款手柄将同时服务于本地游戏玩家和 xCloud 用户。其更为紧凑的模具也适合随时随地云游戏开玩。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/28e05382-7f42-4c43-b885-500c546d9f63.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 图源：Tecnoblog</figcaption>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 22:54:15 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 22:54:15 GMT</pubDate>
+</item>
+<item>
+<title>郭明錤：苹果正基于 Intel 18A-P 工艺开发 A/M 系列处理器，培养新供应商以对冲台积电风险</title>
+<link>https://www.ithome.com/0/950/655.htm</link>
+<guid>https://www.ithome.com/0/950/655.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，天风国际分析师郭明錤今日发布了其最新产业调查，揭示了苹果、英特尔与台积电在先进制程领域的三方互动格局。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/64c9c5fe-0008-4403-a7d3-c0a17b6b8daa.png?x-bce-process=image/format,f_auto" /></p><p>根据其调查，苹果确认已在 Intel 18A-P 系列（采用 Foveros 封装技术）上启动了针对低端或旧款 iPhone、iPad 及 Mac 处理器的开发项目。此外，苹果也在同步评估英特尔其他先进制程技术。</p><p>从订单结构来看，iPhone 相关处理器占比约为 80%，这一比例与苹果终端设备的销售比重基本吻合。郭明錤认为，苹果的方案反映了 18A-P 系列的技术生命周期：2026 年进行小规模测试，2027 年实现放量生产，2028 年继续增长，2029 年则进入衰退期。</p><p>不过，英特尔方面的量产时间与出货规模仍不明确，组装端及 EMS 厂商目前尚未看到具体的出货规划。英特尔为 2027 年设定的生产良率目标是先稳定达到 50% 至 60% 以上。即便初期出货顺利，台积电仍将占据 90% 以上的供应比重。值得注意的是，英特尔内部对苹果这笔订单的看法喜忧参半。</p><p>郭明錤指出，苹果早在台积电先进制程供应趋于紧张之前，就已开始与英特尔接洽合作，因为苹果意识到台积电的资源将不断向 AI 领域倾斜。</p><p>从更宏观的产业结构变化来看，<strong>苹果正在有系统性地培养英特尔，使其未来具备成为关键供应商的能力</strong>。苹果同时在英特尔启动三大产品线，且投片比例与销量分布相似，这表明苹果已开始在模拟和验证英特尔未来成为全产品线供应商的可能性，并利用完整的 18A-P 系列世代来优化量产与协作流程，而非仅仅是试投一个低风险的订单。除了降低单一供应商依赖、提升议价能力等常见考量外，苹果此举的关键在于其意识到，AI、HPC 与智能手机对台积电的营收贡献差距将持续扩大。因此，苹果必须在自身仍具议价能力的窗口期内，尽快培养新的供应商，凭借其设计优势，同时维持与台积电的交易关系并推进与英特尔的合作。</p><p>对于英特尔而言，这既是史无前例的关键机会，也伴随着艰巨挑战。未来数年内，绝大多数先进制程订单仍将集中在台积电，因此苹果的订单近乎是英特尔唯一且最完整的“练兵”机会：订单覆盖苹果全产品线，规模足够庞大，且需要随市场变化动态调整设计与生产节奏。尽管苹果的订单短期内难以戏剧性扭转英特尔 IFS 的季度亏损，且供货比重受限于产能与良率，但此次合作仍具有深远的战略意义。然而，苹果的高标准，加上英特尔同时承接其他客户订单的策略，都将放大其重建先进制程晶圆代工业务的难度。自身努力、地缘政治因素以及客户的风险对冲需求，共同为英特尔打开了一个千载难逢的黄金再造窗口，但最终能否兑现，完全取决于其执行能力。</p><p>英特尔市值目前已达 5856.64 亿美元（IT之家注：现汇率约合 3.99 万亿元人民币），最近一个月内上涨 81.68%，最近六个月内上涨 226.38%，最近一年上涨 438.71%。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/24fa2497-d4d2-4c21-a4ec-bf1766f02513.jpg?x-bce-process=image/format,f_auto" /></p><p>台积电方面，未来数年内其地位依然稳固，但其领先地位正成为各方进行风险对冲的焦点。随着台积电先进制程成为稀缺资源，且资源持续向 AI 倾斜，苹果寻求与英特尔合作以提升议价能力也就顺理成章。但苹果并非孤例，所有先进制程的关键玩家都在对台积电采取风险对冲措施：美国政府通过一系列半导体政策，苹果通过培养英特尔，三星则利用存储芯片业务的惊人利润来支持其先进制程投入。相比之下，台积电目前主要依靠卓越的执行力来应对，这相当于将其竞争优势押注在“执行力将持续领先”这一假设上。执行力的确关键，但除执行力之外，台积电可用的对冲工具其实相当有限，这是结构性的必然结果。地缘政治上，美国是台积电的关键市场与技术合作伙伴，但美国政府同时又是其最大的政策压力来源；其他可能的合作对象，如中国大陆、欧盟与日本，则难以或无法有效形成对冲。而在市场策略上，业务多元化、客户结构分散、技术授权、供应链本土化等常见的外部对冲策略，其边际效用因台积电的领先地位而递减。加速积累内部资本应是最务实的路径，而这部分资本正来自台积电在先进制程上的定价权。内部资本的积累不仅需要合理利润，还需对未来风险进行定价，这意味着台积电可以采取比现在更灵活的定价策略。英特尔便是一个具体案例：当英特尔将自家产品下单给台积电，以空出产能与苹果“练兵”，对台积电而言，这已不是普通订单，而是蕴含潜在竞争风险的订单。若台积电决定与英特尔进行这笔交易，就应将这种由地缘政治与客户组合重构所衍生的竞争关系，纳入风险定价与产能配置的考量。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/941/654.htm" target="_blank">郭明錤谈苹果 CEO 交接：特努斯凭 Mac 转换自研芯片上位，对外事务可能仍需要库克</a>》</p></li></ul>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 22:53:42 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 22:53:42 GMT</pubDate>
+</item>
+<item>
+<title>关系出现裂痕？消息称 OpenAI 考虑对苹果采取潜在法律行动</title>
+<link>https://www.ithome.com/0/950/654.htm</link>
+<guid>https://www.ithome.com/0/950/654.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，彭博社记者马克 · 古尔曼昨天透露，由于合作关系日趋紧张，OpenAI 正准备对苹果采取潜在法律行动。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5a996694-ef97-4944-877d-c6d4f8fca27a.png?x-bce-process=image/format,f_auto" /></p><p><a href="https://www.ithome.com/0/774/334.htm" target="_blank">据IT之家此前报道</a>，苹果与 OpenAI 在 2024 年达成合作，将 ChatGPT 整合进 iOS、iPadOS、macOS 的 Siri、图乐园等软件功能中，iPhone 用户还可以直接通过“设置”App 订阅 ChatGPT，而苹果将从中抽取部分分成。</p><p>不过古尔曼表示，OpenAI 原本期望 ChatGPT 能更深入地融合进苹果生态，并在 Siri 内获得更核心的位置。并且公司高管还认为，<strong>苹果并没有充分宣传双方合作成果</strong>，<strong>导致许多用户根本不知道上述功能存在</strong>。</p><p>OpenAI 起初认为，<strong>双方合作每年可带来数十亿美元收入</strong>，但现实情况远未达到预期。据称，苹果方面曾将此次合作描述为巨大机会，其规模或能与价值数十亿美元的谷歌 Safari 默认搜索引擎合作相提并论。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/75693591-aacd-4ab5-9db9-6793526ed71a.jpg?x-bce-process=image/format,f_auto" /></p><p>但是，苹果一贯的保密文化导致 OpenAI 无法准确了解 ChatGPT 如何整合进 iPhone、iPad 与 Mac。</p><p>一位不愿透露姓名的高管认为此次合作非常失败，并表示：“他们基本是在说，你们需要赌一把，相信我们”。</p><p>他还解释道：“从产品角度说，我们已经尽力而为。但他们没有做到，更糟糕的是，他们甚至没有付出真诚的努力”。</p><p>目前，苹果用户必须在唤醒 Siri 时说出“ChatGPT”关键词，才能调用 OpenAI 的机器人。并且，Siri 聊天框的 ChatGPT 回复内容相比官方 App 也有功能限制。</p><p>因上述问题，OpenAI 正考虑对苹果采取法律行动。公司正在评估多种方案，包括向苹果发送违反合同的正式函件，而不一定是直接提起诉讼。不过，OpenAI 依然希望能够在对簿公堂前解决争议。</p><p>此外，苹果 iOS 27 系统预计将接入 Gemini、Claude 等其他 AI 助手，但这似乎并不是 OpenAI 不满的核心原因，因为双方合作从一开始就不是排他性的。但至少目前来看，OpenAI 似乎认为自己在这场合作中吃了亏。</p>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 22:51:50 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 22:51:50 GMT</pubDate>
+</item>
+<item>
+<title>盗贼新招：利用 Find My 留的电话钓鱼，解锁被盗 iPhone</title>
+<link>https://www.ithome.com/0/950/653.htm</link>
+<guid>https://www.ithome.com/0/950/653.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 15 日消息，<strong>iPhone 盗窃形成了完整的黑产链条。</strong>安全公司 Infoblox 最新研究揭示，盗贼正利用苹果“查找”网络自身的设计，绕过其安全防线，让标记为丢失的 iPhone 被解锁并转售。</p><p>研究指出用户通过“查找”App 将设备标记为丢失后，可在锁屏界面留下联系电话。盗贼正是将这个联系电话当作了钓鱼入口。</p><p>盗贼会发送短信，引导机主访问如“applemaps-support [.]live”这样的仿冒网址。这些网址每年新增超过 80 万个，页面伪装成苹果官方“查找”页面，诱导用户输入锁屏密码。盗贼在获取相关密码后，会立即解锁 iPhone。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1f288e63-36df-4baf-8b9e-f762d81d67e0.png?x-bce-process=image/format,f_auto" /></p><p>“FMI OFF”（关闭查找我的 iPhone）或“iCloud Webkit”等钓鱼工具成为主流，从而骗取机主的 Apple 账户密码。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ef554c01-bf11-44c8-a8ba-8b710284b672.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>“FMI OFF”套件贸易组织结构图</figcaption><p>若钓鱼不成，盗贼还有更多工具。Infoblox 在 Telegram 上发现了数十个专门交易解锁工具的群组，兜售针对旧款 iPhone（新款 iPhone 已无法越狱）的破解软件。群组甚至提供 AI 驱动的语音通话软件，利用社会工程学话术套取密码。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e7668963-0237-4976-a05e-46719a1338a7.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>解锁 iPhone 系统的 Telegram 经销商</figcaption><p>这些黑产工具成本极低。平均每解锁一部 iPhone 的工具售价不足 10 美元，根据机型不同最高约 50 美元。与之相比，一部被锁定的被盗 iPhone 几乎毫无价值，解锁后则能正常转售，利润空间巨大。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/17b35934-9142-4137-80b7-e25ef5e05070.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/8de05562-c7c9-40c6-9260-d368844be36b.png?x-bce-process=image/format,f_auto" /></p><p>为应对直接抢夺已解锁手机的风险，苹果在 iOS 17.4 中默认启用了“失窃设备保护”功能。该功能会在检测到陌生环境时，对密码重置、擦除数据等敏感操作增加安全延迟，为用户争取补救时间。</p><p style="text-align: center;"><img alt="Picture 1" src="https://img.ithome.com/newsuploadfiles/2026/5/5d1e8267-2b1c-417e-aa84-aede7da60119.jpg?x-bce-process=image/format,f_auto" /></p><p>然而，最新攻击链表明，技术防线仍可能被人性的弱点击穿。用户需格外警惕任何声称来自“苹果”关于失窃设备的联络，仔细检查网址域名，切勿在来电或短信中提供任何密码。确保“查找”功能开启，并使用强且独立的锁屏密码与 Apple 账户密码，仍是当前最有效的自保措施。</p><p><span class="referenceTitle">IT之家附上参考地址</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://www.infoblox.com/blog/threat-intelligence/lookalike-domains-expose-the-iphone-theft-economy/" target="_blank">Lookalike Domains Expose the iPhone Theft Economy</a></p></li></ul>
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 22:49:48 GMT</pubDate>
+<pubDate>Thu, 14 May 2026 22:49:48 GMT</pubDate>
+</item>
 
 <item>
 <title>法拉第未来 2026 财年第一财季亏损 3885.6 万美元，同比下降 278.05%</title>
