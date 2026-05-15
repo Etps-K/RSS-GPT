@@ -1964,3 +1964,31 @@ Append: [热门新游《深海迷航 2》销量突破 200 万份，Steam 国区 
 Append: [光帆科技旗下“行业首款带摄像头 AI 耳机”正式发布，首发价 1799 元起](https://www.ithome.com/0/951/106.htm)
 append_entries: 21
 Finish: 2026-05-15 13:24:38.155761
+------------------------------------------------------
+Started: 2026-05-15 15:55:03.745029
+Existing_entries: 1021
+Fetching from https://www.ithome.com/rss/
+Token length: 501
+Summarized using deepseek-v4-flash
+Append: [消息称上汽奥迪 AUDI E7X 原计划售 42 万-61 万元，后续将推行政属性 C 级轿车](https://www.ithome.com/0/951/146.htm)
+Token length: 361
+Summarized using deepseek-v4-flash
+Append: [比亚迪王传福：当下是中国企业诞生世界品牌的最佳时机，尤其是制造业领域](https://www.ithome.com/0/951/145.htm)
+Token length: 393
+Summarized using deepseek-v4-flash
+Append: [英国多部门联合警告：当前最先进 AI 模型网络攻击能力已远超专业人员，企业应做好防范措施](https://www.ithome.com/0/951/144.htm)
+Token length: 373
+Summarized using deepseek-v4-flash
+Append: [瑞安 · 雷诺兹新片《Mayday》官宣：间谍惊悚喜剧，9 月上线苹果 Apple TV](https://www.ithome.com/0/951/143.htm)
+Token length: 354
+Summarized using deepseek-v4-flash
+Append: [中国一汽悦意 08 全球首台量产车下线，本月底开启预售](https://www.ithome.com/0/951/142.htm)
+Append: [首款纯电 GTI 车型来了：大众 ID.Polo GTI 发布，零百加速 6.8 秒](https://www.ithome.com/0/951/141.htm)
+Append: [京东集团与万事达卡签署战略合作协议，扩大国际游客支付选择](https://www.ithome.com/0/951/140.htm)
+Append: [山灵 UA1 II 便携解码耳放发售：双 CS43131 芯片、屏幕按键合一设计，368 元](https://www.ithome.com/0/951/139.htm)
+Append: [高德推出“华为鸿蒙 HarmonyOS 首个生成式 UI 开源框架”AGenUI，利用通用协议适配多终端界面](https://www.ithome.com/0/951/131.htm)
+Append: [商务部：王文涛部长会见高通公司总裁兼首席执行官安蒙](https://www.ithome.com/0/951/130.htm)
+Append: [蔚来乐道 L80 大五座 SUV 上市：24.28 万-27.98 万元，租电 15.68 万-19.38 万元](https://www.ithome.com/0/951/129.htm)
+Append: [2026 WSBK 捷克站：“张雪机车”位列超级杆位赛第三名，明日冲击第四冠](https://www.ithome.com/0/951/128.htm)
+append_entries: 12
+Finish: 2026-05-15 15:55:35.435880

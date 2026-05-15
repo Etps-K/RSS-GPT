@@ -919,3 +919,18 @@ Append: [斯特兰蒂斯与东风汽车签署协议 将在中国生产标致和J
 Append: [台海巡署接收可在战时搭载导弹巡防舰](https://www.zaobao.com/news/china/story20260515-9054326)
 append_entries: 7
 Finish: 2026-05-15 13:23:53.308189
+------------------------------------------------------
+Started: 2026-05-15 15:54:13.454510
+Existing_entries: 303
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 502
+Summarized using deepseek-v4-flash
+Append: [中国首次成功批量克隆超高产奶山羊](https://www.zaobao.com/news/china/story20260515-9056525)
+Token length: 3578
+Summarized using deepseek-v4-flash
+Append: [各自表述、分歧未解、微妙互动……盘点“习特会”六大焦点](https://www.zaobao.com/news/china/story20260515-9056201)
+Token length: 378
+Summarized using deepseek-v4-flash
+Append: [特朗普：习近平称不太可能释放黎智英](https://www.zaobao.com/news/china/story20260515-9056805)
+append_entries: 3
+Finish: 2026-05-15 15:54:24.250042

@@ -783,3 +783,30 @@ Summarized using deepseek-v4-flash
 Append: [阿联酋建输油管绕开霍尔木兹海峡 到2027年出口加倍](https://www.zaobao.com/news/world/story20260515-9055755)
 append_entries: 2
 Finish: 2026-05-15 13:24:07.246866
+------------------------------------------------------
+Started: 2026-05-15 15:54:24.407258
+Existing_entries: 203
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1129
+Summarized using deepseek-v4-flash
+Append: [特朗普称中国愿支持美伊谈判 伊方要美国展现诚意](https://www.zaobao.com/news/world/story20260515-9056679)
+Token length: 1107
+Summarized using deepseek-v4-flash
+Append: [特朗普关键选民支持率下滑 或影响共和党中期选举成绩](https://www.zaobao.com/news/world/story20260515-9049784)
+Token length: 508
+Summarized using deepseek-v4-flash
+Append: [刚果（金）暴发伊波拉疫情 死亡病例65起](https://www.zaobao.com/news/world/story20260515-9056864)
+Token length: 958
+Summarized using deepseek-v4-flash
+Append: [中美峰会后第一时间与特朗普通话 高市：日美保持密切沟通](https://www.zaobao.com/news/world/story20260515-9056670)
+Token length: 558
+Summarized using deepseek-v4-flash
+Append: [默茨与特朗普通话 双方重申强大的北约伙伴关系](https://www.zaobao.com/news/world/story20260515-9056751)
+Append: [芬兰总统：美国须在欧洲防御俄罗斯核弹头 不会退出北约](https://www.zaobao.com/news/world/story20260515-9056688)
+Append: [高市早苗：特朗普访华后重申美日“牢不可破”的关系](https://www.zaobao.com/news/world/story20260515-9056555)
+Append: [俄乌战争进入第五个年头 乌军开始扭转战情](https://www.zaobao.com/news/world/story20260515-9055478)
+Append: [伊朗宣称再放行更多船只 暗示多国接受德黑兰对海峡掌控](https://www.zaobao.com/news/world/story20260515-9056527)
+Append: [日本宫城县附近海域发生6.3级地震](https://www.zaobao.com/news/world/story20260515-9056505)
+Append: [默茨：目前不建议德国年轻人赴美求学或工作](https://www.zaobao.com/news/world/story20260515-9056357)
+append_entries: 11
+Finish: 2026-05-15 15:55:02.406759
