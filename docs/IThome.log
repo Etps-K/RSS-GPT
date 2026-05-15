@@ -2010,3 +2010,12 @@ Existing_entries: 1000
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-15 20:48:00.867740
+------------------------------------------------------
+Started: 2026-05-15 22:42:36.780391
+Existing_entries: 1000
+Fetching from https://www.ithome.com/rss/
+Token length: 956
+Summarized using deepseek-v4-flash
+Append: [微软推送 Win11 实验预览版：支持任务栏位置自定义，优化搜索框逻辑更匹配文件与 App](https://www.ithome.com/0/951/147.htm)
+append_entries: 1
+Finish: 2026-05-15 22:42:40.684312

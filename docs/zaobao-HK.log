@@ -976,3 +976,15 @@ Existing_entries: 314
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-15 20:47:57.380345
+------------------------------------------------------
+Started: 2026-05-15 22:42:26.790279
+Existing_entries: 314
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 239
+Summarized using deepseek-v4-flash
+Append: [陈婧：史上最富访华团收获了什么？](https://www.zaobao.com/news/china/story20260516-9056757)
+Token length: 334
+Summarized using deepseek-v4-flash
+Append: [新闻人间：香港猪扒包好吃过澳门？](https://www.zaobao.com/news/china/story20260516-9056108)
+append_entries: 2
+Finish: 2026-05-15 22:42:34.894583
