@@ -700,3 +700,27 @@ Summarized using deepseek-v4-flash
 Append: [特朗普谈中国行 冀中美关系更上层楼](https://www.zaobao.com/news/world/story20260515-9051506)
 append_entries: 4
 Finish: 2026-05-15 01:54:50.113654
+------------------------------------------------------
+Started: 2026-05-15 05:45:01.079055
+Existing_entries: 178
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 453
+Summarized using deepseek-v4-flash
+Append: [消息：沙特推动中东国家与伊朗达成互不侵犯条约](https://www.zaobao.com/news/world/story20260515-9052909)
+Token length: 327
+Summarized using deepseek-v4-flash
+Append: [印度货船阿曼湾遇袭沉没 新德里谴责](https://www.zaobao.com/news/world/story20260515-9053046)
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [曾批评中国的所罗门群岛反对党领袖当选新总理](https://www.zaobao.com/news/world/story20260515-9052771)
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [特朗普：回收伊朗高浓缩铀仅为公关目的](https://www.zaobao.com/news/world/story20260515-9052747)
+Token length: 325
+Summarized using deepseek-v4-flash
+Append: [IMF：中美开展建设性对话有利于稳定全球经济](https://www.zaobao.com/news/world/story20260515-9052284)
+Append: [保障国内供应 印度禁食糖出口至9月底](https://www.zaobao.com/news/world/story20260515-9052322)
+Append: [美中情局长：特朗普要求古巴做出“根本性改变”](https://www.zaobao.com/news/world/story20260515-9051916)
+Append: [特朗普披露至少2.2亿美元的美企证券交易](https://www.zaobao.com/news/world/story20260515-9051743)
+append_entries: 8
+Finish: 2026-05-15 05:45:24.532121
