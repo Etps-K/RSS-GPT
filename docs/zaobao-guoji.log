@@ -771,3 +771,15 @@ Append: [伊媒：美国拒绝伊朗14点谈判方案](https://www.zaobao.com/ne
 Append: [林肯纪念堂倒影池翻修 引发招标与成本争议](https://www.zaobao.com/news/world/story20260515-9054173)
 append_entries: 7
 Finish: 2026-05-15 11:47:24.918212
+------------------------------------------------------
+Started: 2026-05-15 13:23:53.469059
+Existing_entries: 201
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 298
+Summarized using deepseek-v4-flash
+Append: [伊朗外长：伊朗愿接受中国等方面的支持 解决中东冲突](https://www.zaobao.com/news/world/story20260515-9056218)
+Token length: 498
+Summarized using deepseek-v4-flash
+Append: [阿联酋建输油管绕开霍尔木兹海峡 到2027年出口加倍](https://www.zaobao.com/news/world/story20260515-9055755)
+append_entries: 2
+Finish: 2026-05-15 13:24:07.246866

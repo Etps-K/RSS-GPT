@@ -896,3 +896,26 @@ Append: [香港公屋轮候时间下跌至逾八年新低](https://www.zaobao.co
 Append: [特朗普：罗斯福提供资金建立习近平母校清华大学](https://www.zaobao.com/news/china/story20260515-9054769)
 append_entries: 6
 Finish: 2026-05-15 11:46:54.757679
+------------------------------------------------------
+Started: 2026-05-15 13:23:30.287488
+Existing_entries: 296
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1022
+Summarized using deepseek-v4-flash
+Append: [特朗普称未就台湾问题向习近平承诺 分析：美若再军售恐触发大陆军演](https://www.zaobao.com/news/china/story20260515-9056113)
+Token length: 294
+Summarized using deepseek-v4-flash
+Append: [下午察：马斯克回复“李老师”](https://www.zaobao.com/news/china/story20260515-9055634)
+Token length: 585
+Summarized using deepseek-v4-flash
+Append: [中芯国际：海外客户正在将订单转移至中国](https://www.zaobao.com/news/china/story20260515-9055929)
+Token length: 334
+Summarized using deepseek-v4-flash
+Append: [特朗普：未来几天决定解除购买伊朗石油中企制裁](https://www.zaobao.com/news/china/story20260515-9056533)
+Token length: 109
+Summarized using deepseek-v4-flash
+Append: [特朗普称没对习近平就台湾问题许下承诺](https://www.zaobao.com/news/china/story20260515-9056250)
+Append: [斯特兰蒂斯与东风汽车签署协议 将在中国生产标致和Jeep品牌汽车](https://www.zaobao.com/news/china/story20260515-9055183)
+Append: [台海巡署接收可在战时搭载导弹巡防舰](https://www.zaobao.com/news/china/story20260515-9054326)
+append_entries: 7
+Finish: 2026-05-15 13:23:53.308189
