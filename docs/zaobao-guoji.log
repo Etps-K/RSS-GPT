@@ -724,3 +724,27 @@ Append: [美中情局长：特朗普要求古巴做出“根本性改变”](htt
 Append: [特朗普披露至少2.2亿美元的美企证券交易](https://www.zaobao.com/news/world/story20260515-9051743)
 append_entries: 8
 Finish: 2026-05-15 05:45:24.532121
+------------------------------------------------------
+Started: 2026-05-15 08:36:05.931763
+Existing_entries: 186
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [日本国债收益率飙升 财长称无需编制额外预算](https://www.zaobao.com/news/world/story20260515-9054490)
+Token length: 401
+Summarized using deepseek-v4-flash
+Append: [英首相盟友呼吁工党同僚冷静 勿重蹈保守党覆辙](https://www.zaobao.com/news/world/story20260515-9054599)
+Token length: 339
+Summarized using deepseek-v4-flash
+Append: [美取消驻波兰增兵计划 波兰称暂无变化迹象](https://www.zaobao.com/news/world/story20260515-9053986)
+Token length: 480
+Summarized using deepseek-v4-flash
+Append: [美国务院：以黎第三轮会谈“富有成效且积极”](https://www.zaobao.com/news/world/story20260515-9053629)
+Token length: 41
+Summarized using deepseek-v4-flash
+Append: [以军向黎南部五个村庄发布撤离警告](https://www.zaobao.com/news/world/story20260515-9053588)
+Append: [阿根廷下周在涉疫游轮出发地开展汉坦病毒调查](https://www.zaobao.com/news/world/story20260515-9053513)
+Append: [高市早苗下周访韩 在李在明故乡安东市举行首脑会谈](https://www.zaobao.com/news/world/story20260515-9053159)
+Append: [六名涉疫游轮乘客飞抵澳洲 将隔离至少三周](https://www.zaobao.com/news/world/story20260515-9053333)
+append_entries: 8
+Finish: 2026-05-15 08:36:45.632830
