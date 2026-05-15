@@ -810,3 +810,18 @@ Append: [日本宫城县附近海域发生6.3级地震](https://www.zaobao.com/n
 Append: [默茨：目前不建议德国年轻人赴美求学或工作](https://www.zaobao.com/news/world/story20260515-9056357)
 append_entries: 11
 Finish: 2026-05-15 15:55:02.406759
+------------------------------------------------------
+Started: 2026-05-15 17:19:46.515994
+Existing_entries: 214
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 296
+Summarized using deepseek-v4-flash
+Append: [伊朗最高领袖强调文明独立重要性](https://www.zaobao.com/news/world/story20260516-9057175)
+Token length: 241
+Summarized using deepseek-v4-flash
+Append: [特朗普：美伊停火是“应其他国家要求”](https://www.zaobao.com/news/world/story20260515-9057139)
+Token length: 719
+Summarized using deepseek-v4-flash
+Append: [阿联酋据悉试图说服邻国协同回击伊朗遭拒](https://www.zaobao.com/news/world/story20260515-9057033)
+append_entries: 3
+Finish: 2026-05-15 17:19:58.976496

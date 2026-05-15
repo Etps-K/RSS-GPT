@@ -934,3 +934,24 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：习近平称不太可能释放黎智英](https://www.zaobao.com/news/china/story20260515-9056805)
 append_entries: 3
 Finish: 2026-05-15 15:54:24.250042
+------------------------------------------------------
+Started: 2026-05-15 17:19:23.324743
+Existing_entries: 306
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 396
+Summarized using deepseek-v4-flash
+Append: [特朗普称未在习特会谈及延长关税休战](https://www.zaobao.com/news/china/story20260515-9057137)
+Token length: 399
+Summarized using deepseek-v4-flash
+Append: [特朗普：中国承诺采购增购波音飞机并采购通用电气发动机](https://www.zaobao.com/news/china/story20260515-9057095)
+Token length: 1051
+Summarized using deepseek-v4-flash
+Append: [中国敲定世界杯转播权 网络舆论掀“胜利”论](https://www.zaobao.com/news/china/story20260515-9056605)
+Token length: 685
+Summarized using deepseek-v4-flash
+Append: [特朗普游中南海赞花卉又大又美 习近平称极少在此接待外国元首](https://www.zaobao.com/news/china/story20260515-9056726)
+Token length: 894
+Summarized using deepseek-v4-flash
+Append: [王毅：习近平应邀今秋访美](https://www.zaobao.com/news/china/story20260515-9056977)
+append_entries: 5
+Finish: 2026-05-15 17:19:46.311050
