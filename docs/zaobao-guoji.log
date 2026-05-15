@@ -825,3 +825,9 @@ Summarized using deepseek-v4-flash
 Append: [阿联酋据悉试图说服邻国协同回击伊朗遭拒](https://www.zaobao.com/news/world/story20260515-9057033)
 append_entries: 3
 Finish: 2026-05-15 17:19:58.976496
+------------------------------------------------------
+Started: 2026-05-15 19:13:11.333985
+Existing_entries: 217
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-15 19:13:11.432469

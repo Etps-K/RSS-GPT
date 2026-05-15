@@ -955,3 +955,18 @@ Summarized using deepseek-v4-flash
 Append: [王毅：习近平应邀今秋访美](https://www.zaobao.com/news/china/story20260515-9056977)
 append_entries: 5
 Finish: 2026-05-15 17:19:46.311050
+------------------------------------------------------
+Started: 2026-05-15 19:12:57.538836
+Existing_entries: 311
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1883
+Summarized using deepseek-v4-flash
+Append: [“习特会”各有各赢 两国收获稳定](https://www.zaobao.com/news/china/story20260516-9057141)
+Token length: 1298
+Summarized using deepseek-v4-flash
+Append: [飞机发动机和大豆 特朗普称中国同意采购北京未确认下单](https://www.zaobao.com/news/china/story20260516-9056122)
+Token length: 1095
+Summarized using deepseek-v4-flash
+Append: [台官方低调以对 “习特会” 郑丽文：中美正确立新红线](https://www.zaobao.com/news/china/story20260516-9056973)
+append_entries: 3
+Finish: 2026-05-15 19:13:11.164586
