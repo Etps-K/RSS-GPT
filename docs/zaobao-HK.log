@@ -970,3 +970,9 @@ Summarized using deepseek-v4-flash
 Append: [台官方低调以对 “习特会” 郑丽文：中美正确立新红线](https://www.zaobao.com/news/china/story20260516-9056973)
 append_entries: 3
 Finish: 2026-05-15 19:13:11.164586
+------------------------------------------------------
+Started: 2026-05-15 20:47:57.215579
+Existing_entries: 314
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-15 20:47:57.380345
