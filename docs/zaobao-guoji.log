@@ -937,3 +937,24 @@ Summarized using deepseek-v4-flash
 Append: [美国加强世界杯安保 部署反无人机力量](https://www.zaobao.com/news/world/story20260516-9058941)
 append_entries: 2
 Finish: 2026-05-16 12:53:37.610960
+------------------------------------------------------
+Started: 2026-05-16 14:46:11.251894
+Existing_entries: 237
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1035
+Summarized using deepseek-v4-flash
+Append: [特朗普对伊耐心正消耗殆尽 伊称即将公布霍尔木兹海峡收费机制](https://www.zaobao.com/news/world/story20260516-9060055)
+Token length: 424
+Summarized using deepseek-v4-flash
+Append: [伊朗外长：美国发动战争 美国民众承受沉重代价](https://www.zaobao.com/news/world/story20260516-9060158)
+Token length: 667
+Summarized using deepseek-v4-flash
+Append: [泽连斯基：莫斯科图谋从白罗斯进攻基辅或北约成员国](https://www.zaobao.com/news/world/story20260516-9059977)
+Token length: 361
+Summarized using deepseek-v4-flash
+Append: [伊朗将公布机制 管理霍尔木兹海峡并收费](https://www.zaobao.com/news/world/story20260516-9060031)
+Token length: 316
+Summarized using deepseek-v4-flash
+Append: [哈马斯军事领导人哈达德身亡](https://www.zaobao.com/news/world/story20260516-9059927)
+append_entries: 5
+Finish: 2026-05-16 14:46:40.126398

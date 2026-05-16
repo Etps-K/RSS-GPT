@@ -1108,3 +1108,21 @@ Summarized using deepseek-v4-flash
 Append: [山西一载有多名学生车辆侧翻 已致二人死亡](https://www.zaobao.com/news/china/story20260516-9059645)
 append_entries: 3
 Finish: 2026-05-16 12:53:30.325643
+------------------------------------------------------
+Started: 2026-05-16 14:45:41.533128
+Existing_entries: 346
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 780
+Summarized using deepseek-v4-flash
+Append: [达利欧称中国崛起开启“朝贡体系”时代](https://www.zaobao.com/news/china/story20260516-9060239)
+Token length: 1504
+Summarized using deepseek-v4-flash
+Append: [中国官员推进企业外交 密集会见多位随特朗普访华美企高管](https://www.zaobao.com/news/china/story20260516-9059580)
+Token length: 317
+Summarized using deepseek-v4-flash
+Append: [塞舌尔外长将访华 上月取消赖清德专机飞航许可](https://www.zaobao.com/news/china/story20260516-9060102)
+Token length: 903
+Summarized using deepseek-v4-flash
+Append: [中美经贸磋商成果：对同等规模的各自关注产品降税](https://www.zaobao.com/news/china/story20260516-9059985)
+append_entries: 4
+Finish: 2026-05-16 14:46:11.044908
