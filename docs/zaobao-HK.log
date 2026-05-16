@@ -1093,3 +1093,18 @@ Summarized using deepseek-v4-flash
 Append: [中国工信部长：应提升传统产业竞争力 不应简单淘汰](https://www.zaobao.com/news/china/story20260516-9059153)
 append_entries: 5
 Finish: 2026-05-16 10:53:37.088971
+------------------------------------------------------
+Started: 2026-05-16 12:53:16.833681
+Existing_entries: 343
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 527
+Summarized using deepseek-v4-flash
+Append: [蜜雪冰城上线黄仁勋同款饮品](https://www.zaobao.com/news/china/story20260516-9059940)
+Token length: 635
+Summarized using deepseek-v4-flash
+Append: [中国籍前俄军在德庇护申请遭拒或遣返](https://www.zaobao.com/news/china/story20260516-9059603)
+Token length: 159
+Summarized using deepseek-v4-flash
+Append: [山西一载有多名学生车辆侧翻 已致二人死亡](https://www.zaobao.com/news/china/story20260516-9059645)
+append_entries: 3
+Finish: 2026-05-16 12:53:30.325643

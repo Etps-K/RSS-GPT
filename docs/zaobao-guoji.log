@@ -925,3 +925,15 @@ Summarized using deepseek-v4-flash
 Append: [法国航母抵达阿拉伯海 为护航行动做准备](https://www.zaobao.com/news/world/story20260516-9059113)
 append_entries: 3
 Finish: 2026-05-16 10:53:55.164152
+------------------------------------------------------
+Started: 2026-05-16 12:53:30.547462
+Existing_entries: 235
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 507
+Summarized using deepseek-v4-flash
+Append: [美国指伊拉克真主党旅要员策划袭击欧美](https://www.zaobao.com/news/world/story20260516-9059049)
+Token length: 607
+Summarized using deepseek-v4-flash
+Append: [美国加强世界杯安保 部署反无人机力量](https://www.zaobao.com/news/world/story20260516-9058941)
+append_entries: 2
+Finish: 2026-05-16 12:53:37.610960
