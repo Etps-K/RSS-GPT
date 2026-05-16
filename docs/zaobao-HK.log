@@ -1009,3 +1009,26 @@ Summarized using deepseek-v4-flash
 Append: [中国批欧调查同方威视时存在不当域外管辖措施](https://www.zaobao.com/news/china/story20260516-9057485)
 append_entries: 5
 Finish: 2026-05-16 01:47:25.881999
+------------------------------------------------------
+Started: 2026-05-16 05:17:06.932818
+Existing_entries: 321
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 509
+Summarized using deepseek-v4-flash
+Append: [中国第二艘国产大邮轮开启试航](https://www.zaobao.com/news/china/story20260516-9057994)
+Token length: 733
+Summarized using deepseek-v4-flash
+Append: [北京市委书记尹力促花旗加大在京投资](https://www.zaobao.com/news/china/story20260516-9058266)
+Token length: 639
+Summarized using deepseek-v4-flash
+Append: [北京警方通报盲人女孩盲道被撞反被骂视频是虚假摆拍](https://www.zaobao.com/news/china/story20260516-9058122)
+Token length: 618
+Summarized using deepseek-v4-flash
+Append: [傅聪指通过美国巴林决议无助解决霍尔木兹海峡问题](https://www.zaobao.com/news/china/story20260516-9057896)
+Token length: 484
+Summarized using deepseek-v4-flash
+Append: [凭更具竞争力价格 中国车企在南非扩大市场份额](https://www.zaobao.com/news/china/story20260516-9057892)
+Append: [巴基斯坦称今年将在中国在岸市场进行更多融资](https://www.zaobao.com/news/china/story20260516-9057731)
+Append: [高市“台湾有事”风波后 日本阁员首访华未与中国官员会面](https://www.zaobao.com/news/china/story20260516-9057703)
+append_entries: 7
+Finish: 2026-05-16 05:17:29.865665
