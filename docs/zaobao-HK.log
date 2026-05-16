@@ -1150,3 +1150,12 @@ Existing_entries: 352
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-16 20:36:27.882625
+------------------------------------------------------
+Started: 2026-05-16 22:34:20.284334
+Existing_entries: 352
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 198
+Summarized using deepseek-v4-flash
+Append: [中国特稿：中美科技竞争白热化 AI精英携西经东归 旋转门恐难再流转](https://www.zaobao.com/news/china/story20260517-9038285)
+append_entries: 1
+Finish: 2026-05-16 22:34:23.956623
