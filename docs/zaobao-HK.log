@@ -1138,3 +1138,9 @@ Summarized using deepseek-v4-flash
 Append: [习普会紧跟习特会 美俄元首罕见一周内接连访华](https://www.zaobao.com/news/china/story20260516-9060290)
 append_entries: 2
 Finish: 2026-05-16 16:42:33.275864
+------------------------------------------------------
+Started: 2026-05-16 18:45:13.849377
+Existing_entries: 352
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-16 18:45:14.025669

@@ -2266,3 +2266,9 @@ Summarized using deepseek-v4-flash
 Append: [中企承建，中亚首条全自动无人驾驶轻轨在哈萨克斯坦通车](https://www.ithome.com/0/951/402.htm)
 append_entries: 2
 Finish: 2026-05-16 16:43:05.895960
+------------------------------------------------------
+Started: 2026-05-16 18:45:15.558689
+Existing_entries: 1002
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2026-05-16 18:45:17.795291
