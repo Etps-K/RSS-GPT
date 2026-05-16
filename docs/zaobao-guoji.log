@@ -958,3 +958,18 @@ Summarized using deepseek-v4-flash
 Append: [哈马斯军事领导人哈达德身亡](https://www.zaobao.com/news/world/story20260516-9059927)
 append_entries: 5
 Finish: 2026-05-16 14:46:40.126398
+------------------------------------------------------
+Started: 2026-05-16 16:42:33.465968
+Existing_entries: 242
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 436
+Summarized using deepseek-v4-flash
+Append: [马斯克：不会出售所持SpaceX公司股份](https://www.zaobao.com/news/world/story20260517-9060469)
+Token length: 257
+Summarized using deepseek-v4-flash
+Append: [向斯塔默逼宫 英国前卫长竞选党魁](https://www.zaobao.com/news/world/story20260516-9060425)
+Token length: 533
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦内政部长抵达德黑兰 推动伊美和平谈判](https://www.zaobao.com/news/world/story20260516-9060350)
+append_entries: 3
+Finish: 2026-05-16 16:42:48.657918

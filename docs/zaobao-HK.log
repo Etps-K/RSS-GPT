@@ -1126,3 +1126,15 @@ Summarized using deepseek-v4-flash
 Append: [中美经贸磋商成果：对同等规模的各自关注产品降税](https://www.zaobao.com/news/china/story20260516-9059985)
 append_entries: 4
 Finish: 2026-05-16 14:46:11.044908
+------------------------------------------------------
+Started: 2026-05-16 16:42:25.175471
+Existing_entries: 350
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1723
+Summarized using deepseek-v4-flash
+Append: [特朗普警告台湾勿走向独立 对台军售成对大陆谈判筹码](https://www.zaobao.com/news/china/story20260516-9060354)
+Token length: 1186
+Summarized using deepseek-v4-flash
+Append: [习普会紧跟习特会 美俄元首罕见一周内接连访华](https://www.zaobao.com/news/china/story20260516-9060290)
+append_entries: 2
+Finish: 2026-05-16 16:42:33.275864
