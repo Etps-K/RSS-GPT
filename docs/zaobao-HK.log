@@ -1050,3 +1050,25 @@ Summarized using deepseek-v4-flash
 Append: [台官员回应特朗普涉独立言论：政府致力维持台海和平现状](https://www.zaobao.com/news/china/story20260516-9058346)
 append_entries: 4
 Finish: 2026-05-16 07:46:04.964080
+------------------------------------------------------
+Started: 2026-05-16 09:18:47.377173
+Existing_entries: 332
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 528
+Summarized using deepseek-v4-flash
+Append: [珠海前市长何宁卡落马 中国媒体：4月被带走](https://www.zaobao.com/news/china/story20260516-9058910)
+Token length: 765
+Summarized using deepseek-v4-flash
+Append: [传郑丽文在内部培训课曝马英九身体情况很差](https://www.zaobao.com/news/china/story20260516-9058926)
+Token length: 807
+Summarized using deepseek-v4-flash
+Append: [中国促欧委会纠错停止滥用外国补贴条例调查工具](https://www.zaobao.com/news/china/story20260516-9058665)
+Token length: 359
+Summarized using deepseek-v4-flash
+Append: [中国神舟二十三号载人飞船转运至发射区](https://www.zaobao.com/news/china/story20260516-9058791)
+Token length: 41
+Summarized using deepseek-v4-flash
+Append: [克宫：普京下周二起访华](https://www.zaobao.com/news/china/story20260516-9058741)
+Append: [中国大型数据中心首次参与电力现货交易](https://www.zaobao.com/news/china/story20260516-9058719)
+append_entries: 6
+Finish: 2026-05-16 09:19:18.462487

@@ -901,3 +901,12 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：伊斯兰国组织二号头目已被击毙](https://www.zaobao.com/news/world/story20260516-9058319)
 append_entries: 4
 Finish: 2026-05-16 07:46:31.032897
+------------------------------------------------------
+Started: 2026-05-16 09:19:18.681187
+Existing_entries: 231
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 465
+Summarized using deepseek-v4-flash
+Append: [工会此前称将大规模罢工 韩国三星电子会长李在镕致歉](https://www.zaobao.com/news/world/story20260516-9058896)
+append_entries: 1
+Finish: 2026-05-16 09:19:24.813903
