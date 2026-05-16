@@ -988,3 +988,24 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：香港猪扒包好吃过澳门？](https://www.zaobao.com/news/china/story20260516-9056108)
 append_entries: 2
 Finish: 2026-05-15 22:42:34.894583
+------------------------------------------------------
+Started: 2026-05-16 01:47:04.839633
+Existing_entries: 316
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 551
+Summarized using deepseek-v4-flash
+Append: [波音：中国承诺采购200架飞机](https://www.zaobao.com/news/china/story20260516-9057603)
+Token length: 752
+Summarized using deepseek-v4-flash
+Append: [习特会后 中国国家发改委官员见波音与GE航空航天CEO](https://www.zaobao.com/news/china/story20260516-9057578)
+Token length: 507
+Summarized using deepseek-v4-flash
+Append: [特朗普：不希望有人走向独立 台湾勿指望美军开空白支票](https://www.zaobao.com/news/china/story20260516-9057508)
+Token length: 479
+Summarized using deepseek-v4-flash
+Append: [亲美阿根廷政府“罕见”批准中资锂矿项目享有激励措施](https://www.zaobao.com/news/china/story20260516-9055489)
+Token length: 614
+Summarized using deepseek-v4-flash
+Append: [中国批欧调查同方威视时存在不当域外管辖措施](https://www.zaobao.com/news/china/story20260516-9057485)
+append_entries: 5
+Finish: 2026-05-16 01:47:25.881999

@@ -843,3 +843,21 @@ Existing_entries: 217
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-15 22:42:35.181842
+------------------------------------------------------
+Started: 2026-05-16 01:47:26.088547
+Existing_entries: 217
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 244
+Summarized using deepseek-v4-flash
+Append: [美联储：任命鲍威尔为临时主席 至继任者沃什宣誓就职](https://www.zaobao.com/news/world/story20260516-9057478)
+Token length: 756
+Summarized using deepseek-v4-flash
+Append: [以色列和黎巴嫩同意将停火协议延长45天](https://www.zaobao.com/news/world/story20260516-9057469)
+Token length: 479
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉天然气处理厂发生爆炸 造成六名工人受伤](https://www.zaobao.com/news/world/story20260516-9057463)
+Token length: 317
+Summarized using deepseek-v4-flash
+Append: [美国肉类出口协会：中国允许425家美国牛肉厂对华出口](https://www.zaobao.com/news/world/story20260516-9057461)
+append_entries: 4
+Finish: 2026-05-16 01:47:45.970891
