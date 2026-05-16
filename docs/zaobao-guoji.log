@@ -883,3 +883,21 @@ Append: [汉坦病毒游轮将抵荷兰 大部分船员将隔离观察六周](ht
 Append: [消息：美国拘留两名前墨西哥高官 涉与贩毒集团有关](https://www.zaobao.com/news/world/story20260516-9057512)
 append_entries: 6
 Finish: 2026-05-16 05:17:54.909042
+------------------------------------------------------
+Started: 2026-05-16 07:46:05.155372
+Existing_entries: 227
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 421
+Summarized using deepseek-v4-flash
+Append: [3500名纽约长岛铁路员工罢工 导致铁路停运](https://www.zaobao.com/news/world/story20260516-9058794)
+Token length: 1024
+Summarized using deepseek-v4-flash
+Append: [特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司](https://www.zaobao.com/news/world/story20260516-9058578)
+Token length: 367
+Summarized using deepseek-v4-flash
+Append: [30多岁男子西澳大利亚遭鲨鱼袭击 目前情况危急](https://www.zaobao.com/news/world/story20260516-9058489)
+Token length: 340
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊斯兰国组织二号头目已被击毙](https://www.zaobao.com/news/world/story20260516-9058319)
+append_entries: 4
+Finish: 2026-05-16 07:46:31.032897

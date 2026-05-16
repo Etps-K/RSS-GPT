@@ -1032,3 +1032,21 @@ Append: [巴基斯坦称今年将在中国在岸市场进行更多融资](https:
 Append: [高市“台湾有事”风波后 日本阁员首访华未与中国官员会面](https://www.zaobao.com/news/china/story20260516-9057703)
 append_entries: 7
 Finish: 2026-05-16 05:17:29.865665
+------------------------------------------------------
+Started: 2026-05-16 07:45:39.945175
+Existing_entries: 328
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 813
+Summarized using deepseek-v4-flash
+Append: [特朗普称不愿看到走向台独 总统府：赖清德主张维护两岸现状](https://www.zaobao.com/news/china/story20260516-9058558)
+Token length: 545
+Summarized using deepseek-v4-flash
+Append: [中国官媒：大国竞争绝非零和博弈](https://www.zaobao.com/news/china/story20260516-9058271)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [中国U17男足时隔22年再跻身亚洲杯四强](https://www.zaobao.com/news/china/story20260516-9058157)
+Token length: 746
+Summarized using deepseek-v4-flash
+Append: [台官员回应特朗普涉独立言论：政府致力维持台海和平现状](https://www.zaobao.com/news/china/story20260516-9058346)
+append_entries: 4
+Finish: 2026-05-16 07:46:04.964080
