@@ -1072,3 +1072,24 @@ Append: [克宫：普京下周二起访华](https://www.zaobao.com/news/china/st
 Append: [中国大型数据中心首次参与电力现货交易](https://www.zaobao.com/news/china/story20260516-9058719)
 append_entries: 6
 Finish: 2026-05-16 09:19:18.462487
+------------------------------------------------------
+Started: 2026-05-16 10:53:12.135290
+Existing_entries: 338
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 840
+Summarized using deepseek-v4-flash
+Append: [涉化妆品串换为药品 中国四家连锁药房被约谈](https://www.zaobao.com/news/china/story20260516-9059366)
+Token length: 460
+Summarized using deepseek-v4-flash
+Append: [人民日报评摆拍盲道被撞事件：盲人需被关注而非当成流量道具](https://www.zaobao.com/news/china/story20260516-9059344)
+Token length: 534
+Summarized using deepseek-v4-flash
+Append: [香港海上安保公司船只据报在阿曼湾被伊朗扣押](https://www.zaobao.com/news/china/story20260516-9059280)
+Token length: 455
+Summarized using deepseek-v4-flash
+Append: [中菲联手遣返重大跨境赌博案嫌犯 涉案金额逾2亿人民币](https://www.zaobao.com/news/china/story20260516-9059170)
+Token length: 779
+Summarized using deepseek-v4-flash
+Append: [中国工信部长：应提升传统产业竞争力 不应简单淘汰](https://www.zaobao.com/news/china/story20260516-9059153)
+append_entries: 5
+Finish: 2026-05-16 10:53:37.088971

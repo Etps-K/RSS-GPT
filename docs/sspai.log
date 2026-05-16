@@ -2641,3 +2641,9 @@ Summarized using deepseek-v4-flash
 Append: [为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
 append_entries: 1
 Finish: 2026-05-16 09:18:47.062394
+------------------------------------------------------
+Started: 2026-05-16 10:53:09.502833
+Existing_entries: 131
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-05-16 10:53:11.818621

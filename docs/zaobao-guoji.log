@@ -910,3 +910,18 @@ Summarized using deepseek-v4-flash
 Append: [工会此前称将大规模罢工 韩国三星电子会长李在镕致歉](https://www.zaobao.com/news/world/story20260516-9058896)
 append_entries: 1
 Finish: 2026-05-16 09:19:24.813903
+------------------------------------------------------
+Started: 2026-05-16 10:53:37.308388
+Existing_entries: 232
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 666
+Summarized using deepseek-v4-flash
+Append: [高龄30岁 “世界最长寿犬”候选犬在法国逝世](https://www.zaobao.com/news/world/story20260516-9059534)
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [研究：穿冷背心 六周可减脂近1公斤](https://www.zaobao.com/news/world/story20260516-9059090)
+Token length: 380
+Summarized using deepseek-v4-flash
+Append: [法国航母抵达阿拉伯海 为护航行动做准备](https://www.zaobao.com/news/world/story20260516-9059113)
+append_entries: 3
+Finish: 2026-05-16 10:53:55.164152
