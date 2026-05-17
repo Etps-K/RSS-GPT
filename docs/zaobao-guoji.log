@@ -1015,3 +1015,21 @@ Summarized using deepseek-v4-flash
 Append: [意大利北部发生汽车冲撞行人事件 八人受伤](https://www.zaobao.com/news/world/story20260517-9060774)
 append_entries: 5
 Finish: 2026-05-17 01:51:44.812614
+------------------------------------------------------
+Started: 2026-05-17 05:39:08.822305
+Existing_entries: 251
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 407
+Summarized using deepseek-v4-flash
+Append: [落网外籍诈骗嫌犯激增 斯里兰卡忧成为网络犯罪新据点](https://www.zaobao.com/news/world/story20260517-9061357)
+Token length: 450
+Summarized using deepseek-v4-flash
+Append: [特朗普宴会厅拨款提案遇阻 参议院：不符合预算规则](https://www.zaobao.com/news/world/story20260517-9061189)
+Token length: 510
+Summarized using deepseek-v4-flash
+Append: [韩国三星电子劳资周一重启谈判](https://www.zaobao.com/news/world/story20260517-9061102)
+Token length: 465
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉马杜罗一亲信被引渡至美国](https://www.zaobao.com/news/world/story20260517-9060974)
+append_entries: 4
+Finish: 2026-05-17 05:39:27.564014

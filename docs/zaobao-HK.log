@@ -1174,3 +1174,28 @@ Summarized using deepseek-v4-flash
 Append: [广西环江县一车辆坠河10人失联](https://www.zaobao.com/news/china/story20260517-9060793)
 append_entries: 3
 Finish: 2026-05-17 01:51:19.221982
+------------------------------------------------------
+Started: 2026-05-17 05:38:45.735097
+Existing_entries: 356
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 494
+Summarized using deepseek-v4-flash
+Append: [中国市监总局明确34项重点工作 促进民营经济发展壮大](https://www.zaobao.com/news/china/story20260517-9061142)
+Token length: 718
+Summarized using deepseek-v4-flash
+Append: [中美元首会晤后 港投资署：美方不再单纯视中国为低成本生产地](https://www.zaobao.com/news/china/story20260517-9061365)
+Token length: 822
+Summarized using deepseek-v4-flash
+Append: [揭牌未满三年 施罗德传终结在华公募基金业务](https://www.zaobao.com/news/china/story20260517-9061320)
+Token length: 713
+Summarized using deepseek-v4-flash
+Append: [普京访华前 习近平评价中俄各领域合作成果丰硕](https://www.zaobao.com/news/china/story20260517-9061203)
+Token length: 291
+Summarized using deepseek-v4-flash
+Append: [习近平：加快构建中国哲学社会科学自主知识体系](https://www.zaobao.com/news/china/story20260517-9061177)
+Append: [中国三大电信运营商将取消月租配套传闻不实](https://www.zaobao.com/news/china/story20260517-9061101)
+Append: [江西赣州大暴雨 洪水淹低洼地区积水深度超一米](https://www.zaobao.com/news/china/story20260517-9061116)
+Append: [韩国瑜访欧喊话“只有台湾情没有蓝绿白” 吁台商团结](https://www.zaobao.com/news/china/story20260517-9060965)
+Append: [谈亲历特朗普访华欢迎宴会 中国学者：场面多年难得一见](https://www.zaobao.com/news/china/story20260517-9060978)
+append_entries: 9
+Finish: 2026-05-17 05:39:08.586660
