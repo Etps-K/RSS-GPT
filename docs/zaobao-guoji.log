@@ -1081,3 +1081,12 @@ Summarized using deepseek-v4-flash
 Append: [美伊互提“五条件” 停火与核谈判持续拉锯](https://www.zaobao.com/news/world/story20260517-9062753)
 append_entries: 3
 Finish: 2026-05-17 12:51:09.001949
+------------------------------------------------------
+Started: 2026-05-17 14:48:29.700251
+Existing_entries: 267
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 517
+Summarized using deepseek-v4-flash
+Append: [对伊战争重创商业命脉 以色列首季经济萎缩3.3%超预期](https://www.zaobao.com/news/world/story20260517-9062879)
+append_entries: 1
+Finish: 2026-05-17 14:48:38.157146

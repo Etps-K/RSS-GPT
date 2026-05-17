@@ -1260,3 +1260,18 @@ Summarized using deepseek-v4-flash
 Append: [大陆学者首人 余淼杰当选英国皇家经济学会终身院士](https://www.zaobao.com/news/china/story20260517-9062045)
 append_entries: 2
 Finish: 2026-05-17 12:50:52.131073
+------------------------------------------------------
+Started: 2026-05-17 14:48:14.724967
+Existing_entries: 384
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1238
+Summarized using deepseek-v4-flash
+Append: [苏起谈“习特会”：北京釜底抽薪 美挺台力度将减弱](https://www.zaobao.com/news/china/story20260517-9062916)
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [习特会国宴坐马斯克和库克之间 中国“手机玻璃女王”周群飞出圈](https://www.zaobao.com/news/china/story20260517-9062735)
+Token length: 1644
+Summarized using deepseek-v4-flash
+Append: [赖清德称捍卫“中华民国”现状 没有台独问题](https://www.zaobao.com/news/china/story20260517-9063070)
+append_entries: 3
+Finish: 2026-05-17 14:48:29.478336
