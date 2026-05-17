@@ -1090,3 +1090,26 @@ Summarized using deepseek-v4-flash
 Append: [对伊战争重创商业命脉 以色列首季经济萎缩3.3%超预期](https://www.zaobao.com/news/world/story20260517-9062879)
 append_entries: 1
 Finish: 2026-05-17 14:48:38.157146
+------------------------------------------------------
+Started: 2026-05-17 16:43:24.475918
+Existing_entries: 268
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1151
+Summarized using deepseek-v4-flash
+Append: [世卫：非洲伊波拉疫情成“国际关注的紧急状况” 近90死致命率50%](https://www.zaobao.com/news/world/story20260517-9063038)
+Token length: 269
+Summarized using deepseek-v4-flash
+Append: [高市解禁杀伤性武器出口 近六成日本人反对](https://www.zaobao.com/news/world/story20260517-9062704)
+Token length: 151
+Summarized using deepseek-v4-flash
+Append: [美贸易代表：中方已开始便利美国进口](https://www.zaobao.com/news/world/story20260517-9063508)
+Token length: 109
+Summarized using deepseek-v4-flash
+Append: [特朗普与李在明通话 讨论中美峰会成果](https://www.zaobao.com/news/world/story20260517-9063483)
+Token length: 754
+Summarized using deepseek-v4-flash
+Append: [关税与伊朗战争推高物价 特朗普流失拉美裔支持](https://www.zaobao.com/news/world/story20260517-9063411)
+Append: [美媒：特朗普政府视古巴无人机部署为重大威胁](https://www.zaobao.com/news/world/story20260517-9063188)
+Append: [英国前卫长确认竞选工党党魁](https://www.zaobao.com/news/world/story20260517-9063170)
+append_entries: 7
+Finish: 2026-05-17 16:43:50.076920
