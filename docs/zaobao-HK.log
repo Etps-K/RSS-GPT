@@ -1159,3 +1159,18 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：中美科技竞争白热化 AI精英携西经东归 旋转门恐难再流转](https://www.zaobao.com/news/china/story20260517-9038285)
 append_entries: 1
 Finish: 2026-05-16 22:34:23.956623
+------------------------------------------------------
+Started: 2026-05-17 01:51:02.187409
+Existing_entries: 353
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 373
+Summarized using deepseek-v4-flash
+Append: [中国自主研发赛级燃油投用 打破长期依赖进口局面](https://www.zaobao.com/news/china/story20260517-9060887)
+Token length: 887
+Summarized using deepseek-v4-flash
+Append: [高市上台后首份日本防卫白皮书 拟对解放军动向表示警惕](https://www.zaobao.com/news/china/story20260517-9060879)
+Token length: 125
+Summarized using deepseek-v4-flash
+Append: [广西环江县一车辆坠河10人失联](https://www.zaobao.com/news/china/story20260517-9060793)
+append_entries: 3
+Finish: 2026-05-17 01:51:19.221982

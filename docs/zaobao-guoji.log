@@ -994,3 +994,24 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：油将尽，灯欲枯？ 日本能源危机百日倒数](https://www.zaobao.com/news/world/story20260517-9034453)
 append_entries: 1
 Finish: 2026-05-16 22:34:28.222362
+------------------------------------------------------
+Started: 2026-05-17 01:51:19.456653
+Existing_entries: 246
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 394
+Summarized using deepseek-v4-flash
+Append: [世卫：非洲伊波拉疫情构成“国际关注的突发公共卫生事件”](https://www.zaobao.com/news/world/story20260517-9060905)
+Token length: 414
+Summarized using deepseek-v4-flash
+Append: [英国伦敦数万人参与两场大规模示威活动](https://www.zaobao.com/news/world/story20260517-9060862)
+Token length: 687
+Summarized using deepseek-v4-flash
+Append: [以黎停火协议延长后 以军与真主党相互发动袭击](https://www.zaobao.com/news/world/story20260517-9060815)
+Token length: 439
+Summarized using deepseek-v4-flash
+Append: [加拿大一涉疫游轮乘客汉坦病毒初检结果为阳性](https://www.zaobao.com/news/world/story20260517-9060782)
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [意大利北部发生汽车冲撞行人事件 八人受伤](https://www.zaobao.com/news/world/story20260517-9060774)
+append_entries: 5
+Finish: 2026-05-17 01:51:44.812614
