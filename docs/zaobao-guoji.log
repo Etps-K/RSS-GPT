@@ -1042,3 +1042,27 @@ Summarized using deepseek-v4-flash
 Append: [乌克兰逾500架无人机夜袭俄罗斯 莫斯科三人死亡](https://www.zaobao.com/news/world/story20260517-9061598)
 append_entries: 1
 Finish: 2026-05-17 08:07:03.356267
+------------------------------------------------------
+Started: 2026-05-17 10:58:03.611828
+Existing_entries: 256
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 128
+Summarized using deepseek-v4-flash
+Append: [阿联酋核电站遭无人机袭击起火](https://www.zaobao.com/news/world/story20260517-9062766)
+Token length: 342
+Summarized using deepseek-v4-flash
+Append: [称损失或超乎想象 韩政府拟采取所有可行手段应对三星罢工](https://www.zaobao.com/news/world/story20260517-9062653)
+Token length: 459
+Summarized using deepseek-v4-flash
+Append: [美暗示2029年移交战时指挥权 韩方重申任内尽早收回](https://www.zaobao.com/news/world/story20260517-9062507)
+Token length: 1107
+Summarized using deepseek-v4-flash
+Append: [英媒：美国游说阿联酋夺取伊朗关键岛屿 为战争发挥更大作用](https://www.zaobao.com/news/world/story20260517-9062255)
+Token length: 596
+Summarized using deepseek-v4-flash
+Append: [一口气解雇约250名外交官 美国国务院“被系统性掏空”](https://www.zaobao.com/news/world/story20260517-9062173)
+Append: [韩国宣布以国事访问规格欢迎高市早苗](https://www.zaobao.com/news/world/story20260517-9062139)
+Append: [荷兰阿斯麦与印度塔塔电子签署半导体协议](https://www.zaobao.com/news/world/story20260517-9062078)
+Append: [男乘客发狂咬伤空服员 澳航飞美航班中途迫降](https://www.zaobao.com/news/world/story20260517-9062020)
+append_entries: 8
+Finish: 2026-05-17 10:58:26.784239

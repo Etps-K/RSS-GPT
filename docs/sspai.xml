@@ -4,6 +4,7 @@
 <title>少数派</title>
 <link>https://sspai.com</link>
 
+
 <item>
 <title>看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验</title>
 <link>https://sspai.com/post/64870</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> 智能队列, QoS, 带宽管理, 缓冲膨胀, 网络延迟
 
-<br><br>总结:  
+<br /><br />总结:  
 智能队列（又称智能QoS/SQM）通过主动队列管理算法（如fq_codel）对数据包进行排序和整形，优先处理小包和实时应用，缓解“缓冲膨胀”问题。它不会提升总带宽（标称速度），但能显著降低延迟和抖动，使多人共用、游戏或视频通话时网络更流畅。在带宽不足或网络拥塞时推荐开启，可改善体验。 <div>
 在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ...<a href="https://sspai.com/post/64870" target="_blank">查看全文</a>
 ]]></content:encoded>
 <pubDate>Sun, 17 May 2026 12:57:27 +0800</pubDate>
-<pubDate>Sun, 17 May 2026 12:57:27 +0800</pubDate>
 </item>
-
 <item>
 <title>为什么我觉得好的东西，媒体评测却给了低分？</title>
 <link>https://sspai.com/post/109777</link>
