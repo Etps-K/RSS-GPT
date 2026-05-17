@@ -1284,3 +1284,9 @@ Summarized using deepseek-v4-flash
 Append: [习特会后 赖清德称捍卫“中华民国”现状 没有“台独”问题](https://www.zaobao.com/news/china/story20260517-9063413)
 append_entries: 1
 Finish: 2026-05-17 16:43:24.306776
+------------------------------------------------------
+Started: 2026-05-17 18:49:52.360624
+Existing_entries: 388
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-17 18:49:52.505762

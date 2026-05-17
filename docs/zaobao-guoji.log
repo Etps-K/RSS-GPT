@@ -1113,3 +1113,9 @@ Append: [美媒：特朗普政府视古巴无人机部署为重大威胁](https:
 Append: [英国前卫长确认竞选工党党魁](https://www.zaobao.com/news/world/story20260517-9063170)
 append_entries: 7
 Finish: 2026-05-17 16:43:50.076920
+------------------------------------------------------
+Started: 2026-05-17 18:49:52.762744
+Existing_entries: 275
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-17 18:49:52.827353
