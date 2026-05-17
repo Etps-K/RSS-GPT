@@ -1296,3 +1296,12 @@ Existing_entries: 388
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-17 20:37:59.239429
+------------------------------------------------------
+Started: 2026-05-17 22:41:13.626121
+Existing_entries: 388
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 372
+Summarized using deepseek-v4-flash
+Append: [戴庆成：女商家悲剧揭香港中小发展商困局](https://www.zaobao.com/news/china/story20260518-9062573)
+append_entries: 1
+Finish: 2026-05-17 22:41:17.599687

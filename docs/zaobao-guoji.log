@@ -1125,3 +1125,12 @@ Existing_entries: 275
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-17 20:37:59.571955
+------------------------------------------------------
+Started: 2026-05-17 22:41:17.862892
+Existing_entries: 275
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 264
+Summarized using deepseek-v4-flash
+Append: [符祝慧：这些年 看“新肴”深入日本民心](https://www.zaobao.com/news/world/story20260518-9060428)
+append_entries: 1
+Finish: 2026-05-17 22:41:23.847483
