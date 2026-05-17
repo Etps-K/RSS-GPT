@@ -1248,3 +1248,15 @@ Append: [中国15条河流发生超警以上洪水](https://www.zaobao.com/news/
 Append: [萧美琴：当平权成为理所当然日常 才是真正平权](https://www.zaobao.com/news/china/story20260517-9061892)
 append_entries: 11
 Finish: 2026-05-17 10:58:03.400324
+------------------------------------------------------
+Started: 2026-05-17 12:50:40.032506
+Existing_entries: 382
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 188
+Summarized using deepseek-v4-flash
+Append: [特朗普顾问担心大陆未来五年内可能对台湾采取行动](https://www.zaobao.com/news/china/story20260517-9062896)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [大陆学者首人 余淼杰当选英国皇家经济学会终身院士](https://www.zaobao.com/news/china/story20260517-9062045)
+append_entries: 2
+Finish: 2026-05-17 12:50:52.131073

@@ -1066,3 +1066,18 @@ Append: [荷兰阿斯麦与印度塔塔电子签署半导体协议](https://www.
 Append: [男乘客发狂咬伤空服员 澳航飞美航班中途迫降](https://www.zaobao.com/news/world/story20260517-9062020)
 append_entries: 8
 Finish: 2026-05-17 10:58:26.784239
+------------------------------------------------------
+Started: 2026-05-17 12:50:52.389501
+Existing_entries: 264
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 328
+Summarized using deepseek-v4-flash
+Append: [美福特号航母返回母港 创越战后最长部署纪录](https://www.zaobao.com/news/world/story20260517-9062728)
+Token length: 1204
+Summarized using deepseek-v4-flash
+Append: [拟为衔接欧亚海底电缆征费 伊朗对霍尔木兹海峡的钳制从海上伸入海底](https://www.zaobao.com/news/world/story20260517-9062444)
+Token length: 327
+Summarized using deepseek-v4-flash
+Append: [美伊互提“五条件” 停火与核谈判持续拉锯](https://www.zaobao.com/news/world/story20260517-9062753)
+append_entries: 3
+Finish: 2026-05-17 12:51:09.001949
