@@ -1305,3 +1305,25 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：女商家悲剧揭香港中小发展商困局](https://www.zaobao.com/news/china/story20260518-9062573)
 append_entries: 1
 Finish: 2026-05-17 22:41:17.599687
+------------------------------------------------------
+Started: 2026-05-18 02:00:36.176411
+Existing_entries: 389
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 467
+Summarized using deepseek-v4-flash
+Append: [俄罗斯四分之一外资公司由中国公民创办](https://www.zaobao.com/news/china/story20260518-9064234)
+Token length: 1136
+Summarized using deepseek-v4-flash
+Append: [林佳龙现身日内瓦 创外长赴世卫大会场外首例](https://www.zaobao.com/news/china/story20260518-9064170)
+Token length: 618
+Summarized using deepseek-v4-flash
+Append: [英国驻华使馆发贴回顾中国同性议题 微信阅读次数超过10万](https://www.zaobao.com/news/china/story20260518-9064151)
+Token length: 438
+Summarized using deepseek-v4-flash
+Append: [中美阿三国首次联合打击电诈 抓获276嫌疑人](https://www.zaobao.com/news/china/story20260518-9064071)
+Token length: 906
+Summarized using deepseek-v4-flash
+Append: [台蓝营：赖清德勿故弄玄虚 用“中华民国”偷渡台独](https://www.zaobao.com/news/china/story20260518-9064045)
+Append: [广西发生5.2级地震三人失联](https://www.zaobao.com/news/china/story20260518-9063989)
+append_entries: 6
+Finish: 2026-05-18 02:01:01.765036

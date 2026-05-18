@@ -1134,3 +1134,26 @@ Summarized using deepseek-v4-flash
 Append: [符祝慧：这些年 看“新肴”深入日本民心](https://www.zaobao.com/news/world/story20260518-9060428)
 append_entries: 1
 Finish: 2026-05-17 22:41:23.847483
+------------------------------------------------------
+Started: 2026-05-18 02:01:01.994605
+Existing_entries: 276
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 413
+Summarized using deepseek-v4-flash
+Append: [挪威逮捕涉嫌间谍活动中国男子](https://www.zaobao.com/news/world/story20260518-9064335)
+Token length: 551
+Summarized using deepseek-v4-flash
+Append: [特朗普特使首访格陵兰岛 参加经济论坛](https://www.zaobao.com/news/world/story20260518-9064196)
+Token length: 420
+Summarized using deepseek-v4-flash
+Append: [因特朗普行政令 法德航运公司暂停往返古巴船次预定](https://www.zaobao.com/news/world/story20260518-9064089)
+Token length: 546
+Summarized using deepseek-v4-flash
+Append: [古巴指责美国捏造虚假文件 为制裁和侵略找借口](https://www.zaobao.com/news/world/story20260518-9064020)
+Token length: 261
+Summarized using deepseek-v4-flash
+Append: [金正恩要求加强与韩国接壤边境一线部队](https://www.zaobao.com/news/world/story20260518-9063982)
+Append: [特朗普警告伊朗时间所剩不多 媒体：美以领导人通话](https://www.zaobao.com/news/world/story20260518-9063951)
+Append: [白宫公布中美贸易协议细节 中国同意购买更多美国农产品](https://www.zaobao.com/news/world/story20260518-9063918)
+append_entries: 7
+Finish: 2026-05-18 02:01:28.818311
