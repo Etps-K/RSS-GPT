@@ -2788,3 +2788,9 @@ Existing_entries: 1003
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-18 19:20:48.016468
+------------------------------------------------------
+Started: 2026-05-18 20:59:50.840644
+Existing_entries: 1000
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2026-05-18 20:59:52.598371
