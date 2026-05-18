@@ -2794,3 +2794,15 @@ Existing_entries: 1000
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-18 20:59:52.598371
+------------------------------------------------------
+Started: 2026-05-18 22:45:51.701472
+Existing_entries: 1000
+Fetching from https://www.ithome.com/rss/
+Token length: 372
+Summarized using deepseek-v4-flash
+Append: [阿里云千问大模型 Qwen3.7-Max-Preview 首发亮相 Arena AI](https://www.ithome.com/0/952/041.htm)
+Token length: 469
+Summarized using deepseek-v4-flash
+Append: [先来曝点光：苹果官宣北京时间 6 月 9 日凌晨 1 点举办 WWDC26 活动，公布 iOS 27 等动向](https://www.ithome.com/0/952/040.htm)
+append_entries: 2
+Finish: 2026-05-18 22:46:01.660774

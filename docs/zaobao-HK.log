@@ -1447,3 +1447,12 @@ Existing_entries: 441
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-18 20:59:48.980583
+------------------------------------------------------
+Started: 2026-05-18 22:45:46.400137
+Existing_entries: 441
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 271
+Summarized using deepseek-v4-flash
+Append: [庄慧良：“习特会”后的台独困境](https://www.zaobao.com/news/china/story20260519-9068884)
+append_entries: 1
+Finish: 2026-05-18 22:45:50.052388
