@@ -2782,3 +2782,9 @@ Summarized using deepseek-v4-flash
 Append: [全国首个遥感卫星数据出境安全评估在海南完成，实现“零的突破”](https://www.ithome.com/0/952/035.htm)
 append_entries: 3
 Finish: 2026-05-18 17:51:38.549909
+------------------------------------------------------
+Started: 2026-05-18 19:20:45.909997
+Existing_entries: 1003
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2026-05-18 19:20:48.016468

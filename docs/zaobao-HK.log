@@ -1435,3 +1435,9 @@ Summarized using deepseek-v4-flash
 Append: [何立峰会见苏姿丰 超威称将持续加大在华投资](https://www.zaobao.com/news/china/story20260518-9068633)
 append_entries: 4
 Finish: 2026-05-18 17:50:53.853016
+------------------------------------------------------
+Started: 2026-05-18 19:20:44.192603
+Existing_entries: 441
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-18 19:20:44.282987

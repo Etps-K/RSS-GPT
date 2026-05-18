@@ -1246,3 +1246,9 @@ Summarized using deepseek-v4-flash
 Append: [东大校园祭示威 反对主张“日本人优先”政党演讲](https://www.zaobao.com/news/world/story20260518-9068584)
 append_entries: 4
 Finish: 2026-05-18 17:51:17.908684
+------------------------------------------------------
+Started: 2026-05-18 19:20:44.535761
+Existing_entries: 310
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-18 19:20:44.612933
