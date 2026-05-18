@@ -1179,3 +1179,28 @@ Append: [白宫：中国同意解决美国对稀土短缺担忧](https://www.zao
 Append: [在刚果美国公民或有高风险接触 美疾控中心升级应对措施](https://www.zaobao.com/news/world/story20260518-9064559)
 append_entries: 6
 Finish: 2026-05-18 06:17:00.251769
+------------------------------------------------------
+Started: 2026-05-18 11:35:51.810685
+Existing_entries: 289
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1123
+Summarized using deepseek-v4-flash
+Append: [特朗普再警告伊朗 不达成协议将一无所有](https://www.zaobao.com/news/world/story20260518-9067229)
+Token length: 747
+Summarized using deepseek-v4-flash
+Append: [加沙援助船队称遭以军拦截登船](https://www.zaobao.com/news/world/story20260518-9067380)
+Token length: 383
+Summarized using deepseek-v4-flash
+Append: [邻国刚果暴发伊波拉疫情 乌干达推迟年度宗教活动](https://www.zaobao.com/news/world/story20260518-9066892)
+Token length: 513
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡：哈马斯主谋被铲除 加沙战事目标接近完成](https://www.zaobao.com/news/world/story20260518-9066431)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [韩政府发布2026年统一白皮书 强调和平共处](https://www.zaobao.com/news/world/story20260518-9066026)
+Append: [英国副首相：斯塔默很有韧劲 不会辞职](https://www.zaobao.com/news/world/story20260518-9066299)
+Append: [美国两架军机飞行表演时撞机 四名飞行员安全弹射逃生](https://www.zaobao.com/news/world/story20260518-9066223)
+Append: [为降低对华依赖 欧盟拟强制企业向其他供应商采购零部件](https://www.zaobao.com/news/world/story20260518-9065789)
+Append: [重申人类创作不可取代 法国拟拒资助AI作品](https://www.zaobao.com/news/world/story20260518-9062057)
+append_entries: 9
+Finish: 2026-05-18 11:36:25.350250

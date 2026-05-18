@@ -2764,3 +2764,15 @@ Summarized using deepseek-v4-flash
 Append: [四天三夜，用小长假的时间体验青海湖小环线](https://sspai.com/post/103407)
 append_entries: 1
 Finish: 2026-05-18 06:15:52.196020
+------------------------------------------------------
+Started: 2026-05-18 11:35:08.556467
+Existing_entries: 134
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/109886)
+Token length: 22
+Summarized using deepseek-v4-flash
+Append: [打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试](https://sspai.com/post/109743)
+append_entries: 2
+Finish: 2026-05-18 11:35:22.532317
