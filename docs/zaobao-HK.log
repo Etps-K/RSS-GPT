@@ -1396,3 +1396,24 @@ Append: [王晓东被查 湖北表态坚决拥护中共中央决定](https://www
 Append: [中国佛教协会会长上周赴高雄出席活动](https://www.zaobao.com/news/china/story20260518-9065714)
 append_entries: 22
 Finish: 2026-05-18 11:35:51.541118
+------------------------------------------------------
+Started: 2026-05-18 14:49:55.048223
+Existing_entries: 432
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1285
+Summarized using deepseek-v4-flash
+Append: [中国生产消费投资增速4月份皆放缓 美伊冲突影响显现](https://www.zaobao.com/news/china/story20260518-9067744)
+Token length: 840
+Summarized using deepseek-v4-flash
+Append: [中组部修订党员细则 突出体“两个确立”“两个维护”](https://www.zaobao.com/news/china/story20260518-9068318)
+Token length: 524
+Summarized using deepseek-v4-flash
+Append: [台英议会外交首例 韩国瑜访问英国会晤下议院议长](https://www.zaobao.com/news/china/story20260518-9068106)
+Token length: 320
+Summarized using deepseek-v4-flash
+Append: [重庆男子殴打两个月婴儿 涉虐待罪被刑拘](https://www.zaobao.com/news/china/story20260518-9068128)
+Token length: 493
+Summarized using deepseek-v4-flash
+Append: [中国女游客硬闯吉隆坡机场不成大闹 被女辅警抬走面控](https://www.zaobao.com/news/china/story20260518-9067934)
+append_entries: 5
+Finish: 2026-05-18 14:50:30.169417
