@@ -1157,3 +1157,25 @@ Append: [特朗普警告伊朗时间所剩不多 媒体：美以领导人通话]
 Append: [白宫公布中美贸易协议细节 中国同意购买更多美国农产品](https://www.zaobao.com/news/world/story20260518-9063918)
 append_entries: 7
 Finish: 2026-05-18 02:01:28.818311
+------------------------------------------------------
+Started: 2026-05-18 06:16:25.605331
+Existing_entries: 283
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 345
+Summarized using deepseek-v4-flash
+Append: [李在明吁三星电子劳资双方相互妥协](https://www.zaobao.com/news/world/story20260518-9065165)
+Token length: 629
+Summarized using deepseek-v4-flash
+Append: [三星部分强制令获批 法院责令工会罢工不得影响生产量](https://www.zaobao.com/news/world/story20260518-9065444)
+Token length: 225
+Summarized using deepseek-v4-flash
+Append: [伊朗媒体：也门胡塞武装击落美军无人机](https://www.zaobao.com/news/world/story20260518-9065274)
+Token length: 533
+Summarized using deepseek-v4-flash
+Append: [韩企参与建设运营阿联酋核电站遇袭 无伤亡报告](https://www.zaobao.com/news/world/story20260518-9065032)
+Token length: 471
+Summarized using deepseek-v4-flash
+Append: [白宫：中国同意解决美国对稀土短缺担忧](https://www.zaobao.com/news/world/story20260518-9064794)
+Append: [在刚果美国公民或有高风险接触 美疾控中心升级应对措施](https://www.zaobao.com/news/world/story20260518-9064559)
+append_entries: 6
+Finish: 2026-05-18 06:17:00.251769
