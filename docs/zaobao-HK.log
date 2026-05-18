@@ -1417,3 +1417,21 @@ Summarized using deepseek-v4-flash
 Append: [中国女游客硬闯吉隆坡机场不成大闹 被女辅警抬走面控](https://www.zaobao.com/news/china/story20260518-9067934)
 append_entries: 5
 Finish: 2026-05-18 14:50:30.169417
+------------------------------------------------------
+Started: 2026-05-18 17:50:36.206630
+Existing_entries: 437
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 187
+Summarized using deepseek-v4-flash
+Append: [下午察：大学应该重开校园吗？](https://www.zaobao.com/news/china/story20260518-9068790)
+Token length: 1008
+Summarized using deepseek-v4-flash
+Append: [香港启动戒备状态防伊波拉输入](https://www.zaobao.com/news/china/story20260518-9068343)
+Token length: 712
+Summarized using deepseek-v4-flash
+Append: [APEC第二次高官会在沪举行 中国呼吁建设开放可预期多边经贸秩序](https://www.zaobao.com/news/china/story20260518-9068402)
+Token length: 265
+Summarized using deepseek-v4-flash
+Append: [何立峰会见苏姿丰 超威称将持续加大在华投资](https://www.zaobao.com/news/china/story20260518-9068633)
+append_entries: 4
+Finish: 2026-05-18 17:50:53.853016

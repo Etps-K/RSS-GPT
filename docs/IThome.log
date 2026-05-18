@@ -2767,3 +2767,18 @@ Append: [Meta 雷朋 Display 智能眼镜获 Update 125 更新，正式上线肌
 Append: [华为小艺简报功能在老机型回归，Mate 70 / 60 等系列逐步放开可用](https://www.ithome.com/0/952/005.htm)
 append_entries: 24
 Finish: 2026-05-18 14:51:54.831681
+------------------------------------------------------
+Started: 2026-05-18 17:51:19.241085
+Existing_entries: 1024
+Fetching from https://www.ithome.com/rss/
+Token length: 446
+Summarized using deepseek-v4-flash
+Append: [何小鹏：小鹏 Robotaxi 将在广州开启示范运营](https://www.ithome.com/0/952/038.htm)
+Token length: 307
+Summarized using deepseek-v4-flash
+Append: [腾势全球代言人王力宏证实：代言费全数购买比亚迪股票是真的](https://www.ithome.com/0/952/036.htm)
+Token length: 544
+Summarized using deepseek-v4-flash
+Append: [全国首个遥感卫星数据出境安全评估在海南完成，实现“零的突破”](https://www.ithome.com/0/952/035.htm)
+append_entries: 3
+Finish: 2026-05-18 17:51:38.549909

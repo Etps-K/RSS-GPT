@@ -1228,3 +1228,21 @@ Append: [研究：移居海外美国人数量创新高](https://www.zaobao.com/n
 Append: [夏季能源需求高峰来临 全球能源危机趋近危险阶段](https://www.zaobao.com/news/world/story20260518-9067003)
 append_entries: 8
 Finish: 2026-05-18 14:51:05.856701
+------------------------------------------------------
+Started: 2026-05-18 17:50:54.105567
+Existing_entries: 306
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 539
+Summarized using deepseek-v4-flash
+Append: [混种虎逃逸伤人遭击毙 德国“老虎之王”饲养条件惹争议](https://www.zaobao.com/news/world/story20260518-9068952)
+Token length: 352
+Summarized using deepseek-v4-flash
+Append: [尼日利亚与美国联合歼灭逾20名ISIS武装分子](https://www.zaobao.com/news/world/story20260518-9068818)
+Token length: 902
+Summarized using deepseek-v4-flash
+Append: [G7财长会议讨论如何应对全球经济紧张局势](https://www.zaobao.com/news/world/story20260518-9068613)
+Token length: 793
+Summarized using deepseek-v4-flash
+Append: [东大校园祭示威 反对主张“日本人优先”政党演讲](https://www.zaobao.com/news/world/story20260518-9068584)
+append_entries: 4
+Finish: 2026-05-18 17:51:17.908684
