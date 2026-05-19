@@ -1602,3 +1602,12 @@ Existing_entries: 496
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-19 21:09:29.603081
+------------------------------------------------------
+Started: 2026-05-19 22:55:41.517884
+Existing_entries: 496
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1732
+Summarized using deepseek-v4-flash
+Append: [杨丹旭：中美进入听其言观其行](https://www.zaobao.com/news/china/story20260520-9074901)
+append_entries: 1
+Finish: 2026-05-19 22:55:46.576802
