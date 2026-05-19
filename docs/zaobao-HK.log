@@ -1564,3 +1564,29 @@ Append: [代表台北领取“李光耀世界城市奖”特别奖 蒋万安6月
 Append: [中国AI企业月之暗面获多个国资支持](https://www.zaobao.com/news/china/story20260519-9073059)
 append_entries: 6
 Finish: 2026-05-19 14:29:49.332067
+------------------------------------------------------
+Started: 2026-05-19 17:55:23.247068
+Existing_entries: 486
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1537
+Summarized using deepseek-v4-flash
+Append: [李资政：国际贸易并非总能双赢 但须努力实现双赢](https://www.zaobao.com/news/china/story20260519-9074458)
+Token length: 302
+Summarized using deepseek-v4-flash
+Append: [下午察：杀人犯变国际影后的反转](https://www.zaobao.com/news/china/story20260519-9074826)
+Token length: 356
+Summarized using deepseek-v4-flash
+Append: [特朗普称习近平承诺中国不会向伊朗提供武器](https://www.zaobao.com/news/china/story20260519-9074910)
+Token length: 1240
+Summarized using deepseek-v4-flash
+Append: [“习特会”后普京访华力挺中俄关系 释放中国无意疏远俄罗斯信号](https://www.zaobao.com/news/china/story20260519-9074500)
+Token length: 66
+Summarized using deepseek-v4-flash
+Append: [俄罗斯总统普京即将抵达北京](https://www.zaobao.com/news/china/story20260519-9074747)
+Append: [特朗普暂搁军售 卓荣泰：台湾是全球核心利益 不轻易被牺牲](https://www.zaobao.com/news/china/story20260519-9074035)
+Append: [广西汽车坠河10人遇难 再揭中国农村临时雇工安全隐患](https://www.zaobao.com/news/china/story20260519-9074389)
+Append: [上海男子持刀伤三人 日媒称两名伤者为日本人](https://www.zaobao.com/news/china/story20260519-9074578)
+Append: [赖清德执政满两年前夕 大陆辽宁舰航母编队赴西太平洋演训](https://www.zaobao.com/news/china/story20260519-9073729)
+Append: [香港拟立法禁止所有建筑工地吸烟](https://www.zaobao.com/news/china/story20260519-9074465)
+append_entries: 10
+Finish: 2026-05-19 17:55:45.562349
