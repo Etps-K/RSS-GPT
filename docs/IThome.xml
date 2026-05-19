@@ -5,19 +5,188 @@
 <link>https://www.ithome.com/</link>
 
 <item>
+<title>谷歌推出 Ask Play：连续对话 AI 筛选应用与游戏</title>
+<link>https://www.ithome.com/0/952/539.htm</link>
+<guid>https://www.ithome.com/0/952/539.htm</guid>
+<content:encoded><![CDATA[
+<div> Ask Play Gemini 应用推荐 上下文理解 搜索优化
+
+<br><br>总结:  
+1. 谷歌推出Ask Play，以连续问答代替传统翻找，支持补充条件（如“无广告、离线模式”）收窄结果。  
+2. Ask Play highlights在搜索页提供高层摘要，减少用户点开应用页面的时间。  
+3. Gemini将整合至Android与网页聊天界面，无需用户明确要求“推荐应用”，即可根据意图主动推荐。  
+4. 示例：用户问“潜水能见哪些鱼”，Gemini推荐识别海洋生物应用；问“拍90年代胶片风格”，推荐复古滤镜应用。 <div>
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌针对 Play 应用商店推出 Ask Play，<strong>希望把原本依赖列表翻找、评论筛选和反复试错的找应用流程，变成更自然的连续问答方式。</strong></p><p>Ask Play 能理解完整上下文，不仅能基于用户提出的首个需求搜索合适内容，还能继续补充限制条件，系统会把前后语义合并后再推荐应用。</p><p>在谷歌官方给出的示例中，用户先找“无广告、无付费墙的小众科幻策略游戏”，再补充“支持离线模式”，系统会据此继续收窄结果，提升匹配精度。</p><p style="text-align: center;"><img alt="Screenshots highlighting Ask Play" class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1bd50e0b-dcb5-43ec-9a95-b3ef8cc4db80.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家援引博文介绍，除了直接推荐应用，谷歌推出 Ask Play highlights 功能。它会在搜索结果页上方提供复杂搜索的高层级摘要，帮助用户更快理解结果范围与重点。</p><p>对普通用户来说，这意味着不必逐个点进应用页面，也能先判断某类结果是否值得继续看，减少搜索时间成本。</p><p>另一条同步推进的路线，是结合 Gemini 和应用推荐。谷歌表示，Gemini 将在 Android 和网页端聊天界面中呈现应用及相关内容，并会在未来几周上线。</p><p>这种整合还带有主动推荐特征，用户未必需要明确提出“推荐应用”，Gemini 也可能根据问题意图给出合适应用。</p><p style="text-align: center;"><img alt="screenshots highlights Gemini's Play Store integration" class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/64ccab52-7862-437d-8e83-ce391ddcb9dd.jpg?x-bce-process=image/format,f_auto" /></p><p>谷歌官方给出了 2 个示例：</p><ul class="medium-size list-paddingleft-2"><li><p>用户询问潜水旅行中可能见到哪些鱼类，Gemini 可推荐帮助识别海洋生物的应用；</p></li><li><p>如果用户想拍出 90 年代一次性胶片相机风格，Gemini 不只会给出拍摄建议，也会顺带推荐提供复古滤镜或拍摄模式的应用。</p></li></ul>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 19:40:37 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 19:40:37 GMT</pubDate>
+</item>
+<item>
+<title>三星公布 One UI 9 的 Good Lock 兼容模块名单：兼容 16 个，7 个适配中</title>
+<link>https://www.ithome.com/0/952/538.htm</link>
+<guid>https://www.ithome.com/0/952/538.htm</guid>
+<content:encoded><![CDATA[
+<div> Good Lock One UI 9 兼容模块 Galaxy S26 适配  
+<br><br>总结: 三星近日发布公告，公布Good Lock在One UI 9测试版中的兼容模块名单，以便Galaxy S26用户升级前评估。目前已有16个模块支持，包括One Hand Operation Plus、Sound Assistant、Keys Cafe等；仍在适配中的7个模块有QuickStar、LockStar、ClockFace、NavStar、Home Up、MultiStar、Game Booster Plus。建议用户先确认常用模块是否兼容再决定升级，若高度依赖NavStar、LockStar等，等待正式版更稳妥。三星表示将在One UI 9正式上线前完成所有模块适配。 <div>
+<p>IT之家 5 月 20 日消息，三星昨日（5 月 19 日）发布公告，宣布 Good Lock 在 One UI 9 测试版中的兼容模块名单，<strong>方便 Galaxy S26 系列手机用户升级前判断现有自定义功能是否会受影响。</strong></p><p>IT之家注：Good Lock 是三星官方提供的一套深度定制工具集合，由多个独立模块组成，用户可借它修改锁屏、导航栏、主题、键盘、截图和多任务体验。</p><p>针对这一问题，三星已在韩国社区论坛公布 One UI 9 的 Good Lock 兼容模块名单。信息显示，当前已有 16 个模块支持，仍在适配中的模块有 7 个。</p><p>已兼容 One UI 9 的 Good Lock 模块包括：</p><ul class="medium-size list-paddingleft-2"><li><p>One Hand Operation Plus</p></li><li><p>Sound Assistant</p></li><li><p>Keys Cafe</p></li><li><p>Theme Park</p></li><li><p>Wonderland</p></li><li><p>Edge Lightning Plus</p></li><li><p>Dropship</p></li><li><p>Galaxy To Share</p></li><li><p>Routine Plus</p></li><li><p>Nice Catch</p></li><li><p>Edge Touch</p></li><li><p>Camera Assistant</p></li><li><p>RegiStar</p></li><li><p>Display Assistant</p></li><li><p>Nice Shot</p></li><li><p>Gallery Assistant</p></li></ul><p>目前依然在适配中的模块如下：</p><ul class="medium-size list-paddingleft-2"><li><p>QuickStar</p></li><li><p>LockStar</p></li><li><p>ClockFace</p></li><li><p>NavStar</p></li><li><p>Home Up</p></li><li><p>MultiStar</p></li><li><p>Game Booster Plus</p></li></ul><p>对于普通用户，更稳妥的做法是先确认自己最常用的模块是否在兼容列表内，再决定是否升级。若用户高度依赖 NavStar、LockStar 或 Home Up，等待正式版可能更省心。</p><p>三星官方表示在 One UI 9 正式上线前，将努力让所有 Good Lock 模块兼容适配新系统版本。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 19:28:22 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 19:28:22 GMT</pubDate>
+</item>
+<item>
+<title>谷歌 Google TV 整合 Gemini：让 AI 提升内容发现、改善浏览交互</title>
+<link>https://www.ithome.com/0/952/537.htm</link>
+<guid>https://www.ithome.com/0/952/537.htm</guid>
+<content:encoded><![CDATA[
+<div> Gemini Google TV 应用发现 指针控制 开发者
+
+<br><br>总结: 谷歌在2026 I/O大会宣布为Google TV引入基于Gemini的应用发现工具，帮助用户找新应用和可观看内容，该能力建立在3月已上线的Gemini功能之上。开发者需优化适配以提升内容曝光。同时，谷歌改进浏览交互，支持动态遥控器指针控制，方便快速滑动和选择。 <div>
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌宣布借助 Gemini，为 Google TV 引入新的应用发现工具，<strong>帮助用户更容易找到新应用和可观看内容。</strong></p><p>IT之家注：这套能力建立在 2026 年 3 月已上线的 Google TV Gemini 功能之上，用户能借助它发现新的可观看内容。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/184114ca-df66-4d98-b52b-a42f032ac465.png?x-bce-process=image/format,f_auto" /></p><p>针对开发者，谷歌提供完善步骤优化应用适配，让用户能通过 Gemini 更容易找到某款应用里的内容，进而提升内容曝光和应用被发现的机会。</p><p>除了 Gemini，谷歌还在改进 Google TV 浏览应用时的交互方式。官方希望开发者为电视应用适配支持动态遥控器的指针控制，在支持的设备上，用指针浏览应用界面会比依靠传统十字方向键更方便，尤其适合快速滑动、定位和选择内容。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ad1b080b-147b-460b-b245-fa9a6906e344.gif" /></p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 19:20:23 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 19:20:23 GMT</pubDate>
+</item>
+<item>
+<title>谷歌发布 Wear OS 7：智能手表续航最高提升 10%，新增 Gemini 智能入口</title>
+<link>https://www.ithome.com/0/952/536.htm</link>
+<guid>https://www.ithome.com/0/952/536.htm</guid>
+<content:encoded><![CDATA[
+<div> Wear OS 7, 续航提升10%, Gemini Intelligence, 自动化跨设备, AppFunctions API
+
+<br><br>总结:  
+- 谷歌在2026 I/O大会发布Wear OS 7，重点升级续航与智能交互，电池续航最高提升10%。  
+- 部分2026年手表将获Gemini Intelligence支持，可执行多步骤智能体任务（如语音控制、运动记录）。  
+- 系统减少用户掏手机频率，支持跨设备启动并追踪手机应用的自动化流程（如点外卖）。  
+- 面向开发者推出AppFunctions API，可将Gemini等智能体整合进应用；官方示例：用户说“开始记录跑步”，系统通过Samsung Health自动启动追踪。 <div>
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌发布智能手表平台 Wear OS 7，新版本相比前代更聪明，也更高效，重点升级续航优化与智能交互体验。</p><p>续航方面，谷歌官方表示从 Wear OS 6 升级到 Wear OS 7 的手表，<strong>电池续航最高可提升 10%。</strong></p><p>在智能方面，谷歌确认部分将在 2026 年发布的手表，将获得 Gemini Intelligence 支持，用于执行智能体任务，但谷歌官方暂未披露更多设备名单与功能细节。</p><p>IT之家注：Gemini Intelligence 是谷歌围绕 Gemini 模型打造的智能能力集合，重点不只是回答问题，还包括理解指令、调用应用、完成多步骤任务等。</p><p>放到智能手表场景里，它更像一个可执行任务的智能助手，适合语音控制、运动记录、生活服务等轻量高频需求。</p><p>不过谷歌相关表述说明，Wear OS 7 不只停留在基础语音助手层面，而是朝着更主动、更可执行的智能体验推进。</p><p>在自动化体验方面，谷歌 Wear OS 7 还能减少用户掏出手机的频率，成为跨设备任务入口，启动和追踪“部分手机应用”的自动化流程，完成点外卖等操作。</p><p>面向开发者，谷歌同步推出 AppFunctions API，该接口可让开发者把 Gemini 等助手或智能体整合进应用中。</p><p>官方案例显示，用户只需对 Gemini 说出“开始记录我的跑步”，系统即可通过 Samsung Health 启动跑步追踪。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/af06da51-c7bd-4fec-ba16-8bbba71291d8.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 19:11:18 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 19:11:18 GMT</pubDate>
+</item>
+<item>
+<title>谷歌发布 Antigravity 2.0：优化多智能体编程、新增定时任务</title>
+<link>https://www.ithome.com/0/952/535.htm</link>
+<guid>https://www.ithome.com/0/952/535.htm</guid>
+<content:encoded><![CDATA[
+<div> Antigravity 2.0, Managed Agents, 斜杠命令, 项目制管理, 原生编译<br><br>总结:<br>谷歌在2026 I/O大会发布Antigravity 2.0平台，从IDE转向通用智能体工作中枢，支持多智能体协同与定时任务("`/schedule`"等斜杠命令)。产品取消代码仓库绑定，改为按"project"管理。同步推出轻量Antigravity CLI和Gemini API的Managed Agents，后者可启动隔离环境持久化智能体。AI Studio移动应用开放预注册，新增从提示词生成完整Android应用并直接导出到Google Play Console的功能。 <div>
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌发布一组面向开发者的 AI 工具，<strong>包括 Antigravity 2.0 桌面应用、Antigravity CLI、可本地部署的 SDK，以及接入 Gemini API 的 Managed Agents。</strong></p><p>本次发布的核心产品是 Antigravity 2.0 桌面应用，核心定位从“面向开发者的智能体式 IDE”转向“通用智能体优先工作平台”，可以作为统一中枢管理多个数字智能体。</p><p>开发者可同时部署多个子智能体，分别处理不同编程任务，也能安排后台自动化例程，提升多任务协同效率。</p><p>在交互方式上，Antigravity 2.0 加入定时任务（Scheduled Tasks）。用户可通过“/schedule”命令设置一次性任务或周期性调度，让智能体按预设时间自动执行。</p><p>谷歌还提供多条斜杠命令，包括“/goal”“/grill-me”“/browser”等，分别对应连续执行、先澄清需求、显式调用浏览器能力，减少误判并提升任务可控性。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/ec134878-53f8-4823-bd26-226dd63b4188.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8f973ea9-9263-4f6d-80f1-943e246365c6.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/921c729f-a053-44e0-87f8-c30073b41b6c.jpg?x-bce-process=image/format,f_auto" /></p><p>产品结构方面，谷歌取消了智能体与代码仓库的强绑定，不再按“workspace”组织会话，而是改为按“project”管理。一个项目可对应多个文件夹，并拥有独立智能体设置与权限边界。</p><p>在终端产品方面，谷歌同步推出 Antigravity CLI，<strong>并建议旧版 Gemini CLI 用户迁移到这一更轻量、更高速度的新命令行系统。</strong></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/91ab53a8-6b3a-472d-b6f0-09748a440485.png?x-bce-process=image/format,f_auto" /></p><p>在云端自动化部分，谷歌通过 Gemini API 推出 Managed Agents。开发者只需 1 次 API 请求，就能启动一个运行在隔离 Linux 环境中的软件智能体。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3b1c69d1-1789-4cfa-a393-250ef018b578.png?x-bce-process=image/format,f_auto" /></p><p>该环境具备持续保存能力，即使关闭后再次返回，已编译文件、记忆日志和项目状态仍会保留。</p><p>IT之家援引博文介绍，Google AI Studio 移动应用本周开放预注册，开发者可先在手机上整理软件想法，再回到桌面端查看可运行原型。</p><p>平台还新增面向移动操作系统的原生编译能力，用户可通过提示词生成完整 Android 应用，连接 Workspace 数据通道，并把完整包直接导出到 Google Play Console 测试轨道，缩短从构想到测试的链路。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 19:02:02 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 19:02:02 GMT</pubDate>
+</item>
+<item>
+<title>谷歌推出科研版 Gemini，能追踪论文、写实验代码</title>
+<link>https://www.ithome.com/0/952/534.htm</link>
+<guid>https://www.ithome.com/0/952/534.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌宣布推出科研版 Gemini 模型 —— <strong>Gemini for Science</strong>。</p><p>Gemini for Science 可以追踪最新论文、将研究目标转化为可用的代码、生成新的假设。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1fe12164-a17e-4f0f-857a-09ee9027defb.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，谷歌还提到了模拟人工智能，<strong>未来将能够模拟更复杂的系统</strong>，甚至可能是虚拟细胞。</p><p>谷歌透露，<strong>该公司已有多个项目处于临床前阶段</strong>，包括针对免疫疾病和癌症的情况，目标是重新构想药物发现过程。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:53:33 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:53:33 GMT</pubDate>
+</item>
+<item>
+<title>谷歌升级 AI 创意平台 Flow：增强视频编辑，Agent 辅助头脑风暴等</title>
+<link>https://www.ithome.com/0/952/533.htm</link>
+<guid>https://www.ithome.com/0/952/533.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌宣布升级 AI 创意平台 Google Flow，<strong>重点整合 Gemini Omni Flash 推理能力与生成式媒体能力，进一步扩展 Flow 的创作边界。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/24e0b0a8-9ef7-4844-8772-f9245a216933.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注：Google Flow 最初在去年的 Google I／O 亮相，起点是面向电影制作人的工具。到现在，产品已扩展成 AI 创意工作室，并进入全球 140 多个国家和地区。</p><p>本次更新主要整合 Gemini Omni Flash。谷歌称，用户可以借助该模型，提升精细视频编辑能力，并改善角色一致性，让同一人物在多镜头、多片段中的呈现更稳定。该功能目前已向全球 Google AI 订阅用户开放。</p><p>除模型升级外，谷歌还推出 Google Flow Agent，官方定义为创作流程中的智能伙伴。它能围绕用户输入规划复杂任务，辅助头脑风暴、内容生成和后期修改，比如提出剧情转折建议，或帮助打磨角色对白。它还支持批量编辑，现已向全球所有 Google Flow 用户开放。</p><p>工具层面，Google Flow Tools 支持用户通过自然语言定制专属工具和工作流，也能制作视频尺寸调整工具或自定义着色器。用户还可以把这些工具分享给其他 Flow 用户，降低创作门槛，也增强协作效率。</p><p>音乐方面，Google Flow Music 现在支持更细粒度的分段编辑，用户可以逐段修改歌曲内容，包括改写或翻译歌词、调整节奏下落风格等，还支持在保留原始旋律和结构的前提下重制整首作品。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:48:31 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:48:31 GMT</pubDate>
+</item>
+<item>
+<title>谷歌展示街景版 Genie 世界 AI 模型，用真实街景创建想象世界</title>
+<link>https://www.ithome.com/0/952/532.htm</link>
+<guid>https://www.ithome.com/0/952/532.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌宣布在谷歌街景（Street View）服务中结合 Project Genie 的世界生成能力，进一步扩展这套通用世界模型的能力。</p><p>IT之家注：Genie 是谷歌的通用世界模型，核心能力是生成多样、可互动的虚拟环境。它不只是输出静态画面，还能构建可探索的场景<strong>，因此适合 AI 智能体训练、虚拟体验和交互式内容创作。</strong></p><p>这次与街景服务结合后，Genie 不再只生成纯虚拟场景，<strong>而是能基于真实街景图像，构建可探索、可互动的 3D 世界。</strong>这类虚拟环境可供 AI 智能体或机器人训练，用来学习如何在复杂真实世界中导航、移动和互动。</p><p>产品形态上，用户只需点击 Google Maps 地图图钉，选择一个美国地点，还可为世界指定“石器时代”、“海洋世界”等风格。</p><p style="text-align: center;"> </p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9dd1c69e-016c-410f-b4c2-c7383fcf19e3.jpg?x-bce-process=image/format,f_auto" /></p><p>随后再描述一个角色，比如自己喜欢的书中英雄，系统就会基于这些信息，生成一个以街景真实图像为起点的想象世界。</p><p>这项 Street View 新能力目前仍是实验性原型，使用范围也有限。现阶段，Project Genie 中的 Street View 图像能力仅支持美国地点，谷歌表示后续会随时间逐步扩展到更多地区，但暂未给出明确时间表。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:37:53 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:37:53 GMT</pubDate>
+</item>
+<item>
+<title>微软推出 Xbox 手柄全新 U 型摇杆帽，能卡住手指不易打滑</title>
+<link>https://www.ithome.com/0/952/531.htm</link>
+<guid>https://www.ithome.com/0/952/531.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，微软今日发布了面向残障人士的 <strong>Xbox 手柄全新摇杆帽</strong>，采用了特殊的 U 造型。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4a220b29-1cfe-41ff-9659-4009d5ba9a62.png?x-bce-process=image/format,f_auto" /></p><p>微软称，根据残障人士的反馈，新设计被认为更耐用，<strong>在特别激烈的游戏中不易打滑</strong>。</p><p>这一新设计将于 5 月 21 日星期四在 Xbox 设计实验室上线，设计文件可免费下载，但需要使用 3D 打印机制作。</p><p>IT之家注意到，微软此前已推出六种不同形状的 Xbox 手柄摇杆帽，用户可自定义形状、宽度和高度。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3fab3a35-aa58-4e2f-8d3c-6089fabd3488.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/5fadb550-0c2f-48d7-a319-109e729c5532.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ae9a6df5-a752-4d1a-9e71-d26d9faee623.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:35:01 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:35:01 GMT</pubDate>
+</item>
+<item>
+<title>谷歌携手三星展示 2 款智能眼镜：整合 Gemini AI，支持语音导航、实时翻译</title>
+<link>https://www.ithome.com/0/952/530.htm</link>
+<guid>https://www.ithome.com/0/952/530.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌携手三星公司，<strong>展示了由 Gentle Monster 与 Warby Parker 共同参与设计的 2 款智能眼镜。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/741cf239-ef51-496f-842c-66f50e379e70.png?x-bce-process=image/format,f_auto" /></p><p>定位方面，两款智能眼镜作为手机的伴侣设备存在，重点整合 Gemini AI 模型，提供抬头可用、免手操作的智能辅助。在日常使用过程中，用户无需掏出手机，就能在走路、通勤或购物时直接获取信息与服务。</p><p>在功能方面，Gemini 负责主要交互。眼镜支持语音导航、基于路线的个性化推荐，还能帮助用户下达自提订单，系统也可把零散通知压缩成摘要，减少频繁弹窗带来的打扰。</p><p>该眼镜的核心技能之一就是实时翻译，音频效果尽量贴近说话者原声，还可直接翻译用户视线中的菜单或路牌文字。</p><p>外观方面，Gentle Monster 参与设计版本打更大胆的时尚表达，Warby Parker 则偏向简洁、经典和日常佩戴。IT之家附上相关图片如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6ee939d4-825a-4eff-8d92-7e659edb9030.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/65b6baac-97b5-4fa9-ab3b-292ab2ec88ff.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1eef3ba1-5b52-42ac-aa29-c047e7eaf2b9.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/d7473240-9275-493f-928f-c6aad95344a6.jpg?x-bce-process=image/format,f_auto" /></p><p>谷歌暂未公布产品价格，早前传闻称无显示版本或在 379 至 499 美元区间。首批产品定于今秋上市，更多信息将在未来数月披露。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:27:24 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:27:24 GMT</pubDate>
+</item>
+<item>
+<title>谷歌推出 AI 通用购物车，联合亚马逊、Meta、微软打造 AI 电商协议</title>
+<link>https://www.ithome.com/0/952/529.htm</link>
+<guid>https://www.ithome.com/0/952/529.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌公布了 AI 电商的相关进展。</p><p>谷歌带来两大 AI 电商协议 —— <strong>UCP 和 AP2</strong>。</p><p>其中，UCP 对于智能体电商的作用，可以看作是 HTTP 对于万维网的作用，它给智能体和系统提供了一个通用的语言，这是一个开源协议，亚马逊、Meta、微软、Salesforce 都加入了这个协议。</p><p>AP2 则是一项智能体支付协议，帮助用户控制 AI 支付的过程，比如设置每月消费的金额上限、进行支付验证。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3f8d708b-11e4-4084-850c-786f1a1c8191.png?x-bce-process=image/format,f_auto" /></p><p>基于这两大协议，谷歌宣布推出 <strong>Universal Cart 通用购物车</strong>功能，将于今年夏天在谷歌搜索、Gemini、YouTube、Gmail 中推出。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/d871d273-6062-4eba-a91e-d2954d7f82c9.png?x-bce-process=image/format,f_auto" /></p><p>IT之家从大会获悉，用户可以在搜索商品、看视频、与 Gemini 聊天、阅读邮件时将商品加入购物车、追踪优惠信息、查看历史价格变动、设置补货提醒。</p><p>此外，<strong>Universal Cart 可以智能推理用户的选购</strong>，比如你要组一台电脑，但 CPU 和主板型号不适配，Universal Cart 就会提醒你是否买错了，并推荐替代商品。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:19:12 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:19:12 GMT</pubDate>
+</item>
+<item>
+<title>谷歌升级 Workspace：语音对话协作 AI 检索邮件、起草文档、整理笔记</title>
+<link>https://www.ithome.com/0/952/528.htm</link>
+<guid>https://www.ithome.com/0/952/528.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布升级 Google Workspace，<strong>把 Gmail、Docs、Keep 等工具变成可语音对话的协作助手。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6dafbc02-1eb6-482c-808f-6ec2126958ca.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家注：新功能包括可用自然语音检索邮件的 Gmail Live、支持口述起草与格式整理的 Docs Live，以及自动整理想法的 Keep 更新。</p><p>目的是用户处理数字事务的时间，把原本依赖点击、输入和搜索的办公流程，转向更自然的语音交互与自动协作。</p><p>Gmail Live 方面，用户无需逐层翻找邮件内容，可以用自然语音搜索邮箱内容。例如用户可以直接询问航班登机口、学校日程等实时信息，系统会从邮箱里快速提取答案。</p><p>Docs Live 则把语音输入进一步扩展到写作场景，不仅支持把口述内容转成初稿，还能在获得用户许可后，调取本地文件、Google Drive 和当前聊天中的相关资料，用来补充文档内容。</p><p>Google Keep 也新增类似能力，用户可先口头记录零散想法，系统再自动整理成分类项目、要点列表和核对清单。</p><p>在图像创作方面，谷歌推出独立应用 Google Pics。该工具基于 Nano Banana 模型，重点实现更精确的局部编辑。</p><p>它支持对象分割，用户可单独选中图像中的某个元素，修改颜色或替换对象，同时尽量不影响其余画面。应用还内置文本翻译，并保留原有字体风格，且可与 Google Slides、Drive 直接联动。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:14:10 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:14:10 GMT</pubDate>
+</item>
+<item>
+<title>谷歌发布 Ask YouTube，搜索视频支持完整句子与连续追问</title>
+<link>https://www.ithome.com/0/952/527.htm</link>
+<guid>https://www.ithome.com/0/952/527.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布上线 Ask YouTube 功能，<strong>核心变化是把传统关键词搜索升级为对话式搜索。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/c2aa367a-7960-48e7-bcc7-e7ece345ffce.png?x-bce-process=image/format,f_auto" /></p><p>IT之家援引博文介绍用户不必只输入短词，<strong>而是可以直接用完整句子描述需求，提出更复杂、更具体的问题</strong>。这类请求不只匹配单一关键词，更强调意图理解，因此搜索结果会更贴近真实需求。</p><p>在官方举例中，用户可以询问“如何教孩子学骑自行车”，也可以要求系统寻找“适合睡前玩的温馨游戏创作者评测”。</p><p>Ask YouTube 功能还支持追问，用户在拿到首轮答案后，还能继续补充条件，逐步缩小范围，直到找到更合适的内容。YouTube 会从整个平台的视频目录中整理最相关结果，覆盖长视频和短视频两类内容。</p><p>Google 表示，这项功能的目标是提供互动式、结构化回应，而不是仅返回一串视频链接。目前 Ask YouTube 已向美国 18 岁及以上的 YouTube Premium 会员开放，入口位于 <span class="link-text-start-with-http">youtube.com/new</span>，后续还会扩展到全部 YouTube 用户。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:06:17 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:06:17 GMT</pubDate>
+</item>
+<item>
+<title>谷歌搜索迎 25 年来最大改版，AI 重塑搜索体验与交互方式</title>
+<link>https://www.ithome.com/0/952/526.htm</link>
+<guid>https://www.ithome.com/0/952/526.htm</guid>
+<content:encoded><![CDATA[
+
+<p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布谷歌搜索（Google Search）业务迎来 25 年最大改版，<strong>核心是用 AI 全面重塑搜索入口与交互方式。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/74cbaf51-94fd-4ee4-a59e-af59e66a056f.png?x-bce-process=image/format,f_auto" /></p><p>IT之家援引博文介绍，本次改版的核心在于融合 AI 体验，<strong>让用户从“输关键词”转向“描述完整需求”</strong>，并由最新发布的 Gemini 3.5 Flash 模型提供快速响应支撑。</p><p>在体验方面，谷歌称 AI Mode 推出 1 年后，月活用户已突破 10 亿，查询量每个季度翻倍，并在上个季度创下新高。新版默认引擎强化了编码、推理和智能体能力，把更强的 AI 响应直接带入搜索体验。</p><p>在界面上，新版搜索框会动态扩展输入区域，用户不必再拼凑生硬关键词，而能直接输入更长、更具体的请求。系统还会借助 AI 预测用户意图，辅助整理问题表达。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/acc9c2ab-7fc3-45d8-bdb5-7de7c0b55de7.png?x-bce-process=image/format,f_auto" /></p><p>与此同时，搜索已支持多模态输入，可使用文本、图片、视频、文件，甚至当前开启的 Chrome 标签页发起检索。</p><p>交互层面，用户现在还能从 AI Overview（AI 概览）里直接连续追问，形成更接近聊天的往返问答。系统会保留上下文，随着提问深入，配套链接也会更相关。</p><p>更大的变化在于搜索智能体。谷歌计划让搜索智能体在后台 24 小时运行，持续扫描博客、新闻网站、金融数据和体育信息，按用户设定追踪公寓、球鞋发售等目标，并回传整合后的更新内容。</p><p>信息智能体将在今年夏季上线，但仅限 Google AI Pro 与 Ultra 订阅用户；本地体验和服务预订功能则会在今年夏季向美国所有用户开放。</p><p>除智能体外，谷歌还把 Antigravity 技术和智能体编码能力引入搜索，可生成交互式可视化界面、表格、图表和模拟内容，帮助理解天体物理、手表结构等复杂主题。这项生成式界面功能将在今年夏季向所有搜索用户免费开放。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/4de4838c-77f9-44f5-88da-2740e6d67197.png?x-bce-process=image/format,f_auto" /></p><p>另一个重点是 Personal Intelligence（个人智能）扩展到 98 种语言、近 200 个国家，用户可连接 Gmail、Google Photos，未来还包括 Google Calendar，让 AI 基于个人上下文回答问题。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/e8ff236d-37c7-4b82-b7e1-25bfa13860bc.png?x-bce-process=image/format,f_auto" /></p>
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 18:01:24 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 18:01:24 GMT</pubDate>
+</item>
+
+<item>
 <title>谷歌 Gemini Spark 个人智能体发布：一句话让 AI 干几份活，不用担心乱搞数据</title>
 <link>https://www.ithome.com/0/952/525.htm</link>
 <guid>https://www.ithome.com/0/952/525.htm</guid>
 <content:encoded><![CDATA[
 <div> Gemini Spark 谷歌 I/O 个人AI智能体 MCP协议 订阅价格
 
-<br><br>总结:
+<br /><br />总结:
 - 谷歌在2026 I/O大会发布Gemini Spark个人AI智能体，基于Gemini 3.5和Antigravity框架，24小时在线且运行于虚拟环境，可安全合屏不断任务。
 - 支持通过MCP协议与第三方工具集成，演示场景包括整理邮件、筹划派对，用户以自然语言创建任务后即可后台运行。
 - 下周起面向美国AI Ultra订阅用户推出，月费100美元起（最高级限时200美元），今夏将实现在Chrome浏览器中直接运行。 <div>
 <p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌发布了 Gemini Spark 个人 AI 智能体。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/f7b02fb9-f5f8-4fd6-aff5-1aea16d66259.png?x-bce-process=image/format,f_auto" /></p><p>Gemini Spark 一切听用户指挥，24 小时实时在线，<strong>运行在专有的虚拟环境中</strong>，用户可以放心地合上电脑屏幕而不用担心 AI 搞乱数据。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/31ef4f0a-9fbc-42a2-8744-7602ae9e1eff.png?x-bce-process=image/format,f_auto" /></p><p>Gemini Spark 由 Gemini 3.5 系列模型以及 Google Antigravity 框架驱动，而且支持与工具无缝集成。在接下来的几周内，Gemini Spark 将通过 MCP 模型上下文协议<strong>和第三方工具联合使用</strong>。</p><p>IT之家从大会获悉，谷歌官方展示了 Gemini Spark 的具体使用场景，比如整理邮件信息、筹划派对，<strong>用户使用手机自然语言对话，即可让 Gemini Spark 创建任务</strong>，然后让它在后台运行即可，稍后查看具体完成情况。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/d065b2f7-6d61-4b80-8b89-9dc8afa552f3.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/0d0e6bff-308c-41af-af1c-fd53d81eb200.png?x-bce-process=image/format,f_auto" /></p><p>Gemini Spark 将于下周面向美国的 Google AI Ultra 订阅用户推出，<strong>该订阅起价每月 100 美元</strong>（IT之家注：现汇率约合 681.3 元人民币），最高级别订阅限时价每月 200 美元（原价 250 美元）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6167a9d8-550a-4f76-a6ed-c351235382ac.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/fbe344b4-af50-4a92-8a8d-55dbf73d75e4.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/34b0986f-8f79-4ea7-9ed4-ca44e5cab2d8.png?x-bce-process=image/format,f_auto" /></p><p>此外，Gemini Spark 将在<strong>今年夏天</strong>实现在 Chrome 浏览器中直接运行。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/cdb77bfb-d103-4e18-a7a7-265b92c79b60.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:51:46 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:51:46 GMT</pubDate>
 </item>
 <item>
@@ -27,10 +196,9 @@
 <content:encoded><![CDATA[
 <div> Android Halo AI助手透明度 状态提示 Gemini Spark 系统级透明化
 
-<br><br>总结:1. 谷歌在2026 I/O大会上预告Android Halo功能，旨在提升手机端AI助手的透明度。2. 该功能在屏幕顶部显示低调状态提示，实时展示AI智能体是否运行、任务进度或是否回应。3. 用户无需反复切回助手应用，系统层级直接展示，减少信息不透明带来的不安。4. 首先支持Gemini Spark主动式AI智能体，今年晚些时候上线，后续扩展至其他AI。5. 谷歌称此为系统级透明化，未来将加入更多由Gemini Intelligence驱动的Halo能力。 <div>
+<br /><br />总结:1. 谷歌在2026 I/O大会上预告Android Halo功能，旨在提升手机端AI助手的透明度。2. 该功能在屏幕顶部显示低调状态提示，实时展示AI智能体是否运行、任务进度或是否回应。3. 用户无需反复切回助手应用，系统层级直接展示，减少信息不透明带来的不安。4. 首先支持Gemini Spark主动式AI智能体，今年晚些时候上线，后续扩展至其他AI。5. 谷歌称此为系统级透明化，未来将加入更多由Gemini Intelligence驱动的Halo能力。 <div>
 <p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）预告全新功能 Android Halo，<strong>目标是提升手机端 AI 助手的透明度。</strong></p><p>这项功能在 Google I／O 期间亮相，会在屏幕顶部加入一个较为低调的状态提示，<strong>向用户展示 AI 智能体是否正在设备上实时运行。</strong></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/5bbc4522-7bf5-4761-910f-238e100efb3c.png?x-bce-process=image/format,f_auto" /></p><p>按照谷歌的介绍，当 AI 智能体正在完成任务、进入实时模式，或向用户发送消息时，<strong>Android Halo 都会显示对应状态。</strong></p><p style="text-align: center;"><img alt="Android Halo Logo" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/945c9544-8de5-4e44-a1ef-2c63e9b76a1c.jpg?x-bce-process=image/format,f_auto" /></p><p>无论用户当前停留在哪个应用，这个提示都会一直保留在顶部区域，让任务进度始终可见，减少信息不透明带来的不安感。</p><p>IT之家注：这项设计解决了一个常见问题：用户过去若想查看 Gemini 或其他助手的执行进度，往往需要反复切回助手应用。</p><p>Android Halo 把状态直接放到系统层级展示，用户在处理当前事务时，也能顺带掌握 AI 智能体是否仍在运行、是否已经回应。</p><p>从展示形式来看，谷歌演示了一个位于屏幕右上角的火花图标，用来提示智能体活动。虽然当前公开信息主要集中在状态显示，但它背后的意义更偏向系统级透明化，也就是把 AI 行为从“后台黑箱”变成“前台可感知”的过程。</p><p>谷歌表示，Android Halo 首先会支持 Gemini Spark，这是即将加入 Gemini 应用的一项主动式 AI 智能体能力。</p><p>等到该功能在今年晚些时候上线后，Android Halo 还会支持其他 AI 智能体。谷歌同时提到，未来还会加入由 Gemini Intelligence 驱动的更多 Halo 能力，但暂未公布具体细节。</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:50:56 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:50:56 GMT</pubDate>
 </item>
 <item>
@@ -40,10 +208,9 @@
 <content:encoded><![CDATA[
 <div> 谷歌 订阅计划 100美元 Gemini Spark AI Pro/Ultra
 
-<br><br>总结: 谷歌在2026年I/O大会上宣布推出月费100美元的新订阅计划，支持Gemini Spark AI智能体。该计划精准填补了AI Pro（20美元）与AI Ultra（250美元）之间的市场断层，面向编程或复杂工作流的高级用户，提供比Pro更多的资源配额，同时避免Ultra的企业级溢价，旨在与Anthropic和OpenAI的同类产品竞争。 <div>
+<br /><br />总结: 谷歌在2026年I/O大会上宣布推出月费100美元的新订阅计划，支持Gemini Spark AI智能体。该计划精准填补了AI Pro（20美元）与AI Ultra（250美元）之间的市场断层，面向编程或复杂工作流的高级用户，提供比Pro更多的资源配额，同时避免Ultra的企业级溢价，旨在与Anthropic和OpenAI的同类产品竞争。 <div>
 <p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布推出 100 美元的新订阅计划，支持 Gemini Spark AI 智能体。</p><p>该订阅计划瞄准 AI Pro（月费 20 美元）与 AI Ultra（月费 250 美元）之间的市场空白，定价约 100 美元，与 Anthropic 和 OpenAI 的同类产品展开竞争。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/81a0ad17-6da8-4ed3-8d4b-a3fb918d287c.png?x-bce-process=image/format,f_auto" /></p><p>谷歌当前的 AI 订阅层级存在巨大断层。AI Pro 计划每月费用为 20 美元，适合轻度用户；AI Ultra 计划每月 250 美元，面向企业级需求。但对于使用 AI 编程或处理复杂工作流的高级用户而言，Pro 资源捉襟见肘，Ultra 又显得过于昂贵。</p><p>Ultra 有望填补这一空白，谷歌试图用更细分的定价抢占中高端市场，提供比基础 Pro 更多的资源配额，却无需承担 Ultra 的企业级溢价。</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:45:34 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:45:34 GMT</pubDate>
 </item>
 <item>
@@ -53,13 +220,12 @@
 <content:encoded><![CDATA[
 <div> 谷歌I/O 2026 Gemini 3.5 Flash 输出速度 Antigravity
 
-<br><br>总结:  
+<br /><br />总结:  
 - 谷歌I/O大会发布Gemini 3.5 Flash模型，基准测试全面超越3.1 Pro。  
 - 输出速度达289 tokens/秒，比Claude Opus 4.7和GPT-5.5 xhigh快4倍。  
 - 内部Antigravity工具在12小时内调用93个子智能体，生成26亿tokens，从零构建出可运行的操作系统核心。 <div>
 <p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布推出 &nbsp;Gemini 3.5 Flash 模型，在许多基准测试中的表现都优于 3.1 Pro。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/11f197c7-0998-4b8d-abb9-a4fed7a9de41.png?x-bce-process=image/format,f_auto" /></p><p>在模型输出速度方面，相比较 Claude Opus 4.7 和 GPT-5.5 xhigh 模型，谷歌 Gemini 3.5 Flash 模型的输出速度实现 4 倍超越，达到了每秒 289 tokens。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/f1298605-eda6-468d-9ea1-a08a58003c77.png?x-bce-process=image/format,f_auto" /></p><p>谷歌内部团队还测试了 Antigravity 工具，从零开始构建一个新的操作系统。整个项目花了 12 个小时，启动了 93 个子智能体，生成了 26 亿个 tokens，并构建了一个可运行操作系统的核心。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/88c89f09-47ab-4b05-8e94-cf5d695ad25d.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/56860a1d-d5ef-433f-ba44-d77e521604fb.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/7499cc4f-4563-49f5-98ae-34a7a6fb9743.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:38:57 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:38:57 GMT</pubDate>
 </item>
 <item>
@@ -69,13 +235,12 @@
 <content:encoded><![CDATA[
 <div> Google I/O, Gemini 3.5 Pro, 下个月登场, 内部使用, 进步强
 
-<br><br>总结:
+<br /><br />总结:
 1. 在今日的2026谷歌I/O开发者大会上，谷歌宣布Gemini 3.5 Pro模型将于下个月正式登场。
 2. 目前该模型已在谷歌内部使用，官方称其进步非常强。
 3. 其他具体信息暂未公布。 <div>
 <p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌宣布 <strong>Gemini 3.5 Pro</strong> 模型将在下个月登场。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/a01794f8-9e9a-435e-9006-f1b739eb6eb6.png?x-bce-process=image/format,f_auto" /></p><p>IT之家从大会获悉，<strong>谷歌目前已在内部使用 Gemini 3.5 Pro</strong>，官方表示它的进步非常强。其他具体信息暂未公布。</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:38:47 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:38:47 GMT</pubDate>
 </item>
 <item>
@@ -83,10 +248,8 @@
 <link>https://www.ithome.com/0/952/520.htm</link>
 <guid>https://www.ithome.com/0/952/520.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 20 日消息，今天（5 月 20 日）召开的 2026 年谷歌 I/O 开发者大会上，谷歌宣布 Gemini 集成 C2PA 内容凭证，<strong>从而更好地抵御深度伪造（Deepfake）。</strong></p><p>Sundar 表示 SynthID 目前已经为 10 亿张图片和视频以及 6 万年的音频添加了水印。据称，在 Gemini 平台上，“数百万人”正在使用 SynthID。</p><p>而 Gemini 现在已添加整合 C2PA 内容凭证，目前已经在谷歌搜索和 Chrome 浏览器中集成 SynthID 和 C2PA，用户圈选图片进行搜索，也可以在 Chrome 浏览器中右键点击图片来询问图片是否经过 AI 编辑。</p><p>桑达尔向 Gemini 展示了一张他与埃隆 · 马斯克、萨姆 · 奥尔特曼和黄仁勋一起吃汉堡的 AI 图像，并问 Gemini 这是否是 AI 生成的。“这显然是假的，我不吃汉堡，”他说。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/58639919-11d6-40ad-9b40-e71b306a3aa0.jpg?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:29:03 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:29:03 GMT</pubDate>
 </item>
 <item>
@@ -94,10 +257,8 @@
 <link>https://www.ithome.com/0/952/519.htm</link>
 <guid>https://www.ithome.com/0/952/519.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌正式发布了 Gemini Omni 模型。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/d80f9321-00d6-46e7-a85c-a13d55a0f84c.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: start;">诺贝尔物理学奖获得者、Google DeepMind 负责人哈萨比斯（Demis Hassabis）表示，Gemini Omni 是 Gemini 模型家族迄今为止能力最为全面的版本。<strong>“Omni”意指“全能”</strong>，该模型在处理文字、图像、视频、音频等多种模态信息时，展示出前所未有的流畅性与深度。</p><p>Gemini Omni 宣称能“<strong>从任何输入生成任何输出</strong>”，支持对话式编辑，用户可一句话改变视频中的角色、背景等元素。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/1610e49e-1123-4005-bd02-8bcc2cd84979.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/1644101945/R0bX5gLgl?refer_flag=1001030103_" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/5/863c9c8e-a8f2-4237-ba64-6c29158560e5.jpg?x-bce-process=image/format,f_auto" /></a></p><p>IT之家从大会获悉，谷歌还宣布推出 Gemini Omni 家族首款模型 <strong>Gemini Omni Flash</strong>，即日起可在 Gemini App、Google Flow、YouTube Shorts 可用，未来将推 API 服务。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/5/a86d9327-2f26-4487-a73b-070e046f020b.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:26:55 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:26:55 GMT</pubDate>
 </item>
 <item>
@@ -105,10 +266,8 @@
 <link>https://www.ithome.com/0/952/518.htm</link>
 <guid>https://www.ithome.com/0/952/518.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊开场谈到了谷歌在 AI 方面的进展。</p><p>2026 年 5 月，<strong>谷歌每月处理超 3200 万亿 Token</strong>，同比增长了 7 倍。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/52d6570c-4213-4eaf-ad68-9b7139a7f6bf.png?x-bce-process=image/format,f_auto" /></p><p>IT之家从大会获悉，<strong>谷歌的 Gemini App 月度活跃用户已超 9 亿</strong>，同比增长超 1 倍；每日请求量增长超 7 倍。Nano Banana 模型已累计生成超 500 亿张图片。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/3e625c8c-55ff-4054-ba34-cdbb3c912052.png?x-bce-process=image/format,f_auto" /></p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 17:14:39 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 17:14:39 GMT</pubDate>
 </item>
 <item>
@@ -116,10 +275,8 @@
 <link>https://www.ithome.com/0/952/516.htm</link>
 <guid>https://www.ithome.com/0/952/516.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 19 日消息，据中国科学院国家天文台消息，国际科学期刊《天体物理杂志快报》（ApJL）发表了中国天问一号的最新研究成果，研究团队利用天问一号高分辨率相机（HiRIC），<strong>成功对第三颗星际天体 ——3I/ATLAS 进行了多次成像</strong><strong>，从火星轨道视角获取了星际天体尘埃活动的独特信息</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ee59420f-792e-4b64-a75f-18da9d43be33.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 天问一号从星际天体轨道平面南侧观测 3I/ATLAS 及观测结果</figcaption><p>3I/ATLAS 于 2025 年 7 月被发现，其轨道偏心率达 6.14，双曲线轨道表明它是一颗诞生于数十亿年前、来自太阳系外的星际访客。</p><p>2025 年 10 月，这颗星际天体与火星发生了近距离相遇（仅 0.194 天文单位），为天问一号提供了观测窗口。与地球或近地轨道观测不同，天问一号可以从 3I/ATLAS 轨道平面南侧视角对其进行观测，视线方向与 3I/ATLAS 轨道平面夹角可达 35°–45°，这一几何构型为清晰分辨 3I/ATLAS 尘埃在不同太阳辐射压作用下的分布情况提供了绝佳的观测条件。</p><p>这次成功观测是天问一号的一次重要拓展任务，<strong>充分表明天问一号环绕器运行稳定、状态良好</strong>，为星际天体 3I/ATLAS 提供了独特的尘埃粒径和喷发速度的观测约束。此次观测，为利用在轨深空探测器对临时“机会目标”开展随遇观测进行了技术试验，积累了工程经验。</p><p>IT之家附天问一号时间线如下：</p><ul class=" list-paddingleft-2"><li><p>2020 年 7 月 23 日，天问一号在文昌航天发射场由长征五号遥四运载火箭发射升空</p></li><li><p>2021 年 2 月 10 日，天问一号与火星交会，成功实施捕获制动进入环绕火星轨道</p></li><li><p>2021 年 5 月 15 日，天问一号成功实现软着陆在火星表面</p></li><li><p>2021 年 5 月 22 日，祝融号火星车成功驶上火星表面，开始巡视探测</p></li><li><p>2021 年 11 月 8 日，天问一号环绕器成功实施第五次近火制动，准确进入遥感使命轨道，开展火星全球遥感探测</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/c1afcebd-8be5-49d1-be88-7a068bee1086.jpg?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 天问一号祝融火星车</figcaption>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 15:35:07 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 15:35:07 GMT</pubDate>
 </item>
 <item>
@@ -127,10 +284,8 @@
 <link>https://www.ithome.com/0/952/515.htm</link>
 <guid>https://www.ithome.com/0/952/515.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 19 日消息，很多场所都安装了监控摄像头，迪士尼乐园也不例外。但如今，迪士尼正因在主题乐园内使用面部识别技术，面临一起集体诉讼。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/1784780f-ed46-476b-8679-de5ed2ce254f.png?x-bce-process=image/format,f_auto" /></p><p>诉讼指出，迪士尼未充分告知游客其正在收集生物识别信息。这导致绝大多数入园游客，包括儿童在内，都不知情自己的生物特征数据正在被采集。</p><p>不少人并不了解，迪士尼已在迪士尼乐园与加州冒险乐园的入口处启用面部识别系统。迪士尼官方对此举作出辩解，称该技术能够简化游客入园、二次入园流程，同时防范票务欺诈行为。</p><p>而此次集体诉讼的核心争议点在于，迪士尼并未对此作出清晰公示。园区虽设有四处可避开面部识别核验的入园通道，但仅用带斜线的人形简易图标作为标识，诉讼方认为这种提示根本算不上有效告知。</p><p>代理律师布莱克・亚格曼表示：“这类敏感的面部识别技术，理应让游客签署书面同意书、自主明确选择是否接受，隐私权保障的责任不该由受害方来承担。”迪士尼此前曾回应称，面部识别系统采集到的相关数据，会在 30 天内全部删除。</p><p>目前原告方要求，向所有受影响人群索赔至少 500 万美元（IT之家注：现汇率约合 3406.3 万元人民币）赔偿，这场诉讼最终能否胜诉尚且未知。</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 15:06:37 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 15:06:37 GMT</pubDate>
 </item>
 <item>
@@ -138,10 +293,8 @@
 <link>https://www.ithome.com/0/952/514.htm</link>
 <guid>https://www.ithome.com/0/952/514.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 19 日消息，尼康公司昨日宣布，结合 2027 财年（2026 年 4 月 1 日至 2027 年 3 月 31 日）财务与分红预期，为进一步恢复未来业绩，现将公司董事报酬进行调整。</p><p>2026 年 4 月至 2027 年 3 月，针对董事（不含社外董事及担任审计等委员的董事）及执行董事的固定报酬，<strong>将根据职位等级最高缩减 10%</strong>。</p><p>IT之家查询获悉，尼康公司 2026 财年营收 6771 亿日元，同比减少 5.3%；营业利润亏损 1124 亿日元，同比减少 1148 亿日元，归母净利润亏损 860 亿日元，同比减少 921 亿日元。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/638e2901-4b68-4417-a5ff-e619a3ee2b19.jpg?x-bce-process=image/format,f_auto" /></p><p>尼康公司表示，营收下降主要受精密设备业务销售金额减少拖累，尼康公司对 2027 财年持乐观预期态度，预计营收增长 9.3%，可实现扭亏为盈。</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 15:04:24 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 15:04:24 GMT</pubDate>
 </item>
 <item>
@@ -149,10 +302,8 @@
 <link>https://www.ithome.com/0/952/513.htm</link>
 <guid>https://www.ithome.com/0/952/513.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 19 日消息，今天，AMD AI 开发者大会（AMD AI DevDay 2026）在上海正式举办，这是该面向全球 AI 开发者的技术大会首次登陆中国，IT之家也受邀前往现场，首先一大感受就是人气火爆，参会的人数远比想象中要多。</p><p>具体来看，这次大会以“开放 - 构建 - 创新 - 连接”为理念，汇集了行业领袖、技术领导者、生态系统合作伙伴、AMD 工程师及众多 AI 开发者。AMD 董事会主席及首席执行官苏姿丰博士（Dr. Lisa Su）也出席本次大会并发表开幕主旨演讲，并与零一万物创始人 &amp; CEO、创新工场董事长李开复博士等行业嘉宾共同展望 AI 发展愿景。</p><p style="text-align: center;"><img alt="图片 1" src="https://img.ithome.com/newsuploadfiles/2026/5/de66f113-4763-44a4-bdb5-f9fcf8458568.jpg?x-bce-process=image/format,f_auto" /></p><p>今年恰逢 AMD 上海研发中心成立二十周年，本次大会也成为 AMD 展示其在中国市场技术投入与生态建设成果的平台。</p><p>AMD 表示，当前人工智能正处于转折点，推理与智能体 AI 的兴起推动计算需求发生深刻转变，也催生了 CPU 角色的重新定位。AMD 正通过领先的产品路线图提供 AI 性能，与大型 AI 公司等合作伙伴深度协作构建未来算力，并以开放平台实现广泛适配性，推动数据中心、嵌入式、边缘及智能终端等领域的 AI 发展。在中国市场，AMD 将重点赋能和培养创新 AI 开发者，通过多项举措打造本土化的 AI 生态。</p><p style="text-align: center;"><img alt="图形用户界面描述已自动生成" src="https://img.ithome.com/newsuploadfiles/2026/5/3f5ad641-aec1-45e2-8928-ee2b271b4fcd.jpg?x-bce-process=image/format,f_auto" /></p><p>在大会的核心环节，苏姿丰博士与李开复博士展开了主题为“AI 智能体新范式”的对话，双方围绕多智能体技术发展、AI 开发者生态建设、未来企业组织架构变革与生产力形态升级等核心议题交换了看法。</p><p>对话中提到，随着 AI 智能体的兴起，本地端侧 AI 计算正逐步走向系统级协同，催生了 PC 领域的全新品类 —— 智能体主机。这类设备需要强大的 CPU+GPU 双引擎算力，以及高带宽、大容量的统一内存，以支撑复杂本地大模型的运行。</p><p style="text-align: center;"><img alt="图形用户界面, 网站描述已自动生成" src="https://img.ithome.com/newsuploadfiles/2026/5/50e9adfa-69ce-42e9-8251-a756c74cef3f.jpg?x-bce-process=image/format,f_auto" /></p><p>AMD 在大会上展示了锐龙 AI Max + 系列处理器在这一领域的技术优势，基于该系列处理器的智能体主机已形成完整产品形态，涵盖一体机、笔记本、Mini AI 工作站等多种类型，全面覆盖不同使用场景与操作系统应用生态。</p><p>目前，包括惠普、华硕、联想、宏碁及多家本地创新品牌在内的厂商，已推出超过 35 款相关产品设计。这些搭载锐龙 AI Max + 系列处理器的设备，至高支持 96GB GPU 专属显存，具备低延迟与低功耗特性，可原生支持 200B 参数的模型本地运行，能够在脱离云端依赖的前提下提供 AI 服务，同时保障用户数据隐私。</p><p style="text-align: center;"><img alt="图片 4" src="https://img.ithome.com/newsuploadfiles/2026/5/ec0a62da-af22-43c4-ac79-84b4865dcc76.jpg?x-bce-process=image/format,f_auto" /></p><p>为了打通 AI 开发与部署的全路径，AMD 在大会上重点介绍了其开源软件平台 ROCm 的最新进展。</p><p>ROCm 是支持所有 AMD GPU 的统一软件平台，能够实现从笔记本、工作站到数据中心的互联互通，通过对 HIPCC 编译器、ROCm 库、PyTorch 等 AI 框架以及 OpenClaw 等智能体框架的支持，让开发者实现“一次编写，全路径运行”，从而提升开发、测试与部署效率。</p><p>本次大会上，AMD 宣布 ROCm 已新增支持新一代锐龙 AI 400 系列处理器，相关组件可在 ComfyUI 中直接下载。</p><p style="text-align: center;"><img alt="图片 5" src="https://img.ithome.com/newsuploadfiles/2026/5/0d2fa86f-d504-4b82-b986-5325e0809ba8.jpg?x-bce-process=image/format,f_auto" /></p><p>从 ROCm 7.2 版本开始，该平台进一步扩展了对 Windows 和 Linux 操作系统的兼容性，新的 PyTorch 版本也可通过 AMD 软件轻松获取，降低了开发者在 Windows 环境下的部署门槛。</p><p>此外，AMD 还展示了配套的硬件产品，其中 Radeon AI PRO R9700 显卡基于 RDNA 4 架构，配备 32GB 显存，能够为本地 AI 推理、开发及其他内存密集型工作负载提供性能支持；锐龙 Threadripper PRO 9000 系列处理器则支持最多 128 条 PCIe 5.0 通道，适合多 GPU 和 NVMe 存储的高级配置，可满足本地 AI 微调、推理和应用开发的需求。</p><p>同时，AMD 发布了跨 Windows 和 Linux 平台的 AI 开发手册，支持 Ryzen AI 和 Radeon GPU，帮助开发者在现有工作环境中快速构建 AI 应用。</p><p>此外，本次大会在下午设置了多场并行内容，为不同方向的开发者提供了深入交流的机会。其中，8 大主题 GPU 实操工作坊覆盖云端 GPU、边缘 Radeon GPU、端侧 Ryzen AI 三大场景，全部基于 AMD ROCm 开源平台展开，展现 AMD GPU 在不同 AI 开发场景中的实践路径。</p><p style="text-align: center;"><img alt="图片 6" src="https://img.ithome.com/newsuploadfiles/2026/5/bb8e5ea9-2cc1-4421-a1ca-7889c3677bf1.jpg?x-bce-process=image/format,f_auto" /></p><p>技术专题研讨会则汇聚了来自领先开源社区、头部大模型厂商、高校及 AMD 的技术讲师，围绕 AI 基础设施中的关键问题进行分享，内容涵盖大模型推理优化、Token 成本控制、AI Kernel 开发、多模态模型优化、分布式训练、MoE 训练、GPU 内核智能体、多模态强化学习等多个前沿领域。</p><p>作为本次大会中国独有的内容，“作品说话”开发者分论坛聚焦端侧智能体话题，面向智能体主机生态展开，通过实战者经验分享、创新挑战赛优胜团队路演以及 AMD 与 DataWhale 联合实践工作坊等环节，从经验、作品和动手实践三个维度，展示了端侧 AI 与本地智能体的发展潜力。</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 May 2026 14:49:35 GMT</pubDate>
 <pubDate>Tue, 19 May 2026 14:49:35 GMT</pubDate>
 </item>
 <item>
@@ -160,13 +311,10 @@
 <link>https://www.ithome.com/0/952/512.htm</link>
 <guid>https://www.ithome.com/0/952/512.htm</guid>
 <content:encoded><![CDATA[
-
 <p>IT之家 5 月 19 日消息，国产邮轮品牌爱达邮轮宣布，第二艘国产大型邮轮“爱达 · 花城号”将于 11 月 22 日从广州南沙国际邮轮母港开启首航。<strong>首航季航线将于 5 月 20 日起正式开售</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/5b4f0051-b175-450b-8322-d46cd573d510.jpg?x-bce-process=image/format,f_auto" /></p><p>首航航线将从广州出发，开启 6 天 5 晚前往中国香港、越南顺化（真美）的旅程。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/20949850-f769-44f2-8401-53cf2c812958.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注：“爱达 · 花城号”全长 341 米，总吨位达 14.19 万吨，拥有 2130 间豪华客房和套房，满载可容纳 5232 名宾客。</p><p>作为首艘国产大型邮轮“爱达 · 魔都号”的姐妹船，“爱达 · 花城号”在空间设计、智能科技与邮轮体验上进行了全面升级。</p><p>全船设施配备齐全，拥有 28 间各具特色的餐厅及酒吧、可容纳千人的大剧院、购物中心、艺术长廊、健身房、水疗中心、儿童俱乐部等，充分满足不同年龄段宾客的需求。</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 May 2026 14:36:19 GMT</pubDate>
-<pubDate>Tue, 19 May 2026 14:36:19 GMT</pubDate>
 </item>
-
 <item>
 <title>任天堂 Switch 2 游戏《耀西与不可思议的图鉴》5 月 21 日发售，获 IGN 6 分“创意深度不佳”</title>
 <link>https://www.ithome.com/0/952/511.htm</link>
@@ -9793,123 +9941,6 @@
 <p>IT之家 5 月 14 日消息，据路透社报道，美国三大公共养老基金机构负责人表示，他们对 SpaceX 即将上市的极端所有权与控制权架构存在重大担忧，并敦促创始人兼首席执行官埃隆・马斯克取消削弱股东权益保护的相关条款。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2025/7/5a808936-e658-4e06-8879-94df764bfee3.png?x-bce-process=image/format,f_auto" /></p><p>路透社看到一封当地时间周三致马斯克的信函，纽约州审计长托马斯・迪纳波利、纽约市审计长马克・莱文以及加州公务员退休基金首席执行官玛西・弗罗斯特在信中称：“我们特此致函，对 SpaceX 拟在上市注册文件中披露的新颖且极端的公司治理架构及相关条款，表示严重关切。”</p><p>这三位高管执掌着美国规模前四大公共养老基金中的三家，他们反对董事会赋予马斯克对公司过大的权力，包括股票投票控制权、可否决自身被免去首席执行官职务的否决权，以及诉讼豁免相关保护条款 —— 其中就包含强制要求 SpaceX 股东相关纠纷走仲裁程序。</p><p>SpaceX 此次上市预计将创下史上最大首次公开募股纪录，公司计划募资 750 亿美元，整体估值达 1.75 万亿美元（IT之家注：现汇率约合 11.91 万亿元人民币）。</p><h3>反对偏向管理层的治理架构</h3><p>信中写给马斯克、SpaceX 总裁格温妮・肖特韦尔及首席财务官布雷特・约翰森，并援引路透社及其他媒体对该公司向证券监管机构提交的保密注册文件的报道称，此次 IPO 将成为美国公开市场同规模上市案例中，有史以来最偏袒管理层的公司治理架构。</p><p>养老基金负责人还指出，马斯克庞大的商业帝国布局也潜藏隐患。他同时执掌特斯拉、X 平台、xAI、The Boring Company 和 Neuralink，再加上其在 SpaceX 和特斯拉多年高额薪酬协议，使得这两家企业陷入一种罕见的局面：实质上要互相争夺马斯克的时间与精力。</p><p>他们在信中写道：“按照目前披露的治理架构，长期股东将无法拥有独立董事占多数的董事会，缺乏有效的派生诉讼救济途径，也无权通过正规司法审查机制，解决马斯克身兼多职必然引发的利益冲突问题。”</p><p>这三家机构此前就曾投诉过 Meta、马斯克旗下特斯拉等上市公司内部人士权力过大的问题。</p><p>SpaceX 官方代表暂未对此作出回应。</p><h3>或将重塑股指成分格局</h3><p>据路透社报道，SpaceX 已谋求尽早纳入纳斯达克 100 指数，此举或将开启其他由内部人高度掌控的大型科技企业纳入股指的先例。</p><p>一旦 SpaceX 被纳入美国主要股指，纽约州与加州的养老基金将通过被动指数配置被动持有其股份。</p><p>信函详细列举了同股不同权之外的多项治理风险隐患。按照拟议架构，唯有 B 类股东投票才能罢免马斯克的首席执行官或董事长职务，而 B 类股份的投票权完全由马斯克通过超级投票股掌控。</p><p>SpaceX 还计划申请受控公司身份，借此规避董事会多数独立董事、独立薪酬委员会及提名委员会的监管要求，而马斯克将同时担任首席执行官、首席技术官和董事长。</p><p>公司已重新在得克萨斯州完成注册，当地新法规定，股东需持有公司至多 3% 流通股才有资格发起股东派生诉讼。养老基金高管表示，按 SpaceX 预估估值计算，这一门槛需要持股数十亿美元，几乎只有马斯克本人能够达到。</p><p>信函还称，SpaceX 将成为美国首家在公司章程中纳入联邦证券法下股东索赔强制仲裁条款的大型企业，此举剥夺了投资者常规可采用的集体诉讼维权渠道。</p><h3>马斯克过往监管争议被重点提及</h3><p>养老基金负责人援引马斯克过往监管纠纷记录作为评估依据：包括 2018 年因“资金已落实”推文与美国证券交易委员会达成和解；2025 年 5 月拟支付 150 万美元和解金，了结其 2022 年未及时披露推特持股信息的指控。此外，今年 3 月陪审团裁定马斯克在收购推特过程中存在欺诈股东行为，目前马斯克已提起上诉。</p><p>信函同时对关联交易问题表达担忧，指出 SpaceX 今年 2 月拟全股票收购 xAI、特斯拉今年一季度拟向 SpaceX 投资 20 亿美元，两笔交易均在 SpaceX 上市引入公众股东、设立独立审批委员会之前完成。</p><p>迪纳波利、弗罗斯特与莱文所掌管的养老基金资产总规模超 1 万亿美元。</p><p>养老基金负责人在信中提出多项诉求：要求 SpaceX 实行一股一票制度，或在七年内废止超级投票股；设立独立董事占多数的董事会，将首席执行官与董事长职位分设；取消未经马斯克本人同意不得将其免职的保护条款；废除强制仲裁条款；要求与马斯克旗下其他企业的关联交易必须经过独立审批。</p><p>他们写道：“正因 SpaceX 未来将在公开市场具备系统性重要地位，且纳入股指后会成为我们投资组合中无法回避的持仓标的，其公司治理至少应坚守长期机构资本赖以保障的底线股东权益，而非刻意弱化相关保护规则。”</p><p>三位高管还要求与马斯克及其顾问会面，就相关担忧事宜进行沟通磋商。</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 May 2026 07:26:42 GMT</pubDate>
-</item>
-<item>
-<title>比亚迪方程豹钛 7 EV 闪充版首发支持肯德基车载点单功能</title>
-<link>https://www.ithome.com/0/950/421.htm</link>
-<guid>https://www.ithome.com/0/950/421.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，比亚迪汽车微博发文，宣布方程豹钛 7 EV 闪充版首发支持肯德基车载点单功能，其他车型后续通过 OTA 陆续实现。</p><p>参考海报，该机引入的肯德基车载点单功能支持语音点单、免密支付特性，下单后可在“车速取”车道领取餐品。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9fe21181-9982-4421-9219-d5125e082949.png?x-bce-process=image/format,f_auto" /></p><p>回顾比亚迪方程豹钛 7 EV 闪充版，该车于 4 月 29 日正式上市，提供 675km 后驱闪充版、755km 后驱闪充版两款车型，定价为 19.98 万元起。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/4/4e567131-2be2-4439-9134-d88f80143b71.jpg?x-bce-process=image/format,f_auto" /></p><p>该车号称是“全球首款闪充纯电大方盒”，长宽高为 4999（5050）x1995x1865mm，轴距为 2920mm，可选单电机和双电机版本，单电机功率 300kW，双电机功率 215kW + 300kW。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:21:00 GMT</pubDate>
-</item>
-<item>
-<title>DeepSeek 专家模式已无法上传文件，官方提示资源紧张</title>
-<link>https://www.ithome.com/0/950/419.htm</link>
-<guid>https://www.ithome.com/0/950/419.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，据IT之家小伙伴反馈，DeepSeek 的“专家模式”已无法上传文件，官方提示“<strong>资源紧张，不支持文件上传</strong>”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/ee8711ce-0652-42c0-bfbf-41384de101ae.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家测试，DeepSeek 的网页端和 App 均已下线了“专家模式”的上传文件功能。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9daf4c6c-fd57-406f-a412-42380d3f62e3.jpg?x-bce-process=image/format,f_auto" /></p><p>目前，DeepSeek 的“快速模式”依然可以上传文件、图片等，不过还是仅识别图片中的文字。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6e521ff4-fc50-4596-8db9-c78a2caa75e6.jpg?x-bce-process=image/format,f_auto" /></p><p>此外，<a href="https://www.ithome.com/0/949/303.htm" target="_blank">DeepSeek 正在灰度测试查询历史聊天记录</a>，收到灰度的用户，DeepSeek 网页版及移动端 App 均已支持通过关键词搜索用户与 DeepSeek 之间的历史聊天内容。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:16:15 GMT</pubDate>
-</item>
-<item>
-<title>联华电子推出 14nm eHV FinFET 技术平台，面向手机 DDIC 等应用</title>
-<link>https://www.ithome.com/0/950/418.htm</link>
-<guid>https://www.ithome.com/0/950/418.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，联华电子（联电、UMC）近日宣布推出用于显示驱动 IC 的 14nm eHV（嵌入式高压）FinFET 技术平台，宣称<strong>可较其最先进的量产 eHV 制程（基于 22nm）降低 40% 功耗、节省 35% 芯片面积</strong>。</p><p>联电表示 22nm eHV 制程支持更小型、轻薄的驱动模块设计，进一步延长移动设备的电池续航，<strong>支持高阶与折叠式 OLED 智能手机显示应用</strong>。</p><p>在数字电路方面，联电 14nm eHV 不仅采用了 3D 晶体管结构，还通过优化的 I/O 元件设计与更高的驱动速度，进一步提升电气效能，确保信号完整性，同时支持高分辨率显示应用所需的高刷新率。此外，优化后的中电压组件具备更小的线宽间距并支持更广泛的电压操作范围，为驱动电路设计提供更高的弹性。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/df18620e-11dd-4282-8d2a-00079de8d59a.jpg?x-bce-process=image/format,f_auto" /></p><p>联电技术研发副总经理徐世杰表示：</p><blockquote><p>显示应用无所不在，市场需求将持续朝向更高画质、更快速度与更低功耗发展。联电很高兴能在显示驱动 IC 市场中持续领先，此次 14 纳米 eHV 平台的推出，是<strong>我们首次将 FinFET 技术导入显示驱动领域</strong>，具有重要里程碑意义。随着客户产品功能不断升级，联电将持续以领先的制程技术，协助客户将创新构想化为可量产的成果。</p></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:15:09 GMT</pubDate>
-</item>
-<item>
-<title>OpenAI 回应开源库遭供应链攻击：用户数据未泄露，已隔离受影响系统</title>
-<link>https://www.ithome.com/0/950/417.htm</link>
-<guid>https://www.ithome.com/0/950/417.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，据路透社报道，OpenAI 于当地时间周三表示，在开源库 TanStack npm 遭遇供应链攻击引发安全事件后，该公司未发现有证据表明其用户数据被泄露。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，这家 ChatGPT 开发商称，未发现自身生产系统、知识产权遭到泄露，也未发现旗下软件被篡改。</p><p>OpenAI 表示，本周早些时候热门开源库 TanStack 遭入侵后，公司办公环境中有两台员工设备受到波及。</p><p>OpenAI 还称，仅有少量凭证信息从相关代码仓库中被窃取，其余信息及代码均未受影响。</p><p>这家人工智能企业表示，事件发生后已第一时间隔离受影响系统，并临时限制代码部署流程，以控制事件影响范围。</p><p>OpenAI 正在轮换代码签名证书，此举将要求 macOS 用户更新相关应用程序。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:14:06 GMT</pubDate>
-</item>
-<item>
-<title>第五代骁龙 8 至尊版：一加 15 手机 16+512G 版国补后 3871 元</title>
-<link>https://www.ithome.com/0/950/416.htm</link>
-<guid>https://www.ithome.com/0/950/416.htm</guid>
-<content:encoded><![CDATA[
-<p><span class="hot-topic">一加 15</span> 手机发布于 2025 年 10 月 27 日，搭载第五代骁龙 8 至尊版处理器、165Hz 极速高刷，16+512G 版发售价为 4899 元。</p><ul class=" list-paddingleft-2"><li><p>京东 618 大促旗舰，今日标价为 5398 元；</p></li><li><p>下单立减 300 元；</p></li><li><p>京东手机直播间领取 900 元优惠券：<a href="https://u.jd.com/HDgnYxm" target="_blank">点此前往</a>；</p></li><li><p>PLUS 会员立减 26.99 元；</p></li><li><p>国补立减 500 元；</p></li><li><p>到手价为 3871.01 元起：</p></li></ul><dir><a contenteditable="false" href="https://u.jd.com/HOgTMR4" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/424414/32/6524/17327/69ead100F8aa436b2/008332032001a218.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">一加 15 手机</span></span><span class="card-abstract"> 16GB+512GB</span><span class="card-controls"><span class="price">3871.01 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p>京东无门槛红包至高 26618 元，支持即领即用：<a href="https://u.jd.com/HagWP1e" target="_blank">点此抽取</a>。</p><p><img src="https://img.ithome.com/img/share/e977834c-93aa-44d1-b53e-d2d8d6fd31df.png" /></p><dir><a contenteditable="false" href="https://u.jd.com/HOgTMR4" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/424414/32/6524/17327/69ead100F8aa436b2/008332032001a218.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">一加 15 手机</span></span><span class="card-abstract"> 16GB+512GB</span><span class="card-controls"><span class="price">3871.01 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 618 无门槛红包</strong> </span>面额至高 26618 元，每天抽 3 次：<a href="https://u.jd.com/HrMFCj2" target="_blank"><strong>点此抽红包</strong></a></p></li><li><p><span class="font-color-orange"><strong>淘宝 618 无门槛红包</strong> </span>面额至高 26888 元，每天抽 1 次：<a href="https://s.click.taobao.com/YO13bql" target="_blank"><strong>点此抽红包</strong></a></p></li></ul>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:14:03 GMT</pubDate>
-</item>
-<item>
-<title>“让 Token 消耗降低 61%”：腾讯开源 Agent Memory</title>
-<link>https://www.ithome.com/0/950/415.htm</link>
-<guid>https://www.ithome.com/0/950/415.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，据腾讯云消息，腾讯云正式开源 TencentDB Agent Memory，面向 Agent 长任务场景提供短期记忆压缩与长期个性化记忆能力。据介绍，长期记忆已于上月上线免费使用，这次开源的重点是短期记忆压缩。</p><p>IT之家附官方详细介绍如下：</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/7c0c398f-0da0-48fa-9a49-f5a505886aa0.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/5c992d54-a009-45e4-9a4d-2c098328153e.png?x-bce-process=image/format,f_auto" /></p><p>项目主页：</p><p><a href="https://github.com/Tencent/TencentDB-Agent-Memory" target="_blank"><span class="link-text-start-with-http">https://github.com/Tencent/TencentDB-Agent-Memory</span></a></p><p>随着 Agent 在代码开发、网页搜索、研究分析等场景中的任务链路持续变长，大量工具调用、网页内容和中间结果会快速占满上下文窗口，导致 Token 成本上升、任务状态丢失以及推理稳定性下降。</p><p>TencentDB Agent Memory 通过“上下文卸载（Context Offloading）+ Mermaid 任务画布”的技术，将完整信息卸载到外部存储，同时以结构化任务图保留关键状态与执行路径，使 Agent 在长任务中保持轻量上下文，同时支持原始信息的逐层追溯与恢复。</p><p>在多任务连续 Session 实验中，该方案最高降低 61% Token 消耗，同时提升长任务场景下的任务成功率。</p><p>先从这张“Mermaid 任务画布”讲起👇</p><p><strong>// Mermaid 无限画布：给 Agent 一张任务地图</strong></p><p>长任务里最危险的事，不是信息丢了，是 Agent 不知道自己走到哪。</p><p>20 次工具调用之后，上下文里堆着一长串线性历史。Agent 能看到“做过什么”，但不容易判断哪些是并行分支、哪些步骤有前置依赖、当前处于哪个阶段。</p><p>流水账适合记录，地图适合导航。腾讯云数据库团队用 Mermaid Flowchart 把任务执行过程组织成一张可导航的任务画布。</p><p>Mermaid 是 GitHub 和技术文档中广泛使用的图描述语言，主流大模型天然具备读写能力，纯文本格式，可持续更新，人也能直接渲染查看。</p><p>通过这张画布，Agent 不需要记住所有内容，只需要知道哪些信息重要、它们被组织在哪里，以及必要时如何一步步展开。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/cd226cda-58a9-4a97-8339-dd064d4ef278.png?x-bce-process=image/format,f_auto" /></p><p>历史没有被压成一段不可恢复的摘要。它变成了一张可以继续执行的地图 —— 能折叠，也能展开。</p><p><strong>// 上下文卸载：省 Token，没丢证据</strong></p><p>画布解决“结构不能丢”，但长任务中工具返回、搜索结果、日志输出等原始信息往往非常长，全部留在上下文里窗口很快被填满。</p><p>Agent Memory 另一个核心技术是上下文卸载（Context Offloading）：每次工具调用结束后，完整结果写入外部文件（refs/*.md），上下文里只保留一行摘要和索引路径。</p><p>原始信息不再长期占据上下文窗口，但也没有被丢弃 —— 它按四层递进结构存储在外部，随时可以找回：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/6eca84c6-0c4c-424e-a3a9-bcf38719a020.png?x-bce-process=image/format,f_auto" /></p><p>底层保留证据，高层保留结构。Agent 日常只接触 Level 2–3 的轻量信息驱动任务推进，当画布摘要不足以支撑决策时，通过 node_id 回溯 Level 1 的 JSONL 记录，仍不够则继续下钻到 Level 0 的完整原文。</p><p>任何一层压缩都不是不可逆的黑盒 —— 系统内每一条信息都可以沿索引链路 100% 找回。</p><p>多任务连续 Session 实验结果（非单题清空上下文）👇</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/5/e0f0da90-e3a1-4e53-8610-666ce961d2a5.png?x-bce-process=image/format,f_auto" /></p><p>Token 下降的同时成功率上升 —— 上下文中的噪声减少后，模型注意力更集中在当前任务目标上。</p><p>消融实验也验证了画布的独立贡献：仅卸载时 Token 节省约 15%，叠加 Mermaid 画布后提升至 31%–33%。</p><p><strong>// 开箱即用，“虾马”一键部署</strong></p><p>TencentDB Agent Memory 目前已适配 OpenClaw 和 Hermes 等主流 Agent 框架，支持一键集成。</p><ul class=" list-paddingleft-2"><li><p>极简安装：openclaw plugins install@tencentdb-agent-memory / memory-tencentdb</p></li><li><p>零外部依赖：默认使用本地 SQLite 存储，所有中间产物（画布、摘要）均为人类可读的 Markdown / Mermaid 文件。</p></li><li><p>进阶支持：支持接入腾讯云向量数据库 TCVDB，实现混合检索（BM25 + Vector）。</p></li></ul><p>Agent 的上下文窗口不应是一张无限堆叠的桌子，而应是一个有序的工作台。我们希望通过这套方案，为开发者提供一个更可靠、更透明的“第二大脑”。</p><p>这次开源，是把已经在内部验证过的产品能力开放给社区，我们希望它能帮 Agent 沉淀经验、让开发者把每一次交互都变成可复用的资产。</p><p>欢迎来 Agent Memory 项目主页点个 Star，我们欢迎任何形式的贡献。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:12:35 GMT</pubDate>
-</item>
-<item>
-<title>阿里云发布万小智 2.0：打通 AI 建站、域名备案到上线运营全流程</title>
-<link>https://www.ithome.com/0/950/414.htm</link>
-<guid>https://www.ithome.com/0/950/414.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，今天，阿里云上线企业级 AI 建站平台万小智 2.0，可为用户提供从网站生成、域名备案、网站上线到后台管理运营等环节的完整服务，最快几分钟，就能生成并上线符合用户需求的生产级网站。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/5f007551-ad9b-4c6e-9bd1-400e6e52d029.png?x-bce-process=image/format,f_auto" /></p><p><strong>先理解需求，再开始建站</strong></p><p>据官方介绍，万小智增强了需求理解能力，通过多轮自然语言对话，AI 深度梳理业务需求，生成专业级的需求文档，确认后再进入搭建流程。</p><p>如果用户已有参考网站，也可以直接提供链接。万小智会解析参考网站的页面结构、视觉风格和内容组织方式，生成可进一步编辑的网站初稿。</p><p>同时，万小智 2.0 预置了企业官网、招商加盟、电商交易、教育培训、外贸出海等垂直行业模板，覆盖页面架构、内容模块、交互逻辑和视觉风格等常见需求。</p><p><strong>多 Agent 协作，支持边聊边改</strong></p><p>万小智采用多角色 Agent 协作机制，将需求理解、页面设计、代码生成、质量检查等环节进行自动编排，并通过自动化评测与修复机制，提升生成结果在实际建站场景中的稳定性。</p><p>此外，万小智 2.0 支持“AI 对话 + 拖拽式编辑”。用户既可以通过自然语言让 AI 调整文案、模块和页面结构，也可以直接拖拽修改页面内容和布局。</p><p><strong>合规上线：支持一键部署发布</strong></p><p>万小智将域名注册、ICP 备案流程与 AI 建站链路进行原生集成，支持 DNS 解析、SSL 证书自动配置和一键部署发布，用户无需跳转第三方平台或自行管理服务器。</p><p><strong>经营管理：配备可视化管理后台</strong></p><p>在经营能力上，万小智不仅可提供前台页面，还同步为用户配备了可视化的管理后台，支持产品管理、内容更新和客户数据管理，配合内置的 AI 创意中心，支持 Logo 创作、主图生成、智能修图等能力。</p><p>IT之家从官方介绍获悉，万小智 2.0 采用版本订阅与灵感值资源包结合的方式，按网站功能复杂度提供 Lite、Pro、Max 等版本，覆盖静态展示型、动态交互型、在线交易型等不同需求。</p><p>即日起，所有用户可以通过阿里云官网搜索万小智即可体验。<strong>新用户将获赠 2000 灵感值的体验额度</strong>，用于正式发布前多轮生成、修改和调试。确认满意后，选择对应套餐完成上线，<strong>限时赠送.CN 域名</strong>。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:11:39 GMT</pubDate>
-</item>
-<item>
-<title>看到科技推出 Meeting Pro 2 视频会议一体机：支持 360 度实时采集人像，9899 元</title>
-<link>https://www.ithome.com/0/950/413.htm</link>
-<guid>https://www.ithome.com/0/950/413.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，看到科技现已推出一款“Meeting Pro 2”视频会议机”，<strong>定价为 9899 元</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/2079798b-6ee6-4785-9465-42944eca8151.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/3b72402b-7ebc-4c7c-8d73-edd941a6a0f1.jpg?x-bce-process=image/format,f_auto" /></p><p>该机提供 4K 分辨率，支持 HDR 影像，支持 360 度实时采集人像，同时支持 AI 人脸与语音算法追踪发言者，同时其内置智能导播功能，能够根据人数自动切换视窗（最多 8 人同屏）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9276f2ef-b296-4bf8-917f-02959ff0d45d.jpg?x-bce-process=image/format,f_auto" /></p><p>该机内置 8 麦克风阵列，支持 AI 降噪技术，可生成 20+ 语言实时字幕、会议纪要、内容回溯等功能。兼容全球主流会议平台。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/b5004622-2ca8-454d-bbb3-aadf529799ed.jpg?x-bce-process=image/format,f_auto" /></p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:11:11 GMT</pubDate>
-</item>
-<item>
-<title>LG 新能源 2026 财年第一财季亏损 2077.55 亿韩元</title>
-<link>https://www.ithome.com/0/950/411.htm</link>
-<guid>https://www.ithome.com/0/950/411.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，LG 新能源今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第一财季（2026 年 1 月～2026 年 3 月）报告：</p><ul class=" list-paddingleft-2"><li><p><strong>营业总收入</strong>： 6.55 万亿韩元</p></li><li><p><strong>营业利润</strong>： -2077.55 亿韩元</p></li><li><p><strong>基本每股收益</strong>：-2889 韩元</p></li></ul><blockquote class="ai-point"><h3>🤖 AI 解读</h3><p>LG 新能源第 7 财年第一财季（2026 财年第一季度）合并<strong>营业收入</strong>为 6.55 万亿韩元，累计营业利润呈现亏损状态，亏损额度达到 2077.55 亿韩元，基本每股亏损为 2889 韩元。</p><p>合并报表口径下，截至 2026 年 3 月末，公司总资产达到 71.81 万亿韩元，总负债为 41.89 万亿韩元，归属于母公司股东权益为 29.92 万亿韩元。</p><p>单独报表口径下，本季度营业收入为 1.98 万亿韩元，营业亏损为 6509.12 亿韩元，基本每股亏损为 1531 韩元。</p></blockquote><p class="ad-tips">风险提示：本文内容由 AI 自动分析生成，仅供参考，不代表IT之家观点。如有出入请以证监会指定上市公司信息披露平台为准。本文内容不构成投资建议，如有投资者据此操作，风险自担，IT之家对此不承担任何责任。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:10:45 GMT</pubDate>
-</item>
-<item>
-<title>Anthropic CFO：AI 已能编写九成代码，人类白领从执行者转变为监督者</title>
-<link>https://www.ithome.com/0/950/405.htm</link>
-<guid>https://www.ithome.com/0/950/405.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，据《商业内幕》今日报道，Anthropic 首席财务官 Krishna Rao 认为，AI 目前已经承担了 Anthropic 约 90% 的代码编写工作，而白领员工的工作方式也正在因此发生变化。</p><p>目前，Anthropic 内部的 AI 系统已经开始负责软件开发、财务报告等知识型工作的执行部分，人类员工则更多转向<strong>监督、判断与战略层面的工作</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/3/7aa018d8-c291-4e20-a45b-b4e0d579f518.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto" /></p><p>Rao 认为，Claude 不仅没有减少招聘，反而提升了团队整体效率，因此 Anthropic 还招聘了更多员工。“我们能够完成更多事情。随着员工逐渐学会在公司内部使用 Claude，<strong>团队效率也会不断提升</strong>。我认为很多企业已经开始出现类似情况。”</p><p>至于 AI 对白领工作的影响究竟为何者，Rao 认为并不一定是直接裁掉员工，<strong>而是让大量日常事务自动化，再由员工负责管理与监督 AI 系统</strong>。</p><p>类似变化已经在 Anthropic 内部全面展开。Anthropic <strong>超过 90% 的代码</strong>已经由 Claude Code 完成。与此同时，Anthropic 目前已经使用 Claude 生成财务报表，而每月财务审查流程在人工介入前，已经能够完成 90% 至 95% 的内容。譬如，一些过去需要数小时才能完成的内部报告，现在只需要 30 分钟。</p><p>Rao 认为，AI 提升效率后，员工能够减少信息整理时间，把更多精力放在<strong>分析与决策上</strong>。当前，公司更看重“高密度人才”而不是单纯扩大人数规模，而 AI 模型与高水平研究和工程人才结合后，会形成非常强的竞争力。</p><p>IT之家从报道中获悉，随着越来越多企业推动 AI 进入办公场景，Anthropic 内部的做法也反映出整个行业的变化趋势：一些企业正<strong>要求员工学习使用 AI 工具</strong>，也有企业开始<strong>以 AI 提升效率为理由裁员</strong>。</p><p>AI 究竟会取代白领员工，还是会进一步提高员工生产效率，目前仍是经济学界与企业管理层争论的焦点。</p><p>部分观点认为，自动化可能导致岗位消失速度超过新增岗位；也有人认为，生产效率提升后，企业反而会创造更多工作需求。Rao 认为，只要<strong>工作需求持续存在</strong>，企业未必会因为 AI 而停止招聘。</p><p>不过，Anthropic 内部的工作方式已经开始快速变化。Anthropic 员工正越来越多负责管理 AI 系统，而不是亲自处理具体事务，团队还会部署能够同时处理多个项目的“AI 智能体集群”。“每个人都会逐渐变成管理者。我们目前仍处于非常早期阶段，但这种变化带来的潜力已经相当惊人。”</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:07:14 GMT</pubDate>
-</item>
-<item>
-<title>没网也能“张口就翻”，安卓版谷歌翻译 App 正酝酿离线实时翻译</title>
-<link>https://www.ithome.com/0/950/400.htm</link>
-<guid>https://www.ithome.com/0/950/400.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，科技媒体 Android Authority 今天（5 月 14 日）发布博文，通过挖掘安卓 <span class="link-text-start-with-http">10.17.48.914427315.6-release</span> 版谷歌翻译（Google Translate），<strong>谷歌正酝酿离线实时翻译（Live Translate）功能。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/5de01d4c-2ea7-4d4f-97c0-a6036447ed32.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注：实时翻译是 Google Translate 中偏向即时沟通的翻译模式，目标是在用户说话时同步完成识别、翻译和输出。它比普通文本翻译更复杂，因为要同时处理语音识别、语言转换和结果播报，常见于旅行、会议和面对面交流场景。</p><p>目前在离线环境下，Google Translate 应用虽然也支持翻译，但范围只覆盖文本和图片，在需要面对面沟通等实时翻译场景，应用仍要求联网。</p><p>而基于最新版本中已经能看到较完整的引导界面，专门向用户介绍离线实时翻译的使用方式。用户如果想在无网状态下使用实时翻译，需要提前把对应语言包下载到手机里，初期包括英语、法语、德语、葡萄牙语、意大利语和西班牙语。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/9b63bd46-13a2-4a55-9c77-682af618aa71.png?x-bce-process=image/format,f_auto" /></p><p>不过，这项功能离真正可用还有距离。原文也指出，虽然离线相关界面已经做得比较完整，但功能层面到底成熟到什么程度，暂时还很难判断。实时语音翻译本身就比静态文本翻译更复杂，既要处理语音识别，也要控制翻译延迟，因此离线实现难度显然更高。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/8e4f7ddb-197a-4c0f-9165-632222661b0b.png?x-bce-process=image/format,f_auto" /></p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:02:16 GMT</pubDate>
-</item>
-<item>
-<title>腾讯辟谣“AI 一号位即将离职”：纯属子虚乌有</title>
-<link>https://www.ithome.com/0/950/399.htm</link>
-<guid>https://www.ithome.com/0/950/399.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，据“鹅厂黑板报”微信公众号消息，腾讯公司发布严正辟谣：今天中午，有自媒体谣传“AI 一号位即将离职”并影射腾讯，此谣言纯属子虚乌有。腾讯在此严正辟谣，并保留对相关恶意造谣者追究法律责任的权利。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/5/93d3c366-3eb1-4668-af4f-b05b7d3bbb69.png?x-bce-process=image/format,f_auto" /></p><p>尽管腾讯未点名谣言涉及的具体人物，但从官方放出的截图来看，谣言可能指向现任 AI 负责人姚顺雨。</p><p>据IT之家了解，姚顺雨于 2025 年 12 月 17 日出任腾讯“CEO / 总裁办公室”首席 AI 科学家，直接向总裁刘炽平汇报，同时兼任新成立的 AI Infra 部和大语言模型部负责人，向技术工程事业群总裁卢山汇报。其职责覆盖算力基建（AI Infra 部）、模型研发（大语言模型部）及跨部门协同，形成“算力-数据-算法”闭环体系。腾讯同步撤销原“机器学习平台部”，新设 AI Data 部（数据评测）与数据计算平台部（数据融合），全面强化工程化能力。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:01:26 GMT</pubDate>
-</item>
-<item>
-<title>GDDR7 采购价高昂，英伟达上调 RTX 5090 / 5090 D v2 显卡成本价</title>
-<link>https://www.ithome.com/0/950/398.htm</link>
-<guid>https://www.ithome.com/0/950/398.htm</guid>
-<content:encoded><![CDATA[
-<p>IT之家 5 月 14 日消息，综合渠道消息源<span class="no-auto-spacing"> 博板堂 </span>和台媒 <span class="link-text-start-with-http">BenchLife.info</span> 两方消息，NVIDIA（英伟达）近期向各 AIC 合作伙伴传达消息，表示<strong>将上调 GeForce RTX 5090 / 5090 D v2 两款显卡的套件出货成本价格</strong>。</p><p>IT之家注意到，在消费级显卡供应链中，英伟达负责 GDDR 显存的采购并将其与 GPU 核心捆绑出货。此番调价的原因并不来自 GPU 核心，而是英伟达得到的<strong>上游 GDDR7 采购报价较此前有显著提升</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9781fae0-ec99-4566-ae2f-9576d9c4b9c6.jpg?x-bce-process=image/format,f_auto" /></p><p><span class="link-text-start-with-http">BenchLife.info</span> 表示，英伟达此次并未对这两款旗舰游戏显卡的建议零售价进行调整，不过供应链传导而来的<strong>定价压力势必会反映在终端交易价格上</strong>。目前英伟达尚未向 AIC 通知其它显卡型号的成本变化。</p>
-]]></content:encoded>
-<pubDate>Thu, 14 May 2026 07:00:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
