@@ -2806,3 +2806,74 @@ Summarized using deepseek-v4-flash
 Append: [先来曝点光：苹果官宣北京时间 6 月 9 日凌晨 1 点举办 WWDC26 活动，公布 iOS 27 等动向](https://www.ithome.com/0/952/040.htm)
 append_entries: 2
 Finish: 2026-05-18 22:46:01.660774
+------------------------------------------------------
+Started: 2026-05-19 02:00:56.636775
+Existing_entries: 1002
+Fetching from https://www.ithome.com/rss/
+Token length: 722
+Summarized using deepseek-v4-flash
+Append: [比亚迪电池 CTO 孙华军：每一代充电速度提升时都曾被质疑“伤电池”，而技术每一次都在进步](https://www.ithome.com/0/952/100.htm)
+Token length: 697
+Summarized using deepseek-v4-flash
+Append: [全国首部大型动画纪录电影《中国动画 100 年》官宣定档 6 月 1 日全国上映，回顾《大闹天宫》《宝莲灯》到《哪吒之魔童降世》的发展历程](https://www.ithome.com/0/952/099.htm)
+Token length: 404
+Summarized using deepseek-v4-flash
+Append: [全新 OPPO Reno 16 系列手机亮相：宋雨琦代言，5 月 25 日发布](https://www.ithome.com/0/952/098.htm)
+Token length: 679
+Summarized using deepseek-v4-flash
+Append: [谷歌联手黑石组建 AI 云公司：50 亿美元起步，2027 年冲刺 500 兆瓦](https://www.ithome.com/0/952/097.htm)
+Token length: 355
+Summarized using deepseek-v4-flash
+Append: [联想来酷 Air14 酷睿版轻薄本更多细节公布，5 月 26 日开启预约](https://www.ithome.com/0/952/096.htm)
+Append: [比亚迪方程豹钛 3 闪充版全系开始正常交付，含两驱 / 四驱版、天神之眼 B 车型](https://www.ithome.com/0/952/095.htm)
+Append: [新变种 Reaper 盯上苹果 Mac：伪装微信安装包传播，静默窃取用户敏感数据](https://www.ithome.com/0/952/094.htm)
+Append: [Qwen 3.7？阿里云峰会 5 月 20 日举行，千问官宣“重量级新朋友”即将亮相](https://www.ithome.com/0/952/093.htm)
+Append: [微软《极限竞速：地平线 6》今日发售，Steam 国区 298 元起](https://www.ithome.com/0/952/091.htm)
+Append: [CHERRY XTRFY K5 Ultra 键盘发售：升级新款 TMR 轴体，到手 499 元](https://www.ithome.com/0/952/090.htm)
+Append: [尚界汽车法务部就编造及传播 Z7 不实信息网络账号向公安机关报案，相关运营者被依法行政处罚](https://www.ithome.com/0/952/089.htm)
+Append: [任天堂全新手游《Pictonico!》公布，可将照片变成瓦力欧制造风格小游戏](https://www.ithome.com/0/952/088.htm)
+Append: [华为 Mate 80、Pura 80 等系列机型确认适配 3D 影像壁纸，预计 6 月支持](https://www.ithome.com/0/952/087.htm)
+Append: [三星 Galaxy Z Fold8/Z Fold Wide 折叠手机规格曝光，有望 7 月 22 日登场](https://www.ithome.com/0/952/086.htm)
+Append: [索尼 PlayStation 晒 FlexStrike 手台实拍图，更多信息很快公布](https://www.ithome.com/0/952/085.htm)
+Append: [我国高端医疗装备大突破，全球首台宽体光子计数 CT 在沈阳下线](https://www.ithome.com/0/952/084.htm)
+Append: [微软上线 XBOX Player Voice，统一收集玩家反馈并追踪处理进度](https://www.ithome.com/0/952/082.htm)
+Append: [比亚迪海豹 08 旗舰高定车色「琉光银」亮相，采用百万豪车同款巴斯夫清漆](https://www.ithome.com/0/952/081.htm)
+Append: [英伟达宣布向 Anthropic、OpenAI、SpaceXAI、甲骨文交付首批 Vera CPU](https://www.ithome.com/0/952/080.htm)
+Append: [西部数据介绍业界首款 PQC（后量子加密）机械硬盘 HC6100](https://www.ithome.com/0/952/079.htm)
+Append: [消息称索尼收紧独占策略，未来《战神》《地平线》游戏只留在 PS 平台](https://www.ithome.com/0/952/078.htm)
+Append: [矩阵超智发布 MATRIX-3 旗舰人形机器人：英伟达 AGX 算力、自研直线关节，售价 58 万元起](https://www.ithome.com/0/952/077.htm)
+Append: [索泰迎来 20 周年，将送出多款香槟金配色限定版本硬件](https://www.ithome.com/0/952/075.htm)
+Append: [中国移动发布“超千兆宽带”：可升级至 2000Mbps](https://www.ithome.com/0/952/074.htm)
+Append: [OPPO Bubble 潮玩自拍屏官宣亮相：磁吸设计 + 十米远控，5 月 25 日发布](https://www.ithome.com/0/952/072.htm)
+Append: [谷歌推进部署渐变版 Workspace 图标，网页端和手机端已陆续上线](https://www.ithome.com/0/952/071.htm)
+Append: [米面油、化妆品等不能刷，医保个人账户支付有了“白名单”](https://www.ithome.com/0/952/070.htm)
+Append: [索尼 PlayStation 针对部分地区上调入门级 PS Plus 订阅价格](https://www.ithome.com/0/952/069.htm)
+Append: [我国前 4 月消费品以旧换新销售额超 6069 亿元：数码智能产品销量同比增长 26%，新能源汽车渗透率 61.3% 创新高](https://www.ithome.com/0/952/068.htm)
+Append: [自主研制：我国商业航天首款可展开星载伞天线下线，可应用于有高收纳比需求卫星平台](https://www.ithome.com/0/952/067.htm)
+Append: [星舰 V3 首飞前夕，马斯克 SpaceX 星际基地发生致死事故](https://www.ithome.com/0/952/066.htm)
+Append: [CHERRY 预告鼠标新品：《宝可梦》耿鬼联名，PAW3955](https://www.ithome.com/0/952/065.htm)
+Append: [消息称苹果 Apple Watch Ultra 4 将迎系列最大升级，传感器数量据称翻倍](https://www.ithome.com/0/952/064.htm)
+Append: [英特尔 CEO 陈立武回应为苹果代工芯片：正与多家客户合作](https://www.ithome.com/0/952/063.htm)
+Append: [vivo S60 系列搭载蓝河流畅引擎，宣称“高三买的手机大四依然流畅”](https://www.ithome.com/0/952/062.htm)
+Append: [消息称英特尔 Nova Lake 处理器 ES 样品已出货，预计单核性能提升 20% 多核翻倍](https://www.ithome.com/0/952/061.htm)
+Append: [索尼头戴耳机 1000X “The ColleXion”宣传图曝光](https://www.ithome.com/0/952/060.htm)
+Append: [全国首个：智元 WITA（硅光动语）大模型完成备案](https://www.ithome.com/0/952/059.htm)
+Append: [我国首个二氧化碳地热能项目在郑州投产，取热能力可提升约 20%](https://www.ithome.com/0/952/058.htm)
+Append: [Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具](https://www.ithome.com/0/952/057.htm)
+Append: [Meta 计划全球裁员 10%：约 7800 人受影响，AI 战略转型引员工抗议](https://www.ithome.com/0/952/056.htm)
+Append: [问界汽车能耗 / 续航将迎突破：赛力斯 & 博奥镁铝联合研发的半固态镁合金 CCB 全球首发量产落地](https://www.ithome.com/0/952/055.htm)
+Append: [苹果公布 2026 设计大奖入围名单，《明日方舟：终末地》等入选](https://www.ithome.com/0/952/054.htm)
+Append: [科学家突破 6G 太赫兹通信瓶颈，首次在 560GHz 频段实现 112Gbps 无线传输](https://www.ithome.com/0/952/053.htm)
+Append: [微软账户正逐步淘汰短信验证码，强推通行密钥登录](https://www.ithome.com/0/952/052.htm)
+Append: [巴西“撕开”苹果 App Store 生态墙，iOS 26.5 预留第三方应用商店入口](https://www.ithome.com/0/952/051.htm)
+Append: [小米斩获 CVPR 2026 NTIRE 赛事三项奖项，影像算法取得技术突破](https://www.ithome.com/0/952/050.htm)
+Append: [英特尔 CEO 陈立武：PC 业务仍至关重要，14A 芯片 2029 年量产](https://www.ithome.com/0/952/049.htm)
+Append: [苹果 iOS 27 前瞻：图乐园优化壁纸生成、写作工具增强语法检查](https://www.ithome.com/0/952/048.htm)
+Append: [IT早报 0519：华为余承东揭晓 200 万元级尊界高定车型；腾讯音乐完成收购喜马拉雅；小米 YU7 GT 官宣 5 月 21 日上市；知情人士回应“上汽奥迪不再销售四环燃油车”...](https://www.ithome.com/0/952/047.htm)
+Append: [AI 热潮冲击供应链：苹果 DRAM 议价权削弱，重心转向保供而非最优价](https://www.ithome.com/0/952/046.htm)
+Append: [禾赛科技：全新理想 L9 Livis 是全球首款搭载禾赛 FTX 纯固态激光雷达量产车型](https://www.ithome.com/0/952/045.htm)
+Append: [苹果 iOS 27 版快捷指令 App 前瞻：用户描述需求，可生成自动化流程](https://www.ithome.com/0/952/044.htm)
+Append: [马斯克回应 OpenAI 案败诉：为掠夺慈善机构开创先例，将上诉](https://www.ithome.com/0/952/043.htm)
+Append: [马斯克诉 OpenAI 遭驳回，驱逐奥尔特曼诉求落空](https://www.ithome.com/0/952/042.htm)
+append_entries: 55
+Finish: 2026-05-19 02:01:51.413002

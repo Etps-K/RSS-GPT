@@ -1456,3 +1456,25 @@ Summarized using deepseek-v4-flash
 Append: [庄慧良：“习特会”后的台独困境](https://www.zaobao.com/news/china/story20260519-9068884)
 append_entries: 1
 Finish: 2026-05-18 22:45:50.052388
+------------------------------------------------------
+Started: 2026-05-19 02:00:22.332493
+Existing_entries: 442
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 688
+Summarized using deepseek-v4-flash
+Append: [普京今晚抵达北京 隔天与习近平举行会谈](https://www.zaobao.com/news/china/story20260519-9069750)
+Token length: 560
+Summarized using deepseek-v4-flash
+Append: [黄仁勋：中国终将对美国AI晶片开放市场](https://www.zaobao.com/news/china/story20260519-9069699)
+Token length: 885
+Summarized using deepseek-v4-flash
+Append: [普京：俄中友谊不针对第三方](https://www.zaobao.com/news/china/story20260519-9069639)
+Token length: 1140
+Summarized using deepseek-v4-flash
+Append: [李强：推动人工智能与先进制造业深度融合](https://www.zaobao.com/news/china/story20260519-9069616)
+Token length: 509
+Summarized using deepseek-v4-flash
+Append: [中国地震局：柳州5.2级地震为逆冲型破裂](https://www.zaobao.com/news/china/story20260519-9069481)
+Append: [欧盟拟加大力度保护经济免受中国商品冲击](https://www.zaobao.com/news/china/story20260519-9069466)
+append_entries: 6
+Finish: 2026-05-19 02:00:44.106323
