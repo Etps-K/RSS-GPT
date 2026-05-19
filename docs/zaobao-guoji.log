@@ -1336,3 +1336,25 @@ Append: [格陵兰岛总理：特朗普仍然渴望控制和拥有格陵兰岛](
 Append: [西班牙南部枪击事件已致二死四伤](https://www.zaobao.com/news/world/story20260519-9071298)
 append_entries: 16
 Finish: 2026-05-19 10:52:54.923896
+------------------------------------------------------
+Started: 2026-05-19 14:29:49.684568
+Existing_entries: 340
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1421
+Summarized using deepseek-v4-flash
+Append: [战火通胀与债务压力升温 全球主权债遭大举抛售](https://www.zaobao.com/news/world/story20260519-9072710)
+Token length: 77
+Summarized using deepseek-v4-flash
+Append: [叙利亚首都大马士革传爆炸声 原因仍待调查](https://www.zaobao.com/news/world/story20260519-9073986)
+Token length: 1118
+Summarized using deepseek-v4-flash
+Append: [特朗普应波斯湾盟友要求 暂缓对伊朗新一轮打击](https://www.zaobao.com/news/world/story20260519-9072995)
+Token length: 874
+Summarized using deepseek-v4-flash
+Append: [刚果（金）伊波拉疫情死例增至131起 世卫召开紧急会议商讨对策](https://www.zaobao.com/news/world/story20260519-9073473)
+Token length: 689
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡持续关闭 伊朗推比特币航运保险筹资](https://www.zaobao.com/news/world/story20260519-9073173)
+Append: [美国再度延长俄石油制裁豁免30天](https://www.zaobao.com/news/world/story20260519-9072836)
+append_entries: 6
+Finish: 2026-05-19 14:30:28.743620

@@ -1542,3 +1542,25 @@ Append: [阿根廷将与中国续签货币互换协议](https://www.zaobao.com/n
 Append: [外资持有中国债券规模降至逾五年新低](https://www.zaobao.com/news/china/story20260519-9070610)
 append_entries: 20
 Finish: 2026-05-19 10:52:28.285901
+------------------------------------------------------
+Started: 2026-05-19 14:29:25.061868
+Existing_entries: 480
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 554
+Summarized using deepseek-v4-flash
+Append: [洁丽雅传“父子变连襟” 公司公开DNA辟谣](https://www.zaobao.com/news/china/story20260519-9073983)
+Token length: 700
+Summarized using deepseek-v4-flash
+Append: [美驻华大使：特朗普向习近平表明美国不支持台独](https://www.zaobao.com/news/china/story20260519-9073588)
+Token length: 1015
+Summarized using deepseek-v4-flash
+Append: [台湾首例总统弹劾案表决 在野阵营未能弹劾赖清德](https://www.zaobao.com/news/china/story20260519-9073462)
+Token length: 594
+Summarized using deepseek-v4-flash
+Append: [百度营收超预期 寻求在AI行业重新洗牌中突围](https://www.zaobao.com/news/china/story20260519-9073580)
+Token length: 427
+Summarized using deepseek-v4-flash
+Append: [代表台北领取“李光耀世界城市奖”特别奖 蒋万安6月再访狮城](https://www.zaobao.com/news/china/story20260519-9073371)
+Append: [中国AI企业月之暗面获多个国资支持](https://www.zaobao.com/news/china/story20260519-9073059)
+append_entries: 6
+Finish: 2026-05-19 14:29:49.332067
