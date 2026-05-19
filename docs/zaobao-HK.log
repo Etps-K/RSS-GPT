@@ -1478,3 +1478,31 @@ Append: [中国地震局：柳州5.2级地震为逆冲型破裂](https://www.zao
 Append: [欧盟拟加大力度保护经济免受中国商品冲击](https://www.zaobao.com/news/china/story20260519-9069466)
 append_entries: 6
 Finish: 2026-05-19 02:00:44.106323
+------------------------------------------------------
+Started: 2026-05-19 06:09:54.070207
+Existing_entries: 448
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 164
+Summarized using deepseek-v4-flash
+Append: [广西车辆坠河事故死者增至六人](https://www.zaobao.com/news/china/story20260519-9071070)
+Token length: 225
+Summarized using deepseek-v4-flash
+Append: [澳总理公布从中国获得航空燃油](https://www.zaobao.com/news/china/story20260519-9070678)
+Token length: 449
+Summarized using deepseek-v4-flash
+Append: [中国科学院院士方岱宁今年2月逝世](https://www.zaobao.com/news/china/story20260519-9070305)
+Token length: 478
+Summarized using deepseek-v4-flash
+Append: [继北京之后 上海国际电影节也不办日本电影周](https://www.zaobao.com/news/china/story20260519-9070733)
+Token length: 561
+Summarized using deepseek-v4-flash
+Append: [卓荣泰：中国大陆军演是破坏地区稳定最大根源](https://www.zaobao.com/news/china/story20260519-9070580)
+Append: [赖清德弹劾案闯关失败](https://www.zaobao.com/news/china/story20260519-9070437)
+Append: [湖北湖南强降雨致四死六失联](https://www.zaobao.com/news/china/story20260519-9070242)
+Append: [台湾叩关世卫大会再失利 国台办：企图走旁门左道必遭挫败](https://www.zaobao.com/news/china/story20260519-9070229)
+Append: [执政两周年 赖清德明早发表讲话谈愿景](https://www.zaobao.com/news/china/story20260519-9070049)
+Append: [辽宁舰航母编队赴西太演训 中国海军：例行训练](https://www.zaobao.com/news/china/story20260519-9070031)
+Append: [美媒：普京希望在俄中元首会谈能解锁天然气管道项目](https://www.zaobao.com/news/china/story20260519-9069942)
+Append: [王毅：北京赞赏塞舌尔撤销赖清德专机飞航许可](https://www.zaobao.com/news/china/story20260519-9069839)
+append_entries: 12
+Finish: 2026-05-19 06:10:36.467442

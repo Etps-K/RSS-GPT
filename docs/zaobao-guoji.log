@@ -1276,3 +1276,31 @@ Summarized using deepseek-v4-flash
 Append: [称原定19日恢复打击伊朗 特朗普应中东盟友要求暂缓行动](https://www.zaobao.com/news/world/story20260519-9069404)
 append_entries: 2
 Finish: 2026-05-19 02:00:55.632347
+------------------------------------------------------
+Started: 2026-05-19 06:10:36.767037
+Existing_entries: 312
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 439
+Summarized using deepseek-v4-flash
+Append: [美媒称特朗普对古巴“动武”可能性在增加](https://www.zaobao.com/news/world/story20260519-9070888)
+Token length: 510
+Summarized using deepseek-v4-flash
+Append: [伊拉克4月原油出口环比下降近47%](https://www.zaobao.com/news/world/story20260519-9071061)
+Token length: 473
+Summarized using deepseek-v4-flash
+Append: [消息：一连串挑战失误导致刚果（金）疫情检测延误](https://www.zaobao.com/news/world/story20260519-9070546)
+Token length: 106
+Summarized using deepseek-v4-flash
+Append: [夏威夷檀香山一港口发生石油泄漏事故](https://www.zaobao.com/news/world/story20260519-9070654)
+Token length: 377
+Summarized using deepseek-v4-flash
+Append: [在大裁员前 Meta将7000名员工调至AI相关岗位](https://www.zaobao.com/news/world/story20260519-9070389)
+Append: [古巴总统谴责美国燃料制裁“不道德、非法和无法无天”](https://www.zaobao.com/news/world/story20260519-9070258)
+Append: [沃什22日宣誓就任美联储主席 特朗普主持就职仪式](https://www.zaobao.com/news/world/story20260519-9070099)
+Append: [以媒：内坦亚胡连续两晚开会 为重启伊朗战事做准备](https://www.zaobao.com/news/world/story20260519-9069976)
+Append: [特朗普：中东盟友要求他推迟打击伊朗“两三天”](https://www.zaobao.com/news/world/story20260519-9069850)
+Append: [美国加强机场筛查预防伊波拉病毒 禁止三国非公民入境](https://www.zaobao.com/news/world/story20260519-9069668)
+Append: [刚果（金）伊波拉疫情扩散 116起疑似病例死亡](https://www.zaobao.com/news/world/story20260519-9069570)
+Append: [世卫：伊波拉汉坦病毒是这个危险分裂时代最新危机](https://www.zaobao.com/news/world/story20260519-9069521)
+append_entries: 12
+Finish: 2026-05-19 06:11:10.684544
