@@ -1304,3 +1304,35 @@ Append: [刚果（金）伊波拉疫情扩散 116起疑似病例死亡](https://
 Append: [世卫：伊波拉汉坦病毒是这个危险分裂时代最新危机](https://www.zaobao.com/news/world/story20260519-9069521)
 append_entries: 12
 Finish: 2026-05-19 06:11:10.684544
+------------------------------------------------------
+Started: 2026-05-19 10:52:28.600022
+Existing_entries: 324
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 147
+Summarized using deepseek-v4-flash
+Append: [泰国拟收紧免签政策 停留期限或缩至30天](https://www.zaobao.com/news/world/story20260519-9073085)
+Token length: 743
+Summarized using deepseek-v4-flash
+Append: [战火与干旱双重夹击 澳洲小麦面临千万吨减产恐推高全球粮价](https://www.zaobao.com/news/world/story20260519-9072322)
+Token length: 264
+Summarized using deepseek-v4-flash
+Append: [美国加州南部林火蔓延 当局发布红色火警](https://www.zaobao.com/news/world/story20260519-9072639)
+Token length: 787
+Summarized using deepseek-v4-flash
+Append: [德财长：G7减少稀土依赖刻不容缓](https://www.zaobao.com/news/world/story20260519-9072632)
+Token length: 250
+Summarized using deepseek-v4-flash
+Append: [Mango创始人坠崖身亡案 西班牙警方拘留其子调查](https://www.zaobao.com/news/world/story20260519-9072753)
+Append: [美司法部设近18亿美元基金 民主党批“贿赂基金”](https://www.zaobao.com/news/world/story20260519-9072359)
+Append: [日修订安保文件提案曝光 拟加快部署反无人机与高能武器](https://www.zaobao.com/news/world/story20260519-9072087)
+Append: [俄军启动三天核演习 动员逾6万兵力](https://www.zaobao.com/news/world/story20260519-9072506)
+Append: [特朗普施压下 欧盟寻求敲定美欧贸易协议](https://www.zaobao.com/news/world/story20260519-9071905)
+Append: [瑞典敲定大型军购 向法国采购四艘护卫舰](https://www.zaobao.com/news/world/story20260519-9072099)
+Append: [日韩首脑开启“家乡外交” 拟聚焦能源安全与原油互助](https://www.zaobao.com/news/world/story20260519-9072036)
+Append: [美媒：中东多国领导人希望美国暂缓打击伊朗](https://www.zaobao.com/news/world/story20260519-9071766)
+Append: [匈牙利总理马扎尔首次出访波兰 寻求重塑欧盟关系](https://www.zaobao.com/news/world/story20260519-9071702)
+Append: [IMF警告中东冲突削弱英国经济增长前景](https://www.zaobao.com/news/world/story20260519-9071497)
+Append: [格陵兰岛总理：特朗普仍然渴望控制和拥有格陵兰岛](https://www.zaobao.com/news/world/story20260519-9071285)
+Append: [西班牙南部枪击事件已致二死四伤](https://www.zaobao.com/news/world/story20260519-9071298)
+append_entries: 16
+Finish: 2026-05-19 10:52:54.923896
