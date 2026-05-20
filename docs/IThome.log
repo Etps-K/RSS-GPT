@@ -3431,3 +3431,12 @@ Append: [松下 LUMIX Lab 应用 3.0.0 上线：支持编辑 RAW 文件、有线
 Append: [【IT之家开箱】iQOO 15T 手机图赏：首发天玑 9500 Monster 旗舰芯，升级 8000mAh 电池](https://www.ithome.com/0/953/078.htm)
 append_entries: 10
 Finish: 2026-05-20 18:09:10.616279
+------------------------------------------------------
+Started: 2026-05-20 21:28:18.731405
+Existing_entries: 1010
+Fetching from https://www.ithome.com/rss/
+Token length: 962
+Summarized using deepseek-v4-flash
+Append: [英伟达 2027 财年第一财季归母净利润 583.21 亿美元，同比增长 211%](https://www.ithome.com/0/953/088.htm)
+append_entries: 1
+Finish: 2026-05-20 21:28:23.838120

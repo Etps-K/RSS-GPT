@@ -1518,3 +1518,9 @@ Append: [阿联酋要求伊拉克停止敌对行动](https://www.zaobao.com/news
 Append: [玻利维亚宣布驱逐哥伦比亚大使](https://www.zaobao.com/news/world/story20260520-9080906)
 append_entries: 6
 Finish: 2026-05-20 18:08:43.653176
+------------------------------------------------------
+Started: 2026-05-20 21:28:17.125148
+Existing_entries: 396
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-20 21:28:17.245754
