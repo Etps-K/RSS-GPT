@@ -5,18 +5,29 @@
 <link>https://sspai.com</link>
 
 <item>
+<title>自动补全生僻字，让 Kindle 从底层告别小方块</title>
+<link>https://sspai.com/post/109625</link>
+<guid>https://sspai.com/post/109625</guid>
+<content:encoded><![CDATA[
+<div> Kindle upstart配置 自动挂载 花园明朝字体 生僻字显示  
+<br><br>总结: 本文介绍修改Kindle底层upstart配置，实现开机自动挂载花园明朝字体。此操作可修复字典弹窗，使古籍正文中所有生僻字完美显示，达成全系统视觉统一。要点：1.修改upstart配置；2.开机自动挂载字体；3.修复字典弹窗；4.完美显示生僻字；5.全系统视觉统一。 <div>
+本文将分享如何修改 Kindle 底层的 upstart 配置，实现开机自动挂载花园明朝（HanaMin）字体。这不仅能修复字典弹窗，更能让古籍正文中所有生僻字完美显示，达成全系统视觉统一。<a href="https://sspai.com/post/109625" target="_blank">查看全文</a>
+]]></content:encoded>
+<pubDate>Wed, 20 May 2026 11:00:00 +0800</pubDate>
+<pubDate>Wed, 20 May 2026 11:00:00 +0800</pubDate>
+</item>
+
+<item>
 <title>派早报：Google 发布多项 Gemini 产品更新等</title>
 <link>https://sspai.com/post/109945</link>
 <guid>https://sspai.com/post/109945</guid>
 <content:encoded><![CDATA[
 <div> LG UltraGear 游戏显示器 Karpathy Anthropic  
-<br><br>总结: 1. LG发布新款UltraGear游戏显示器，主打高刷新率与低延迟，定位电竞玩家。2. 知名AI研究员Andrej Karpathy宣布加入Anthropic，继续从事人工智能安全与研究。其他未提及。 <div>
+<br /><br />总结: 1. LG发布新款UltraGear游戏显示器，主打高刷新率与低延迟，定位电竞玩家。2. 知名AI研究员Andrej Karpathy宣布加入Anthropic，继续从事人工智能安全与研究。其他未提及。 <div>
 LG 发布新款 UltraGear 游戏显示器，Karpathy 加入 Anthropic 等。<a href="https://sspai.com/post/109945" target="_blank">查看全文</a>
 ]]></content:encoded>
 <pubDate>Wed, 20 May 2026 08:59:32 +0800</pubDate>
-<pubDate>Wed, 20 May 2026 08:59:32 +0800</pubDate>
 </item>
-
 <item>
 <title>社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意</title>
 <link>https://sspai.com/post/109928</link>

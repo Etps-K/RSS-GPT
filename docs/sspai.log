@@ -2875,3 +2875,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Google 发布多项 Gemini 产品更新等](https://sspai.com/post/109945)
 append_entries: 1
 Finish: 2026-05-20 01:59:55.621689
+------------------------------------------------------
+Started: 2026-05-20 06:07:53.528148
+Existing_entries: 141
+Fetching from https://sspai.com/feed
+Token length: 95
+Summarized using deepseek-v4-flash
+Append: [自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
+append_entries: 1
+Finish: 2026-05-20 06:08:05.070460
