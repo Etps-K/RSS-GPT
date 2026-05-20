@@ -1469,3 +1469,30 @@ Append: [消息：特朗普6月赴法国参加G7峰会](https://www.zaobao.com/n
 Append: [专家：汉坦病毒伊波拉疫情暴露大流行病认知不足](https://www.zaobao.com/news/world/story20260520-9077687)
 append_entries: 9
 Finish: 2026-05-20 10:41:13.588057
+------------------------------------------------------
+Started: 2026-05-20 14:29:15.107842
+Existing_entries: 379
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 493
+Summarized using deepseek-v4-flash
+Append: [联合国：全球粮食危机或在数月内爆发](https://www.zaobao.com/news/world/story20260520-9080819)
+Token length: 542
+Summarized using deepseek-v4-flash
+Append: [鲁比奥提议美国和古巴建立新关系](https://www.zaobao.com/news/world/story20260520-9080703)
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [消息：特朗普政府计划削减对北约的军事承诺](https://www.zaobao.com/news/world/story20260520-9080519)
+Token length: 1084
+Summarized using deepseek-v4-flash
+Append: [贝森特促盟友：更积极切断伊朗资金网络打击影子船队](https://www.zaobao.com/news/world/story20260520-9078934)
+Token length: 405
+Summarized using deepseek-v4-flash
+Append: [报告：中东战事或将英国家庭能源支出推高13%](https://www.zaobao.com/news/world/story20260520-9080025)
+Append: [白宫新宴会厅细节曝光 特朗普称设“无人机港”](https://www.zaobao.com/news/world/story20260520-9079572)
+Append: [鲁比奥批世卫未及时确认伊波拉疫情 延误美防疫部署](https://www.zaobao.com/news/world/story20260520-9078269)
+Append: [中东危机拖累全球经济增长预测下调](https://www.zaobao.com/news/world/story20260520-9079418)
+Append: [北约秘书长吕特：美国撤兵欧洲不影响北约防务](https://www.zaobao.com/news/world/story20260520-9079823)
+Append: [激活大脑“隐形血液泵”？多咀嚼或有助延缓认知退化](https://www.zaobao.com/news/world/story20260520-9077118)
+Append: [世卫：伊波拉疫情全球风险低](https://www.zaobao.com/news/world/story20260520-9079492)
+append_entries: 11
+Finish: 2026-05-20 14:29:45.414210

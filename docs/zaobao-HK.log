@@ -1700,3 +1700,15 @@ Append: [普京称习近平是珍贵的朋友：一日不见如隔三秋](https:
 Append: [中国奇瑞希望在合适时机进军美国市场](https://www.zaobao.com/news/china/story20260520-9077503)
 append_entries: 18
 Finish: 2026-05-20 10:40:49.316358
+------------------------------------------------------
+Started: 2026-05-20 14:29:03.365404
+Existing_entries: 538
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 802
+Summarized using deepseek-v4-flash
+Append: [习近平吁中俄共同培育国家战略科技力量 攻克前沿科学难题](https://www.zaobao.com/news/china/story20260520-9080682)
+Token length: 955
+Summarized using deepseek-v4-flash
+Append: [《给阿嬷的情书》爆红 中国央媒念“阿膜”被批“文化霸凌”](https://www.zaobao.com/news/china/story20260520-9078828)
+append_entries: 2
+Finish: 2026-05-20 14:29:14.794831
