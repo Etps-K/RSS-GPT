@@ -1611,3 +1611,27 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：中美进入听其言观其行](https://www.zaobao.com/news/china/story20260520-9074901)
 append_entries: 1
 Finish: 2026-05-19 22:55:46.576802
+------------------------------------------------------
+Started: 2026-05-20 01:59:56.087069
+Existing_entries: 497
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 304
+Summarized using deepseek-v4-flash
+Append: [中国时隔22年再进U17男足亚洲杯决赛 将战日本](https://www.zaobao.com/news/china/story20260520-9075748)
+Token length: 202
+Summarized using deepseek-v4-flash
+Append: [湖南石门强降雨已致五死11人失联](https://www.zaobao.com/news/china/story20260520-9075721)
+Token length: 312
+Summarized using deepseek-v4-flash
+Append: [美国指七名中国高管及四家公司串谋哄抬集装箱价格](https://www.zaobao.com/news/china/story20260520-9075703)
+Token length: 566
+Summarized using deepseek-v4-flash
+Append: [美国制裁逾50个涉伊朗实体 包括中国大陆和香港企业](https://www.zaobao.com/news/china/story20260520-9075643)
+Token length: 269
+Summarized using deepseek-v4-flash
+Append: [普京在北京乘坐挂中国牌照俄车](https://www.zaobao.com/news/china/story20260520-9075637)
+Append: [贝森特：美国并不急于延长美中贸易休战协议](https://www.zaobao.com/news/china/story20260520-9075546)
+Append: [中国常驻联合国代表呼吁避免海湾局势进一步升级](https://www.zaobao.com/news/china/story20260520-9075464)
+Append: [特朗普否认习近平称普京可能会后悔入侵乌克兰](https://www.zaobao.com/news/china/story20260520-9075452)
+append_entries: 8
+Finish: 2026-05-20 02:00:28.466929

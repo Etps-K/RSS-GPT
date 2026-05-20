@@ -1398,3 +1398,18 @@ Existing_entries: 352
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-19 22:55:46.949126
+------------------------------------------------------
+Started: 2026-05-20 02:00:28.801241
+Existing_entries: 352
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 276
+Summarized using deepseek-v4-flash
+Append: [万斯：美伊谈判取得良好进展 若失败或重启战争](https://www.zaobao.com/news/world/story20260520-9075435)
+Token length: 398
+Summarized using deepseek-v4-flash
+Append: [美参议院推进法案 限制特朗普对伊朗动武](https://www.zaobao.com/news/world/story20260520-9075425)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [消息：美拟削减用于北约危机应对储备部队规模](https://www.zaobao.com/news/world/story20260520-9075408)
+append_entries: 3
+Finish: 2026-05-20 02:00:44.914731
