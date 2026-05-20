@@ -1745,3 +1745,12 @@ Existing_entries: 551
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-20 21:28:16.754533
+------------------------------------------------------
+Started: 2026-05-20 23:03:10.283826
+Existing_entries: 551
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 238
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：《给阿嬷的情书》的统战启示](https://www.zaobao.com/news/china/story20260521-9074937)
+append_entries: 1
+Finish: 2026-05-20 23:03:12.813376
