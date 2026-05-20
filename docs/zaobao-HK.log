@@ -1666,3 +1666,37 @@ Append: [习特会后 四艘美国液化天然气运输船驶往中国](https://
 Append: [中国两艘油轮载400万桶原油驶出霍尔木兹海峡](https://www.zaobao.com/news/china/story20260520-9075904)
 append_entries: 15
 Finish: 2026-05-20 06:08:28.262622
+------------------------------------------------------
+Started: 2026-05-20 10:40:28.878660
+Existing_entries: 520
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 793
+Summarized using deepseek-v4-flash
+Append: [俄军人被指在华秘密接受训练后 投入乌克兰战场](https://www.zaobao.com/news/china/story20260520-9079178)
+Token length: 445
+Summarized using deepseek-v4-flash
+Append: [阿里巴巴发布新款AI晶片 可同时承担训练和推理任务](https://www.zaobao.com/news/china/story20260520-9079585)
+Token length: 530
+Summarized using deepseek-v4-flash
+Append: [克宫：俄中天然气管道项目有进展但未达成协议](https://www.zaobao.com/news/china/story20260520-9079352)
+Token length: 237
+Summarized using deepseek-v4-flash
+Append: [联合国秘书长：习特会未取得重大突破](https://www.zaobao.com/news/china/story20260520-9079189)
+Token length: 991
+Summarized using deepseek-v4-flash
+Append: [习近平：世界面临倒退回丛林法则的危险](https://www.zaobao.com/news/china/story20260520-9079093)
+Append: [英媒：黄仁勋访华期间 中国将英伟达游戏晶片列入禁售名单](https://www.zaobao.com/news/china/story20260520-9078903)
+Append: [普京称俄罗斯准备继续向中国供应能源](https://www.zaobao.com/news/china/story20260520-9078657)
+Append: [普京：已与习近平讨论同美国等伙伴合作](https://www.zaobao.com/news/china/story20260520-9078637)
+Append: [两名日本人在上海被刺伤 中国外交部：治安个案](https://www.zaobao.com/news/china/story20260520-9078563)
+Append: [中国将延长俄罗斯公民赴华免签政策至2027年底](https://www.zaobao.com/news/china/story20260520-9078477)
+Append: [俄中联合声明：必须解决乌克兰危机根源问题](https://www.zaobao.com/news/china/story20260520-9078430)
+Append: [国台办评赖清德520讲话：假惺惺推动两岸交流 妄图蒙蔽民众](https://www.zaobao.com/news/china/story20260520-9078308)
+Append: [克宫：不排除普京特朗普APEC期间在华会晤](https://www.zaobao.com/news/china/story20260520-9078103)
+Append: [应对少子化 台湾拟发0至18岁每人每月5000元津贴](https://www.zaobao.com/news/china/story20260520-9077930)
+Append: [中俄将共同发表关于倡导世界多极化和新型国际关系的联合声明](https://www.zaobao.com/news/china/story20260520-9077873)
+Append: [克里姆林宫：没必要比较中国为普京与特朗普举行的仪式](https://www.zaobao.com/news/china/story20260520-9077713)
+Append: [普京称习近平是珍贵的朋友：一日不见如隔三秋](https://www.zaobao.com/news/china/story20260520-9077563)
+Append: [中国奇瑞希望在合适时机进军美国市场](https://www.zaobao.com/news/china/story20260520-9077503)
+append_entries: 18
+Finish: 2026-05-20 10:40:49.316358

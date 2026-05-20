@@ -2884,3 +2884,15 @@ Summarized using deepseek-v4-flash
 Append: [自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
 append_entries: 1
 Finish: 2026-05-20 06:08:05.070460
+------------------------------------------------------
+Started: 2026-05-20 10:40:13.536668
+Existing_entries: 142
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
+append_entries: 2
+Finish: 2026-05-20 10:40:28.398649

@@ -1444,3 +1444,28 @@ Append: [伊朗南部霍尔木兹甘省发生4.7级地震](https://www.zaobao.co
 Append: [民调：特朗普支持率跌近重返白宫以来最低点](https://www.zaobao.com/news/world/story20260520-9075532)
 append_entries: 15
 Finish: 2026-05-20 06:08:56.034157
+------------------------------------------------------
+Started: 2026-05-20 10:40:49.667891
+Existing_entries: 370
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 358
+Summarized using deepseek-v4-flash
+Append: [以色列空袭黎巴嫩南部造成至少19人死亡](https://www.zaobao.com/news/world/story20260520-9079345)
+Token length: 306
+Summarized using deepseek-v4-flash
+Append: [伊朗：若美以再次侵略 战事将扩大到中东地区之外](https://www.zaobao.com/news/world/story20260520-9079084)
+Token length: 1126
+Summarized using deepseek-v4-flash
+Append: [贝森特：美国不急于延长对华贸易休战协议](https://www.zaobao.com/news/world/story20260520-9078776)
+Token length: 625
+Summarized using deepseek-v4-flash
+Append: [三星电子劳资谈判破裂 李在明：工会行动须设限](https://www.zaobao.com/news/world/story20260520-9078812)
+Token length: 586
+Summarized using deepseek-v4-flash
+Append: [美军缩减欧洲驻军 促欧洲加强自身防务](https://www.zaobao.com/news/world/story20260520-9078763)
+Append: [涉“伪天然”欺诈 雀巢法国水厂遭突击搜查](https://www.zaobao.com/news/world/story20260520-9076642)
+Append: [伊朗战争爆发后 首艘韩国船只穿越霍尔木兹海峡](https://www.zaobao.com/news/world/story20260520-9078027)
+Append: [消息：特朗普6月赴法国参加G7峰会](https://www.zaobao.com/news/world/story20260520-9077835)
+Append: [专家：汉坦病毒伊波拉疫情暴露大流行病认知不足](https://www.zaobao.com/news/world/story20260520-9077687)
+append_entries: 9
+Finish: 2026-05-20 10:41:13.588057
