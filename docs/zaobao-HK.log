@@ -1712,3 +1712,30 @@ Summarized using deepseek-v4-flash
 Append: [《给阿嬷的情书》爆红 中国央媒念“阿膜”被批“文化霸凌”](https://www.zaobao.com/news/china/story20260520-9078828)
 append_entries: 2
 Finish: 2026-05-20 14:29:14.794831
+------------------------------------------------------
+Started: 2026-05-20 18:08:03.944573
+Existing_entries: 540
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 674
+Summarized using deepseek-v4-flash
+Append: [美国对台军售未定 特朗普称将与赖清德交谈](https://www.zaobao.com/news/china/story20260521-9081365)
+Token length: 1761
+Summarized using deepseek-v4-flash
+Append: [普京访华：中美俄关系微妙 三巨头或APEC同框](https://www.zaobao.com/news/china/story20260521-9081228)
+Token length: 1300
+Summarized using deepseek-v4-flash
+Append: [中美拟互减300亿美元商品关税 学者：双方经贸求稳但博弈仍激烈](https://www.zaobao.com/news/china/story20260521-9080853)
+Token length: 1199
+Summarized using deepseek-v4-flash
+Append: [澳门新五年规划 非博彩业经济占比2030年增至六成](https://www.zaobao.com/news/china/story20260520-9080736)
+Token length: 316
+Summarized using deepseek-v4-flash
+Append: [普京结束访华飞离北京 张国清送机](https://www.zaobao.com/news/china/story20260520-9081183)
+Append: [赖清德要向特朗普阐明：台湾会不亢不卑维持现状吁美持续对台军售](https://www.zaobao.com/news/china/story20260520-9080442)
+Append: [大陆国防部：民进党政府买再多武器都是以卵击石 以武谋独死路一条](https://www.zaobao.com/news/china/story20260520-9080999)
+Append: [台湾政坛争辩统独 蒋万安吁赖政府以民生为念](https://www.zaobao.com/news/china/story20260520-9080191)
+Append: [下午察：“癌症村”卷土重来？](https://www.zaobao.com/news/china/story20260520-9078941)
+Append: [李强会普京：中国愿同俄罗斯进一步扩大贸易规模](https://www.zaobao.com/news/china/story20260520-9080857)
+Append: [习近平在北京人民大会堂为普京举行晚宴和茶叙](https://www.zaobao.com/news/china/story20260520-9080777)
+append_entries: 11
+Finish: 2026-05-20 18:08:20.434944
