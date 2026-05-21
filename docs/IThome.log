@@ -3754,3 +3754,21 @@ Existing_entries: 1000
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-21 21:20:26.195031
+------------------------------------------------------
+Started: 2026-05-21 22:57:20.079906
+Existing_entries: 1000
+Fetching from https://www.ithome.com/rss/
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [Epic 喜加一：移动端《纪念碑谷 3》限时免费领](https://www.ithome.com/0/953/672.htm)
+Token length: 540
+Summarized using deepseek-v4-flash
+Append: [R 星母公司 Take-Two 确认《GTA6》宣发活动 6 月下旬开始，发售日期未变](https://www.ithome.com/0/953/671.htm)
+Token length: 580
+Summarized using deepseek-v4-flash
+Append: [微软 XBOX 上线自适应摇杆帽结构，新增球门柱造型](https://www.ithome.com/0/953/670.htm)
+Token length: 785
+Summarized using deepseek-v4-flash
+Append: [《007 初露锋芒》官方预告片发布，5 月 27 日正式发售](https://www.ithome.com/0/953/669.htm)
+append_entries: 4
+Finish: 2026-05-21 22:57:38.868926

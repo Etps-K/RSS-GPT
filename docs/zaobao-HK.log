@@ -1888,3 +1888,12 @@ Existing_entries: 596
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-21 21:20:21.807315
+------------------------------------------------------
+Started: 2026-05-21 22:57:12.478858
+Existing_entries: 596
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 399
+Summarized using deepseek-v4-flash
+Append: [韩咏红：普京访华后又传“习金会”登场](https://www.zaobao.com/news/china/story20260522-9087751)
+append_entries: 1
+Finish: 2026-05-21 22:57:18.085117
