@@ -1530,3 +1530,21 @@ Existing_entries: 396
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-20 23:03:13.277963
+------------------------------------------------------
+Started: 2026-05-21 01:59:49.145397
+Existing_entries: 396
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 456
+Summarized using deepseek-v4-flash
+Append: [消息：特朗普与内坦亚胡就如何推进伊朗战争意见分歧](https://www.zaobao.com/news/world/story20260521-9081888)
+Token length: 173
+Summarized using deepseek-v4-flash
+Append: [韩联社：习近平最早可能下周访问朝鲜](https://www.zaobao.com/news/world/story20260521-9081790)
+Token length: 483
+Summarized using deepseek-v4-flash
+Append: [美国以谋杀等罪名起诉古巴前领导人卡斯特罗](https://www.zaobao.com/news/world/story20260521-9081777)
+Token length: 361
+Summarized using deepseek-v4-flash
+Append: [特朗普称愿多等几天以获伊朗“正确答案”](https://www.zaobao.com/news/world/story20260521-9081738)
+append_entries: 4
+Finish: 2026-05-21 02:00:04.090769

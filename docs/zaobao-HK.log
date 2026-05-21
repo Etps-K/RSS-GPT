@@ -1754,3 +1754,28 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：《给阿嬷的情书》的统战启示](https://www.zaobao.com/news/china/story20260521-9074937)
 append_entries: 1
 Finish: 2026-05-20 23:03:12.813376
+------------------------------------------------------
+Started: 2026-05-21 01:59:25.601646
+Existing_entries: 552
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 275
+Summarized using deepseek-v4-flash
+Append: [台湾外交部称赖清德乐意与特朗普通话](https://www.zaobao.com/news/china/story20260521-9082044)
+Token length: 255
+Summarized using deepseek-v4-flash
+Append: [中美联合侦破跨国毒品犯罪案件 嫌犯被捕](https://www.zaobao.com/news/china/story20260521-9082036)
+Token length: 661
+Summarized using deepseek-v4-flash
+Append: [大陆官媒：赖清德“倚外谋独” 只是黄粱一梦](https://www.zaobao.com/news/china/story20260521-9081973)
+Token length: 507
+Summarized using deepseek-v4-flash
+Append: [中国将对特定战略性矿产资源实行规划管控](https://www.zaobao.com/news/china/story20260521-9081979)
+Token length: 422
+Summarized using deepseek-v4-flash
+Append: [德国逮捕涉嫌为北京从事间谍活动的夫妇](https://www.zaobao.com/news/china/story20260521-9081939)
+Append: [塞尔维亚总统武契奇首次访华 将与习近平会面](https://www.zaobao.com/news/china/story20260521-9081900)
+Append: [英媒：北京暂缓美战争部副部长访华 涉140亿美元对台军售](https://www.zaobao.com/news/china/story20260521-9081838)
+Append: [白宫：特朗普拟短时间内决定新对台军售](https://www.zaobao.com/news/china/story20260521-9081815)
+Append: [韩媒：习近平最快可能下周访问朝鲜](https://www.zaobao.com/news/china/story20260521-9081782)
+append_entries: 9
+Finish: 2026-05-21 01:59:48.767030

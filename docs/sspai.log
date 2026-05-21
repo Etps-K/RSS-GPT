@@ -2920,3 +2920,12 @@ Existing_entries: 144
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-20 23:03:09.766060
+------------------------------------------------------
+Started: 2026-05-21 01:59:14.419330
+Existing_entries: 144
+Fetching from https://sspai.com/feed
+Token length: 66
+Summarized using deepseek-v4-flash
+Append: [派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
+append_entries: 1
+Finish: 2026-05-21 01:59:25.089700
