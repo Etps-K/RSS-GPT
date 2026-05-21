@@ -2929,3 +2929,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
 append_entries: 1
 Finish: 2026-05-21 01:59:25.089700
+------------------------------------------------------
+Started: 2026-05-21 06:09:20.789620
+Existing_entries: 145
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
+append_entries: 1
+Finish: 2026-05-21 06:20:20.475083

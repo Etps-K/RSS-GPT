@@ -1548,3 +1548,29 @@ Summarized using deepseek-v4-flash
 Append: [特朗普称愿多等几天以获伊朗“正确答案”](https://www.zaobao.com/news/world/story20260521-9081738)
 append_entries: 4
 Finish: 2026-05-21 02:00:04.090769
+------------------------------------------------------
+Started: 2026-05-21 06:20:52.172239
+Existing_entries: 400
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 734
+Summarized using deepseek-v4-flash
+Append: [中东冲突打击斯里兰卡茶业 更多茶农或面临贫困](https://www.zaobao.com/news/world/story20260521-9083818)
+Token length: 419
+Summarized using deepseek-v4-flash
+Append: [少年儿童屏幕时间或比睡觉上学时间长 已成美国公共卫生问题](https://www.zaobao.com/news/world/story20260521-9083768)
+Token length: 382
+Summarized using deepseek-v4-flash
+Append: [英国与海合会在伊朗战争阴影下达成贸易协议](https://www.zaobao.com/news/world/story20260521-9083107)
+Token length: 475
+Summarized using deepseek-v4-flash
+Append: [哥伦比亚也驱逐玻利维亚大使](https://www.zaobao.com/news/world/story20260521-9083228)
+Token length: 278
+Summarized using deepseek-v4-flash
+Append: [美军将在日本鹿儿岛临时部署导弹装置](https://www.zaobao.com/news/world/story20260521-9083458)
+Append: [美军在阿曼湾登检伊朗油轮后放行 令改航向](https://www.zaobao.com/news/world/story20260521-9082840)
+Append: [以色列拟在联合国机构建军事设施 古特雷斯强烈谴责](https://www.zaobao.com/news/world/story20260521-9082594)
+Append: [联合国大会压倒性通过气候决议 美俄等八国反对](https://www.zaobao.com/news/world/story20260521-9082544)
+Append: [哈佛遏制“成绩膨胀” 限20%学生拿A](https://www.zaobao.com/news/world/story20260521-9082237)
+Append: [食品中常见防腐剂增加罹患高血压心脏病风险](https://www.zaobao.com/news/world/story20260521-9082029)
+append_entries: 10
+Finish: 2026-05-21 06:21:22.788054

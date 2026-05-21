@@ -1779,3 +1779,30 @@ Append: [白宫：特朗普拟短时间内决定新对台军售](https://www.zao
 Append: [韩媒：习近平最快可能下周访问朝鲜](https://www.zaobao.com/news/china/story20260521-9081782)
 append_entries: 9
 Finish: 2026-05-21 01:59:48.767030
+------------------------------------------------------
+Started: 2026-05-21 06:20:20.924981
+Existing_entries: 561
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 450
+Summarized using deepseek-v4-flash
+Append: [刘国中吁树立践行正确政绩观 提升原始创新能力](https://www.zaobao.com/news/china/story20260521-9083569)
+Token length: 946
+Summarized using deepseek-v4-flash
+Append: [福建漳州曝违规添加剂浸泡杨梅 五人被刑拘](https://www.zaobao.com/news/china/story20260521-9083589)
+Token length: 455
+Summarized using deepseek-v4-flash
+Append: [黄仁勋：英伟达基本将中国AI晶片市场让给华为](https://www.zaobao.com/news/china/story20260521-9083450)
+Token length: 760
+Summarized using deepseek-v4-flash
+Append: [特斯拉宣布监督版FSD在中国启用](https://www.zaobao.com/news/china/story20260521-9083347)
+Token length: 955
+Summarized using deepseek-v4-flash
+Append: [台总统府秘书长：目前未接获特朗普与赖清德通话安排](https://www.zaobao.com/news/china/story20260521-9083187)
+Append: [习普晚宴菜单包括北京烤鸭金华火腿福州面](https://www.zaobao.com/news/china/story20260521-9082937)
+Append: [时隔26年 普京在北京重逢当年北海公园偶遇的中国男孩](https://www.zaobao.com/news/china/story20260521-9082815)
+Append: [俄中计划年底前开通横跨阿穆尔河跨境缆车](https://www.zaobao.com/news/china/story20260521-9082689)
+Append: [日本经济产业部长今将访华出席APEC会议](https://www.zaobao.com/news/china/story20260521-9082365)
+Append: [中国政府支出创六个月来最快速度缩减](https://www.zaobao.com/news/china/story20260521-9082181)
+Append: [行业组织吁欧洲建立关键矿产定价体系 降低对中国依赖](https://www.zaobao.com/news/china/story20260521-9082158)
+append_entries: 11
+Finish: 2026-05-21 06:20:51.842045
