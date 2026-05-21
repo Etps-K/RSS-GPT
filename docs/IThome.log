@@ -3719,3 +3719,26 @@ Append: [Counterpoint：2026 年一季度欧洲智能手机出货量同比下滑
 Append: [全国首张综合性司机服务地图发布，可导航超 2100 个司机驿站](https://www.ithome.com/0/953/602.htm)
 append_entries: 43
 Finish: 2026-05-21 14:35:18.921830
+------------------------------------------------------
+Started: 2026-05-21 17:52:30.675107
+Existing_entries: 1043
+Fetching from https://www.ithome.com/rss/
+Token length: 524
+Summarized using deepseek-v4-flash
+Append: [蔚来李斌：汽车行业材料成本压力非常大，将保持价格稳定](https://www.ithome.com/0/953/667.htm)
+Token length: 873
+Summarized using deepseek-v4-flash
+Append: [科学家发现隐秘地月航线，能省不少燃料](https://www.ithome.com/0/953/666.htm)
+Token length: 606
+Summarized using deepseek-v4-flash
+Append: [Epic 喜加二：《逃出百慕大》《古墓丽影 1-3 复刻版》游戏免费领](https://www.ithome.com/0/953/665.htm)
+Token length: 642
+Summarized using deepseek-v4-flash
+Append: [摩根大通未来将扩招 AI 专家、缩招传统银行家，迎战人工智能时代](https://www.ithome.com/0/953/664.htm)
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [消息称某厂 7 英寸 2K 大屏性能机测试天玑 9 系芯片，预计为小米旗下](https://www.ithome.com/0/953/663.htm)
+Append: [剪映国际版与谷歌合作，CapCut 编辑功能将集成到 Gemini 应用](https://www.ithome.com/0/953/662.htm)
+Append: [自动驾驶车辆因洪水被困，Waymo 暂停亚特兰大地区 Robotaxi 服务](https://www.ithome.com/0/953/661.htm)
+append_entries: 7
+Finish: 2026-05-21 17:52:54.194210
