@@ -2011,3 +2011,9 @@ Summarized using deepseek-v4-flash
 Append: [攻台片《澎湖海战》争议中定档甲午战争开战日 豆瓣无法评分](https://www.zaobao.com/news/china/story20260522-9093427)
 append_entries: 4
 Finish: 2026-05-22 17:43:39.246651
+------------------------------------------------------
+Started: 2026-05-22 19:19:57.120393
+Existing_entries: 639
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-22 19:19:57.236565
