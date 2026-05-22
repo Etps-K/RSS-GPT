@@ -2998,3 +2998,12 @@ Summarized using deepseek-v4-flash
 Append: [Maptoposter Online：把你爱的城市画成艺术海报](https://sspai.com/post/109287)
 append_entries: 1
 Finish: 2026-05-22 07:34:34.962211
+------------------------------------------------------
+Started: 2026-05-22 10:39:47.879800
+Existing_entries: 150
+Fetching from https://sspai.com/feed
+Token length: 28
+Summarized using deepseek-v4-flash
+Append: [浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
+append_entries: 1
+Finish: 2026-05-22 10:39:59.032861

@@ -1715,3 +1715,18 @@ Append: [美日澳印5月26日举行四方安全对话外长会议](https://www.
 Append: [特朗普反武器化基金引发内讧 参院拨款法案推迟审议](https://www.zaobao.com/news/world/story20260522-9088453)
 append_entries: 13
 Finish: 2026-05-22 07:35:33.489696
+------------------------------------------------------
+Started: 2026-05-22 10:40:41.109281
+Existing_entries: 453
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [特朗普特使：加沙分裂局面或永久化](https://www.zaobao.com/news/world/story20260522-9090673)
+Token length: 502
+Summarized using deepseek-v4-flash
+Append: [美民主党分析哈里斯败选原因 错都在拜登](https://www.zaobao.com/news/world/story20260522-9091490)
+Token length: 420
+Summarized using deepseek-v4-flash
+Append: [美众议院推迟表决限制特朗普对伊朗动武法案](https://www.zaobao.com/news/world/story20260522-9090608)
+append_entries: 3
+Finish: 2026-05-22 10:41:02.747381
