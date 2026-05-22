@@ -1971,3 +1971,25 @@ Append: [德国经济能源部长下周访华 40家德企高管随行](https://w
 Append: [遭举报敛财隐婚 陕西道协会长胡诚林疑被免职](https://www.zaobao.com/news/china/story20260522-9090400)
 append_entries: 14
 Finish: 2026-05-22 10:40:40.725080
+------------------------------------------------------
+Started: 2026-05-22 14:10:36.802065
+Existing_entries: 629
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 305
+Summarized using deepseek-v4-flash
+Append: [下午察：完胜台风9比0 歼10CE辗压欧洲顶尖战机？](https://www.zaobao.com/news/china/story20260522-9092931)
+Token length: 1591
+Summarized using deepseek-v4-flash
+Append: [中国民营医院掀关停潮 骗保整治与同质化夹击](https://www.zaobao.com/news/china/story20260522-9019695)
+Token length: 557
+Summarized using deepseek-v4-flash
+Append: [日本驻华大使金杉宪治：将尽最大努力促成日中峰会](https://www.zaobao.com/news/china/story20260522-9092329)
+Token length: 667
+Summarized using deepseek-v4-flash
+Append: [台湾数发部邀苹果谷歌协商 防军事设施卫星图资成安全漏洞](https://www.zaobao.com/news/china/story20260522-9091199)
+Token length: 833
+Summarized using deepseek-v4-flash
+Append: [北京部署防汛：养老院现险情时转移不落一人 提高群众自救能力](https://www.zaobao.com/news/china/story20260522-9092809)
+Append: [494名电诈嫌犯被老挝移交中国](https://www.zaobao.com/news/china/story20260522-9092565)
+append_entries: 6
+Finish: 2026-05-22 14:11:05.354410

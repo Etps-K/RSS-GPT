@@ -3007,3 +3007,12 @@ Summarized using deepseek-v4-flash
 Append: [浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
 append_entries: 1
 Finish: 2026-05-22 10:39:59.032861
+------------------------------------------------------
+Started: 2026-05-22 14:10:28.080594
+Existing_entries: 151
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
+append_entries: 1
+Finish: 2026-05-22 14:10:36.213974

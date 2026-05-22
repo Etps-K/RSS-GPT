@@ -1730,3 +1730,25 @@ Summarized using deepseek-v4-flash
 Append: [美众议院推迟表决限制特朗普对伊朗动武法案](https://www.zaobao.com/news/world/story20260522-9090608)
 append_entries: 3
 Finish: 2026-05-22 10:41:02.747381
+------------------------------------------------------
+Started: 2026-05-22 14:11:05.793116
+Existing_entries: 456
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 728
+Summarized using deepseek-v4-flash
+Append: [经济师上调美通胀预期 推迟对美联储降息时间预测](https://www.zaobao.com/news/world/story20260522-9093162)
+Token length: 1147
+Summarized using deepseek-v4-flash
+Append: [美情报指伊朗军事重建快于预期 美军损耗迅速引盟友担忧](https://www.zaobao.com/news/world/story20260522-9092077)
+Token length: 517
+Summarized using deepseek-v4-flash
+Append: [阿联酋：核电站遇袭为伊朗发出警告信号](https://www.zaobao.com/news/world/story20260522-9093016)
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [阿联酋总统顾问警告美伊勿重燃战火](https://www.zaobao.com/news/world/story20260522-9092476)
+Token length: 272
+Summarized using deepseek-v4-flash
+Append: [沙特媒体：美伊协议草案内容包括在所有战线实现停火](https://www.zaobao.com/news/world/story20260522-9092380)
+Append: [洪都拉斯北部发生两起武装袭击 至少25人死亡](https://www.zaobao.com/news/world/story20260522-9092158)
+append_entries: 6
+Finish: 2026-05-22 14:11:37.234006
