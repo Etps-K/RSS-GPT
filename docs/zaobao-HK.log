@@ -1897,3 +1897,15 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：普京访华后又传“习金会”登场](https://www.zaobao.com/news/china/story20260522-9087751)
 append_entries: 1
 Finish: 2026-05-21 22:57:18.085117
+------------------------------------------------------
+Started: 2026-05-22 02:00:55.154218
+Existing_entries: 597
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [欧盟拟豁免遭制裁中国晶片企业 以缓解车企供应链压力](https://www.zaobao.com/news/china/story20260522-9088220)
+Token length: 278
+Summarized using deepseek-v4-flash
+Append: [涉违禁合成激素 中国据报暂停从三家巴西工厂进口牛肉](https://www.zaobao.com/news/china/story20260522-9088181)
+append_entries: 2
+Finish: 2026-05-22 02:01:08.816521

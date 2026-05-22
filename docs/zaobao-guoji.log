@@ -1664,3 +1664,25 @@ Existing_entries: 434
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-21 22:57:18.595980
+------------------------------------------------------
+Started: 2026-05-22 02:01:09.154697
+Existing_entries: 434
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 4053
+Summarized using deepseek-v4-flash
+Append: [【特稿】从马斯克对决奥尔特曼：看万亿估值下的AI治理之争](https://www.zaobao.com/news/world/story20260522-9054566)
+Token length: 411
+Summarized using deepseek-v4-flash
+Append: [特朗普称美国将向波兰增派5000名士兵](https://www.zaobao.com/news/world/story20260522-9088267)
+Token length: 405
+Summarized using deepseek-v4-flash
+Append: [鲁比奥指古巴对美国构成“国家安全威胁”](https://www.zaobao.com/news/world/story20260522-9088218)
+Token length: 325
+Summarized using deepseek-v4-flash
+Append: [伊朗媒体：伊美在巴基斯坦调解下继续对话](https://www.zaobao.com/news/world/story20260522-9088143)
+Token length: 338
+Summarized using deepseek-v4-flash
+Append: [美国务卿：美伊谈判出现一些“好迹象”](https://www.zaobao.com/news/world/story20260522-9088134)
+Append: [特朗普誓言要把伊朗浓缩铀“弄到手”](https://www.zaobao.com/news/world/story20260522-9088103)
+append_entries: 6
+Finish: 2026-05-22 02:01:36.716796

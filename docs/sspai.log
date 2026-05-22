@@ -2980,3 +2980,12 @@ Existing_entries: 148
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-21 22:57:11.939624
+------------------------------------------------------
+Started: 2026-05-22 02:00:46.667219
+Existing_entries: 148
+Fetching from https://sspai.com/feed
+Token length: 39
+Summarized using deepseek-v4-flash
+Append: [派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等](https://sspai.com/post/110020)
+append_entries: 1
+Finish: 2026-05-22 02:00:54.698335
