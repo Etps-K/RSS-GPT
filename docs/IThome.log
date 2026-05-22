@@ -4072,3 +4072,21 @@ Existing_entries: 1000
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-22 21:02:00.247151
+------------------------------------------------------
+Started: 2026-05-22 22:47:34.332801
+Existing_entries: 1000
+Fetching from https://www.ithome.com/rss/
+Token length: 407
+Summarized using deepseek-v4-flash
+Append: [全球首次：我国完成 537 天万米深海材料腐蚀试验，刷新世界纪录](https://www.ithome.com/0/954/225.htm)
+Token length: 631
+Summarized using deepseek-v4-flash
+Append: [微软发布 Win11 Experimental / Beta 最新预览版，新增屏幕色调等功能](https://www.ithome.com/0/954/222.htm)
+Token length: 256
+Summarized using deepseek-v4-flash
+Append: [马斯克 SpaceX“星舰”实施第 12 次试飞：星舰 V3 首飞发射升空](https://www.ithome.com/0/954/224.htm)
+Token length: 2383
+Summarized using deepseek-v4-flash
+Append: [黄仁勋：AI 基建年度开支要冲到 4 万亿美元！](https://www.ithome.com/0/954/223.htm)
+append_entries: 4
+Finish: 2026-05-22 22:47:54.508670
