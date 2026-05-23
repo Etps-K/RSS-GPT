@@ -1890,3 +1890,18 @@ Summarized using deepseek-v4-flash
 Append: [美国务卿访问印度 力图强化印美关系](https://www.zaobao.com/news/world/story20260523-9096042)
 append_entries: 2
 Finish: 2026-05-23 12:54:36.111912
+------------------------------------------------------
+Started: 2026-05-23 14:53:00.764049
+Existing_entries: 496
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 182
+Summarized using deepseek-v4-flash
+Append: [美国务卿：伊朗最早可能于23日接受协议](https://www.zaobao.com/news/world/story20260523-9096763)
+Token length: 628
+Summarized using deepseek-v4-flash
+Append: [乌干达本轮伊波拉疫情首次出现本土病例](https://www.zaobao.com/news/world/story20260523-9096717)
+Token length: 452
+Summarized using deepseek-v4-flash
+Append: [伊朗议长：不会在国家和人民权利问题上让步](https://www.zaobao.com/news/world/story20260523-9096594)
+append_entries: 3
+Finish: 2026-05-23 14:53:13.093299

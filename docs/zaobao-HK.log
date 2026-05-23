@@ -2136,3 +2136,18 @@ Summarized using deepseek-v4-flash
 Append: [习特会后 吴钊燮：大陆在第一岛链部署逾百艘船舰](https://www.zaobao.com/news/china/story20260523-9096316)
 append_entries: 2
 Finish: 2026-05-23 12:54:26.774787
+------------------------------------------------------
+Started: 2026-05-23 14:52:43.648428
+Existing_entries: 668
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1118
+Summarized using deepseek-v4-flash
+Append: [知情人士否认暂缓对台军售与伊朗战事有关 尚无“特赖通话”计划](https://www.zaobao.com/news/china/story20260523-9096536)
+Token length: 430
+Summarized using deepseek-v4-flash
+Append: [高市早苗慰问山西矿难死者家属](https://www.zaobao.com/news/china/story20260523-9096725)
+Token length: 881
+Summarized using deepseek-v4-flash
+Append: [基金会内斗风波延烧 引发马英九健康亮红灯揣测](https://www.zaobao.com/news/china/story20260523-9095377)
+append_entries: 3
+Finish: 2026-05-23 14:53:00.350758
