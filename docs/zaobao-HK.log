@@ -2124,3 +2124,15 @@ Append: [中使馆：四名在泰国失联中国公民已被找到](https://www.
 Append: [日部长：与中国商务部长简短交谈](https://www.zaobao.com/news/china/story20260523-9095517)
 append_entries: 7
 Finish: 2026-05-23 11:03:37.607752
+------------------------------------------------------
+Started: 2026-05-23 12:54:18.055949
+Existing_entries: 666
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 707
+Summarized using deepseek-v4-flash
+Append: [赴山西煤矿爆炸事故现场 张国清：严肃追责惩处违法违规行为](https://www.zaobao.com/news/china/story20260523-9096519)
+Token length: 543
+Summarized using deepseek-v4-flash
+Append: [习特会后 吴钊燮：大陆在第一岛链部署逾百艘船舰](https://www.zaobao.com/news/china/story20260523-9096316)
+append_entries: 2
+Finish: 2026-05-23 12:54:26.774787

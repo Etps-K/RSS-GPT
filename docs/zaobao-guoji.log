@@ -1878,3 +1878,15 @@ Summarized using deepseek-v4-flash
 Append: [世卫将刚果（金）伊波拉疫情风险上调至最高级别](https://www.zaobao.com/news/world/story20260523-9095507)
 append_entries: 5
 Finish: 2026-05-23 11:04:02.278506
+------------------------------------------------------
+Started: 2026-05-23 12:54:27.240825
+Existing_entries: 494
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 436
+Summarized using deepseek-v4-flash
+Append: [美国扩大伊波拉入境限制至绿卡持有者](https://www.zaobao.com/news/world/story20260523-9096202)
+Token length: 817
+Summarized using deepseek-v4-flash
+Append: [美国务卿访问印度 力图强化印美关系](https://www.zaobao.com/news/world/story20260523-9096042)
+append_entries: 2
+Finish: 2026-05-23 12:54:36.111912
