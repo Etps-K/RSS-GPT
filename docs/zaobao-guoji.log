@@ -1818,3 +1818,27 @@ Append: [美国新规：绿卡申请者返回原籍国提出申请](https://www.
 Append: [伊朗外交部：伊美分歧严重 难言协议接近达成](https://www.zaobao.com/news/world/story20260523-9094176)
 append_entries: 6
 Finish: 2026-05-23 01:52:19.884710
+------------------------------------------------------
+Started: 2026-05-23 05:31:07.475575
+Existing_entries: 478
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 472
+Summarized using deepseek-v4-flash
+Append: [阿尔及利亚颁布法律 认定法国殖民统治构成犯罪](https://www.zaobao.com/news/world/story20260523-9094139)
+Token length: 419
+Summarized using deepseek-v4-flash
+Append: [北约东翼首批三架美制F-35战机抵达波兰](https://www.zaobao.com/news/world/story20260523-9094862)
+Token length: 436
+Summarized using deepseek-v4-flash
+Append: [墨欧签署新版协议互降关税 扩大非美国贸易](https://www.zaobao.com/news/world/story20260523-9094830)
+Token length: 836
+Summarized using deepseek-v4-flash
+Append: [特朗普周末“坐镇白宫” 开会商讨是否对伊朗发动新打击](https://www.zaobao.com/news/world/story20260523-9094481)
+Token length: 454
+Summarized using deepseek-v4-flash
+Append: [美国五角大楼公布第二批涉UFO档案](https://www.zaobao.com/news/world/story20260523-9094129)
+Append: [美国纽约干船坞爆炸致一死36伤](https://www.zaobao.com/news/world/story20260523-9094382)
+Append: [沙特电视台：美伊协议草案或将在数小时内公布](https://www.zaobao.com/news/world/story20260523-9094332)
+Append: [美贸易代表预计不会很快征收晶片关税](https://www.zaobao.com/news/world/story20260523-9094303)
+append_entries: 8
+Finish: 2026-05-23 05:31:32.521076

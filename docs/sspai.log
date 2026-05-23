@@ -3046,3 +3046,12 @@ Existing_entries: 152
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-23 01:51:30.697626
+------------------------------------------------------
+Started: 2026-05-23 05:30:43.496813
+Existing_entries: 152
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [这个周末，来深圳文博会和少数派打个卡吧](https://sspai.com/post/110052)
+append_entries: 1
+Finish: 2026-05-23 05:30:46.776311

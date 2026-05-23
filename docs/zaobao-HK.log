@@ -2056,3 +2056,24 @@ Summarized using deepseek-v4-flash
 Append: [山西沁源一煤矿爆炸已致八死 井下仍有38人](https://www.zaobao.com/news/china/story20260523-9094198)
 append_entries: 5
 Finish: 2026-05-23 01:51:57.103603
+------------------------------------------------------
+Started: 2026-05-23 05:30:47.300593
+Existing_entries: 646
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 261
+Summarized using deepseek-v4-flash
+Append: [美国为伊朗战争暂缓对台军售案？消息人士：与中东无关](https://www.zaobao.com/news/china/story20260523-9094887)
+Token length: 269
+Summarized using deepseek-v4-flash
+Append: [山西煤矿事故企业负责人被控制](https://www.zaobao.com/news/china/story20260523-9094813)
+Token length: 250
+Summarized using deepseek-v4-flash
+Append: [广西陆川县男子持刀伤人 五警员制止时受伤](https://www.zaobao.com/news/china/story20260523-9094803)
+Token length: 657
+Summarized using deepseek-v4-flash
+Append: [闻泰科技起诉安世等六被告提出索赔80亿人民币](https://www.zaobao.com/news/china/story20260523-9094742)
+Token length: 705
+Summarized using deepseek-v4-flash
+Append: [中国证监会拟对富途罚款18.5亿人民币 老虎证券罚没4.1亿](https://www.zaobao.com/news/china/story20260523-9094596)
+append_entries: 5
+Finish: 2026-05-23 05:31:07.071870
