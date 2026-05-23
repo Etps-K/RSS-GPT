@@ -1857,3 +1857,24 @@ Summarized using deepseek-v4-flash
 Append: [巴基斯坦陆军参谋长到德黑兰与伊朗外长会面](https://www.zaobao.com/news/world/story20260523-9095035)
 append_entries: 3
 Finish: 2026-05-23 08:03:37.763543
+------------------------------------------------------
+Started: 2026-05-23 11:03:38.012379
+Existing_entries: 489
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1026
+Summarized using deepseek-v4-flash
+Append: [“坦克日”促销惹众怒 韩民众号召抵制星巴克](https://www.zaobao.com/news/world/story20260523-9095639)
+Token length: 305
+Summarized using deepseek-v4-flash
+Append: [美国夏威夷发生6.0级地震](https://www.zaobao.com/news/world/story20260523-9095892)
+Token length: 286
+Summarized using deepseek-v4-flash
+Append: [驻日美军士兵涉嫌性侵 移送检方侦办](https://www.zaobao.com/news/world/story20260523-9095710)
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [美陪审团：波音公司在737 MAX停飞诉讼中无罪](https://www.zaobao.com/news/world/story20260523-9095568)
+Token length: 626
+Summarized using deepseek-v4-flash
+Append: [世卫将刚果（金）伊波拉疫情风险上调至最高级别](https://www.zaobao.com/news/world/story20260523-9095507)
+append_entries: 5
+Finish: 2026-05-23 11:04:02.278506

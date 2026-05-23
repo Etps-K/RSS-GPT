@@ -2101,3 +2101,26 @@ Append: [山西煤矿瓦斯爆炸死者超50人](https://www.zaobao.com/news/chi
 Append: [中科院院士高松任北京大学校长](https://www.zaobao.com/news/china/story20260523-9094613)
 append_entries: 8
 Finish: 2026-05-23 08:03:20.823652
+------------------------------------------------------
+Started: 2026-05-23 11:03:10.428302
+Existing_entries: 659
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 285
+Summarized using deepseek-v4-flash
+Append: [中国拟下半年择机发射嫦娥七号](https://www.zaobao.com/news/china/story20260523-9095953)
+Token length: 894
+Summarized using deepseek-v4-flash
+Append: [黄仁勋再访台 将出席台北国际电脑展](https://www.zaobao.com/news/china/story20260523-9095936)
+Token length: 255
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦总理谢里夫抵达杭州开启访华行](https://www.zaobao.com/news/china/story20260523-9095907)
+Token length: 188
+Summarized using deepseek-v4-flash
+Append: [山西石灰窑发生一氧化碳中毒事件一死五伤](https://www.zaobao.com/news/china/story20260523-9095765)
+Token length: 248
+Summarized using deepseek-v4-flash
+Append: [中国兵器装备集团前总经理徐留平被查](https://www.zaobao.com/news/china/story20260523-9095673)
+Append: [中使馆：四名在泰国失联中国公民已被找到](https://www.zaobao.com/news/china/story20260523-9095375)
+Append: [日部长：与中国商务部长简短交谈](https://www.zaobao.com/news/china/story20260523-9095517)
+append_entries: 7
+Finish: 2026-05-23 11:03:37.607752
