@@ -1842,3 +1842,18 @@ Append: [沙特电视台：美伊协议草案或将在数小时内公布](https:
 Append: [美贸易代表预计不会很快征收晶片关税](https://www.zaobao.com/news/world/story20260523-9094303)
 append_entries: 8
 Finish: 2026-05-23 05:31:32.521076
+------------------------------------------------------
+Started: 2026-05-23 08:03:21.276615
+Existing_entries: 486
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 796
+Summarized using deepseek-v4-flash
+Append: [美新一代“星舰”首飞 完成大部分目标](https://www.zaobao.com/news/world/story20260523-9095116)
+Token length: 399
+Summarized using deepseek-v4-flash
+Append: [伊朗外长：美国要求过分且立场矛盾阻碍谈判进程](https://www.zaobao.com/news/world/story20260523-9095075)
+Token length: 313
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦陆军参谋长到德黑兰与伊朗外长会面](https://www.zaobao.com/news/world/story20260523-9095035)
+append_entries: 3
+Finish: 2026-05-23 08:03:37.763543

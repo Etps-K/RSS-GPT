@@ -3055,3 +3055,9 @@ Summarized using deepseek-v4-flash
 Append: [这个周末，来深圳文博会和少数派打个卡吧](https://sspai.com/post/110052)
 append_entries: 1
 Finish: 2026-05-23 05:30:46.776311
+------------------------------------------------------
+Started: 2026-05-23 08:02:56.458221
+Existing_entries: 153
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-05-23 08:02:57.505229

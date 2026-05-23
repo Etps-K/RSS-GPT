@@ -4146,3 +4146,60 @@ Fetch error: ("Connection broken: ConnectionResetError(104, 'Connection reset by
 Fetch failed from https://www.ithome.com/rss/
 append_entries: 0
 error when rendering xml, skip docs/IThome
+------------------------------------------------------
+Started: 2026-05-23 08:03:39.303753
+Existing_entries: 1032
+Fetching from https://www.ithome.com/rss/
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [小米为暴雨受灾地区提供免费检测、免费维修服务](https://www.ithome.com/0/954/368.htm)
+Token length: 291
+Summarized using deepseek-v4-flash
+Append: [重大变革：fpt. 渲染展示苹果 iPhone 20](https://www.ithome.com/0/954/367.htm)
+Token length: 314
+Summarized using deepseek-v4-flash
+Append: [《异环》上架 Steam / Epic 商城，计划 7 月发行](https://www.ithome.com/0/954/366.htm)
+Token length: 555
+Summarized using deepseek-v4-flash
+Append: [大众安徽新款与众 06 上市：限时权益价 13.49 万-14.49 万元，528km 续航](https://www.ithome.com/0/954/365.htm)
+Token length: 569
+Summarized using deepseek-v4-flash
+Append: [40.68 万元起，蔚来全新 ES8 完成第 11 万台新车交付](https://www.ithome.com/0/954/364.htm)
+Append: [金标大众首款轿车与众 07 上市，限时权益价 10.99 万-11.99 万元](https://www.ithome.com/0/954/357.htm)
+Append: [Linus Torvalds 称 AI 开发即便再强，也不代表你能少动脑](https://www.ithome.com/0/954/355.htm)
+Append: [Alinea Analytics：《极限竞速：地平线 6》游戏全球销量逼近 500 万份，Xbox 平台创造 51% 收入](https://www.ithome.com/0/954/352.htm)
+Append: [积累宝贵经验，神舟二十三号舷窗空间碎片防护已进行适应性改进](https://www.ithome.com/0/954/342.htm)
+Append: [2026 年度电影总票房破 150 亿：《飞驰人生 3》《镖人：风起大漠》《惊蛰无声》前三](https://www.ithome.com/0/954/321.htm)
+Append: [让机器人拥有“肌肉记忆”，智元推出新一代二阶段 BFM-2 基座模型](https://www.ithome.com/0/954/319.htm)
+Append: [渣打 CEO 就 AI 替代“低价值”人力致歉，约 7800 人裁员计划未改](https://www.ithome.com/0/954/318.htm)
+Append: [OpenAI ChatGPT 解锁 AI 填表技能：图像识别、语音输入和自动补全](https://www.ithome.com/0/954/309.htm)
+Append: [成渝中线高铁蜀安隧道贯通，创国内土压平衡盾构隧道直径之最](https://www.ithome.com/0/954/306.htm)
+Append: [龙虾 OpenClaw 工程师示警：AI 正批量制造低质量危险代码](https://www.ithome.com/0/954/301.htm)
+Append: [微星 B850M 迫击炮 MAX 主板前瞻：供电升级、接口调整，设计更内敛](https://www.ithome.com/0/954/296.htm)
+Append: [推翻“量子霸权”论断，笔记本电脑 + 新算法攻破量子难题](https://www.ithome.com/0/954/295.htm)
+Append: [闻泰科技起诉安世等六被告索赔 80 亿元，法院已受理](https://www.ithome.com/0/954/289.htm)
+Append: [三星 Galaxy Z Fold8 Wide 折叠手机钢化膜曝光](https://www.ithome.com/0/954/288.htm)
+Append: [法国新一代 TGV-M 双层高铁列车亮相，最高时速 320km/h](https://www.ithome.com/0/954/286.htm)
+Append: [小米米家冰箱 Pro 508L 自动制冰新品今日开售：十字门 / 法式门 4199/4399 元](https://www.ithome.com/0/954/285.htm)
+Append: [飞傲雪漫天 OAK NANO 耳机发售：13.8mm 大尺寸动圈单元，2999 元](https://www.ithome.com/0/954/284.htm)
+Append: [极氪全新一代液冷超充桩上线：单枪峰值电流 800A、峰值功率 800kW](https://www.ithome.com/0/954/283.htm)
+Append: [推广约 9 个月叫停：星巴克北美搁置 AI 库存系统，分不清燕麦奶和牛奶](https://www.ithome.com/0/954/281.htm)
+Append: [因劳动力短缺，丰田将把中国台湾地区产乘用车出口到日本](https://www.ithome.com/0/954/280.htm)
+Append: [华为乾崑｜启境 GT7 车型官宣 5 月 29 日预售发布，同步开启预订](https://www.ithome.com/0/954/279.htm)
+Append: [《黑袍纠察队》衍生剧《沃特公司的崛起》先导预告片公开，2027 年上线](https://www.ithome.com/0/954/278.htm)
+Append: [年薪 32~40 万美元：Anthropic 推出高薪写作岗，打响 AI 传播战](https://www.ithome.com/0/954/277.htm)
+Append: [消息称 OPPO Reno 新机搭载 2 亿像素超清云台主摄，同档唯一天玑 9 系 + 顶配镜头联调](https://www.ithome.com/0/954/275.htm)
+Append: [Meta 美国在建 AI 数据中心被指恶化水源，当地居民靠外运水做饭洗澡](https://www.ithome.com/0/954/274.htm)
+Append: [联想推出 LOQ 15AHP11 游戏本：AMD 锐龙 7 250 CPU、RTX 5050/5060/5070 显卡](https://www.ithome.com/0/954/273.htm)
+Append: [修不过来：Anthropic 披露 AI 抓虫首月战报，揪出超 1 万个高危漏洞](https://www.ithome.com/0/954/272.htm)
+Append: [前 SE 高管称《最终幻想》等 IP 现代化进程缓慢，呼吁老东家拥抱实时服务模式](https://www.ithome.com/0/954/270.htm)
+Append: [首个杜比视界认证 AR 眼镜套组，雷鸟 GT 系列正式亮相](https://www.ithome.com/0/954/267.htm)
+Append: [微软推出 Fara1.5 系列浏览器 AI 智能体模型，72% 任务成功率超 OpenAI Operator](https://www.ithome.com/0/954/266.htm)
+Append: [首次公开：神舟二十三号航天员乘组训练画面公布，三人简历公布](https://www.ithome.com/0/954/269.htm)
+Append: [联想推出 13.3 英寸超薄本 IdeaPad Slim 5i 13IWC11，配 Wildcat Lake 处理器](https://www.ithome.com/0/954/265.htm)
+Append: [人形机器人也有“身份证”：全国首个管理平台在京发布，全程可追溯](https://www.ithome.com/0/954/264.htm)
+Append: [小米通报两起空调安装抽真空造假事件：涉事工程师永久拉黑](https://www.ithome.com/0/954/263.htm)
+Append: [169.36GB：《最终幻想 7：重生》XBOX 版游戏开放预载](https://www.ithome.com/0/954/262.htm)
+Append: [微软调整 Win11 待机规则：用户主动让电脑睡眠，中止播放音乐](https://www.ithome.com/0/954/260.htm)
+append_entries: 41
+Finish: 2026-05-23 08:04:11.235568

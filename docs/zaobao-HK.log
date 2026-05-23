@@ -2077,3 +2077,27 @@ Summarized using deepseek-v4-flash
 Append: [中国证监会拟对富途罚款18.5亿人民币 老虎证券罚没4.1亿](https://www.zaobao.com/news/china/story20260523-9094596)
 append_entries: 5
 Finish: 2026-05-23 05:31:07.071870
+------------------------------------------------------
+Started: 2026-05-23 08:02:58.093404
+Existing_entries: 651
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 447
+Summarized using deepseek-v4-flash
+Append: [王文涛晤美副贸易代表 吁尽快敲定经贸磋商成果细节](https://www.zaobao.com/news/china/story20260523-9095298)
+Token length: 496
+Summarized using deepseek-v4-flash
+Append: [美司法部：两名在逃中国公民涉为跨国犯罪组织洗钱被起诉](https://www.zaobao.com/news/china/story20260523-9095350)
+Token length: 700
+Summarized using deepseek-v4-flash
+Append: [台媒：郑丽文访美聚焦台海和平常态化](https://www.zaobao.com/news/china/story20260523-9095254)
+Token length: 254
+Summarized using deepseek-v4-flash
+Append: [山西大同云冈区3.2级地震 废矿井采空区塌陷引发](https://www.zaobao.com/news/china/story20260523-9095121)
+Token length: 572
+Summarized using deepseek-v4-flash
+Append: [到部队后畏难情绪明显拒服兵役 中国男子被采取惩戒措施](https://www.zaobao.com/news/china/story20260523-9095126)
+Append: [国泰航空抵港客机疑遇气流八人受伤](https://www.zaobao.com/news/china/story20260523-9094730)
+Append: [山西煤矿瓦斯爆炸死者超50人](https://www.zaobao.com/news/china/story20260523-9094975)
+Append: [中科院院士高松任北京大学校长](https://www.zaobao.com/news/china/story20260523-9094613)
+append_entries: 8
+Finish: 2026-05-23 08:03:20.823652
