@@ -4327,3 +4327,12 @@ Existing_entries: 1000
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-23 20:37:38.165599
+------------------------------------------------------
+Started: 2026-05-23 22:41:09.035457
+Existing_entries: 1000
+Fetching from https://www.ithome.com/rss/
+Token length: 763
+Summarized using deepseek-v4-flash
+Append: [WWDC 2026 在即，苹果悄悄注册全新子域名 genai.apple.com](https://www.ithome.com/0/954/457.htm)
+append_entries: 1
+Finish: 2026-05-23 22:41:14.973269
