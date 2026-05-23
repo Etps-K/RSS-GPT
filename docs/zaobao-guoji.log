@@ -1796,3 +1796,25 @@ Existing_entries: 472
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-22 22:47:32.828608
+------------------------------------------------------
+Started: 2026-05-23 01:51:57.555182
+Existing_entries: 472
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 462
+Summarized using deepseek-v4-flash
+Append: [联合国拨款加速应对刚果（金）等地伊波拉疫情](https://www.zaobao.com/news/world/story20260523-9094140)
+Token length: 113
+Summarized using deepseek-v4-flash
+Append: [美加州南部一化学品储罐泄漏 疏散约4万居民](https://www.zaobao.com/news/world/story20260523-9094215)
+Token length: 579
+Summarized using deepseek-v4-flash
+Append: [美情报总监以丈夫患癌为由辞职 美媒称她被白宫“逼走”](https://www.zaobao.com/news/world/story20260523-9094202)
+Token length: 721
+Summarized using deepseek-v4-flash
+Append: [沃什宣誓就任美联储主席 面临通胀挑战](https://www.zaobao.com/news/world/story20260523-9094179)
+Token length: 538
+Summarized using deepseek-v4-flash
+Append: [美国新规：绿卡申请者返回原籍国提出申请](https://www.zaobao.com/news/world/story20260523-9094156)
+Append: [伊朗外交部：伊美分歧严重 难言协议接近达成](https://www.zaobao.com/news/world/story20260523-9094176)
+append_entries: 6
+Finish: 2026-05-23 01:52:19.884710

@@ -2035,3 +2035,24 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：文策院争议下林志玲的温柔转身](https://www.zaobao.com/news/china/story20260523-9092986)
 append_entries: 2
 Finish: 2026-05-22 22:47:32.309187
+------------------------------------------------------
+Started: 2026-05-23 01:51:31.281796
+Existing_entries: 641
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 348
+Summarized using deepseek-v4-flash
+Append: [神二十三瞄准明晚发射 中国空间站将迎来首位香港航天员](https://www.zaobao.com/news/china/story20260523-9094389)
+Token length: 596
+Summarized using deepseek-v4-flash
+Append: [中国提出促进未落户常住人口与户籍人口同等享有基本公共服务](https://www.zaobao.com/news/china/story20260523-9094325)
+Token length: 474
+Summarized using deepseek-v4-flash
+Append: [知情人士：美台尚未就特赖会谈制定具体计划](https://www.zaobao.com/news/china/story20260523-9094275)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [西安警方通报撞人事件：司机操作不当致七人受伤](https://www.zaobao.com/news/china/story20260523-9094211)
+Token length: 285
+Summarized using deepseek-v4-flash
+Append: [山西沁源一煤矿爆炸已致八死 井下仍有38人](https://www.zaobao.com/news/china/story20260523-9094198)
+append_entries: 5
+Finish: 2026-05-23 01:51:57.103603
