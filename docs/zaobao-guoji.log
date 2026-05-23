@@ -1905,3 +1905,25 @@ Summarized using deepseek-v4-flash
 Append: [伊朗议长：不会在国家和人民权利问题上让步](https://www.zaobao.com/news/world/story20260523-9096594)
 append_entries: 3
 Finish: 2026-05-23 14:53:13.093299
+------------------------------------------------------
+Started: 2026-05-23 16:45:47.465659
+Existing_entries: 499
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 347
+Summarized using deepseek-v4-flash
+Append: [孟加拉国麻疹疫情严峻：至少86名儿童死亡](https://www.zaobao.com/news/world/story20260523-9096972)
+Token length: 562
+Summarized using deepseek-v4-flash
+Append: [消息：伊美停火协议将延长60天](https://www.zaobao.com/news/world/story20260523-9096943)
+Token length: 372
+Summarized using deepseek-v4-flash
+Append: [法国禁止以色列国家安全部长入境](https://www.zaobao.com/news/world/story20260523-9096901)
+Token length: 346
+Summarized using deepseek-v4-flash
+Append: [沙特媒体：伊朗欲以开放霍尔木兹海峡换美国赔偿](https://www.zaobao.com/news/world/story20260523-9096879)
+Token length: 1055
+Summarized using deepseek-v4-flash
+Append: [特朗普周末坐镇白宫 美国可能再次打击伊朗](https://www.zaobao.com/news/world/story20260523-9096787)
+Append: [伊朗：伊美正处于谅解备忘录最终敲定阶段](https://www.zaobao.com/news/world/story20260523-9096844)
+append_entries: 6
+Finish: 2026-05-23 16:46:14.970875

@@ -2151,3 +2151,18 @@ Summarized using deepseek-v4-flash
 Append: [基金会内斗风波延烧 引发马英九健康亮红灯揣测](https://www.zaobao.com/news/china/story20260523-9095377)
 append_entries: 3
 Finish: 2026-05-23 14:53:00.350758
+------------------------------------------------------
+Started: 2026-05-23 16:45:35.764097
+Existing_entries: 671
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 414
+Summarized using deepseek-v4-flash
+Append: [赖清德社媒发文向山西煤矿爆炸事故罹难者致哀](https://www.zaobao.com/news/china/story20260524-9096988)
+Token length: 1674
+Summarized using deepseek-v4-flash
+Append: [中国17年来最严重矿难至少82人遇难 地方当局被疑谎报瞒报](https://www.zaobao.com/news/china/story20260523-9096534)
+Token length: 856
+Summarized using deepseek-v4-flash
+Append: [山西煤矿爆炸事故致82死128伤二失联](https://www.zaobao.com/news/china/story20260523-9096955)
+append_entries: 3
+Finish: 2026-05-23 16:45:47.046368
