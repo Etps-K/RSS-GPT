@@ -4315,3 +4315,9 @@ Summarized using deepseek-v4-flash
 Append: [财报披露 Take-Two 野心：计划 2029 财年前推出 29 款新作](https://www.ithome.com/0/954/451.htm)
 append_entries: 5
 Finish: 2026-05-23 16:46:41.464040
+------------------------------------------------------
+Started: 2026-05-23 18:51:30.731426
+Existing_entries: 1005
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2026-05-23 18:51:32.180997
