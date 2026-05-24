@@ -2298,3 +2298,9 @@ Summarized using deepseek-v4-flash
 Append: [中国载人飞船神舟23号准时发射](https://www.zaobao.com/news/china/story20260524-9100073)
 append_entries: 3
 Finish: 2026-05-24 16:49:04.832421
+------------------------------------------------------
+Started: 2026-05-24 18:57:26.688054
+Existing_entries: 706
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-24 18:57:26.795407

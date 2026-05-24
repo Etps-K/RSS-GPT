@@ -4556,3 +4556,9 @@ Summarized using deepseek-v4-flash
 Append: [古尔曼：苹果 watchOS 27 更新将主要关注稳定性、较小优化，而不是引入重大新功能](https://www.ithome.com/0/954/640.htm)
 append_entries: 3
 Finish: 2026-05-24 16:49:39.623751
+------------------------------------------------------
+Started: 2026-05-24 18:57:28.890625
+Existing_entries: 1003
+Fetching from https://www.ithome.com/rss/
+append_entries: 0
+Finish: 2026-05-24 18:57:30.521454
