@@ -4568,3 +4568,15 @@ Existing_entries: 1000
 Fetching from https://www.ithome.com/rss/
 append_entries: 0
 Finish: 2026-05-24 20:41:13.529466
+------------------------------------------------------
+Started: 2026-05-24 22:44:41.098314
+Existing_entries: 1000
+Fetching from https://www.ithome.com/rss/
+Token length: 314
+Summarized using deepseek-v4-flash
+Append: [赵长江晒智界 V9 上市一周“战果”：均价 50 万，接下来做好 6 月份保质保量的交付准备工作](https://www.ithome.com/0/954/644.htm)
+Token length: 475
+Summarized using deepseek-v4-flash
+Append: [神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第 8 次“太空会师”](https://www.ithome.com/0/954/643.htm)
+append_entries: 2
+Finish: 2026-05-24 22:44:49.523315
