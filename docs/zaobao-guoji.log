@@ -1945,3 +1945,18 @@ Existing_entries: 505
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-23 22:41:07.769623
+------------------------------------------------------
+Started: 2026-05-24 01:58:05.592516
+Existing_entries: 505
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 236
+Summarized using deepseek-v4-flash
+Append: [白宫附近传数十声枪响 枪手已被制服](https://www.zaobao.com/news/world/story20260524-9097317)
+Token length: 545
+Summarized using deepseek-v4-flash
+Append: [美伊拟议协议曝光 以色列斥条款“糟糕透顶”](https://www.zaobao.com/news/world/story20260524-9097302)
+Token length: 1081
+Summarized using deepseek-v4-flash
+Append: [美伊指停火谈判取进展 特朗普：协议基本谈成](https://www.zaobao.com/news/world/story20260524-9097290)
+append_entries: 3
+Finish: 2026-05-24 01:58:18.591657

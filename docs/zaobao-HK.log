@@ -2187,3 +2187,18 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：赖清德下半场内外交困 依靠美军保台此路不通？](https://www.zaobao.com/news/china/story20260524-9084741)
 append_entries: 1
 Finish: 2026-05-23 22:41:07.304455
+------------------------------------------------------
+Started: 2026-05-24 01:57:55.826171
+Existing_entries: 675
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 131
+Summarized using deepseek-v4-flash
+Append: [湖南衡阳发生火灾 造成五人死亡](https://www.zaobao.com/news/china/story20260524-9097421)
+Token length: 697
+Summarized using deepseek-v4-flash
+Append: [山西一二把手：彻查事故原因深刻汲取教训](https://www.zaobao.com/news/china/story20260524-9097323)
+Token length: 210
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦总理夏巴兹抵达杭州开始访华](https://www.zaobao.com/news/china/story20260524-9097315)
+append_entries: 3
+Finish: 2026-05-24 01:58:05.165762
