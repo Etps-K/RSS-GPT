@@ -2063,3 +2063,21 @@ Summarized using deepseek-v4-flash
 Append: [刚果抗疫犹如“士兵空手上战场” 伊波拉病毒跨境传播风险恐波及非洲10国](https://www.zaobao.com/news/world/story20260524-9098917)
 append_entries: 5
 Finish: 2026-05-24 14:55:20.993856
+------------------------------------------------------
+Started: 2026-05-24 16:49:05.277028
+Existing_entries: 535
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 154
+Summarized using deepseek-v4-flash
+Append: [以总理内坦亚胡：与特朗普一致认为须消除伊朗核威胁](https://www.zaobao.com/news/world/story20260524-9100116)
+Token length: 853
+Summarized using deepseek-v4-flash
+Append: [美国优先重建本国武器库 或推迟两年向日本交付战斧导弹](https://www.zaobao.com/news/world/story20260524-9099611)
+Token length: 155
+Summarized using deepseek-v4-flash
+Append: [特朗普：已交代不要仓促与伊朗达成协议](https://www.zaobao.com/news/world/story20260524-9100027)
+Token length: 830
+Summarized using deepseek-v4-flash
+Append: [土耳其反对党领导遭罢免 警方到党总部驱逐发射催泪瓦斯](https://www.zaobao.com/news/world/story20260524-9099993)
+append_entries: 4
+Finish: 2026-05-24 16:49:21.912362

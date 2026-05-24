@@ -4541,3 +4541,18 @@ Append: [超越《光环：无限》，《极限竞速：地平线 6》成 Steam
 Append: [雅迪摩登光芒二代电轻摩 / 电摩上市：600W/1200W 功率，3999 元起](https://www.ithome.com/0/954/629.htm)
 append_entries: 9
 Finish: 2026-05-24 14:55:47.035579
+------------------------------------------------------
+Started: 2026-05-24 16:49:23.204438
+Existing_entries: 1009
+Fetching from https://www.ithome.com/rss/
+Token length: 671
+Summarized using deepseek-v4-flash
+Append: [神舟二十三号载人飞船发射取得圆满成功](https://www.ithome.com/0/954/642.htm)
+Token length: 308
+Summarized using deepseek-v4-flash
+Append: [点火起飞！神舟二十三号载人飞船发射升空](https://www.ithome.com/0/954/641.htm)
+Token length: 393
+Summarized using deepseek-v4-flash
+Append: [古尔曼：苹果 watchOS 27 更新将主要关注稳定性、较小优化，而不是引入重大新功能](https://www.ithome.com/0/954/640.htm)
+append_entries: 3
+Finish: 2026-05-24 16:49:39.623751

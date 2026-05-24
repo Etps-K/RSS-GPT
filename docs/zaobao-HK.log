@@ -2283,3 +2283,18 @@ Summarized using deepseek-v4-flash
 Append: [湖南衡阳对两起火灾事故责任人作出组织处理](https://www.zaobao.com/news/china/story20260524-9099996)
 append_entries: 1
 Finish: 2026-05-24 14:54:46.015171
+------------------------------------------------------
+Started: 2026-05-24 16:48:55.338684
+Existing_entries: 703
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Summarization failed, append the original article
+error: Error code: 400 - {'error': {'message': 'Content Exists Risk', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [中国著名学者刘再复在杭州病逝](https://www.zaobao.com/news/china/story20260525-9099970)
+Token length: 1186
+Summarized using deepseek-v4-flash
+Append: [塌陷、图纸不符、定位卡缺失……山西矿难救援困难重重](https://www.zaobao.com/news/china/story20260524-9099931)
+Token length: 134
+Summarized using deepseek-v4-flash
+Append: [中国载人飞船神舟23号准时发射](https://www.zaobao.com/news/china/story20260524-9100073)
+append_entries: 3
+Finish: 2026-05-24 16:49:04.832421
