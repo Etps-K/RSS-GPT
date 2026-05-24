@@ -1997,3 +1997,27 @@ Summarized using deepseek-v4-flash
 Append: [美伊临时协议呼之欲出 传将宣布延长停火60天](https://www.zaobao.com/news/world/story20260524-9098273)
 append_entries: 3
 Finish: 2026-05-24 08:21:33.254087
+------------------------------------------------------
+Started: 2026-05-24 11:05:26.950021
+Existing_entries: 517
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [鲁比奥访印度 称印度是“美国重要的战略伙伴”](https://www.zaobao.com/news/world/story20260524-9099240)
+Token length: 440
+Summarized using deepseek-v4-flash
+Append: [伊朗处决一男子 首起美伊冲突期间因间谍罪判死案例](https://www.zaobao.com/news/world/story20260524-9099187)
+Token length: 224
+Summarized using deepseek-v4-flash
+Append: [英国首相斯塔默：支持美伊达成协议](https://www.zaobao.com/news/world/story20260524-9099102)
+Token length: 1021
+Summarized using deepseek-v4-flash
+Append: [共同监护新法上路 日本告别“离婚即骨肉分离”时代](https://www.zaobao.com/news/world/story20260524-9097862)
+Token length: 154
+Summarized using deepseek-v4-flash
+Append: [鲁比奥：霍尔木兹海峡局势未来几个小时或有好消息](https://www.zaobao.com/news/world/story20260524-9098739)
+Append: [乌军：俄罗斯发射600架无人机90枚导弹](https://www.zaobao.com/news/world/story20260524-9098708)
+Append: [美伊可能达成协议 包括30天完全解除海上封锁](https://www.zaobao.com/news/world/story20260524-9098672)
+Append: [巴基斯坦火车遭爆炸袭击 至少24死82伤](https://www.zaobao.com/news/world/story20260524-9098604)
+append_entries: 8
+Finish: 2026-05-24 11:05:55.800980
