@@ -2042,3 +2042,24 @@ Summarized using deepseek-v4-flash
 Append: [美加州化学品大型储罐泄漏不断升温 当地进入紧急状态](https://www.zaobao.com/news/world/story20260524-9099140)
 append_entries: 5
 Finish: 2026-05-24 12:55:30.960696
+------------------------------------------------------
+Started: 2026-05-24 14:54:46.456583
+Existing_entries: 530
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 969
+Summarized using deepseek-v4-flash
+Append: [疑发射核弹头高超音速导弹报复 俄军大规模空袭基辅](https://www.zaobao.com/news/world/story20260524-9099575)
+Token length: 345
+Summarized using deepseek-v4-flash
+Append: [伊朗称33艘船只通过霍尔木兹海峡 另有消息称海上仍封锁](https://www.zaobao.com/news/world/story20260524-9099896)
+Token length: 338
+Summarized using deepseek-v4-flash
+Append: [以媒：特朗普与内坦亚胡通话 坚持解除伊朗核计划目标](https://www.zaobao.com/news/world/story20260524-9099799)
+Token length: 1402
+Summarized using deepseek-v4-flash
+Append: [特朗普：美伊基本谈妥包括开放海峡 伊朗：协议可达海峡掌控不可松](https://www.zaobao.com/news/world/story20260524-9099058)
+Token length: 899
+Summarized using deepseek-v4-flash
+Append: [刚果抗疫犹如“士兵空手上战场” 伊波拉病毒跨境传播风险恐波及非洲10国](https://www.zaobao.com/news/world/story20260524-9098917)
+append_entries: 5
+Finish: 2026-05-24 14:55:20.993856
