@@ -2265,3 +2265,12 @@ Append: [黄仁勋访台行程满满 今晚与台积电创办人餐叙](https://
 Append: [港财政司长结束访欧：欧洲求变意识十分强烈](https://www.zaobao.com/news/china/story20260524-9098513)
 append_entries: 10
 Finish: 2026-05-24 11:05:26.453732
+------------------------------------------------------
+Started: 2026-05-24 12:55:02.761010
+Existing_entries: 701
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 330
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦总理谢里夫抵达北京 此前赴浙江参访](https://www.zaobao.com/news/china/story20260524-9099513)
+append_entries: 1
+Finish: 2026-05-24 12:55:08.756459

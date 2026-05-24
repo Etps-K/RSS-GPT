@@ -2021,3 +2021,24 @@ Append: [美伊可能达成协议 包括30天完全解除海上封锁](https://w
 Append: [巴基斯坦火车遭爆炸袭击 至少24死82伤](https://www.zaobao.com/news/world/story20260524-9098604)
 append_entries: 8
 Finish: 2026-05-24 11:05:55.800980
+------------------------------------------------------
+Started: 2026-05-24 12:55:09.189962
+Existing_entries: 525
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 995
+Summarized using deepseek-v4-flash
+Append: [G7团结受考验 下月领导人峰会或不发表联合公报](https://www.zaobao.com/news/world/story20260524-9099442)
+Token length: 267
+Summarized using deepseek-v4-flash
+Append: [伊朗总统佩泽希齐扬：德黑兰并不寻求发展核武器](https://www.zaobao.com/news/world/story20260524-9099631)
+Token length: 1156
+Summarized using deepseek-v4-flash
+Append: [枪手白宫附近开火遭击毙 特朗普无恙](https://www.zaobao.com/news/world/story20260524-9098863)
+Token length: 212
+Summarized using deepseek-v4-flash
+Append: [伊朗称在境内击落一架以色列无人机](https://www.zaobao.com/news/world/story20260524-9099517)
+Token length: 528
+Summarized using deepseek-v4-flash
+Append: [美加州化学品大型储罐泄漏不断升温 当地进入紧急状态](https://www.zaobao.com/news/world/story20260524-9099140)
+append_entries: 5
+Finish: 2026-05-24 12:55:30.960696
