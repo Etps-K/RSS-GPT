@@ -1982,3 +1982,18 @@ Append: [俄军大规模导弹袭击基辅 至少三人受伤](https://www.zaoba
 Append: [上世纪50年代造林埋祸根 日本花粉症成全国危机](https://www.zaobao.com/news/world/story20260524-9097435)
 append_entries: 6
 Finish: 2026-05-24 05:58:24.769033
+------------------------------------------------------
+Started: 2026-05-24 08:21:18.936194
+Existing_entries: 514
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 407
+Summarized using deepseek-v4-flash
+Append: [枪击案时身处白宫内 特朗普：枪手对地标建筑怀有执念](https://www.zaobao.com/news/world/story20260524-9098521)
+Token length: 484
+Summarized using deepseek-v4-flash
+Append: [极端热浪席卷印度多地 气温超45度夺16命](https://www.zaobao.com/news/world/story20260524-9098422)
+Token length: 493
+Summarized using deepseek-v4-flash
+Append: [美伊临时协议呼之欲出 传将宣布延长停火60天](https://www.zaobao.com/news/world/story20260524-9098273)
+append_entries: 3
+Finish: 2026-05-24 08:21:33.254087
