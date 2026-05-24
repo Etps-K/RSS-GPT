@@ -2202,3 +2202,31 @@ Summarized using deepseek-v4-flash
 Append: [巴基斯坦总理夏巴兹抵达杭州开始访华](https://www.zaobao.com/news/china/story20260524-9097315)
 append_entries: 3
 Finish: 2026-05-24 01:58:05.165762
+------------------------------------------------------
+Started: 2026-05-24 05:57:23.069268
+Existing_entries: 678
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 342
+Summarized using deepseek-v4-flash
+Append: [武契奇：此次访华是政治生涯最重要一次访问](https://www.zaobao.com/news/china/story20260524-9097919)
+Token length: 485
+Summarized using deepseek-v4-flash
+Append: [人民日报：彻底扭转重发展轻安全倾向](https://www.zaobao.com/news/china/story20260524-9097859)
+Token length: 517
+Summarized using deepseek-v4-flash
+Append: [日媒：习特会上习近平点名批高市早苗与赖清德](https://www.zaobao.com/news/china/story20260524-9098023)
+Token length: 964
+Summarized using deepseek-v4-flash
+Append: [马英九基金会专案组调查出炉 无证据证明萧旭岑王光慈私吞财物](https://www.zaobao.com/news/china/story20260524-9098017)
+Token length: 893
+Summarized using deepseek-v4-flash
+Append: [纽时：马斯克随特朗普访华 冀解开30亿美元太阳能设备输美禁令](https://www.zaobao.com/news/china/story20260524-9097817)
+Append: [重庆永川暴雨致17人失联 一人死亡](https://www.zaobao.com/news/china/story20260524-9097744)
+Append: [山西煤矿爆炸时实际下井247人 公示牌仅记录124人](https://www.zaobao.com/news/china/story20260524-9097660)
+Append: [中国要求从伊波拉疫区赴华人员进行21天自我健康监测](https://www.zaobao.com/news/china/story20260524-9097533)
+Append: [王文涛：世贸组织亟需推进改革 更好应对全球贸易挑战](https://www.zaobao.com/news/china/story20260524-9097590)
+Append: [中国首次人机协同城管执法试点在上海开展](https://www.zaobao.com/news/china/story20260524-9097486)
+Append: [何立峰：中国愿同APEC各方推进区域经济一体化](https://www.zaobao.com/news/china/story20260524-9097495)
+Append: [中科院士周成虎传被带走调查 与20多家企业有关联](https://www.zaobao.com/news/china/story20260524-9097449)
+append_entries: 12
+Finish: 2026-05-24 05:57:44.541623

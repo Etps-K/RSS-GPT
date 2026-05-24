@@ -1960,3 +1960,25 @@ Summarized using deepseek-v4-flash
 Append: [美伊指停火谈判取进展 特朗普：协议基本谈成](https://www.zaobao.com/news/world/story20260524-9097290)
 append_entries: 3
 Finish: 2026-05-24 01:58:18.591657
+------------------------------------------------------
+Started: 2026-05-24 05:57:44.951603
+Existing_entries: 508
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 992
+Summarized using deepseek-v4-flash
+Append: [抗老“神药”NAD再掀争议 新研究质疑核心论点](https://www.zaobao.com/news/world/story20260524-9097470)
+Token length: 433
+Summarized using deepseek-v4-flash
+Append: [走出“强行带走总统”阴影？美军获准在委首都举行演练](https://www.zaobao.com/news/world/story20260524-9098072)
+Token length: 442
+Summarized using deepseek-v4-flash
+Append: [韩国失业人数虽下降 长期失业人口却暴增近四成](https://www.zaobao.com/news/world/story20260524-9097942)
+Token length: 842
+Summarized using deepseek-v4-flash
+Append: [以“虐恋游戏”为幌子施暴伴侣七年 法国男子判监25年](https://www.zaobao.com/news/world/story20260524-9097366)
+Token length: 288
+Summarized using deepseek-v4-flash
+Append: [俄军大规模导弹袭击基辅 至少三人受伤](https://www.zaobao.com/news/world/story20260524-9097550)
+Append: [上世纪50年代造林埋祸根 日本花粉症成全国危机](https://www.zaobao.com/news/world/story20260524-9097435)
+append_entries: 6
+Finish: 2026-05-24 05:58:24.769033
