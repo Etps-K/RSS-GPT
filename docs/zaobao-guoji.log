@@ -2102,3 +2102,24 @@ Summarized using deepseek-v4-flash
 Append: [三星电子“奖金战” AI繁荣下的利益分配冲击](https://www.zaobao.com/news/world/story20260525-9095329)
 append_entries: 1
 Finish: 2026-05-24 22:44:40.103845
+------------------------------------------------------
+Started: 2026-05-25 02:05:09.595314
+Existing_entries: 540
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 298
+Summarized using deepseek-v4-flash
+Append: [世卫：刚果（金）已发现900多起疑似伊波拉病例](https://www.zaobao.com/news/world/story20260525-9100836)
+Token length: 829
+Summarized using deepseek-v4-flash
+Append: [美加州故障储罐可能已现裂缝 或缓解内部压力](https://www.zaobao.com/news/world/story20260525-9100809)
+Token length: 368
+Summarized using deepseek-v4-flash
+Append: [消息：内坦亚胡告知特朗普 以色列有应对威胁的行动自由](https://www.zaobao.com/news/world/story20260525-9100692)
+Token length: 744
+Summarized using deepseek-v4-flash
+Append: [参院共和党人质疑美伊核协议 特朗普回击批评者](https://www.zaobao.com/news/world/story20260525-9100607)
+Token length: 508
+Summarized using deepseek-v4-flash
+Append: [美高官：美伊原则上同意重开海峡 但需多几天敲定最终协议](https://www.zaobao.com/news/world/story20260525-9100520)
+append_entries: 5
+Finish: 2026-05-25 02:05:31.030624

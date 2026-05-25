@@ -2319,3 +2319,21 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：那些年香港的航天热潮](https://www.zaobao.com/news/china/story20260525-9099806)
 append_entries: 1
 Finish: 2026-05-24 22:44:36.874877
+------------------------------------------------------
+Started: 2026-05-25 02:04:50.612455
+Existing_entries: 707
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1587
+Summarized using deepseek-v4-flash
+Append: [福建深夜通报“泡药杨梅”事件 六单位履责不力23人被问责](https://www.zaobao.com/news/china/story20260525-9100821)
+Token length: 544
+Summarized using deepseek-v4-flash
+Append: [萧旭岑誓言对利用马英九进行伤害者采取法律行动](https://www.zaobao.com/news/china/story20260525-9100777)
+Token length: 377
+Summarized using deepseek-v4-flash
+Append: [神舟23号航天员乘组进驻中国空间站](https://www.zaobao.com/news/china/story20260525-9100619)
+Token length: 649
+Summarized using deepseek-v4-flash
+Append: [捐赠大米运抵古巴 中国驻古巴大使：坚定支持古巴维护国家主权](https://www.zaobao.com/news/china/story20260525-9100590)
+append_entries: 4
+Finish: 2026-05-25 02:05:09.071699
