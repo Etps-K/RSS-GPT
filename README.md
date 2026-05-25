@@ -58,4 +58,8 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - https://sspai.com/feed -> https://Etps-K.github.io/RSS-GPT/sspai.xml
 - https://plink.anyfeeder.com/zaobao/realtime/china -> https://Etps-K.github.io/RSS-GPT/zaobao-HK.xml
 - https://plink.anyfeeder.com/zaobao/realtime/world -> https://Etps-K.github.io/RSS-GPT/zaobao-guoji.xml
-- https://www.ithome.com/rss/ -> https://Etps-K.github.io/RSS-GPT/IThome.xml
+- https://rsshub.app/zhihu/daily -> https://Etps-K.github.io/RSS-GPT/zhihu-daily.xml
+- https://rsshub.app/weibo/search/hot -> https://Etps-K.github.io/RSS-GPT/weibo-hot.xml
+- https://rsshub.app/juejin/posts/1838039172387262 -> https://Etps-K.github.io/RSS-GPT/juejinzhuanlan.xml
+- 	https://rsshub.app/oschina/news/project -> https://Etps-K.github.io/RSS-GPT/oschina.xml
+- https://rsshub.app/juejin/category/frontend -> https://Etps-K.github.io/RSS-GPT/juejinqianduan.xml
