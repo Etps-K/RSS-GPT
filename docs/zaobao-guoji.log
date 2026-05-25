@@ -2123,3 +2123,28 @@ Summarized using deepseek-v4-flash
 Append: [美高官：美伊原则上同意重开海峡 但需多几天敲定最终协议](https://www.zaobao.com/news/world/story20260525-9100520)
 append_entries: 5
 Finish: 2026-05-25 02:05:31.030624
+------------------------------------------------------
+Started: 2026-05-25 08:09:51.611852
+Existing_entries: 545
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 347
+Summarized using deepseek-v4-flash
+Append: [韩国印度相隔两年重启CEPA升级谈判](https://www.zaobao.com/news/world/story20260525-9102890)
+Token length: 180
+Summarized using deepseek-v4-flash
+Append: [男子在东京银座喷洒不明物质 多人不适一人送院](https://www.zaobao.com/news/world/story20260525-9102777)
+Token length: 626
+Summarized using deepseek-v4-flash
+Append: [鲁比奥：若与伊朗谈判失败 美国将另觅替代方案](https://www.zaobao.com/news/world/story20260525-9102635)
+Token length: 1135
+Summarized using deepseek-v4-flash
+Append: [坚拒核潜舰备援方案 澳洲国防被指孤注一掷](https://www.zaobao.com/news/world/story20260525-9102139)
+Token length: 798
+Summarized using deepseek-v4-flash
+Append: [6月满80岁 特朗普本周体检引关注](https://www.zaobao.com/news/world/story20260525-9101964)
+Append: [朝鲜劳动党6月下旬召开九届二中全会](https://www.zaobao.com/news/world/story20260525-9101440)
+Append: [美国务卿指责真主党欲导致黎巴嫩再陷混乱](https://www.zaobao.com/news/world/story20260525-9101299)
+Append: [新西兰调整移民政策 提高英语要求放宽投资移民限制](https://www.zaobao.com/news/world/story20260525-9101257)
+Append: [美伊谈判积极信号促国际油价大跌](https://www.zaobao.com/news/world/story20260525-9100888)
+append_entries: 9
+Finish: 2026-05-25 08:10:18.524579
