@@ -2410,3 +2410,28 @@ Summarized using deepseek-v4-flash
 Append: [广东省启动千亿政府引导基金 黄坤明揭牌](https://www.zaobao.com/news/china/story20260525-9104465)
 append_entries: 2
 Finish: 2026-05-25 12:55:10.802596
+------------------------------------------------------
+Started: 2026-05-25 16:13:49.571962
+Existing_entries: 742
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1022
+Summarized using deepseek-v4-flash
+Append: [华为宣布晶片设计新突破 分析师指商业化量产仍待检验](https://www.zaobao.com/news/china/story20260525-9105933)
+Token length: 948
+Summarized using deepseek-v4-flash
+Append: [早知：“韬定律”是什么？](https://www.zaobao.com/news/china/story20260525-9105489)
+Token length: 1347
+Summarized using deepseek-v4-flash
+Append: [金溥聪秀照片指萧王涉财政纪律问题 萧旭岑决定提告](https://www.zaobao.com/news/china/story20260525-9105325)
+Token length: 1250
+Summarized using deepseek-v4-flash
+Append: [中国发布今年首个山洪红色预警 极端天气或为新常态](https://www.zaobao.com/news/china/story20260525-9104495)
+Token length: 322
+Summarized using deepseek-v4-flash
+Append: [宇树科技科创板IPO于6月1日上会审议](https://www.zaobao.com/news/china/story20260525-9105368)
+Append: [中国证监会重罚老虎富途长桥三券商 中信证券：整体影响2500亿港元在港资产](https://www.zaobao.com/news/china/story20260525-9105328)
+Append: [首位香港航天员乘“神舟”进驻中国空间站 学者：有助提升港人国家认同](https://www.zaobao.com/news/china/story20260525-9105130)
+Append: [下午察：神舟23号升空 中国人的登月梦还有多远？](https://www.zaobao.com/news/china/story20260525-9103564)
+Append: [中国首季新接67艘超大型油轮订单 占全球市场份额超九成](https://www.zaobao.com/news/china/story20260525-9104520)
+append_entries: 9
+Finish: 2026-05-25 16:14:17.536950
