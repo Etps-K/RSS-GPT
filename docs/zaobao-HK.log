@@ -2447,3 +2447,12 @@ Existing_entries: 751
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-25 20:56:05.319756
+------------------------------------------------------
+Started: 2026-05-25 22:50:21.230205
+Existing_entries: 751
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1646
+Summarized using deepseek-v4-flash
+Append: [缪宗翰：以马英九之名的公共伦理诘问](https://www.zaobao.com/news/china/story20260526-9103719)
+append_entries: 1
+Finish: 2026-05-25 22:50:24.917520
