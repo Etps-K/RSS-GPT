@@ -2435,3 +2435,9 @@ Append: [下午察：神舟23号升空 中国人的登月梦还有多远？](htt
 Append: [中国首季新接67艘超大型油轮订单 占全球市场份额超九成](https://www.zaobao.com/news/china/story20260525-9104520)
 append_entries: 9
 Finish: 2026-05-25 16:14:17.536950
+------------------------------------------------------
+Started: 2026-05-25 19:13:05.647033
+Existing_entries: 751
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-25 19:13:05.806954

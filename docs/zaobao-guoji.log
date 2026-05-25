@@ -2218,3 +2218,12 @@ Append: [日相高市卷入“抹黑门”丑闻 或面临辞职危机](https://
 Append: [美伊淡化外界对谈判预期 特朗普：若无“伟大协议”就拉倒](https://www.zaobao.com/news/world/story20260525-9104629)
 append_entries: 6
 Finish: 2026-05-25 16:14:47.761822
+------------------------------------------------------
+Started: 2026-05-25 19:13:06.357753
+Existing_entries: 576
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 177
+Summarized using deepseek-v4-flash
+Append: [伊媒：伊朗最高领袖曾入院治疗 3月初出院](https://www.zaobao.com/news/world/story20260525-9106134)
+append_entries: 1
+Finish: 2026-05-25 19:13:15.198389
