@@ -3238,3 +3238,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等](https://sspai.com/post/110171)
 append_entries: 1
 Finish: 2026-05-26 01:56:05.240779
+------------------------------------------------------
+Started: 2026-05-26 05:57:56.735873
+Existing_entries: 160
+Fetching from https://sspai.com/feed
+Token length: 65
+Summarized using deepseek-v4-flash
+Append: [App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
+append_entries: 1
+Finish: 2026-05-26 05:58:01.377095

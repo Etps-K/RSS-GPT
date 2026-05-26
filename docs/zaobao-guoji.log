@@ -2261,3 +2261,25 @@ Append: [乌克兰外长促盟友勿向“俄罗斯讹诈”屈服](https://www.
 Append: [俄外长告知美方打乌计划 促美从基辅撤离外交人员公民](https://www.zaobao.com/news/world/story20260526-9106538)
 append_entries: 6
 Finish: 2026-05-26 01:56:56.410090
+------------------------------------------------------
+Started: 2026-05-26 05:58:24.916189
+Existing_entries: 583
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 621
+Summarized using deepseek-v4-flash
+Append: [热浪笼罩欧洲 英国爱尔兰法国气温飙升](https://www.zaobao.com/news/world/story20260526-9107992)
+Token length: 344
+Summarized using deepseek-v4-flash
+Append: [四方安全对话外长新德里聚首](https://www.zaobao.com/news/world/story20260526-9107514)
+Token length: 401
+Summarized using deepseek-v4-flash
+Append: [日美外长印度会谈 拟协商对华政策](https://www.zaobao.com/news/world/story20260526-9107175)
+Token length: 433
+Summarized using deepseek-v4-flash
+Append: [特朗普要求先签亚伯拉罕协定 消息：沙特立场没变](https://www.zaobao.com/news/world/story20260526-9107057)
+Token length: 421
+Summarized using deepseek-v4-flash
+Append: [美国加州故障化学品储罐爆炸风险已排除](https://www.zaobao.com/news/world/story20260526-9106516)
+Append: [伊朗卡塔尔讨论潜在和平协议 消息称美伊就资产解冻达成谅解](https://www.zaobao.com/news/world/story20260526-9106926)
+append_entries: 6
+Finish: 2026-05-26 05:58:48.534548
