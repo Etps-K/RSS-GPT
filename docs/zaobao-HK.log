@@ -2586,3 +2586,12 @@ Existing_entries: 790
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-26 21:25:44.531278
+------------------------------------------------------
+Started: 2026-05-26 22:59:29.334315
+Existing_entries: 790
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 319
+Summarized using deepseek-v4-flash
+Append: [杨丹旭：山西矿难之殇](https://www.zaobao.com/news/china/story20260527-9111838)
+append_entries: 1
+Finish: 2026-05-26 22:59:32.315428
