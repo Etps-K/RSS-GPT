@@ -2574,3 +2574,9 @@ Append: [美媒：塞尔维亚可能购买中国战机](https://www.zaobao.com/n
 Append: [下午察：普通人告别“一键买美股”](https://www.zaobao.com/news/china/story20260526-9110216)
 append_entries: 7
 Finish: 2026-05-26 17:18:07.203314
+------------------------------------------------------
+Started: 2026-05-26 19:52:05.478955
+Existing_entries: 790
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-26 19:52:05.635768
