@@ -3247,3 +3247,12 @@ Summarized using deepseek-v4-flash
 Append: [App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
 append_entries: 1
 Finish: 2026-05-26 05:58:01.377095
+------------------------------------------------------
+Started: 2026-05-26 09:43:04.667985
+Existing_entries: 161
+Fetching from https://sspai.com/feed
+Token length: 18
+Summarized using deepseek-v4-flash
+Append: [Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场](https://sspai.com/post/110152)
+append_entries: 1
+Finish: 2026-05-26 09:43:09.294412

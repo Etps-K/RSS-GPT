@@ -2504,3 +2504,26 @@ Append: [山西矿难：官方要求严厉打击隐蔽工作面等行动](https:
 Append: [王毅：巴基斯坦是美伊之间值得信任的斡旋方](https://www.zaobao.com/news/china/story20260526-9107020)
 append_entries: 10
 Finish: 2026-05-26 05:58:24.365876
+------------------------------------------------------
+Started: 2026-05-26 09:43:09.907170
+Existing_entries: 768
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 408
+Summarized using deepseek-v4-flash
+Append: [日本海上保安总部指中国海警船现身钓鱼岛周边海域](https://www.zaobao.com/news/china/story20260526-9109193)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [香港校长新加坡爆粗骂保安 校董会要求交代情况](https://www.zaobao.com/news/china/story20260526-9109053)
+Token length: 568
+Summarized using deepseek-v4-flash
+Append: [赖清德见德国跨党派议员 吁深化台德合作](https://www.zaobao.com/news/china/story20260526-9109019)
+Token length: 408
+Summarized using deepseek-v4-flash
+Append: [香港拟再修订法律条文用语 删除殖民时期字眼](https://www.zaobao.com/news/china/story20260526-9108705)
+Token length: 242
+Summarized using deepseek-v4-flash
+Append: [彭博：中国防长料再次不出席香会](https://www.zaobao.com/news/china/story20260526-9108683)
+Append: [中国将执行机动车疲劳驾驶认定新规](https://www.zaobao.com/news/china/story20260526-9108566)
+Append: [中国巴基斯坦联合声明：释放瓜达尔港潜力](https://www.zaobao.com/news/china/story20260526-9108486)
+append_entries: 7
+Finish: 2026-05-26 09:43:42.110899

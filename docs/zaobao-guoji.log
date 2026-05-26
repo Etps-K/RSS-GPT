@@ -2283,3 +2283,31 @@ Append: [美国加州故障化学品储罐爆炸风险已排除](https://www.zao
 Append: [伊朗卡塔尔讨论潜在和平协议 消息称美伊就资产解冻达成谅解](https://www.zaobao.com/news/world/story20260526-9106926)
 append_entries: 6
 Finish: 2026-05-26 05:58:48.534548
+------------------------------------------------------
+Started: 2026-05-26 09:43:42.595576
+Existing_entries: 589
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 384
+Summarized using deepseek-v4-flash
+Append: [阿根廷：尚无证据表明捕获的啮齿类动物感染汉坦病毒](https://www.zaobao.com/news/world/story20260526-9110031)
+Token length: 781
+Summarized using deepseek-v4-flash
+Append: [奥特曼坦言看走眼：AI对白领就业影响小于早先判断](https://www.zaobao.com/news/world/story20260526-9109765)
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [艾伯塔酝酿脱离加拿大 卡尼以英国脱欧为鉴示警](https://www.zaobao.com/news/world/story20260526-9109557)
+Token length: 529
+Summarized using deepseek-v4-flash
+Append: [悉尼灯光节89架无人机坠海 两晚表演被迫取消](https://www.zaobao.com/news/world/story20260526-9109437)
+Token length: 281
+Summarized using deepseek-v4-flash
+Append: [韩国拟2030年代中期下水首艘核潜艇反制朝鲜](https://www.zaobao.com/news/world/story20260526-9109310)
+Append: [战火阴影进入校园 近半俄校园袭击案发于侵乌后](https://www.zaobao.com/news/world/story20260526-9109182)
+Append: [日本对外净资产规模降为全球第三](https://www.zaobao.com/news/world/story20260526-9109010)
+Append: [澳洲外长：澳印日美启动“未来港口”伙伴关系](https://www.zaobao.com/news/world/story20260526-9108618)
+Append: [首尔高架桥拆除过程发生坍塌 至少数人受伤](https://www.zaobao.com/news/world/story20260526-9108649)
+Append: [四方安全对话启动能源安全与关键矿产框架倡议](https://www.zaobao.com/news/world/story20260526-9108344)
+Append: [朝鲜向西部海域发射不明飞行器](https://www.zaobao.com/news/world/story20260526-9108270)
+Append: [以军称打死哈马斯武器生产关键人物](https://www.zaobao.com/news/world/story20260526-9108198)
+append_entries: 12
+Finish: 2026-05-26 09:44:10.961630
