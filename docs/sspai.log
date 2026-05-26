@@ -3256,3 +3256,12 @@ Summarized using deepseek-v4-flash
 Append: [Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场](https://sspai.com/post/110152)
 append_entries: 1
 Finish: 2026-05-26 09:43:09.294412
+------------------------------------------------------
+Started: 2026-05-26 12:33:26.917719
+Existing_entries: 162
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树](https://sspai.com/post/110184)
+append_entries: 1
+Finish: 2026-05-26 12:33:32.420653
