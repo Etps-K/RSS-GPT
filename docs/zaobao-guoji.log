@@ -2239,3 +2239,25 @@ Existing_entries: 577
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-25 22:50:25.519583
+------------------------------------------------------
+Started: 2026-05-26 01:56:26.442056
+Existing_entries: 577
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 269
+Summarized using deepseek-v4-flash
+Append: [智利北部发生6.9级地震 无海啸风险](https://www.zaobao.com/news/world/story20260526-9106812)
+Token length: 637
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡下令以军“猛踩油门”打击黎巴嫩真主党](https://www.zaobao.com/news/world/story20260526-9106742)
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [特朗普就处置伊朗浓缩铀提出新选项](https://www.zaobao.com/news/world/story20260526-9106686)
+Token length: 75
+Summarized using deepseek-v4-flash
+Append: [美军称“自卫性”打击伊朗导弹阵地和布雷艇](https://www.zaobao.com/news/world/story20260526-9106632)
+Token length: 621
+Summarized using deepseek-v4-flash
+Append: [乌克兰外长促盟友勿向“俄罗斯讹诈”屈服](https://www.zaobao.com/news/world/story20260526-9106608)
+Append: [俄外长告知美方打乌计划 促美从基辅撤离外交人员公民](https://www.zaobao.com/news/world/story20260526-9106538)
+append_entries: 6
+Finish: 2026-05-26 01:56:56.410090

@@ -2456,3 +2456,25 @@ Summarized using deepseek-v4-flash
 Append: [缪宗翰：以马英九之名的公共伦理诘问](https://www.zaobao.com/news/china/story20260526-9103719)
 append_entries: 1
 Finish: 2026-05-25 22:50:24.917520
+------------------------------------------------------
+Started: 2026-05-26 01:56:05.839967
+Existing_entries: 752
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1006
+Summarized using deepseek-v4-flash
+Append: [中国央媒发布涉学术不端报道 点名论文数据荒诞粗糙情况](https://www.zaobao.com/news/china/story20260526-9106906)
+Token length: 580
+Summarized using deepseek-v4-flash
+Append: [中国整顿跨境股票交易 富途创始人身家单日蒸发17亿美元](https://www.zaobao.com/news/china/story20260526-9106888)
+Token length: 325
+Summarized using deepseek-v4-flash
+Append: [台军指16架次大陆军机逾越台海中线 配合军舰战备警巡](https://www.zaobao.com/news/china/story20260526-9106787)
+Token length: 421
+Summarized using deepseek-v4-flash
+Append: [中国工程院宣布撤销张尧学院士称号](https://www.zaobao.com/news/china/story20260526-9106750)
+Token length: 1098
+Summarized using deepseek-v4-flash
+Append: [中塞联合声明：应通过对话协商和平解决分歧争端](https://www.zaobao.com/news/china/story20260526-9106623)
+Append: [郑钦文法网惨败 赛后哽咽落泪](https://www.zaobao.com/news/china/story20260526-9106616)
+append_entries: 6
+Finish: 2026-05-26 01:56:25.964517
