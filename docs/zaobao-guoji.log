@@ -2381,3 +2381,24 @@ Existing_entries: 621
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-26 22:59:32.920671
+------------------------------------------------------
+Started: 2026-05-27 02:04:59.385070
+Existing_entries: 621
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 482
+Summarized using deepseek-v4-flash
+Append: [美国即将发布联邦公报 就成立中美贸易委员会征求公众意见](https://www.zaobao.com/news/world/story20260527-9112610)
+Token length: 477
+Summarized using deepseek-v4-flash
+Append: [以军空袭黎巴嫩致71人伤亡 黎重要水坝附近被炸](https://www.zaobao.com/news/world/story20260527-9112531)
+Token length: 352
+Summarized using deepseek-v4-flash
+Append: [特朗普完成体检后称一切“十分完美”](https://www.zaobao.com/news/world/story20260527-9112499)
+Token length: 483
+Summarized using deepseek-v4-flash
+Append: [美官员称恢复空袭因伊朗威胁在先](https://www.zaobao.com/news/world/story20260527-9112441)
+Token length: 355
+Summarized using deepseek-v4-flash
+Append: [美华盛顿州一日资企业发生化学爆炸 多人死伤](https://www.zaobao.com/news/world/story20260527-9112408)
+append_entries: 5
+Finish: 2026-05-27 02:05:27.672764

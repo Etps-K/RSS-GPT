@@ -2595,3 +2595,25 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：山西矿难之殇](https://www.zaobao.com/news/china/story20260527-9111838)
 append_entries: 1
 Finish: 2026-05-26 22:59:32.315428
+------------------------------------------------------
+Started: 2026-05-27 02:04:32.278477
+Existing_entries: 791
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 737
+Summarized using deepseek-v4-flash
+Append: [“大润发之父”台湾企业家尹衍樑逝世](https://www.zaobao.com/news/china/story20260527-9112753)
+Token length: 526
+Summarized using deepseek-v4-flash
+Append: [王毅：希望当事方坚定停火止战 尽快让和平重回中东](https://www.zaobao.com/news/china/story20260527-9112673)
+Token length: 776
+Summarized using deepseek-v4-flash
+Append: [英情报机构负责人：中国正缩小与西方网络技术差距](https://www.zaobao.com/news/china/story20260527-9112607)
+Token length: 375
+Summarized using deepseek-v4-flash
+Append: [中国最高检挂牌督办山西矿难](https://www.zaobao.com/news/china/story20260527-9112589)
+Token length: 390
+Summarized using deepseek-v4-flash
+Append: [上海打造中国“AI+微短剧”产业高地](https://www.zaobao.com/news/china/story20260527-9112484)
+Append: [中国打击跨境交易行动恐使持仓机构遭受牵连](https://www.zaobao.com/news/china/story20260527-9112481)
+append_entries: 6
+Finish: 2026-05-27 02:04:58.876221
