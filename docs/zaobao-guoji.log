@@ -2499,3 +2499,9 @@ Summarized using deepseek-v4-flash
 Append: [为遏制伊波拉疫情 乌干达关闭与刚果（金）边境四周](https://www.zaobao.com/news/world/story20260527-9116198)
 append_entries: 3
 Finish: 2026-05-27 18:16:19.334463
+------------------------------------------------------
+Started: 2026-05-27 21:42:54.170404
+Existing_entries: 663
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-27 21:42:54.297786
