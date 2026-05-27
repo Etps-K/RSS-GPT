@@ -2713,3 +2713,12 @@ Existing_entries: 833
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-27 21:42:53.526516
+------------------------------------------------------
+Started: 2026-05-27 23:06:56.335690
+Existing_entries: 833
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 298
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：中国民企AI人才走向“核专家式管理”？](https://www.zaobao.com/news/china/story20260528-9116185)
+append_entries: 1
+Finish: 2026-05-27 23:06:59.161696
