@@ -2652,3 +2652,27 @@ Append: [中国伊斯兰教领袖罕见被查 曾获民族团结模范等称号]
 Append: [中国4月工业利润创逾两年来最快增速](https://www.zaobao.com/news/china/story20260527-9112956)
 append_entries: 19
 Finish: 2026-05-27 07:54:50.551258
+------------------------------------------------------
+Started: 2026-05-27 11:26:22.475403
+Existing_entries: 816
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 695
+Summarized using deepseek-v4-flash
+Append: [王毅见捷克副总理 双方释放关系回暖信号](https://www.zaobao.com/news/china/story20260527-9114875)
+Token length: 699
+Summarized using deepseek-v4-flash
+Append: [研究：中国改碳排放算法 压缩近五年一半排放增幅](https://www.zaobao.com/news/china/story20260527-9114655)
+Token length: 617
+Summarized using deepseek-v4-flash
+Append: [俄罗斯官媒微博爆粗笔战中国网民 回应侵略乌克兰批评](https://www.zaobao.com/news/china/story20260527-9114626)
+Token length: 740
+Summarized using deepseek-v4-flash
+Append: [湖南严打烟花爆竹非法生产 “保护伞”一律免职](https://www.zaobao.com/news/china/story20260527-9114557)
+Token length: 362
+Summarized using deepseek-v4-flash
+Append: [英伟达计划每年在台投资1500亿美元](https://www.zaobao.com/news/china/story20260527-9114321)
+Append: [中国每天限驾八小时新规不涉及网约车出租车](https://www.zaobao.com/news/china/story20260527-9114326)
+Append: [整顿IPO市场 香港突击搜查两家中资券商香港子公司](https://www.zaobao.com/news/china/story20260527-9114276)
+Append: [朱军被指性骚扰案当事人弦子微博账号被封](https://www.zaobao.com/news/china/story20260527-9114257)
+append_entries: 8
+Finish: 2026-05-27 11:26:43.128103

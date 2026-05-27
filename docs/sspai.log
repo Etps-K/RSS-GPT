@@ -3307,3 +3307,15 @@ Summarized using deepseek-v4-flash
 Append: [为什么没人会喜欢你用 LLM 写出来的东西？](https://sspai.com/post/110102)
 append_entries: 1
 Finish: 2026-05-27 07:54:22.431771
+------------------------------------------------------
+Started: 2026-05-27 11:26:10.611593
+Existing_entries: 165
+Fetching from https://sspai.com/feed
+Token length: 12
+Summarized using deepseek-v4-flash
+Append: [客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容](https://sspai.com/post/108618)
+Token length: 35
+Summarized using deepseek-v4-flash
+Append: [屏忆：这款开源工具，把过目就忘的日常变成「上下文」](https://sspai.com/post/110115)
+append_entries: 2
+Finish: 2026-05-27 11:26:21.971909

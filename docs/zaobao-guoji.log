@@ -2431,3 +2431,28 @@ Append: [日本国会通过法案 设立国家情报会议](https://www.zaobao.c
 Append: [美媒：美国拟在肯尼亚设伊波拉病毒隔离点](https://www.zaobao.com/news/world/story20260527-9112685)
 append_entries: 13
 Finish: 2026-05-27 07:55:33.381217
+------------------------------------------------------
+Started: 2026-05-27 11:26:43.527826
+Existing_entries: 639
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 564
+Summarized using deepseek-v4-flash
+Append: [欧盟正式批准与美国贸易协议 移交议会表决](https://www.zaobao.com/news/world/story20260527-9114927)
+Token length: 1014
+Summarized using deepseek-v4-flash
+Append: [乌克兰无人机频闯波罗的海邻国领空引争议](https://www.zaobao.com/news/world/story20260527-9114695)
+Token length: 779
+Summarized using deepseek-v4-flash
+Append: [西班牙前首相涉贪被调查 危及现任首相连任希望](https://www.zaobao.com/news/world/story20260527-9113906)
+Token length: 158
+Summarized using deepseek-v4-flash
+Append: [匈牙利批准法案 决定保留国际刑事法院成员资格](https://www.zaobao.com/news/world/story20260527-9114751)
+Token length: 324
+Summarized using deepseek-v4-flash
+Append: [韩国货船霍尔木兹遇袭 韩方研判武器似伊朗导弹](https://www.zaobao.com/news/world/story20260527-9114683)
+Append: [格里尔：美墨加协定不再维持零关税](https://www.zaobao.com/news/world/story20260527-9114195)
+Append: [法英遭热浪侵袭 创5月最高气温纪录](https://www.zaobao.com/news/world/story20260527-9114140)
+Append: [伊朗：与美国再次开战的可能性不大](https://www.zaobao.com/news/world/story20260527-9114302)
+Append: [印度调查总结：法国酒业巨头为支付较低关税隐瞒威士忌信息](https://www.zaobao.com/news/world/story20260527-9114134)
+append_entries: 9
+Finish: 2026-05-27 11:27:13.961353
