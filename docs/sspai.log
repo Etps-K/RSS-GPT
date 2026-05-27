@@ -3319,3 +3319,9 @@ Summarized using deepseek-v4-flash
 Append: [屏忆：这款开源工具，把过目就忘的日常变成「上下文」](https://sspai.com/post/110115)
 append_entries: 2
 Finish: 2026-05-27 11:26:21.971909
+------------------------------------------------------
+Started: 2026-05-27 14:49:59.643860
+Existing_entries: 167
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-05-27 14:50:01.001884
