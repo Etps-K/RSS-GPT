@@ -2402,3 +2402,32 @@ Summarized using deepseek-v4-flash
 Append: [美华盛顿州一日资企业发生化学爆炸 多人死伤](https://www.zaobao.com/news/world/story20260527-9112408)
 append_entries: 5
 Finish: 2026-05-27 02:05:27.672764
+------------------------------------------------------
+Started: 2026-05-27 07:54:51.078803
+Existing_entries: 626
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [韩国今年3月和第一季度出生人口 创近七年新高](https://www.zaobao.com/news/world/story20260527-9114093)
+Token length: 389
+Summarized using deepseek-v4-flash
+Append: [李在明：韩国将迈向海洋强国 捍卫开放海洋秩序](https://www.zaobao.com/news/world/story20260527-9113749)
+Token length: 158
+Summarized using deepseek-v4-flash
+Append: [以色列称击杀了哈马斯新武装指挥官](https://www.zaobao.com/news/world/story20260527-9113702)
+Token length: 611
+Summarized using deepseek-v4-flash
+Append: [美国政府再度起诉加州大学 存在“反犹太主义”](https://www.zaobao.com/news/world/story20260527-9113593)
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [美国航空航天局公布月球基地建设路线图](https://www.zaobao.com/news/world/story20260527-9113502)
+Append: [三星电子劳资工资谈判协议获工会投票通过](https://www.zaobao.com/news/world/story20260527-9113381)
+Append: [乌外长指俄“明目张胆挑衅” 呼吁阻止俄罗斯继续袭击基辅](https://www.zaobao.com/news/world/story20260527-9113238)
+Append: [联合国秘书长：国际法正遭受危险的侵蚀](https://www.zaobao.com/news/world/story20260527-9113147)
+Append: [特朗普支持丑闻缠身候选人 击败共和党参院资深建制派](https://www.zaobao.com/news/world/story20260527-9113047)
+Append: [首尔高架桥坍塌事故致120多趟高铁调整运行](https://www.zaobao.com/news/world/story20260527-9112867)
+Append: [金正恩观摩朝鲜国防科研机关重要武器试验](https://www.zaobao.com/news/world/story20260527-9112794)
+Append: [日本国会通过法案 设立国家情报会议](https://www.zaobao.com/news/world/story20260527-9112771)
+Append: [美媒：美国拟在肯尼亚设伊波拉病毒隔离点](https://www.zaobao.com/news/world/story20260527-9112685)
+append_entries: 13
+Finish: 2026-05-27 07:55:33.381217

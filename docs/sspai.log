@@ -3298,3 +3298,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等](https://sspai.com/post/110297)
 append_entries: 1
 Finish: 2026-05-27 02:04:31.646439
+------------------------------------------------------
+Started: 2026-05-27 07:54:11.490839
+Existing_entries: 164
+Fetching from https://sspai.com/feed
+Token length: 39
+Summarized using deepseek-v4-flash
+Append: [为什么没人会喜欢你用 LLM 写出来的东西？](https://sspai.com/post/110102)
+append_entries: 1
+Finish: 2026-05-27 07:54:22.431771

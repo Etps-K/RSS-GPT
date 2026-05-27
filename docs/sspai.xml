@@ -5,22 +5,39 @@
 <link>https://sspai.com</link>
 
 <item>
+<title>为什么没人会喜欢你用 LLM 写出来的东西？</title>
+<link>https://sspai.com/post/110102</link>
+<guid>https://sspai.com/post/110102</guid>
+<content:encoded><![CDATA[
+<div> LLM 后训练 对齐 蒸馏 可控性
+
+<br><br>总结:
+1. 后训练、对齐和蒸馏是提升LLM输出可控性的核心手段。  
+2. 这些技术通过微调、偏好优化和知识压缩，使模型更符合人类指令与安全规范。  
+3. 然而，过度的人工干预导致模型丧失原有创造力与多样性，生成结果趋于保守、模板化。  
+4. 用户普遍感到模型变得“乏味”或“说教”，反感这种“被操控”的输出体验。  
+5. 最终，技术进步与用户自然偏好之间出现矛盾，强调需平衡可控性与表达自由。 <div>
+LLM 的后训练、对齐、蒸馏，不仅让模型输出变得更可控，但没人喜欢这样的东西。<a href="https://sspai.com/post/110102" target="_blank">查看全文</a>
+]]></content:encoded>
+<pubDate>Wed, 27 May 2026 11:31:24 +0800</pubDate>
+<pubDate>Wed, 27 May 2026 11:31:24 +0800</pubDate>
+</item>
+
+<item>
 <title>派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等</title>
 <link>https://sspai.com/post/110297</link>
 <guid>https://sspai.com/post/110297</guid>
 <content:encoded><![CDATA[
 <div> Spotify 音频杂志 功能测试 摩托罗拉 重定向劫持
 
-<br><br>总结:
+<br /><br />总结:
 1. Spotify 正在测试音频杂志文章功能，用户可收听由文字转化而来的音频内容，拓展播客之外的阅读体验。  
 2. 摩托罗拉海外版系统被发现存在重定向劫持行为，部分应用会自动跳转至广告或恶意页面，影响用户安全与体验。  
 3. 两项动态分别涉及流媒体内容创新与移动端系统安全风险，均需用户与厂商关注。 <div>
 Spotify 音频杂志文章功能开启测试，摩托罗拉海外版系统被存在重定向劫持行为等。<a href="https://sspai.com/post/110297" target="_blank">查看全文</a>
 ]]></content:encoded>
 <pubDate>Wed, 27 May 2026 07:51:23 +0800</pubDate>
-<pubDate>Wed, 27 May 2026 07:51:23 +0800</pubDate>
 </item>
-
 <item>
 <title>社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树</title>
 <link>https://sspai.com/post/110184</link>
