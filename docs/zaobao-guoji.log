@@ -2484,3 +2484,18 @@ Append: [消息称：特朗普领导的和平委员会“零捐款”](https://w
 Append: [伊朗指美国“弱” 再次开战可能性低](https://www.zaobao.com/news/world/story20260527-9114768)
 append_entries: 12
 Finish: 2026-05-27 14:51:14.343515
+------------------------------------------------------
+Started: 2026-05-27 18:16:06.586908
+Existing_entries: 660
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 301
+Summarized using deepseek-v4-flash
+Append: [伊媒报道披露协议内容 白宫抨击“完全捏造”](https://www.zaobao.com/news/world/story20260527-9116392)
+Token length: 562
+Summarized using deepseek-v4-flash
+Append: [世卫：刚果（金）伊波拉疫情病死率低于25%](https://www.zaobao.com/news/world/story20260527-9116308)
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [为遏制伊波拉疫情 乌干达关闭与刚果（金）边境四周](https://www.zaobao.com/news/world/story20260527-9116198)
+append_entries: 3
+Finish: 2026-05-27 18:16:19.334463
