@@ -2845,3 +2845,12 @@ Existing_entries: 877
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-28 20:01:17.780424
+------------------------------------------------------
+Started: 2026-05-28 23:05:52.306088
+Existing_entries: 877
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 438
+Summarized using deepseek-v4-flash
+Append: [韩咏红：华为的“韬”突破](https://www.zaobao.com/news/china/story20260529-9122638)
+append_entries: 1
+Finish: 2026-05-28 23:05:58.478924
