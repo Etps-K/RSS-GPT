@@ -2805,3 +2805,15 @@ Append: [中使馆指菲执法部门频频抓扣中国公民](https://www.zaobao
 Append: [台湾首次调查经日本走私AI晶片到中国大陆案件](https://www.zaobao.com/news/china/story20260528-9118194)
 append_entries: 20
 Finish: 2026-05-28 09:58:01.388698
+------------------------------------------------------
+Started: 2026-05-28 13:42:52.461105
+Existing_entries: 869
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 311
+Summarized using deepseek-v4-flash
+Append: [下午察：民间私自赈灾扰乱社会稳定？](https://www.zaobao.com/news/china/story20260528-9119102)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [河南女子抽奖赢世界杯门票决定转售 网民称愿付50万人民币](https://www.zaobao.com/news/china/story20260528-9120829)
+append_entries: 2
+Finish: 2026-05-28 13:43:01.857625

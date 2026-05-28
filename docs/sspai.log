@@ -3370,3 +3370,12 @@ Summarized using deepseek-v4-flash
 Append: [从零手搓 AI Agent，我学到了什么？](https://sspai.com/post/110370)
 append_entries: 1
 Finish: 2026-05-28 09:57:27.586865
+------------------------------------------------------
+Started: 2026-05-28 13:42:41.023629
+Existing_entries: 170
+Fetching from https://sspai.com/feed
+Token length: 49
+Summarized using deepseek-v4-flash
+Append: [从原理到实践：年轻人的第一篇染发及洗护指南](https://sspai.com/prime/story/hair-dye-tutorial)
+append_entries: 1
+Finish: 2026-05-28 13:42:51.657552

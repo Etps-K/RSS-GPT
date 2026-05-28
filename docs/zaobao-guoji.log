@@ -2566,3 +2566,31 @@ Summarized using deepseek-v4-flash
 Append: [联合国：未来四年全球气温恐持续升高](https://www.zaobao.com/news/world/story20260528-9118815)
 append_entries: 2
 Finish: 2026-05-28 09:58:22.806133
+------------------------------------------------------
+Started: 2026-05-28 13:43:02.493641
+Existing_entries: 676
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 402
+Summarized using deepseek-v4-flash
+Append: [日本菲律宾将讨论信息共享协议 促进武器交易](https://www.zaobao.com/news/world/story20260528-9122131)
+Token length: 1583
+Summarized using deepseek-v4-flash
+Append: [国际战略研究所：以亚太为场域 世界正濒临核武竞赛边缘](https://www.zaobao.com/news/world/story20260528-9120814)
+Token length: 703
+Summarized using deepseek-v4-flash
+Append: [以军加大对真主党打击 称全黎南均是“交战区”](https://www.zaobao.com/news/world/story20260528-9121747)
+Token length: 311
+Summarized using deepseek-v4-flash
+Append: [乌克兰议会批准法案 接收欧盟900亿欧元贷款](https://www.zaobao.com/news/world/story20260528-9121833)
+Token length: 1128
+Summarized using deepseek-v4-flash
+Append: [特朗普就海峡控制权警告阿曼 不守规矩将被“炸毁”](https://www.zaobao.com/news/world/story20260528-9120880)
+Append: [AI巨头淡化失业风险 称“就业末日”言过其实](https://www.zaobao.com/news/world/story20260528-9119691)
+Append: [瑞士火车站发生持刀袭击案 三人受伤](https://www.zaobao.com/news/world/story20260528-9121566)
+Append: [美媒：美军完成对古巴军事部署 只等特朗普一声令下](https://www.zaobao.com/news/world/story20260528-9120454)
+Append: [泽连斯基访瑞典 商讨防空协议](https://www.zaobao.com/news/world/story20260528-9121081)
+Append: [分析：欧洲减少对美国军事依赖 亚洲则加倍投入](https://www.zaobao.com/news/world/story20260528-9121108)
+Append: [伊朗外交部谴责美国袭击阿巴斯港 声援阿曼](https://www.zaobao.com/news/world/story20260528-9120493)
+Append: [美国最快于2030年代在月球建成永久基地](https://www.zaobao.com/news/world/story20260528-9119783)
+append_entries: 12
+Finish: 2026-05-28 13:43:27.593618
