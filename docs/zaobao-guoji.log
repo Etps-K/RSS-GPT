@@ -2594,3 +2594,25 @@ Append: [伊朗外交部谴责美国袭击阿巴斯港 声援阿曼](https://www
 Append: [美国最快于2030年代在月球建成永久基地](https://www.zaobao.com/news/world/story20260528-9119783)
 append_entries: 12
 Finish: 2026-05-28 13:43:27.593618
+------------------------------------------------------
+Started: 2026-05-28 17:30:37.336434
+Existing_entries: 688
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 350
+Summarized using deepseek-v4-flash
+Append: [美国第一季经济增速下修至1.6%](https://www.zaobao.com/news/world/story20260529-9122771)
+Token length: 572
+Summarized using deepseek-v4-flash
+Append: [美国CEO信心暴跌：供应链与能源忧虑加剧拖累经济](https://www.zaobao.com/news/world/story20260528-9122716)
+Token length: 513
+Summarized using deepseek-v4-flash
+Append: [美逮捕前中央情报局官员 住所搜出价值4000万美元黄金](https://www.zaobao.com/news/world/story20260528-9122621)
+Token length: 575
+Summarized using deepseek-v4-flash
+Append: [特朗普提交新版诉状 向华尔街日报索赔百亿美元](https://www.zaobao.com/news/world/story20260528-9122474)
+Token length: 620
+Summarized using deepseek-v4-flash
+Append: [纽约联储报告：美国挨饿人口高于冠病疫情高峰期](https://www.zaobao.com/news/world/story20260528-9122372)
+Append: [美国和科威特谴责伊朗报复打击美军基地](https://www.zaobao.com/news/world/story20260528-9122241)
+append_entries: 6
+Finish: 2026-05-28 17:31:04.828863

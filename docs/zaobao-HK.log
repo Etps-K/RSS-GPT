@@ -2817,3 +2817,25 @@ Summarized using deepseek-v4-flash
 Append: [河南女子抽奖赢世界杯门票决定转售 网民称愿付50万人民币](https://www.zaobao.com/news/china/story20260528-9120829)
 append_entries: 2
 Finish: 2026-05-28 13:43:01.857625
+------------------------------------------------------
+Started: 2026-05-28 17:30:11.695727
+Existing_entries: 871
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1296
+Summarized using deepseek-v4-flash
+Append: [欧盟拟系统性加码关税措施 加大力度抵御中国进口冲击](https://www.zaobao.com/news/china/story20260528-9122296)
+Token length: 1092
+Summarized using deepseek-v4-flash
+Append: [董军不出席香会 中国代表团层级降低](https://www.zaobao.com/news/china/story20260528-9122080)
+Token length: 597
+Summarized using deepseek-v4-flash
+Append: [国家大基金领投DeepSeek 投前估值450亿美元](https://www.zaobao.com/news/china/story20260528-9122388)
+Token length: 856
+Summarized using deepseek-v4-flash
+Append: [香港寻求解决“劏房”问题 但部分租户无法负担更高租金](https://www.zaobao.com/news/china/story20260528-9121722)
+Token length: 1133
+Summarized using deepseek-v4-flash
+Append: [美对台非半导体商品232关税优惠 税率15%对标日韩](https://www.zaobao.com/news/china/story20260528-9120895)
+Append: [香港超越瑞士成为全球最大的离岸财富中心](https://www.zaobao.com/news/china/story20260528-9119855)
+append_entries: 6
+Finish: 2026-05-28 17:30:36.895867
