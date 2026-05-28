@@ -2722,3 +2722,26 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：中国民企AI人才走向“核专家式管理”？](https://www.zaobao.com/news/china/story20260528-9116185)
 append_entries: 1
 Finish: 2026-05-27 23:06:59.161696
+------------------------------------------------------
+Started: 2026-05-28 01:48:38.293317
+Existing_entries: 834
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 288
+Summarized using deepseek-v4-flash
+Append: [杭州前市长姚高员任浙江省副省长](https://www.zaobao.com/news/china/story20260528-9117302)
+Token length: 285
+Summarized using deepseek-v4-flash
+Append: [河南一超载客车凌晨高速追尾货车致13死三伤](https://www.zaobao.com/news/china/story20260528-9117239)
+Token length: 854
+Summarized using deepseek-v4-flash
+Append: [解放军报：立起从严加强高级干部教育管理监督铁规矩](https://www.zaobao.com/news/china/story20260528-9117209)
+Token length: 771
+Summarized using deepseek-v4-flash
+Append: [李强赴石油粮食储备基地调研：要进一步扩大储备容量](https://www.zaobao.com/news/china/story20260528-9117180)
+Token length: 412
+Summarized using deepseek-v4-flash
+Append: [解放军通报对驶入西沙荷军舰进行驱离](https://www.zaobao.com/news/china/story20260528-9117049)
+Append: [中国伊斯兰教协会：以习思想为指导 坚持中国化方向](https://www.zaobao.com/news/china/story20260528-9116944)
+Append: [台积电员工今年分红将比上年同期增长超过三成](https://www.zaobao.com/news/china/story20260528-9116926)
+append_entries: 7
+Finish: 2026-05-28 01:49:02.747815

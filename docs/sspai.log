@@ -3343,3 +3343,12 @@ Existing_entries: 167
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-05-27 23:06:55.658245
+------------------------------------------------------
+Started: 2026-05-28 01:48:30.914919
+Existing_entries: 167
+Fetching from https://sspai.com/feed
+Token length: 42
+Summarized using deepseek-v4-flash
+Append: [派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
+append_entries: 1
+Finish: 2026-05-28 01:48:37.653007

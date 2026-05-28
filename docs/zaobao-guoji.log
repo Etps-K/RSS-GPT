@@ -2511,3 +2511,25 @@ Existing_entries: 663
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-27 23:06:59.806805
+------------------------------------------------------
+Started: 2026-05-28 01:49:03.272906
+Existing_entries: 663
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 436
+Summarized using deepseek-v4-flash
+Append: [不怕美伊战争伤选情 特朗普：伊朗跟我耗是大错特错](https://www.zaobao.com/news/world/story20260528-9117190)
+Token length: 1404
+Summarized using deepseek-v4-flash
+Append: [国际战略研究所：印太航道战略竞争从马六甲海峡一路延申至西印度洋](https://www.zaobao.com/news/world/story20260528-9115885)
+Token length: 396
+Summarized using deepseek-v4-flash
+Append: [美军对伊朗军事目标发动新一轮空袭](https://www.zaobao.com/news/world/story20260528-9117035)
+Token length: 391
+Summarized using deepseek-v4-flash
+Append: [鲁比奥：势必阻止伊波拉病毒进入美国](https://www.zaobao.com/news/world/story20260528-9117018)
+Token length: 579
+Summarized using deepseek-v4-flash
+Append: [挪威将加入法国主导的核威慑计划](https://www.zaobao.com/news/world/story20260528-9116935)
+Append: [特朗普：霍尔木兹海峡不归任何人管辖 盟友阿曼不守规矩也会被炸](https://www.zaobao.com/news/world/story20260528-9116878)
+append_entries: 6
+Finish: 2026-05-28 01:49:27.534347
