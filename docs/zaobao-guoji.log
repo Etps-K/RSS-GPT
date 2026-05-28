@@ -2616,3 +2616,9 @@ Append: [纽约联储报告：美国挨饿人口高于冠病疫情高峰期](htt
 Append: [美国和科威特谴责伊朗报复打击美军基地](https://www.zaobao.com/news/world/story20260528-9122241)
 append_entries: 6
 Finish: 2026-05-28 17:31:04.828863
+------------------------------------------------------
+Started: 2026-05-28 20:01:18.328539
+Existing_entries: 694
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-28 20:01:18.420887
