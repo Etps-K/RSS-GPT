@@ -2554,3 +2554,15 @@ Summarized using deepseek-v4-flash
 Append: [IISS报告：任何围绕台湾的冲突都可能致中美核战升级](https://www.zaobao.com/news/world/story20260528-9117408)
 append_entries: 5
 Finish: 2026-05-28 05:59:43.611078
+------------------------------------------------------
+Started: 2026-05-28 09:58:02.027879
+Existing_entries: 674
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [肯尼亚一女校宿舍发生火灾 16名学生遇难](https://www.zaobao.com/news/world/story20260528-9120037)
+Token length: 306
+Summarized using deepseek-v4-flash
+Append: [联合国：未来四年全球气温恐持续升高](https://www.zaobao.com/news/world/story20260528-9118815)
+append_entries: 2
+Finish: 2026-05-28 09:58:22.806133
