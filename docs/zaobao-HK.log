@@ -2745,3 +2745,27 @@ Append: [中国伊斯兰教协会：以习思想为指导 坚持中国化方向]
 Append: [台积电员工今年分红将比上年同期增长超过三成](https://www.zaobao.com/news/china/story20260528-9116926)
 append_entries: 7
 Finish: 2026-05-28 01:49:02.747815
+------------------------------------------------------
+Started: 2026-05-28 05:58:54.703807
+Existing_entries: 841
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 444
+Summarized using deepseek-v4-flash
+Append: [重庆山洪逾10人失联遇难 多为老人有一家五口被冲走](https://www.zaobao.com/news/china/story20260528-9118363)
+Token length: 456
+Summarized using deepseek-v4-flash
+Append: [被指推广致癌物 广东槟榔千年文化展撤展](https://www.zaobao.com/news/china/story20260528-9117852)
+Token length: 517
+Summarized using deepseek-v4-flash
+Append: [美国大使告诫西班牙深化对华关系要谨慎处理](https://www.zaobao.com/news/china/story20260528-9118190)
+Token length: 376
+Summarized using deepseek-v4-flash
+Append: [香格里拉对话日程表 未安排中国主题专场](https://www.zaobao.com/news/china/story20260528-9118185)
+Token length: 623
+Summarized using deepseek-v4-flash
+Append: [落马两个月后 胡衡华辞去重庆市长职务](https://www.zaobao.com/news/china/story20260528-9117911)
+Append: [美国放宽部分对台关税措施 落实贸易协议](https://www.zaobao.com/news/china/story20260528-9117679)
+Append: [四川崇州市长饶程简历被撤 曾在腐败重灾区江西新余任职多年](https://www.zaobao.com/news/china/story20260528-9117634)
+Append: [英媒：黄仁勋将加入清华经济管理学院顾问委员会](https://www.zaobao.com/news/china/story20260528-9117366)
+append_entries: 8
+Finish: 2026-05-28 05:59:19.891108

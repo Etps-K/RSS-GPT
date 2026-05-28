@@ -3352,3 +3352,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
 append_entries: 1
 Finish: 2026-05-28 01:48:37.653007
+------------------------------------------------------
+Started: 2026-05-28 05:58:47.379131
+Existing_entries: 168
+Fetching from https://sspai.com/feed
+Token length: 126
+Summarized using deepseek-v4-flash
+Append: [免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
+append_entries: 1
+Finish: 2026-05-28 05:58:54.021038

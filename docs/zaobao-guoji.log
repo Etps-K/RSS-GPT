@@ -2533,3 +2533,24 @@ Append: [挪威将加入法国主导的核威慑计划](https://www.zaobao.com/n
 Append: [特朗普：霍尔木兹海峡不归任何人管辖 盟友阿曼不守规矩也会被炸](https://www.zaobao.com/news/world/story20260528-9116878)
 append_entries: 6
 Finish: 2026-05-28 01:49:27.534347
+------------------------------------------------------
+Started: 2026-05-28 05:59:20.448671
+Existing_entries: 669
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 709
+Summarized using deepseek-v4-flash
+Append: [国际能源署：中东战争重塑各国能源战略](https://www.zaobao.com/news/world/story20260528-9118643)
+Token length: 351
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称对美空军基地进行报复打击](https://www.zaobao.com/news/world/story20260528-9118357)
+Token length: 339
+Summarized using deepseek-v4-flash
+Append: [美财政部将伊朗波斯湾海峡管理局列入制裁名单](https://www.zaobao.com/news/world/story20260528-9117725)
+Token length: 404
+Summarized using deepseek-v4-flash
+Append: [与特朗普“撞脸”水牛 开斋节前豁免宰杀](https://www.zaobao.com/news/world/story20260528-9117471)
+Token length: 536
+Summarized using deepseek-v4-flash
+Append: [IISS报告：任何围绕台湾的冲突都可能致中美核战升级](https://www.zaobao.com/news/world/story20260528-9117408)
+append_entries: 5
+Finish: 2026-05-28 05:59:43.611078
