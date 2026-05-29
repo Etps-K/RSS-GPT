@@ -2967,3 +2967,9 @@ Summarized using deepseek-v4-flash
 Append: [释永信获刑24年 中国佛协：完全是咎由自取](https://www.zaobao.com/news/china/story20260529-9128346)
 append_entries: 2
 Finish: 2026-05-29 18:25:15.863234
+------------------------------------------------------
+Started: 2026-05-29 21:30:35.428524
+Existing_entries: 923
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-29 21:30:35.562332
