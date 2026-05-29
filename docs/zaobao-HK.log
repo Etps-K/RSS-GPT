@@ -2955,3 +2955,15 @@ Summarized using deepseek-v4-flash
 Append: [马英九基金会提告萧旭岑王光慈 蓝营分裂延烧恐冲击年底选情](https://www.zaobao.com/news/china/story20260529-9126444)
 append_entries: 5
 Finish: 2026-05-29 14:33:46.164915
+------------------------------------------------------
+Started: 2026-05-29 18:25:07.573254
+Existing_entries: 921
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 643
+Summarized using deepseek-v4-flash
+Append: [丁向群任中国国家金融监督管理总局党委书记](https://www.zaobao.com/news/china/story20260529-9128498)
+Token length: 394
+Summarized using deepseek-v4-flash
+Append: [释永信获刑24年 中国佛协：完全是咎由自取](https://www.zaobao.com/news/china/story20260529-9128346)
+append_entries: 2
+Finish: 2026-05-29 18:25:15.863234

@@ -2719,3 +2719,27 @@ Summarized using deepseek-v4-flash
 Append: [法国与西班牙通胀加速 为欧洲央行加息提供数据支撑](https://www.zaobao.com/news/world/story20260529-9127056)
 append_entries: 5
 Finish: 2026-05-29 14:34:09.699006
+------------------------------------------------------
+Started: 2026-05-29 18:25:16.556526
+Existing_entries: 721
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1603
+Summarized using deepseek-v4-flash
+Append: [苏林呼吁亚太国家化被动为主动 挺身为全球危机找方案](https://www.zaobao.com/news/world/story20260530-9128638)
+Token length: 201
+Summarized using deepseek-v4-flash
+Append: [特朗普：周五开会决定是否同伊朗达成和平协议](https://www.zaobao.com/news/world/story20260529-9128750)
+Token length: 539
+Summarized using deepseek-v4-flash
+Append: [日本外汇干预规模创历史新高](https://www.zaobao.com/news/world/story20260529-9128622)
+Token length: 1001
+Summarized using deepseek-v4-flash
+Append: [需求放缓竞争激烈 日本车商相继喊停电动车计划](https://www.zaobao.com/news/world/story20260529-9128193)
+Token length: 354
+Summarized using deepseek-v4-flash
+Append: [2020年以来首次 加拿大经济陷入技术性衰退](https://www.zaobao.com/news/world/story20260529-9128511)
+Append: [法国第一季GDP环比下降0.1%](https://www.zaobao.com/news/world/story20260529-9128464)
+Append: [美军三架“全球鹰”无人侦察机今夏移驻东京都](https://www.zaobao.com/news/world/story20260529-9128347)
+Append: [日本通过修正案 大幅提高居留申请与签证等费用](https://www.zaobao.com/news/world/story20260529-9128223)
+append_entries: 8
+Finish: 2026-05-29 18:25:47.634870
