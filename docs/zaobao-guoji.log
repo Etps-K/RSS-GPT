@@ -2628,3 +2628,25 @@ Existing_entries: 694
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-28 23:05:59.225949
+------------------------------------------------------
+Started: 2026-05-29 01:57:52.011009
+Existing_entries: 694
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 447
+Summarized using deepseek-v4-flash
+Append: [美国对伊朗军用石油销售实施新制裁](https://www.zaobao.com/news/world/story20260529-9123476)
+Token length: 363
+Summarized using deepseek-v4-flash
+Append: [瑞士持刀袭击案定性为恐袭 嫌疑人有双国籍精神疾病史](https://www.zaobao.com/news/world/story20260529-9123398)
+Token length: 400
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡命以军控制加沙地带70%领土](https://www.zaobao.com/news/world/story20260529-9123365)
+Token length: 200
+Summarized using deepseek-v4-flash
+Append: [伊媒指美军飞机在布尔什附近被击落 美军否认](https://www.zaobao.com/news/world/story20260529-9123325)
+Token length: 581
+Summarized using deepseek-v4-flash
+Append: [美警告阿曼制裁风险 贝森特：阿曼称不会征收海峡通行费](https://www.zaobao.com/news/world/story20260529-9123264)
+Append: [美国财长：已看到美国伊朗达成协议的曙光](https://www.zaobao.com/news/world/story20260529-9123229)
+append_entries: 6
+Finish: 2026-05-29 01:58:17.416868

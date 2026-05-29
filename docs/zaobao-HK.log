@@ -2854,3 +2854,15 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：华为的“韬”突破](https://www.zaobao.com/news/china/story20260529-9122638)
 append_entries: 1
 Finish: 2026-05-28 23:05:58.478924
+------------------------------------------------------
+Started: 2026-05-29 01:57:38.865993
+Existing_entries: 878
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 940
+Summarized using deepseek-v4-flash
+Append: [中共中央党校机关报：反对关门主义 不是降低发展党员标准](https://www.zaobao.com/news/china/story20260529-9123414)
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [王毅：巴基斯坦积极斡旋美伊谈判 是可信赖合格斡旋者](https://www.zaobao.com/news/china/story20260529-9123352)
+append_entries: 2
+Finish: 2026-05-29 01:57:51.397685
