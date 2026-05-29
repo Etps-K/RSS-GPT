@@ -3415,3 +3415,18 @@ Summarized using deepseek-v4-flash
 Append: [什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起](https://sspai.com/post/110120)
 append_entries: 1
 Finish: 2026-05-29 06:07:58.419178
+------------------------------------------------------
+Started: 2026-05-29 11:16:53.426877
+Existing_entries: 173
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [住久了没意思（三）：打造能好好放松的卧室](https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom)
+Token length: 58
+Summarized using deepseek-v4-flash
+Append: [Await：五分钟，把点子变成 iPhone 小组件](https://sspai.com/post/110106)
+append_entries: 3
+Finish: 2026-05-29 11:17:17.737796

@@ -2671,3 +2671,30 @@ Summarized using deepseek-v4-flash
 Append: [特朗普肖像250美元纪念钞已设计完成 只等国会“放行”](https://www.zaobao.com/news/world/story20260529-9123606)
 append_entries: 5
 Finish: 2026-05-29 06:08:48.381707
+------------------------------------------------------
+Started: 2026-05-29 11:17:34.732178
+Existing_entries: 705
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 597
+Summarized using deepseek-v4-flash
+Append: [美军印太司令提交涉台报告 拟增强对华威慑](https://www.zaobao.com/news/world/story20260529-9126364)
+Token length: 356
+Summarized using deepseek-v4-flash
+Append: [涉纵火烧学校致16人死亡 肯尼亚八名学生被捕](https://www.zaobao.com/news/world/story20260529-9126791)
+Token length: 575
+Summarized using deepseek-v4-flash
+Append: [热浪席卷欧洲 多地刷新5月高温纪录](https://www.zaobao.com/news/world/story20260529-9125734)
+Token length: 768
+Summarized using deepseek-v4-flash
+Append: [美华盛顿州造纸厂化学槽内爆已致八人死亡 三人下落不明恐遇难](https://www.zaobao.com/news/world/story20260529-9126531)
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [日本航空客机因轮胎问题 紧急降落东京成田机场](https://www.zaobao.com/news/world/story20260529-9125975)
+Append: [美国伊波拉隔离中心被肯尼亚高等法院临时喊停](https://www.zaobao.com/news/world/story20260529-9125698)
+Append: [韩美将正式启动落实联合情况说明协商会议](https://www.zaobao.com/news/world/story20260529-9125394)
+Append: [涉售毒协助多人自杀 加拿大男子拟认14罪](https://www.zaobao.com/news/world/story20260529-9125324)
+Append: [伊朗官员称无意将浓缩铀运出伊朗](https://www.zaobao.com/news/world/story20260529-9125166)
+Append: [日本总人口连续15年下降](https://www.zaobao.com/news/world/story20260529-9125124)
+Append: [冰岛超越瑞士成为全球最昂贵国家](https://www.zaobao.com/news/world/story20260529-9124947)
+append_entries: 11
+Finish: 2026-05-29 11:18:03.191555
