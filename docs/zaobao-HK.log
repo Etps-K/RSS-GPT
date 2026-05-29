@@ -2973,3 +2973,15 @@ Existing_entries: 923
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-29 21:30:35.562332
+------------------------------------------------------
+Started: 2026-05-29 23:01:23.495900
+Existing_entries: 923
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 247
+Summarized using deepseek-v4-flash
+Append: [黎康：网约车八小时松绑后](https://www.zaobao.com/news/china/story20260530-9128311)
+Token length: 284
+Summarized using deepseek-v4-flash
+Append: [新闻人间：周美青只想让马英九好好老去](https://www.zaobao.com/news/china/story20260530-9128171)
+append_entries: 2
+Finish: 2026-05-29 23:01:34.031099
