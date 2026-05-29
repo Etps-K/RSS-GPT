@@ -2934,3 +2934,24 @@ Append: [微信支付支持PayPal用户赴华扫码支付 先向美用户开放]
 Append: [国台办新增分局 负责台湾人赴陆学习工作事宜](https://www.zaobao.com/news/china/story20260529-9124666)
 append_entries: 23
 Finish: 2026-05-29 11:17:34.172068
+------------------------------------------------------
+Started: 2026-05-29 14:33:21.951480
+Existing_entries: 916
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 672
+Summarized using deepseek-v4-flash
+Append: [外长林佳龙：台强化防卫能力 符合美国利益](https://www.zaobao.com/news/china/story20260529-9127598)
+Token length: 731
+Summarized using deepseek-v4-flash
+Append: [少林寺原住持释永信一审获刑24年](https://www.zaobao.com/news/china/story20260529-9127588)
+Token length: 423
+Summarized using deepseek-v4-flash
+Append: [港记协前主席陈朗升涉阻碍警方上诉失败 被判入狱五天](https://www.zaobao.com/news/china/story20260529-9127530)
+Token length: 294
+Summarized using deepseek-v4-flash
+Append: [下午察：院士除名成了新常态？](https://www.zaobao.com/news/china/story20260529-9126388)
+Token length: 1342
+Summarized using deepseek-v4-flash
+Append: [马英九基金会提告萧旭岑王光慈 蓝营分裂延烧恐冲击年底选情](https://www.zaobao.com/news/china/story20260529-9126444)
+append_entries: 5
+Finish: 2026-05-29 14:33:46.164915

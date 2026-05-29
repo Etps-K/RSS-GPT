@@ -2698,3 +2698,24 @@ Append: [日本总人口连续15年下降](https://www.zaobao.com/news/world/sto
 Append: [冰岛超越瑞士成为全球最昂贵国家](https://www.zaobao.com/news/world/story20260529-9124947)
 append_entries: 11
 Finish: 2026-05-29 11:18:03.191555
+------------------------------------------------------
+Started: 2026-05-29 14:33:46.847432
+Existing_entries: 716
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 585
+Summarized using deepseek-v4-flash
+Append: [瑞典研究：成年体重增加 患癌风险增四倍](https://www.zaobao.com/news/world/story20260529-9048104)
+Token length: 561
+Summarized using deepseek-v4-flash
+Append: [生育率下降致学龄儿童减少 美国公立学校招生难](https://www.zaobao.com/news/world/story20260529-9030377)
+Token length: 1536
+Summarized using deepseek-v4-flash
+Append: [宁选丹麦不要美国 格陵兰独立派领袖因特朗普改变立场](https://www.zaobao.com/news/world/story20260529-9126612)
+Token length: 552
+Summarized using deepseek-v4-flash
+Append: [无人机坠落罗马尼亚 欧盟谴责俄罗斯跨越底线](https://www.zaobao.com/news/world/story20260529-9127690)
+Token length: 329
+Summarized using deepseek-v4-flash
+Append: [法国与西班牙通胀加速 为欧洲央行加息提供数据支撑](https://www.zaobao.com/news/world/story20260529-9127056)
+append_entries: 5
+Finish: 2026-05-29 14:34:09.699006
