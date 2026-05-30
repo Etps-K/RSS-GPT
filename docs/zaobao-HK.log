@@ -3093,3 +3093,9 @@ Summarized using deepseek-v4-flash
 Append: [两高校通报论文内容存疑问题 南开大学一学院院长被免职](https://www.zaobao.com/news/china/story20260530-9131702)
 append_entries: 3
 Finish: 2026-05-30 14:57:41.605027
+------------------------------------------------------
+Started: 2026-05-30 16:49:58.087039
+Existing_entries: 953
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-30 16:49:58.296691
