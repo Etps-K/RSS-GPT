@@ -2866,3 +2866,25 @@ Summarized using deepseek-v4-flash
 Append: [阿富汗发生卡车侧翻事故 18死30伤](https://www.zaobao.com/news/world/story20260530-9131060)
 append_entries: 5
 Finish: 2026-05-30 12:58:23.004578
+------------------------------------------------------
+Started: 2026-05-30 14:57:42.335493
+Existing_entries: 760
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 537
+Summarized using deepseek-v4-flash
+Append: [奥地利民众抗议噪音与污染 连接德意高速公路封锁](https://www.zaobao.com/news/world/story20260530-9131956)
+Token length: 1198
+Summarized using deepseek-v4-flash
+Append: [白宫：特朗普坚持底线 尚未就伊朗协议作最终决定](https://www.zaobao.com/news/world/story20260530-9131669)
+Token length: 726
+Summarized using deepseek-v4-flash
+Append: [欧盟将推“技术主权”新规 减少依赖中美科技与晶片](https://www.zaobao.com/news/world/story20260530-9131297)
+Token length: 412
+Summarized using deepseek-v4-flash
+Append: [伊媒：议会将通过霍尔木兹海峡“主权管辖”计划](https://www.zaobao.com/news/world/story20260530-9131757)
+Token length: 436
+Summarized using deepseek-v4-flash
+Append: [【香会】澳英美共同研发水下无人机 维护海上集体优势](https://www.zaobao.com/news/world/story20260530-9131530)
+Append: [美国禁止公民与伊朗达成协议 通过霍尔木兹海峡](https://www.zaobao.com/news/world/story20260530-9131691)
+append_entries: 6
+Finish: 2026-05-30 14:58:06.518661

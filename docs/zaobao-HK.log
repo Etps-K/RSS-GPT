@@ -3078,3 +3078,18 @@ Existing_entries: 950
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-30 12:58:00.836235
+------------------------------------------------------
+Started: 2026-05-30 14:57:29.279780
+Existing_entries: 950
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1324
+Summarized using deepseek-v4-flash
+Append: [侧记：一次中美降低火药味的香会](https://www.zaobao.com/news/china/story20260530-9131353)
+Token length: 1239
+Summarized using deepseek-v4-flash
+Append: [中国外长10年来首访加拿大 王毅称中加关系“重归正轨”](https://www.zaobao.com/news/china/story20260530-9131008)
+Token length: 785
+Summarized using deepseek-v4-flash
+Append: [两高校通报论文内容存疑问题 南开大学一学院院长被免职](https://www.zaobao.com/news/china/story20260530-9131702)
+append_entries: 3
+Finish: 2026-05-30 14:57:41.605027
