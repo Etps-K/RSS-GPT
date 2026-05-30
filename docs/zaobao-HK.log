@@ -3120,3 +3120,12 @@ Existing_entries: 956
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-30 20:42:10.477280
+------------------------------------------------------
+Started: 2026-05-30 22:44:35.195932
+Existing_entries: 956
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 263
+Summarized using deepseek-v4-flash
+Append: [中国特稿：远赴非洲拿命搏翻身 有血有泪黄金险中求](https://www.zaobao.com/news/china/story20260531-9036576)
+append_entries: 1
+Finish: 2026-05-30 22:44:40.513866

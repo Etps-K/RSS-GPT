@@ -2918,3 +2918,12 @@ Existing_entries: 770
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-30 20:42:11.326014
+------------------------------------------------------
+Started: 2026-05-30 22:44:41.159748
+Existing_entries: 770
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 250
+Summarized using deepseek-v4-flash
+Append: [国际特稿：伊朗战争叠加厄尔尼诺 能源红灯两盏齐亮 危机“烤”验亚洲多国](https://www.zaobao.com/news/world/story20260531-9122765)
+append_entries: 1
+Finish: 2026-05-30 22:44:43.882057
