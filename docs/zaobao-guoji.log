@@ -2824,3 +2824,24 @@ Summarized using deepseek-v4-flash
 Append: [【香会】赫格塞斯降低对华批评烈度 崔天凯：有理不在声高](https://www.zaobao.com/news/world/story20260530-9130010)
 append_entries: 5
 Finish: 2026-05-30 08:13:48.442222
+------------------------------------------------------
+Started: 2026-05-30 11:10:28.863461
+Existing_entries: 750
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 227
+Summarized using deepseek-v4-flash
+Append: [德媒：慕尼黑机场疑似发现无人机 一度暂停航班起降](https://www.zaobao.com/news/world/story20260530-9130820)
+Token length: 558
+Summarized using deepseek-v4-flash
+Append: [刚果（金）伊波拉确诊超220起 首名患者康复出院](https://www.zaobao.com/news/world/story20260530-9130654)
+Token length: 656
+Summarized using deepseek-v4-flash
+Append: [报告：美国大规模移民执法行动 致近67万工作岗位流失](https://www.zaobao.com/news/world/story20260530-9130672)
+Token length: 309
+Summarized using deepseek-v4-flash
+Append: [美媒：阿联酋对伊朗发动数十次袭击至4月停火次日](https://www.zaobao.com/news/world/story20260530-9130471)
+Token length: 276
+Summarized using deepseek-v4-flash
+Append: [法国继续向多地发布高温橙色预警](https://www.zaobao.com/news/world/story20260530-9130280)
+append_entries: 5
+Finish: 2026-05-30 11:10:52.723284

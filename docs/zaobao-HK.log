@@ -3050,3 +3050,25 @@ Append: [台湾上修今年GDP逾9% 创16年新高](https://www.zaobao.com/news/
 Append: [中国据报暂停全球最大肉类加工企业巴西JBS牛肉输华](https://www.zaobao.com/news/china/story20260530-9129823)
 append_entries: 10
 Finish: 2026-05-30 08:13:29.419442
+------------------------------------------------------
+Started: 2026-05-30 11:10:07.743668
+Existing_entries: 944
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 703
+Summarized using deepseek-v4-flash
+Append: [港首产载荷专家 陈国基称香港已成中国航天事业参与者](https://www.zaobao.com/news/china/story20260530-9131106)
+Token length: 434
+Summarized using deepseek-v4-flash
+Append: [中国促欧盟通过对话协商处理双方分歧摩擦](https://www.zaobao.com/news/china/story20260530-9130954)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [几次上涨后 中国国内航线燃油附加费迎来下调](https://www.zaobao.com/news/china/story20260530-9130795)
+Token length: 620
+Summarized using deepseek-v4-flash
+Append: [中国10车主起诉特斯拉FSD消费欺诈 索赔近400万人民币](https://www.zaobao.com/news/china/story20260530-9130817)
+Token length: 683
+Summarized using deepseek-v4-flash
+Append: [港澳游艇可免担保进出大湾区九市](https://www.zaobao.com/news/china/story20260530-9130446)
+Append: [湖南邵东一水库隧洞施工事故致三人死亡](https://www.zaobao.com/news/china/story20260530-9130624)
+append_entries: 6
+Finish: 2026-05-30 11:10:28.279077
