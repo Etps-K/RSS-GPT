@@ -2755,3 +2755,24 @@ Existing_entries: 729
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-29 23:01:34.866183
+------------------------------------------------------
+Started: 2026-05-30 01:53:19.256557
+Existing_entries: 729
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 536
+Summarized using deepseek-v4-flash
+Append: [以黎军事谈判无果 以军主力越过利塔尼河](https://www.zaobao.com/news/world/story20260530-9129211)
+Token length: 826
+Summarized using deepseek-v4-flash
+Append: [法官裁定肯尼迪中心更名违法 下令移除特朗普名字](https://www.zaobao.com/news/world/story20260530-9129191)
+Token length: 150
+Summarized using deepseek-v4-flash
+Append: [伊朗称击落一架敌方无人机并找到残骸](https://www.zaobao.com/news/world/story20260530-9129156)
+Token length: 227
+Summarized using deepseek-v4-flash
+Append: [白宫匿名官员：特朗普对伊朗协议“坚守红线”](https://www.zaobao.com/news/world/story20260530-9129103)
+Token length: 365
+Summarized using deepseek-v4-flash
+Append: [美高级官员：特朗普推迟对伊朗提案做最终决定](https://www.zaobao.com/news/world/story20260530-9129087)
+append_entries: 5
+Finish: 2026-05-30 01:53:36.013922

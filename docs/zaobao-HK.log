@@ -2985,3 +2985,24 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：周美青只想让马英九好好老去](https://www.zaobao.com/news/china/story20260530-9128171)
 append_entries: 2
 Finish: 2026-05-29 23:01:34.031099
+------------------------------------------------------
+Started: 2026-05-30 01:52:53.042565
+Existing_entries: 925
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 444
+Summarized using deepseek-v4-flash
+Append: [膳魔师中国召回400万件不锈钢食物罐](https://www.zaobao.com/news/china/story20260530-9129288)
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [一中国公民在菲监狱羁押离世 中使馆提严正交涉](https://www.zaobao.com/news/china/story20260530-9129249)
+Token length: 634
+Summarized using deepseek-v4-flash
+Append: [王毅：加拿大对华出口量可翻倍 超越2030年目标](https://www.zaobao.com/news/china/story20260530-9129210)
+Token length: 656
+Summarized using deepseek-v4-flash
+Append: [中国教育部：促进中美青少年双向交流可持续发展](https://www.zaobao.com/news/china/story20260530-9129125)
+Token length: 651
+Summarized using deepseek-v4-flash
+Append: [神舟21乘组成功返回地球](https://www.zaobao.com/news/china/story20260530-9129138)
+append_entries: 5
+Finish: 2026-05-30 01:53:18.539059
