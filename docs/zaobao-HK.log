@@ -3072,3 +3072,9 @@ Append: [港澳游艇可免担保进出大湾区九市](https://www.zaobao.com/n
 Append: [湖南邵东一水库隧洞施工事故致三人死亡](https://www.zaobao.com/news/china/story20260530-9130624)
 append_entries: 6
 Finish: 2026-05-30 11:10:28.279077
+------------------------------------------------------
+Started: 2026-05-30 12:58:00.720662
+Existing_entries: 950
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-30 12:58:00.836235

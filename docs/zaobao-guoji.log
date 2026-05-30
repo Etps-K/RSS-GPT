@@ -2845,3 +2845,24 @@ Summarized using deepseek-v4-flash
 Append: [法国继续向多地发布高温橙色预警](https://www.zaobao.com/news/world/story20260530-9130280)
 append_entries: 5
 Finish: 2026-05-30 11:10:52.723284
+------------------------------------------------------
+Started: 2026-05-30 12:58:01.552421
+Existing_entries: 755
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 828
+Summarized using deepseek-v4-flash
+Append: [“亚细安若解体怎么办？” 香会焦点直指区域未来](https://www.zaobao.com/news/world/story20260530-9130264)
+Token length: 504
+Summarized using deepseek-v4-flash
+Append: [缅甸总统抵达印度访问 加强双边关系](https://www.zaobao.com/news/world/story20260530-9131184)
+Token length: 1452
+Summarized using deepseek-v4-flash
+Append: [赫格塞斯香会致辞：降低对中国抨击火力 要求盟友分担更多防务责任](https://www.zaobao.com/news/world/story20260530-9130868)
+Token length: 721
+Summarized using deepseek-v4-flash
+Append: [苏林：越中关系牢固有利于地区和平与安全](https://www.zaobao.com/news/world/story20260530-9131098)
+Token length: 353
+Summarized using deepseek-v4-flash
+Append: [阿富汗发生卡车侧翻事故 18死30伤](https://www.zaobao.com/news/world/story20260530-9131060)
+append_entries: 5
+Finish: 2026-05-30 12:58:23.004578
