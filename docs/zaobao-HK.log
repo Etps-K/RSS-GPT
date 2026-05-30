@@ -3099,3 +3099,18 @@ Existing_entries: 953
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-30 16:49:58.296691
+------------------------------------------------------
+Started: 2026-05-30 18:56:12.983068
+Existing_entries: 953
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 567
+Summarized using deepseek-v4-flash
+Append: [黄仁勋评价华为突破：台积电领先10年](https://www.zaobao.com/news/china/story20260530-9131862)
+Token length: 1426
+Summarized using deepseek-v4-flash
+Append: [关志鸥主政湖北年龄优势突出 丁向群成金融监管总局首位女掌门](https://www.zaobao.com/news/china/story20260530-9131748)
+Token length: 1481
+Summarized using deepseek-v4-flash
+Append: [习特会后美防长香会降低对华批评烈度 崔天凯：中美须冷静沟通 有理不在声高](https://www.zaobao.com/news/china/story20260530-9131416)
+append_entries: 3
+Finish: 2026-05-30 18:56:30.795006
