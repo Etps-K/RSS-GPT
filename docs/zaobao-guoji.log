@@ -2776,3 +2776,30 @@ Summarized using deepseek-v4-flash
 Append: [美高级官员：特朗普推迟对伊朗提案做最终决定](https://www.zaobao.com/news/world/story20260530-9129087)
 append_entries: 5
 Finish: 2026-05-30 01:53:36.013922
+------------------------------------------------------
+Started: 2026-05-30 05:39:27.527151
+Existing_entries: 734
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 318
+Summarized using deepseek-v4-flash
+Append: [白宫医生称特朗普健康极佳 但建议他减肥](https://www.zaobao.com/news/world/story20260530-9129880)
+Token length: 258
+Summarized using deepseek-v4-flash
+Append: [【香会】赫格塞斯今年演讲未提及台湾 去年提了五次](https://www.zaobao.com/news/world/story20260530-9129920)
+Token length: 492
+Summarized using deepseek-v4-flash
+Append: [【香会】亚细安秘书长高金洪：亚细安不会选边站队](https://www.zaobao.com/news/world/story20260530-9129825)
+Token length: 385
+Summarized using deepseek-v4-flash
+Append: [IMF世行等警告：中东战事加剧能源供应紧张冲击脆弱经济体](https://www.zaobao.com/news/world/story20260530-9129625)
+Token length: 226
+Summarized using deepseek-v4-flash
+Append: [【香会】赫格塞斯称新西兰GDP2%投入防务是“搭便车”](https://www.zaobao.com/news/world/story20260530-9129651)
+Append: [古巴：古美双方同意保持两军指挥层面沟通](https://www.zaobao.com/news/world/story20260530-9129544)
+Append: [美国古巴两国军方高级将领罕见会晤](https://www.zaobao.com/news/world/story20260530-9129513)
+Append: [【香会】赫格塞斯警告盟友 美国资助防务的时代已结束](https://www.zaobao.com/news/world/story20260530-9129537)
+Append: [美国财政部对伊朗实施新制裁](https://www.zaobao.com/news/world/story20260530-9129245)
+Append: [【香会】赫格塞斯忆述亲历习特会 强调中美元首相互尊重真实实质](https://www.zaobao.com/news/world/story20260530-9129429)
+Append: [美防长赫格塞斯：美国有能力在世界任何地方投射力量](https://www.zaobao.com/news/world/story20260530-9129344)
+append_entries: 11
+Finish: 2026-05-30 05:39:43.087521

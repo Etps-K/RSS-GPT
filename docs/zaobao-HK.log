@@ -3006,3 +3006,21 @@ Summarized using deepseek-v4-flash
 Append: [神舟21乘组成功返回地球](https://www.zaobao.com/news/china/story20260530-9129138)
 append_entries: 5
 Finish: 2026-05-30 01:53:18.539059
+------------------------------------------------------
+Started: 2026-05-30 05:39:11.653733
+Existing_entries: 930
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1214
+Summarized using deepseek-v4-flash
+Append: [王毅会卡尼：中加应坚持多边主义战略自主](https://www.zaobao.com/news/china/story20260530-9129706)
+Token length: 603
+Summarized using deepseek-v4-flash
+Append: [特朗普政府推迟对台军售案以防空系统为主](https://www.zaobao.com/news/china/story20260530-9129564)
+Token length: 581
+Summarized using deepseek-v4-flash
+Append: [习近平9月访美前 特朗普暂缓与赖清德通话](https://www.zaobao.com/news/china/story20260530-9129422)
+Token length: 529
+Summarized using deepseek-v4-flash
+Append: [关志鸥接替王忠林任中共湖北省委书记](https://www.zaobao.com/news/china/story20260530-9129402)
+append_entries: 4
+Finish: 2026-05-30 05:39:26.828050
