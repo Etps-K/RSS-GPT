@@ -2994,3 +2994,24 @@ Append: [以军称已占领黎南部博福特城堡](https://www.zaobao.com/news
 Append: [美国纸厂化学品泄漏 死者增至11人](https://www.zaobao.com/news/world/story20260531-9133634)
 append_entries: 6
 Finish: 2026-05-31 10:06:15.854021
+------------------------------------------------------
+Started: 2026-05-31 13:07:49.471186
+Existing_entries: 790
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 566
+Summarized using deepseek-v4-flash
+Append: [日元疲软使出国留学日本人大减 赴日留学生大增](https://www.zaobao.com/news/world/story20260531-9134648)
+Token length: 342
+Summarized using deepseek-v4-flash
+Append: [伊朗议长：美国要达成协议 须保障伊朗权益](https://www.zaobao.com/news/world/story20260531-9134750)
+Token length: 771
+Summarized using deepseek-v4-flash
+Append: [美媒：伊朗地下导弹基地迅速重开 挑战美国轰炸战略](https://www.zaobao.com/news/world/story20260531-9134721)
+Token length: 974
+Summarized using deepseek-v4-flash
+Append: [巴西出现首例伊波拉疑似病例](https://www.zaobao.com/news/world/story20260531-9134395)
+Token length: 666
+Summarized using deepseek-v4-flash
+Append: [乌核电站遭攻击 国际原子能机构警告“无异于玩火”](https://www.zaobao.com/news/world/story20260531-9134375)
+append_entries: 5
+Finish: 2026-05-31 13:08:08.661020
