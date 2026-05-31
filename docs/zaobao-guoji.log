@@ -3027,3 +3027,12 @@ Summarized using deepseek-v4-flash
 Append: [欧盟考虑暂时冻结俄罗斯石油价格上限](https://www.zaobao.com/news/world/story20260531-9134944)
 append_entries: 2
 Finish: 2026-05-31 15:09:09.479528
+------------------------------------------------------
+Started: 2026-05-31 16:53:22.754495
+Existing_entries: 797
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 343
+Summarized using deepseek-v4-flash
+Append: [印尼二战遗留炸弹爆炸 造成五死五伤](https://www.zaobao.com/news/world/story20260531-9135348)
+append_entries: 1
+Finish: 2026-05-31 16:53:27.233870

@@ -3216,3 +3216,9 @@ Summarized using deepseek-v4-flash
 Append: [关停三年后 天涯社区明起恢复访问](https://www.zaobao.com/news/china/story20260531-9134950)
 append_entries: 2
 Finish: 2026-05-31 15:09:00.648454
+------------------------------------------------------
+Started: 2026-05-31 16:53:21.788660
+Existing_entries: 984
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-05-31 16:53:21.987009
