@@ -3204,3 +3204,15 @@ Summarized using deepseek-v4-flash
 Append: [港创科局长：争取神舟23乘组明年上半年访港](https://www.zaobao.com/news/china/story20260531-9133966)
 append_entries: 1
 Finish: 2026-05-31 13:07:48.717035
+------------------------------------------------------
+Started: 2026-05-31 15:08:51.965036
+Existing_entries: 982
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1146
+Summarized using deepseek-v4-flash
+Append: [学术打假博主“耿同学”被永久限流 分析：平台或担心引更大争议](https://www.zaobao.com/news/china/story20260531-9134773)
+Token length: 497
+Summarized using deepseek-v4-flash
+Append: [关停三年后 天涯社区明起恢复访问](https://www.zaobao.com/news/china/story20260531-9134950)
+append_entries: 2
+Finish: 2026-05-31 15:09:00.648454

@@ -3015,3 +3015,15 @@ Summarized using deepseek-v4-flash
 Append: [乌核电站遭攻击 国际原子能机构警告“无异于玩火”](https://www.zaobao.com/news/world/story20260531-9134375)
 append_entries: 5
 Finish: 2026-05-31 13:08:08.661020
+------------------------------------------------------
+Started: 2026-05-31 15:09:01.275120
+Existing_entries: 795
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 490
+Summarized using deepseek-v4-flash
+Append: [1848名“奥沙利文氏”相见爱尔兰 创同姓聚会纪录](https://www.zaobao.com/news/world/story20260531-9135127)
+Token length: 452
+Summarized using deepseek-v4-flash
+Append: [欧盟考虑暂时冻结俄罗斯石油价格上限](https://www.zaobao.com/news/world/story20260531-9134944)
+append_entries: 2
+Finish: 2026-05-31 15:09:09.479528
