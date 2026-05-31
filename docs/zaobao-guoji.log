@@ -3036,3 +3036,9 @@ Summarized using deepseek-v4-flash
 Append: [印尼二战遗留炸弹爆炸 造成五死五伤](https://www.zaobao.com/news/world/story20260531-9135348)
 append_entries: 1
 Finish: 2026-05-31 16:53:27.233870
+------------------------------------------------------
+Started: 2026-05-31 19:01:52.195894
+Existing_entries: 798
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-05-31 19:01:52.301055
