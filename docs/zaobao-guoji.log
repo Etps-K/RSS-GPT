@@ -2948,3 +2948,27 @@ Summarized using deepseek-v4-flash
 Append: [美军执行对伊封锁 导弹击毁驶伊货船发动机舱](https://www.zaobao.com/news/world/story20260531-9132486)
 append_entries: 5
 Finish: 2026-05-31 02:06:21.394292
+------------------------------------------------------
+Started: 2026-05-31 07:36:56.971586
+Existing_entries: 776
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 531
+Summarized using deepseek-v4-flash
+Append: [刚果（金）伊波拉疫情确诊病例增至260起](https://www.zaobao.com/news/world/story20260531-9133508)
+Token length: 249
+Summarized using deepseek-v4-flash
+Append: [特朗普：正缓慢但切实接近与伊朗达成协议](https://www.zaobao.com/news/world/story20260531-9133389)
+Token length: 582
+Summarized using deepseek-v4-flash
+Append: [澳洲：精简AUKUS安排 改收三艘美现役二手核潜艇](https://www.zaobao.com/news/world/story20260531-9133373)
+Token length: 653
+Summarized using deepseek-v4-flash
+Append: [小泉反驳“新军国主义”指责 称中国军力扩张引发国际关切](https://www.zaobao.com/news/world/story20260531-9133173)
+Token length: 468
+Summarized using deepseek-v4-flash
+Append: [美军东太平洋打击涉毒船只 击毙三人](https://www.zaobao.com/news/world/story20260531-9132995)
+Append: [特朗普吁取消美国国庆音乐会 改办MAGA集会](https://www.zaobao.com/news/world/story20260531-9132711)
+Append: [伊朗伊斯兰革命卫队称击落一架美军无人机](https://www.zaobao.com/news/world/story20260531-9132726)
+Append: [前CDC主任：全球未准备好应对下一场大流行病](https://www.zaobao.com/news/world/story20260531-9132662)
+append_entries: 8
+Finish: 2026-05-31 07:37:16.700827
