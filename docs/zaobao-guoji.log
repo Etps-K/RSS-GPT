@@ -2927,3 +2927,24 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：伊朗战争叠加厄尔尼诺 能源红灯两盏齐亮 危机“烤”验亚洲多国](https://www.zaobao.com/news/world/story20260531-9122765)
 append_entries: 1
 Finish: 2026-05-30 22:44:43.882057
+------------------------------------------------------
+Started: 2026-05-31 02:05:59.854572
+Existing_entries: 771
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 342
+Summarized using deepseek-v4-flash
+Append: [陨石掠过美国东北部空中 爆炸引发巨响](https://www.zaobao.com/news/world/story20260531-9132603)
+Token length: 448
+Summarized using deepseek-v4-flash
+Append: [英国外长将访中印 聚焦伊朗战事与伊波拉疫情等议题](https://www.zaobao.com/news/world/story20260531-9132573)
+Token length: 405
+Summarized using deepseek-v4-flash
+Append: [致命汉坦病毒疫情后完成消毒 “洪迪厄斯号”获准复航](https://www.zaobao.com/news/world/story20260531-9132557)
+Token length: 469
+Summarized using deepseek-v4-flash
+Append: [特朗普政府收回“绿卡须返原籍国申请”说法 改称个案处理](https://www.zaobao.com/news/world/story20260531-9132519)
+Token length: 455
+Summarized using deepseek-v4-flash
+Append: [美军执行对伊封锁 导弹击毁驶伊货船发动机舱](https://www.zaobao.com/news/world/story20260531-9132486)
+append_entries: 5
+Finish: 2026-05-31 02:06:21.394292

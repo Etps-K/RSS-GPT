@@ -3129,3 +3129,15 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：远赴非洲拿命搏翻身 有血有泪黄金险中求](https://www.zaobao.com/news/china/story20260531-9036576)
 append_entries: 1
 Finish: 2026-05-30 22:44:40.513866
+------------------------------------------------------
+Started: 2026-05-31 02:05:48.896447
+Existing_entries: 957
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 413
+Summarized using deepseek-v4-flash
+Append: [中国足球裁判出征美加墨世界杯](https://www.zaobao.com/news/china/story20260531-9132524)
+Token length: 790
+Summarized using deepseek-v4-flash
+Append: [浙江馆藏青铜剑疑现拼接痕 调查称系古工艺与材料老化](https://www.zaobao.com/news/china/story20260531-9132515)
+append_entries: 2
+Finish: 2026-05-31 02:05:59.209516
