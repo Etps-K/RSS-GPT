@@ -2972,3 +2972,25 @@ Append: [伊朗伊斯兰革命卫队称击落一架美军无人机](https://www.
 Append: [前CDC主任：全球未准备好应对下一场大流行病](https://www.zaobao.com/news/world/story20260531-9132662)
 append_entries: 8
 Finish: 2026-05-31 07:37:16.700827
+------------------------------------------------------
+Started: 2026-05-31 10:05:56.515883
+Existing_entries: 784
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1103
+Summarized using deepseek-v4-flash
+Append: [特朗普据报修改部分条款 向伊朗提出更强硬协议提案](https://www.zaobao.com/news/world/story20260531-9134239)
+Token length: 825
+Summarized using deepseek-v4-flash
+Append: [日美菲加强晶片供应链和能源产业合作](https://www.zaobao.com/news/world/story20260531-9134045)
+Token length: 508
+Summarized using deepseek-v4-flash
+Append: [中东战争引发能源危机大力推动拼车出行增长](https://www.zaobao.com/news/world/story20260531-9133796)
+Token length: 679
+Summarized using deepseek-v4-flash
+Append: [【香会】回应AUKUS质疑 马尔斯：美潜艇产能可达标](https://www.zaobao.com/news/world/story20260531-9133263)
+Token length: 348
+Summarized using deepseek-v4-flash
+Append: [以军称已占领黎南部博福特城堡](https://www.zaobao.com/news/world/story20260531-9133723)
+Append: [美国纸厂化学品泄漏 死者增至11人](https://www.zaobao.com/news/world/story20260531-9133634)
+append_entries: 6
+Finish: 2026-05-31 10:06:15.854021
