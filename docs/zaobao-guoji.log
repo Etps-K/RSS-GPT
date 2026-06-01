@@ -3152,3 +3152,9 @@ Summarized using deepseek-v4-flash
 Append: [日本舆论：小泉香会驳斥中国是“大胆创新”](https://www.zaobao.com/news/world/story20260601-9139197)
 append_entries: 1
 Finish: 2026-06-01 20:08:53.142255
+------------------------------------------------------
+Started: 2026-06-01 23:20:40.049980
+Existing_entries: 840
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-01 23:20:40.142204
