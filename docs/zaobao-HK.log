@@ -3331,3 +3331,15 @@ Append: [郑丽文今晚启程访美 预告将与美国务院国防官员会面]
 Append: [中纪委监委官宣院士周成虎被查](https://www.zaobao.com/news/china/story20260601-9137802)
 append_entries: 12
 Finish: 2026-06-01 15:46:09.253496
+------------------------------------------------------
+Started: 2026-06-01 20:08:40.056850
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1332
+Summarized using deepseek-v4-flash
+Append: [大陆海警巡查台湾东部海域 分析指北京防日菲谈判挑战一中](https://www.zaobao.com/news/china/story20260601-9139243)
+Token length: 1178
+Summarized using deepseek-v4-flash
+Append: [郑丽文：期待访美深化两岸与区域和平稳定的努力](https://www.zaobao.com/news/china/story20260601-9139144)
+append_entries: 2
+Finish: 2026-06-01 20:08:47.737100

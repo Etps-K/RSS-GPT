@@ -3143,3 +3143,12 @@ Append: [全球劳工保障恶化 美法评级亮警讯](https://www.zaobao.com/
 Append: [伊朗外交部：黎巴嫩停火仍是与美达成协议先决条件](https://www.zaobao.com/news/world/story20260601-9138106)
 append_entries: 13
 Finish: 2026-06-01 15:46:32.144270
+------------------------------------------------------
+Started: 2026-06-01 20:08:48.543421
+Existing_entries: 839
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1147
+Summarized using deepseek-v4-flash
+Append: [日本舆论：小泉香会驳斥中国是“大胆创新”](https://www.zaobao.com/news/world/story20260601-9139197)
+append_entries: 1
+Finish: 2026-06-01 20:08:53.142255
