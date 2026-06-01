@@ -3583,3 +3583,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Anthropic 估值超过 OpenAI](https://sspai.com/post/110519)
 append_entries: 1
 Finish: 2026-06-01 02:14:20.719811
+------------------------------------------------------
+Started: 2026-06-01 09:08:45.113812
+Existing_entries: 179
+Fetching from https://sspai.com/feed
+Token length: 13
+Summarized using deepseek-v4-flash
+Append: [成本 600 元不到，我 3D 打印了一把能弹的电吉他](https://sspai.com/post/110412)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [把一句经文放进每天：「一日一偈」的轻阅读尝试](https://sspai.com/post/110094)
+append_entries: 2
+Finish: 2026-06-01 09:09:00.482767
