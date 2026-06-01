@@ -3054,3 +3054,24 @@ Existing_entries: 798
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-05-31 22:45:29.978009
+------------------------------------------------------
+Started: 2026-06-01 02:14:41.088867
+Existing_entries: 798
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 442
+Summarized using deepseek-v4-flash
+Append: [缅村爆炸至少55人死亡 反政府武装：存放矿用炸药引起](https://www.zaobao.com/news/world/story20260601-9135829)
+Token length: 475
+Summarized using deepseek-v4-flash
+Append: [美国封堵出口漏洞 制止最先进晶片输中国境外中企](https://www.zaobao.com/news/world/story20260601-9135864)
+Token length: 382
+Summarized using deepseek-v4-flash
+Append: [伊朗总统府再否认佩泽希齐扬辞职传闻 指境外媒体散布谣言](https://www.zaobao.com/news/world/story20260601-9135800)
+Token length: 601
+Summarized using deepseek-v4-flash
+Append: [美伊持续互通信息 伊方：将按自身立场修订协议草案](https://www.zaobao.com/news/world/story20260601-9135779)
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [因潜在安全威胁 美国一航班返航](https://www.zaobao.com/news/world/story20260601-9135784)
+append_entries: 5
+Finish: 2026-06-01 02:15:00.733583

@@ -3240,3 +3240,26 @@ Existing_entries: 984
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-05-31 22:45:29.186123
+------------------------------------------------------
+Started: 2026-06-01 02:14:21.649783
+Existing_entries: 984
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 223
+Summarized using deepseek-v4-flash
+Append: [拟本周六访帕劳 萧美琴任内首次出访邦交国](https://www.zaobao.com/news/china/story20260601-9135983)
+Token length: 430
+Summarized using deepseek-v4-flash
+Append: [缅村爆炸致55人死 云南瑞丽：请广大市民保持冷静](https://www.zaobao.com/news/china/story20260601-9135960)
+Token length: 627
+Summarized using deepseek-v4-flash
+Append: [美拟禁中国企业控股车企在境内开展业务 奔驰恐受影响](https://www.zaobao.com/news/china/story20260601-9135939)
+Token length: 464
+Summarized using deepseek-v4-flash
+Append: [中国地产商柬埔寨被虐杀 嫌犯曾索要200万美元赎金](https://www.zaobao.com/news/china/story20260601-9135921)
+Token length: 1058
+Summarized using deepseek-v4-flash
+Append: [习近平：以超常规措施解决制约未来产业发展卡脖子问题](https://www.zaobao.com/news/china/story20260601-9135886)
+Append: [中国驻美大使：相互尊重、和平共处理性认知是跨越修昔底德秘钥](https://www.zaobao.com/news/china/story20260601-9135842)
+Append: [戴庆成：李家超缘何访问中亚？](https://www.zaobao.com/news/china/story20260601-9134412)
+append_entries: 7
+Finish: 2026-06-01 02:14:40.316280
