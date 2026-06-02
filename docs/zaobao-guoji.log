@@ -3239,3 +3239,27 @@ Append: [研究：远程办公比AI更影响年轻人就业](https://www.zaobao.
 Append: [欧盟拟限制关键政府招标 降低对美科技巨头依赖](https://www.zaobao.com/news/world/story20260602-9142360)
 append_entries: 11
 Finish: 2026-06-02 13:46:56.335006
+------------------------------------------------------
+Started: 2026-06-02 17:59:26.401977
+Existing_entries: 873
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 510
+Summarized using deepseek-v4-flash
+Append: [特朗普政府提议对巴西加征25%关税](https://www.zaobao.com/news/world/story20260602-9145272)
+Token length: 414
+Summarized using deepseek-v4-flash
+Append: [特朗普任命无经验盟友主导美国情报](https://www.zaobao.com/news/world/story20260602-9145250)
+Token length: 485
+Summarized using deepseek-v4-flash
+Append: [联合国：美伊战争致航运混乱 儿童救援面临严峻挑战](https://www.zaobao.com/news/world/story20260602-9144947)
+Token length: 855
+Summarized using deepseek-v4-flash
+Append: [强烈热带风暴“蔷薇”吹击日本多地 周三直击东京首都圈](https://www.zaobao.com/news/world/story20260602-9144783)
+Token length: 500
+Summarized using deepseek-v4-flash
+Append: [消息：伊朗重新审视美国提出的停火协议](https://www.zaobao.com/news/world/story20260602-9144726)
+Append: [特朗普称以黎同意互不攻击 美伊谈判正快速推进](https://www.zaobao.com/news/world/story20260602-9144347)
+Append: [以色列继续对黎巴嫩南部发动打击](https://www.zaobao.com/news/world/story20260602-9144691)
+Append: [俄方斥乌克兰“恐怖主义行为” 称战争进入新范式](https://www.zaobao.com/news/world/story20260602-9144622)
+append_entries: 8
+Finish: 2026-06-02 17:59:50.506714
