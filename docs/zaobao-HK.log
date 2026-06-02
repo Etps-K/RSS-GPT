@@ -3474,3 +3474,9 @@ Summarized using deepseek-v4-flash
 Append: [王毅吁英国合理界定安全边界 为与中国深化合作营造良好氛围](https://www.zaobao.com/news/china/story20260602-9144873)
 append_entries: 5
 Finish: 2026-06-02 17:59:25.667245
+------------------------------------------------------
+Started: 2026-06-02 20:45:31.774502
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-02 20:45:31.911137

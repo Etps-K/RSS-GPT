@@ -3263,3 +3263,9 @@ Append: [以色列继续对黎巴嫩南部发动打击](https://www.zaobao.com/n
 Append: [俄方斥乌克兰“恐怖主义行为” 称战争进入新范式](https://www.zaobao.com/news/world/story20260602-9144622)
 append_entries: 8
 Finish: 2026-06-02 17:59:50.506714
+------------------------------------------------------
+Started: 2026-06-02 20:45:32.626438
+Existing_entries: 881
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-02 20:45:32.730164
