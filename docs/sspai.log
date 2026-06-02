@@ -3625,3 +3625,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品](https://sspai.com/post/110592)
 append_entries: 1
 Finish: 2026-06-02 02:14:59.362770
+------------------------------------------------------
+Started: 2026-06-02 08:18:14.473267
+Existing_entries: 183
+Fetching from https://sspai.com/feed
+Token length: 24
+Summarized using deepseek-v4-flash
+Append: [在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈](https://sspai.com/post/110550)
+Token length: 100
+Summarized using deepseek-v4-flash
+Append: [从插件到 AI 辅助：Obsidian 如何成为我的主力工具](https://sspai.com/post/109850)
+append_entries: 2
+Finish: 2026-06-02 08:18:23.075772
