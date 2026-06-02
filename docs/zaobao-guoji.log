@@ -3158,3 +3158,24 @@ Existing_entries: 840
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-01 23:20:40.142204
+------------------------------------------------------
+Started: 2026-06-02 02:15:25.600571
+Existing_entries: 840
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 226
+Summarized using deepseek-v4-flash
+Append: [刚果（金）伊波拉疫情确诊病例增至343起](https://www.zaobao.com/news/world/story20260602-9140187)
+Token length: 404
+Summarized using deepseek-v4-flash
+Append: [乌克兰基辅据称遭导弹袭击 当局促民众避难](https://www.zaobao.com/news/world/story20260602-9139994)
+Token length: 624
+Summarized using deepseek-v4-flash
+Append: [特朗普政府拟撤销18亿美元法律基金](https://www.zaobao.com/news/world/story20260602-9139959)
+Token length: 137
+Summarized using deepseek-v4-flash
+Append: [意大利南部海域发生6.2级地震](https://www.zaobao.com/news/world/story20260602-9139898)
+Token length: 538
+Summarized using deepseek-v4-flash
+Append: [特朗普称以色列与真主党同意停火](https://www.zaobao.com/news/world/story20260602-9139886)
+append_entries: 5
+Finish: 2026-06-02 02:15:49.002155

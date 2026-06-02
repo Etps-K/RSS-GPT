@@ -3352,3 +3352,26 @@ Summarized using deepseek-v4-flash
 Append: [缪宗翰：郑丽文访美 掌声未到考卷先来](https://www.zaobao.com/news/china/story20260602-9137635)
 append_entries: 1
 Finish: 2026-06-01 23:20:39.237471
+------------------------------------------------------
+Started: 2026-06-02 02:15:00.183562
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 206
+Summarized using deepseek-v4-flash
+Append: [台军官校教练机坠机两人殉职](https://www.zaobao.com/news/china/story20260602-9140286)
+Token length: 730
+Summarized using deepseek-v4-flash
+Append: [与军方有关联中国实验室 寻求获取英伟达AI晶片](https://www.zaobao.com/news/china/story20260602-9140251)
+Token length: 279
+Summarized using deepseek-v4-flash
+Append: [官方：网暴湖南一救灾村支书戴金耳环人员被罚](https://www.zaobao.com/news/china/story20260602-9140213)
+Token length: 765
+Summarized using deepseek-v4-flash
+Append: [王毅促中巴共同抵御外部挑战](https://www.zaobao.com/news/china/story20260602-9140085)
+Token length: 310
+Summarized using deepseek-v4-flash
+Append: [中共新疆党委常委王琳兼任乌鲁木齐市委书记](https://www.zaobao.com/news/china/story20260602-9140050)
+Append: [中使馆敦促柬埔寨全力侦办中国公民遇害案件](https://www.zaobao.com/news/china/story20260602-9139909)
+Append: [比亚迪销量九个月来首次增长 海外需求强劲](https://www.zaobao.com/news/china/story20260602-9139900)
+append_entries: 7
+Finish: 2026-06-02 02:15:24.892648
