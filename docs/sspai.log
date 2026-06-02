@@ -3637,3 +3637,12 @@ Summarized using deepseek-v4-flash
 Append: [从插件到 AI 辅助：Obsidian 如何成为我的主力工具](https://sspai.com/post/109850)
 append_entries: 2
 Finish: 2026-06-02 08:18:23.075772
+------------------------------------------------------
+Started: 2026-06-02 13:45:51.728052
+Existing_entries: 185
+Fetching from https://sspai.com/feed
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer](https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer)
+append_entries: 1
+Finish: 2026-06-02 13:46:10.174925
