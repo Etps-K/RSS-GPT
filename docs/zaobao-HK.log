@@ -3489,3 +3489,28 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：天涯重启回忆杀](https://www.zaobao.com/news/china/story20260603-9145187)
 append_entries: 1
 Finish: 2026-06-02 23:24:44.468806
+------------------------------------------------------
+Started: 2026-06-03 02:32:50.420049
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 334
+Summarized using deepseek-v4-flash
+Append: [“世纪工程”广西平陆运河全线通水](https://www.zaobao.com/news/china/story20260603-9146059)
+Token length: 873
+Summarized using deepseek-v4-flash
+Append: [房地产市场低迷 中国物业公司面临收费难](https://www.zaobao.com/news/china/story20260603-9146069)
+Token length: 528
+Summarized using deepseek-v4-flash
+Append: [老虎证券6月12日起暂停中国境内现有客户新增交易](https://www.zaobao.com/news/china/story20260603-9146000)
+Token length: 878
+Summarized using deepseek-v4-flash
+Append: [美推进筹建中美贸易委员会 征求公众意见](https://www.zaobao.com/news/china/story20260603-9145881)
+Token length: 343
+Summarized using deepseek-v4-flash
+Append: [解放军湖北舰南中国海开展实战化练兵](https://www.zaobao.com/news/china/story20260603-9145883)
+Append: [中国发改委召开国企座谈会 聚焦深化国企改革](https://www.zaobao.com/news/china/story20260603-9145828)
+Append: [老挝播出《习近平的文化情缘》](https://www.zaobao.com/news/china/story20260603-9145711)
+Append: [鲁比奥称140亿美元对台军售案仍在审议中](https://www.zaobao.com/news/china/story20260603-9145747)
+Append: [交易员对人民币的看涨情绪升至15年来最高](https://www.zaobao.com/news/china/story20260603-9145697)
+append_entries: 9
+Finish: 2026-06-03 02:33:14.971756
