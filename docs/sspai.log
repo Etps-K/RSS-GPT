@@ -3685,3 +3685,12 @@ Summarized using deepseek-v4-flash
 Append: [App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
 append_entries: 2
 Finish: 2026-06-03 08:45:46.626696
+------------------------------------------------------
+Started: 2026-06-03 14:19:04.211784
+Existing_entries: 189
+Fetching from https://sspai.com/feed
+Token length: 139
+Summarized using deepseek-v4-flash
+Append: [小车车里的大世界：车模收藏入坑指南](https://sspai.com/post/110114)
+append_entries: 1
+Finish: 2026-06-03 14:19:12.758682
