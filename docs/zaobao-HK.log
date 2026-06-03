@@ -3593,3 +3593,12 @@ Summarized using deepseek-v4-flash
 Append: [比拉哈里：习特会后中美休战不稳定且脆弱](https://www.zaobao.com/news/china/story20260603-9151334)
 append_entries: 1
 Finish: 2026-06-03 19:40:26.856342
+------------------------------------------------------
+Started: 2026-06-03 22:22:15.956501
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 190
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：当“打虎将”变成“老虎”](https://www.zaobao.com/news/china/story20260604-9151450)
+append_entries: 1
+Finish: 2026-06-03 22:22:19.011279

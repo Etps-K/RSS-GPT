@@ -3378,3 +3378,9 @@ Summarized using deepseek-v4-flash
 Append: [李在明首场全国选举告捷 在野国民力量党恐在地方选举惨败](https://www.zaobao.com/news/world/story20260603-9151126)
 append_entries: 5
 Finish: 2026-06-03 19:40:53.823512
+------------------------------------------------------
+Started: 2026-06-03 22:22:19.773214
+Existing_entries: 920
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-03 22:22:19.871385
