@@ -3357,3 +3357,24 @@ Append: [美国情报系统内斗升级 中情局暂停参与部分情报评估]
 Append: [新德里酒店大火至少21死 数十人获救](https://www.zaobao.com/news/world/story20260603-9148768)
 append_entries: 13
 Finish: 2026-06-03 14:19:59.498197
+------------------------------------------------------
+Started: 2026-06-03 19:40:27.606415
+Existing_entries: 915
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 444
+Summarized using deepseek-v4-flash
+Append: [法国对希音处以超3000万罚款](https://www.zaobao.com/news/world/story20260604-9151617)
+Token length: 460
+Summarized using deepseek-v4-flash
+Append: [北约秘书长：俄罗斯在乌克兰战事中陷入绝望](https://www.zaobao.com/news/world/story20260603-9151420)
+Token length: 408
+Summarized using deepseek-v4-flash
+Append: [特朗普承认与内坦亚胡紧张通话 斥责以色列政策](https://www.zaobao.com/news/world/story20260603-9151413)
+Token length: 1244
+Summarized using deepseek-v4-flash
+Append: [台风“蔷薇”席卷东京首都圈 市区河川暴涨 陆空交通大乱](https://www.zaobao.com/news/world/story20260603-9151006)
+Token length: 1022
+Summarized using deepseek-v4-flash
+Append: [李在明首场全国选举告捷 在野国民力量党恐在地方选举惨败](https://www.zaobao.com/news/world/story20260603-9151126)
+append_entries: 5
+Finish: 2026-06-03 19:40:53.823512
