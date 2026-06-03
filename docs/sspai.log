@@ -3673,3 +3673,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Apple 公布 2026 年 Apple 设计大奖得主等](https://sspai.com/post/110658)
 append_entries: 1
 Finish: 2026-06-03 02:32:49.621091
+------------------------------------------------------
+Started: 2026-06-03 08:45:34.547673
+Existing_entries: 187
+Fetching from https://sspai.com/feed
+Token length: 85
+Summarized using deepseek-v4-flash
+Append: [让原生体验「接地气」：Pixel Text 与「原点系列」工具集](https://sspai.com/post/110458)
+Token length: 44
+Summarized using deepseek-v4-flash
+Append: [App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
+append_entries: 2
+Finish: 2026-06-03 08:45:46.626696
