@@ -3722,3 +3722,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-04 21:21:25.397633
+------------------------------------------------------
+Started: 2026-06-04 22:59:05.081153
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 412
+Summarized using deepseek-v4-flash
+Append: [韩咏红：日菲抱团“抗中”台湾承压](https://www.zaobao.com/news/china/story20260605-9157846)
+append_entries: 1
+Finish: 2026-06-04 22:59:09.365246
