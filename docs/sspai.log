@@ -3715,3 +3715,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等](https://sspai.com/post/110698)
 append_entries: 1
 Finish: 2026-06-04 02:29:39.777026
+------------------------------------------------------
+Started: 2026-06-04 08:10:24.335292
+Existing_entries: 191
+Fetching from https://sspai.com/feed
+Token length: 41
+Summarized using deepseek-v4-flash
+Append: [它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署](https://sspai.com/post/110126)
+append_entries: 2
+Finish: 2026-06-04 08:10:37.954140
