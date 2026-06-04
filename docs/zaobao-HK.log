@@ -3707,3 +3707,12 @@ Append: [富途停止向大陆投资者提供开仓和加仓服务](https://www.
 Append: [新增付费版本后 豆包流失600万用户](https://www.zaobao.com/news/china/story20260604-9156890)
 append_entries: 7
 Finish: 2026-06-04 16:43:38.363490
+------------------------------------------------------
+Started: 2026-06-04 19:51:56.090938
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1440
+Summarized using deepseek-v4-flash
+Append: [北京首禁访台新西兰议员入境 制裁措施或成新趋势](https://www.zaobao.com/news/china/story20260604-9157559)
+append_entries: 1
+Finish: 2026-06-04 19:52:00.191370

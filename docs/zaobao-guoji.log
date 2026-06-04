@@ -3483,3 +3483,18 @@ Append: [美众议院首次通过决议 要求特朗普结束对伊朗战争](ht
 Append: [日本五分一人口失眠 治疗失眠症被列入专科领域](https://www.zaobao.com/news/world/story20260604-9156099)
 append_entries: 6
 Finish: 2026-06-04 16:44:14.855679
+------------------------------------------------------
+Started: 2026-06-04 19:52:00.977357
+Existing_entries: 955
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 523
+Summarized using deepseek-v4-flash
+Append: [英法据悉敲定战后霍尔木兹海峡扫雷计划 15国承诺支持](https://www.zaobao.com/news/world/story20260604-9157829)
+Token length: 391
+Summarized using deepseek-v4-flash
+Append: [黎真主党：只要占领存在 抵抗就将继续](https://www.zaobao.com/news/world/story20260604-9157736)
+Token length: 481
+Summarized using deepseek-v4-flash
+Append: [消息：德法英拟推动普京参与乌克兰问题谈判](https://www.zaobao.com/news/world/story20260604-9157695)
+append_entries: 3
+Finish: 2026-06-04 19:52:16.616065
