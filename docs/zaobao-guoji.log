@@ -3438,3 +3438,26 @@ Append: [特朗普：万斯鲁比奥若联手竞选 将无人能敌](https://www
 Append: [争稀土, 得天下?](https://interactive.zaobao.com.sg/2026/rare-earth/)
 append_entries: 17
 Finish: 2026-06-04 08:11:28.328756
+------------------------------------------------------
+Started: 2026-06-04 12:36:20.306183
+Existing_entries: 942
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 936
+Summarized using deepseek-v4-flash
+Append: [金正恩高调公开新核设施 宣称核物质产能翻倍](https://www.zaobao.com/news/world/story20260604-9156461)
+Token length: 316
+Summarized using deepseek-v4-flash
+Append: [世卫组织：一名乌干达伊波拉确诊患者曾到过阿联酋](https://www.zaobao.com/news/world/story20260604-9156432)
+Token length: 445
+Summarized using deepseek-v4-flash
+Append: [美元走强与高油价冲击 亚洲多国加大力度捍卫本币](https://www.zaobao.com/news/world/story20260604-9156352)
+Token length: 583
+Summarized using deepseek-v4-flash
+Append: [尼泊尔登山向导在珠峰失踪断粮七天后获救](https://www.zaobao.com/news/world/story20260604-9155934)
+Token length: 590
+Summarized using deepseek-v4-flash
+Append: [美国削减对北约军事投入 盼盟友迅速增加海空力量](https://www.zaobao.com/news/world/story20260604-9154830)
+Append: [经合组织：中东战争和中国补贴令钢铁行业承压](https://www.zaobao.com/news/world/story20260604-9155368)
+Append: [斯里兰卡养老院火灾致12人死亡 经理被捕](https://www.zaobao.com/news/world/story20260604-9155141)
+append_entries: 7
+Finish: 2026-06-04 12:36:44.470225
