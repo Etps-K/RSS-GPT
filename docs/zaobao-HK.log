@@ -3602,3 +3602,25 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：当“打虎将”变成“老虎”](https://www.zaobao.com/news/china/story20260604-9151450)
 append_entries: 1
 Finish: 2026-06-03 22:22:19.011279
+------------------------------------------------------
+Started: 2026-06-04 02:29:40.565498
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 699
+Summarized using deepseek-v4-flash
+Append: [高市上台后首份日本防卫白皮书 人民日报批编造中国威胁论](https://www.zaobao.com/news/china/story20260604-9152468)
+Token length: 915
+Summarized using deepseek-v4-flash
+Append: [郑丽文访美 吁“两岸中华儿女停止自相残杀”](https://www.zaobao.com/news/china/story20260604-9152354)
+Token length: 830
+Summarized using deepseek-v4-flash
+Append: [北大教授饶毅：中国学术不端创造世界历史记录](https://www.zaobao.com/news/china/story20260604-9152262)
+Token length: 465
+Summarized using deepseek-v4-flash
+Append: [传四名访台新西兰议员被禁止入境陆港澳一年](https://www.zaobao.com/news/china/story20260604-9152258)
+Token length: 534
+Summarized using deepseek-v4-flash
+Append: [中国启动网络餐饮专项抽检 覆盖美团淘宝等14个平台](https://www.zaobao.com/news/china/story20260604-9152180)
+Append: [中国专项治理微短剧：涉儿童有害、软色情擦边等问题](https://www.zaobao.com/news/china/story20260604-9152122)
+append_entries: 6
+Finish: 2026-06-04 02:30:01.451660

@@ -3384,3 +3384,24 @@ Existing_entries: 920
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-03 22:22:19.871385
+------------------------------------------------------
+Started: 2026-06-04 02:30:02.221432
+Existing_entries: 920
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 392
+Summarized using deepseek-v4-flash
+Append: [共和党控制美众院首通过战争权力决议 对特朗普造成政治打击](https://www.zaobao.com/news/world/story20260604-9152227)
+Token length: 300
+Summarized using deepseek-v4-flash
+Append: [美国务院：以色列和黎巴嫩同意停火](https://www.zaobao.com/news/world/story20260604-9152150)
+Token length: 480
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡承认与特朗普存在“战术分歧”](https://www.zaobao.com/news/world/story20260604-9152094)
+Token length: 434
+Summarized using deepseek-v4-flash
+Append: [特朗普：本周末或可达成美伊协议](https://www.zaobao.com/news/world/story20260604-9152063)
+Token length: 506
+Summarized using deepseek-v4-flash
+Append: [伊朗外长警告：任何对贝鲁特袭击都将引发中东战争全面重启](https://www.zaobao.com/news/world/story20260604-9152024)
+append_entries: 5
+Finish: 2026-06-04 02:30:26.307655
