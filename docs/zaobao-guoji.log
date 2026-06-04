@@ -3498,3 +3498,9 @@ Summarized using deepseek-v4-flash
 Append: [消息：德法英拟推动普京参与乌克兰问题谈判](https://www.zaobao.com/news/world/story20260604-9157695)
 append_entries: 3
 Finish: 2026-06-04 19:52:16.616065
+------------------------------------------------------
+Started: 2026-06-04 21:21:26.308843
+Existing_entries: 958
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-04 21:21:26.410796

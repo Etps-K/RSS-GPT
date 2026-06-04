@@ -3716,3 +3716,9 @@ Summarized using deepseek-v4-flash
 Append: [北京首禁访台新西兰议员入境 制裁措施或成新趋势](https://www.zaobao.com/news/china/story20260604-9157559)
 append_entries: 1
 Finish: 2026-06-04 19:52:00.191370
+------------------------------------------------------
+Started: 2026-06-04 21:21:25.276974
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-04 21:21:25.397633
