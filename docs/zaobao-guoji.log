@@ -3622,3 +3622,9 @@ Append: [否定美国先决条件 伊朗否认已同意转移部分浓缩铀](ht
 Append: [乌克兰海上无人机在罗马尼亚港口自爆 无人伤亡](https://www.zaobao.com/news/world/story20260605-9163288)
 append_entries: 7
 Finish: 2026-06-05 17:45:27.525536
+------------------------------------------------------
+Started: 2026-06-05 19:27:38.159824
+Existing_entries: 994
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-05 19:27:38.276843
