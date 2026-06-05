@@ -3855,3 +3855,15 @@ Existing_entries: 1003
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-05 19:27:37.216903
+------------------------------------------------------
+Started: 2026-06-05 21:14:45.328914
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 163
+Summarized using deepseek-v4-flash
+Append: [黎康：被称重的生命](https://www.zaobao.com/news/china/story20260606-9163047)
+Token length: 286
+Summarized using deepseek-v4-flash
+Append: [新闻人间：张小龙怒斥“第二党校”学生](https://www.zaobao.com/news/china/story20260606-9161731)
+append_entries: 2
+Finish: 2026-06-05 21:14:55.003648
