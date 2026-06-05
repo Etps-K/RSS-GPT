@@ -3731,3 +3731,26 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：日菲抱团“抗中”台湾承压](https://www.zaobao.com/news/china/story20260605-9157846)
 append_entries: 1
 Finish: 2026-06-04 22:59:09.365246
+------------------------------------------------------
+Started: 2026-06-05 02:04:15.351767
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 553
+Summarized using deepseek-v4-flash
+Append: [因担忧中国资本管制 友邦、汇丰和渣打港股下跌](https://www.zaobao.com/news/china/story20260605-9158692)
+Token length: 573
+Summarized using deepseek-v4-flash
+Append: [光伏销量放缓 中国太阳能巨头押注储能电池业务](https://www.zaobao.com/news/china/story20260605-9158531)
+Token length: 874
+Summarized using deepseek-v4-flash
+Append: [粉笔CEO人大演讲鼓励炒美股 称考公群体是“混吃等死”](https://www.zaobao.com/news/china/story20260605-9158495)
+Token length: 554
+Summarized using deepseek-v4-flash
+Append: [网传iPhone改日期腾储存空间 官方：或数据丢失运行卡顿](https://www.zaobao.com/news/china/story20260605-9158417)
+Token length: 762
+Summarized using deepseek-v4-flash
+Append: [美封堵中企绕道购买晶片漏洞 中方称一贯反对](https://www.zaobao.com/news/china/story20260605-9158378)
+Append: [特朗普长子称不会投资中国：不能假装中国是盟友](https://www.zaobao.com/news/china/story20260605-9158248)
+Append: [乌拉圭将对中国公民实行免签](https://www.zaobao.com/news/china/story20260605-9158226)
+append_entries: 7
+Finish: 2026-06-05 02:04:42.192077

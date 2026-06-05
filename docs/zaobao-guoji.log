@@ -3510,3 +3510,18 @@ Existing_entries: 958
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-04 22:59:10.377025
+------------------------------------------------------
+Started: 2026-06-05 02:04:43.124190
+Existing_entries: 958
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 424
+Summarized using deepseek-v4-flash
+Append: [普京拒绝欧洲斡旋 称特朗普提议可作为俄乌谈判基础](https://www.zaobao.com/news/world/story20260605-9158318)
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [泽连斯基公开致信普京 提议面对面会晤](https://www.zaobao.com/news/world/story20260605-9158260)
+Token length: 626
+Summarized using deepseek-v4-flash
+Append: [特朗普：美国无需协议就能取得伊朗浓缩铀](https://www.zaobao.com/news/world/story20260605-9158181)
+append_entries: 3
+Finish: 2026-06-05 02:04:57.644398
