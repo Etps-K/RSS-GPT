@@ -3525,3 +3525,28 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：美国无需协议就能取得伊朗浓缩铀](https://www.zaobao.com/news/world/story20260605-9158181)
 append_entries: 3
 Finish: 2026-06-05 02:04:57.644398
+------------------------------------------------------
+Started: 2026-06-05 07:58:09.461967
+Existing_entries: 961
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 308
+Summarized using deepseek-v4-flash
+Append: [日本“聪明熊”袭四人逃脱 疑会开窗拧水龙头](https://www.zaobao.com/news/world/story20260605-9159848)
+Token length: 407
+Summarized using deepseek-v4-flash
+Append: [巴西外长：美国加征关税理由不成立](https://www.zaobao.com/news/world/story20260605-9159655)
+Token length: 645
+Summarized using deepseek-v4-flash
+Append: [格里尔：美国遵守协议 但新301调查赋予美国征新关税权力](https://www.zaobao.com/news/world/story20260605-9159277)
+Token length: 125
+Summarized using deepseek-v4-flash
+Append: [疑遭无人机袭击 阿曼关键码头爆炸后暂停运营](https://www.zaobao.com/news/world/story20260605-9159302)
+Token length: 363
+Summarized using deepseek-v4-flash
+Append: [刚果（金）加快伊波拉防控 24小时内可完成检测](https://www.zaobao.com/news/world/story20260605-9159246)
+Append: [黄仁勋今访韩 将见电竞明星Faker和韩企掌门](https://www.zaobao.com/news/world/story20260605-9159045)
+Append: [美国制裁古巴总统和卡斯特罗家族成员](https://www.zaobao.com/news/world/story20260605-9158880)
+Append: [伊朗说将同阿曼规范管理霍尔木兹海峡](https://www.zaobao.com/news/world/story20260605-9158489)
+Append: [哈马斯高官与伊朗外长通话 讨论地区局势](https://www.zaobao.com/news/world/story20260605-9158469)
+append_entries: 9
+Finish: 2026-06-05 07:58:36.514757

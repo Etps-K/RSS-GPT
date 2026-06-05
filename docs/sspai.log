@@ -3769,3 +3769,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等](https://sspai.com/post/110754)
 append_entries: 1
 Finish: 2026-06-05 02:04:14.411995
+------------------------------------------------------
+Started: 2026-06-05 07:57:35.936570
+Existing_entries: 195
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [WWDC26 开幕在即，今年有哪些看点值得关注？](https://sspai.com/post/110669)
+append_entries: 1
+Finish: 2026-06-05 07:57:41.405368
