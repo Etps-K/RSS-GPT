@@ -3550,3 +3550,29 @@ Append: [伊朗说将同阿曼规范管理霍尔木兹海峡](https://www.zaobao
 Append: [哈马斯高官与伊朗外长通话 讨论地区局势](https://www.zaobao.com/news/world/story20260605-9158469)
 append_entries: 9
 Finish: 2026-06-05 07:58:36.514757
+------------------------------------------------------
+Started: 2026-06-05 11:22:02.666390
+Existing_entries: 970
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 259
+Summarized using deepseek-v4-flash
+Append: [美媒：航母福特号火灾严重程度超预期](https://www.zaobao.com/news/world/story20260605-9162127)
+Token length: 878
+Summarized using deepseek-v4-flash
+Append: [美国对华科技管制存潜在漏洞 中企或取得英伟达顶级晶片](https://www.zaobao.com/news/world/story20260605-9161742)
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [报告：近半美国人啃老 需父母提供经济支持](https://www.zaobao.com/news/world/story20260605-9161544)
+Token length: 684
+Summarized using deepseek-v4-flash
+Append: [见Faker吃烤肉谈AI 黄仁勋访韩预告“有惊喜”](https://www.zaobao.com/news/world/story20260605-9161531)
+Token length: 626
+Summarized using deepseek-v4-flash
+Append: [为满足电力需求 日本拟在2050年代前重建14座老旧核反应堆](https://www.zaobao.com/news/world/story20260605-9160528)
+Append: [俄无人机袭击基辅周边食品厂 酿四死七伤](https://www.zaobao.com/news/world/story20260605-9161214)
+Append: [韩国选举委员会主席因选票短缺辞职](https://www.zaobao.com/news/world/story20260605-9160882)
+Append: [美国动用冷战时期应急授权 拨款振兴煤电煤炭项目](https://www.zaobao.com/news/world/story20260605-9160363)
+Append: [“祖辈是否加入过纳粹？” 德国纳粹成员档案公开 更多德国人或面对艰难事实](https://www.zaobao.com/news/world/story20260605-9160344)
+Append: [特朗普又要建宏伟工程 在林肯纪念堂旁建滨河步行道](https://www.zaobao.com/news/world/story20260605-9160011)
+append_entries: 10
+Finish: 2026-06-05 11:22:27.198586

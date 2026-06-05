@@ -3778,3 +3778,19 @@ Summarized using deepseek-v4-flash
 Append: [WWDC26 开幕在即，今年有哪些看点值得关注？](https://sspai.com/post/110669)
 append_entries: 1
 Finish: 2026-06-05 07:57:41.405368
+------------------------------------------------------
+Started: 2026-06-05 11:21:17.643917
+Existing_entries: 196
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110786)
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [macOS 存储管理漫谈：去重是节约空间的最好方法](https://sspai.com/prime/story/macos-storage-management-deduplication)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [31 位普通人，给一只背包开出了成绩单](https://sspai.com/post/110666)
+Append: [再谈响度战争：为什么你看的视频越来越「吵」了？](https://sspai.com/post/109483)
+append_entries: 4
+Finish: 2026-06-05 11:21:40.250708
