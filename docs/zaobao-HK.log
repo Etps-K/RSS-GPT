@@ -3834,3 +3834,18 @@ Summarized using deepseek-v4-flash
 Append: [习特会后华府重回战略模糊 台海进入风险管控期](https://www.zaobao.com/news/china/story20260605-9160417)
 append_entries: 4
 Finish: 2026-06-05 14:19:29.549084
+------------------------------------------------------
+Started: 2026-06-05 17:44:38.890942
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 532
+Summarized using deepseek-v4-flash
+Append: [中国外交部：美国乱搞古巴终将反噬自身](https://www.zaobao.com/news/china/story20260605-9163747)
+Token length: 1341
+Summarized using deepseek-v4-flash
+Append: [德籍稀土专家：稀土问题悬而未决形同美国对华政治屈服](https://www.zaobao.com/news/china/story20260605-9163437)
+Token length: 792
+Summarized using deepseek-v4-flash
+Append: [习近平：推动中老经济走廊合作提质升级](https://www.zaobao.com/news/china/story20260605-9163508)
+append_entries: 3
+Finish: 2026-06-05 17:44:58.722286
