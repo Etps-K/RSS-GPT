@@ -3576,3 +3576,26 @@ Append: [“祖辈是否加入过纳粹？” 德国纳粹成员档案公开 更
 Append: [特朗普又要建宏伟工程 在林肯纪念堂旁建滨河步行道](https://www.zaobao.com/news/world/story20260605-9160011)
 append_entries: 10
 Finish: 2026-06-05 11:22:27.198586
+------------------------------------------------------
+Started: 2026-06-05 14:19:30.495732
+Existing_entries: 980
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 955
+Summarized using deepseek-v4-flash
+Append: [泽连斯基罕见发公开信给普京 提议会晤谈停火](https://www.zaobao.com/news/world/story20260605-9163071)
+Token length: 1059
+Summarized using deepseek-v4-flash
+Append: [格里尔：301条款调查结果数周内公布 美国将遵守与贸易伙伴达成的关税上限](https://www.zaobao.com/news/world/story20260605-9163019)
+Token length: 385
+Summarized using deepseek-v4-flash
+Append: [伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾](https://www.zaobao.com/news/world/story20260605-9163009)
+Token length: 975
+Summarized using deepseek-v4-flash
+Append: [特朗普: 美国无须与伊朗达成协议即可获取浓缩铀](https://www.zaobao.com/news/world/story20260605-9162269)
+Token length: 1143
+Summarized using deepseek-v4-flash
+Append: [韩国地方选举陷“选票短缺门” 选管委主席引咎辞职](https://www.zaobao.com/news/world/story20260605-9162829)
+Append: [Anthropic警告前沿AI发展或失控 吁各国业者共设“刹车”](https://www.zaobao.com/news/world/story20260605-9162115)
+Append: [中期选举压力使共和党人开始与特朗普唱反调](https://www.zaobao.com/news/world/story20260605-9161161)
+append_entries: 7
+Finish: 2026-06-05 14:19:58.309058

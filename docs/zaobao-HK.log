@@ -3816,3 +3816,21 @@ Append: [NBA联手阿里巴巴 上线首个AI篮球助手](https://www.zaobao.co
 Append: [韩国盼中国为朝鲜半岛问题发挥建设性作用](https://www.zaobao.com/news/china/story20260605-9160541)
 append_entries: 14
 Finish: 2026-06-05 11:22:01.751604
+------------------------------------------------------
+Started: 2026-06-05 14:19:11.277702
+Existing_entries: 1014
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 513
+Summarized using deepseek-v4-flash
+Append: [荷兰军舰驶经台海 东部战区：全程跟监警戒](https://www.zaobao.com/news/china/story20260605-9163258)
+Token length: 472
+Summarized using deepseek-v4-flash
+Append: [蔡奇出任中共中央党校校长](https://www.zaobao.com/news/china/story20260605-9162911)
+Token length: 446
+Summarized using deepseek-v4-flash
+Append: [SpaceX据报不让陆港投资者认购IPO](https://www.zaobao.com/news/china/story20260605-9162602)
+Token length: 2203
+Summarized using deepseek-v4-flash
+Append: [习特会后华府重回战略模糊 台海进入风险管控期](https://www.zaobao.com/news/china/story20260605-9160417)
+append_entries: 4
+Finish: 2026-06-05 14:19:29.549084
