@@ -3867,3 +3867,9 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：张小龙怒斥“第二党校”学生](https://www.zaobao.com/news/china/story20260606-9161731)
 append_entries: 2
 Finish: 2026-06-05 21:14:55.003648
+------------------------------------------------------
+Started: 2026-06-05 22:55:13.198107
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-05 22:55:13.349859
