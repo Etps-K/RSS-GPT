@@ -3830,3 +3830,12 @@ Existing_entries: 200
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-06-06 01:55:45.426323
+------------------------------------------------------
+Started: 2026-06-06 05:45:27.764380
+Existing_entries: 200
+Fetching from https://sspai.com/feed
+Token length: 37
+Summarized using deepseek-v4-flash
+Append: [2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
+append_entries: 1
+Finish: 2026-06-06 05:45:32.772619

@@ -3891,3 +3891,26 @@ Summarized using deepseek-v4-flash
 Append: [政绩观严重偏差 成都原市长王凤朝被双开](https://www.zaobao.com/news/china/story20260606-9164117)
 append_entries: 4
 Finish: 2026-06-06 01:56:05.850078
+------------------------------------------------------
+Started: 2026-06-06 05:45:33.598311
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 594
+Summarized using deepseek-v4-flash
+Append: [港金管局：银行界已落实最新监管要求 确保开户流程合规](https://www.zaobao.com/news/china/story20260606-9164511)
+Token length: 543
+Summarized using deepseek-v4-flash
+Append: [中使馆指罗马尼亚议员访台为台独代言 批违背外交常识](https://www.zaobao.com/news/china/story20260606-9164712)
+Token length: 642
+Summarized using deepseek-v4-flash
+Append: [美在台协会处长：台湾须“更聪明地花钱”发展防务](https://www.zaobao.com/news/china/story20260606-9164606)
+Token length: 273
+Summarized using deepseek-v4-flash
+Append: [北京市政协主席魏小东被查](https://www.zaobao.com/news/china/story20260606-9164461)
+Token length: 774
+Summarized using deepseek-v4-flash
+Append: [重庆理工大学副校长遇刺身亡 传涉案副教授疑因积怨行凶](https://www.zaobao.com/news/china/story20260606-9164429)
+Append: [路透：巴西拟6月官员访华期间宣布首次发行熊猫债](https://www.zaobao.com/news/china/story20260606-9164323)
+Append: [欧盟考虑出台新规 要求企业降低对华供应链依赖](https://www.zaobao.com/news/china/story20260606-9164265)
+append_entries: 7
+Finish: 2026-06-06 05:45:57.581531

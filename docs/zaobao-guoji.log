@@ -3652,3 +3652,27 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：伊朗剩两成导弹 最终只能与美国达成协议](https://www.zaobao.com/news/world/story20260606-9164096)
 append_entries: 2
 Finish: 2026-06-06 01:56:14.780621
+------------------------------------------------------
+Started: 2026-06-06 05:45:58.426393
+Existing_entries: 996
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 535
+Summarized using deepseek-v4-flash
+Append: [伊朗导弹袭击驻科威特和巴林美军设施](https://www.zaobao.com/news/world/story20260606-9164812)
+Token length: 364
+Summarized using deepseek-v4-flash
+Append: [刚果（金）伊波拉疫情扩散 累计确诊增至452起](https://www.zaobao.com/news/world/story20260606-9164629)
+Token length: 690
+Summarized using deepseek-v4-flash
+Append: [特朗普为共和党助选 誓言很快从伊朗战事中“脱身”](https://www.zaobao.com/news/world/story20260606-9164375)
+Token length: 210
+Summarized using deepseek-v4-flash
+Append: [美军指伊朗向邻国发射导弹 伊媒称美军第五舰队总部冒浓烟](https://www.zaobao.com/news/world/story20260606-9164471)
+Token length: 225
+Summarized using deepseek-v4-flash
+Append: [科威特：正应对“敌方”导弹和无人机攻击](https://www.zaobao.com/news/world/story20260606-9164304)
+Append: [伊朗沿海锡里克地区凌晨传爆炸声](https://www.zaobao.com/news/world/story20260606-9164214)
+Append: [美军击落伊朗四架无人机后空袭雷达站](https://www.zaobao.com/news/world/story20260606-9164198)
+Append: [伊朗最高领袖顾问：解冻伊朗资金是美伊达成协议关键](https://www.zaobao.com/news/world/story20260606-9164156)
+append_entries: 8
+Finish: 2026-06-06 05:46:22.760022
