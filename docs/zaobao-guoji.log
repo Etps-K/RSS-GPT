@@ -3727,3 +3727,15 @@ Summarized using deepseek-v4-flash
 Append: [伊波拉防控计划启动 刚果（金）仍现社区传播](https://www.zaobao.com/news/world/story20260606-9166103)
 append_entries: 2
 Finish: 2026-06-06 13:02:55.321922
+------------------------------------------------------
+Started: 2026-06-06 15:04:01.183483
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 655
+Summarized using deepseek-v4-flash
+Append: [印度网络社群“蟑螂人民党”走上街头 抗议考试舞弊](https://www.zaobao.com/news/world/story20260606-9166666)
+Token length: 829
+Summarized using deepseek-v4-flash
+Append: [英法德领导人将会晤泽连斯基 商讨推动对俄和谈](https://www.zaobao.com/news/world/story20260606-9166572)
+append_entries: 2
+Finish: 2026-06-06 15:04:10.991520

@@ -3965,3 +3965,15 @@ Existing_entries: 1005
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-06 13:02:41.728724
+------------------------------------------------------
+Started: 2026-06-06 15:03:50.708852
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 919
+Summarized using deepseek-v4-flash
+Append: [回应日菲海域划界谈判 北京称在台湾东部海域交通执法](https://www.zaobao.com/news/china/story20260606-9166575)
+Token length: 926
+Summarized using deepseek-v4-flash
+Append: [魏小东落马后遭北京政协官网清空信息 官方表态清除两面人](https://www.zaobao.com/news/china/story20260606-9166469)
+append_entries: 2
+Finish: 2026-06-06 15:04:00.351697
