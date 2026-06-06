@@ -3715,3 +3715,15 @@ Summarized using deepseek-v4-flash
 Append: [谷歌与SpaceX签署300亿美元算力服务协议](https://www.zaobao.com/news/world/story20260606-9165795)
 append_entries: 5
 Finish: 2026-06-06 11:15:19.016640
+------------------------------------------------------
+Started: 2026-06-06 13:02:42.197587
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 727
+Summarized using deepseek-v4-flash
+Append: [普京拒绝会谈 乌克兰无人机袭击圣彼得堡](https://www.zaobao.com/news/world/story20260606-9166240)
+Token length: 572
+Summarized using deepseek-v4-flash
+Append: [伊波拉防控计划启动 刚果（金）仍现社区传播](https://www.zaobao.com/news/world/story20260606-9166103)
+append_entries: 2
+Finish: 2026-06-06 13:02:55.321922

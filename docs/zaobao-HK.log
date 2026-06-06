@@ -3959,3 +3959,9 @@ Summarized using deepseek-v4-flash
 Append: [字节跳动声明：没有造车计划](https://www.zaobao.com/news/china/story20260606-9165605)
 append_entries: 5
 Finish: 2026-06-06 11:14:43.151660
+------------------------------------------------------
+Started: 2026-06-06 13:02:41.597967
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-06 13:02:41.728724
