@@ -3998,3 +3998,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-06 20:52:14.684494
+------------------------------------------------------
+Started: 2026-06-06 22:52:41.627122
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 268
+Summarized using deepseek-v4-flash
+Append: [中国特稿：文旅太内卷也太趋同 各地比流量更比留量](https://www.zaobao.com/news/china/story20260607-9149007)
+append_entries: 1
+Finish: 2026-06-06 22:52:46.635902

@@ -3773,3 +3773,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-06 20:52:15.614823
+------------------------------------------------------
+Started: 2026-06-06 22:52:47.482305
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 337
+Summarized using deepseek-v4-flash
+Append: [国际特稿：被伊朗战火震醒 美国保护伞恐成依赖陷阱 波斯湾六国重估防务出路](https://www.zaobao.com/news/world/story20260607-9150692)
+append_entries: 1
+Finish: 2026-06-06 22:52:51.089529
