@@ -3739,3 +3739,25 @@ Summarized using deepseek-v4-flash
 Append: [英法德领导人将会晤泽连斯基 商讨推动对俄和谈](https://www.zaobao.com/news/world/story20260606-9166572)
 append_entries: 2
 Finish: 2026-06-06 15:04:10.991520
+------------------------------------------------------
+Started: 2026-06-06 16:56:27.256861
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 636
+Summarized using deepseek-v4-flash
+Append: [强劲非农报告巩固加息预期 美联储主席沃什面临考验](https://www.zaobao.com/news/world/story20260607-9167008)
+Token length: 580
+Summarized using deepseek-v4-flash
+Append: [斯塔默：西方情报显示 俄或在四年内攻击北约](https://www.zaobao.com/news/world/story20260606-9166906)
+Token length: 277
+Summarized using deepseek-v4-flash
+Append: [黎巴嫩总统谴责以色列袭击黎军巡逻队](https://www.zaobao.com/news/world/story20260606-9166914)
+Token length: 781
+Summarized using deepseek-v4-flash
+Append: [美国出现第二起螺旋蝇蛆病 得州发布“灾难宣告”](https://www.zaobao.com/news/world/story20260606-9166859)
+Token length: 1004
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊朗导弹只剩两成 最终必会接受停战协议](https://www.zaobao.com/news/world/story20260606-9166632)
+Append: [伊朗谴责美军袭击波斯湾雷达站](https://www.zaobao.com/news/world/story20260606-9166772)
+append_entries: 6
+Finish: 2026-06-06 16:56:58.647361
