@@ -3914,3 +3914,27 @@ Append: [路透：巴西拟6月官员访华期间宣布首次发行熊猫债](ht
 Append: [欧盟考虑出台新规 要求企业降低对华供应链依赖](https://www.zaobao.com/news/china/story20260606-9164265)
 append_entries: 7
 Finish: 2026-06-06 05:45:57.581531
+------------------------------------------------------
+Started: 2026-06-06 08:21:00.961912
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 559
+Summarized using deepseek-v4-flash
+Append: [台湾指大陆船只连续两天驶入东沙水域 意在“联手挑衅”](https://www.zaobao.com/news/china/story20260606-9165490)
+Token length: 596
+Summarized using deepseek-v4-flash
+Append: [郑丽文：两岸强强联手可创造无法想像成就](https://www.zaobao.com/news/china/story20260606-9165261)
+Token length: 601
+Summarized using deepseek-v4-flash
+Append: [日菲海域划界 台陆委会：台主权与渔权绝不受影响](https://www.zaobao.com/news/china/story20260606-9165192)
+Token length: 639
+Summarized using deepseek-v4-flash
+Append: [广东警方：有不法分子搭建虚假考试网非法牟利](https://www.zaobao.com/news/china/story20260606-9165008)
+Token length: 372
+Summarized using deepseek-v4-flash
+Append: [中国与新西兰举行经贸会谈 加强多边领域合作](https://www.zaobao.com/news/china/story20260606-9165022)
+Append: [中国国务院食安办督导查处双汇子公司猪肉抗生素超标](https://www.zaobao.com/news/china/story20260606-9164587)
+Append: [上海两只小熊猫平安抵台](https://www.zaobao.com/news/china/story20260606-9164724)
+Append: [萧美琴今访帕劳 拟与帕劳总统一同浮潜](https://www.zaobao.com/news/china/story20260606-9164809)
+append_entries: 8
+Finish: 2026-06-06 08:21:36.690050

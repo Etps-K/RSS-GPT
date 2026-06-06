@@ -3676,3 +3676,21 @@ Append: [美军击落伊朗四架无人机后空袭雷达站](https://www.zaobao
 Append: [伊朗最高领袖顾问：解冻伊朗资金是美伊达成协议关键](https://www.zaobao.com/news/world/story20260606-9164156)
 append_entries: 8
 Finish: 2026-06-06 05:46:22.760022
+------------------------------------------------------
+Started: 2026-06-06 08:21:37.518831
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [惠誉近21年来首次上调南非主权信用评级](https://www.zaobao.com/news/world/story20260606-9165262)
+Token length: 252
+Summarized using deepseek-v4-flash
+Append: [伊朗否认把黎巴嫩当谈判筹码](https://www.zaobao.com/news/world/story20260606-9165169)
+Token length: 416
+Summarized using deepseek-v4-flash
+Append: [阿根廷扩大汉坦病毒调查范围](https://www.zaobao.com/news/world/story20260606-9165007)
+Token length: 470
+Summarized using deepseek-v4-flash
+Append: [习近平即将访平壤 官媒称朝鲜拟建万吨级驱逐舰](https://www.zaobao.com/news/world/story20260606-9164960)
+append_entries: 4
+Finish: 2026-06-06 08:22:03.195483
