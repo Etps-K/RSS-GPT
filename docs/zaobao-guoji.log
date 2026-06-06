@@ -3640,3 +3640,15 @@ Existing_entries: 994
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-05 22:55:14.229006
+------------------------------------------------------
+Started: 2026-06-06 01:56:06.784443
+Existing_entries: 994
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 532
+Summarized using deepseek-v4-flash
+Append: [俄方排雷人员遇袭受伤 IAEA呼吁遵守局部停火](https://www.zaobao.com/news/world/story20260606-9164108)
+Token length: 553
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊朗剩两成导弹 最终只能与美国达成协议](https://www.zaobao.com/news/world/story20260606-9164096)
+append_entries: 2
+Finish: 2026-06-06 01:56:14.780621
