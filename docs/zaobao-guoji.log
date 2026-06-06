@@ -3694,3 +3694,24 @@ Summarized using deepseek-v4-flash
 Append: [习近平即将访平壤 官媒称朝鲜拟建万吨级驱逐舰](https://www.zaobao.com/news/world/story20260606-9164960)
 append_entries: 4
 Finish: 2026-06-06 08:22:03.195483
+------------------------------------------------------
+Started: 2026-06-06 11:14:44.110091
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [空域潜在威胁消除 科威特恢复空中交通](https://www.zaobao.com/news/world/story20260606-9166044)
+Token length: 812
+Summarized using deepseek-v4-flash
+Append: [黎总统抨击伊朗以黎巴嫩为谈判筹码](https://www.zaobao.com/news/world/story20260606-9165858)
+Token length: 898
+Summarized using deepseek-v4-flash
+Append: [美媒：以军在阿塞拜疆设秘密据点 支援对伊朗行动](https://www.zaobao.com/news/world/story20260606-9165813)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [天气干旱中东冲突 澳洲小麦产量预计大幅下降](https://www.zaobao.com/news/world/story20260606-9151238)
+Token length: 755
+Summarized using deepseek-v4-flash
+Append: [谷歌与SpaceX签署300亿美元算力服务协议](https://www.zaobao.com/news/world/story20260606-9165795)
+append_entries: 5
+Finish: 2026-06-06 11:15:19.016640

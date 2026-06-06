@@ -3938,3 +3938,24 @@ Append: [上海两只小熊猫平安抵台](https://www.zaobao.com/news/china/st
 Append: [萧美琴今访帕劳 拟与帕劳总统一同浮潜](https://www.zaobao.com/news/china/story20260606-9164809)
 append_entries: 8
 Finish: 2026-06-06 08:21:36.690050
+------------------------------------------------------
+Started: 2026-06-06 11:14:07.662570
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1049
+Summarized using deepseek-v4-flash
+Append: [河南网红狗被偷走宰杀引中外舆论关注 警方立案调查](https://www.zaobao.com/news/china/story20260606-9165939)
+Token length: 705
+Summarized using deepseek-v4-flash
+Append: [中国证监会主席：坚决打击操纵市场行为](https://www.zaobao.com/news/china/story20260606-9165947)
+Token length: 250
+Summarized using deepseek-v4-flash
+Append: [俄石油公司总裁：霍尔木兹海峡关闭下 中国准备最充分](https://www.zaobao.com/news/china/story20260606-9165682)
+Token length: 1034
+Summarized using deepseek-v4-flash
+Append: [中国驻朝大使：习近平将同金正恩举行“重要历史性会晤”](https://www.zaobao.com/news/china/story20260606-9165791)
+Token length: 350
+Summarized using deepseek-v4-flash
+Append: [字节跳动声明：没有造车计划](https://www.zaobao.com/news/china/story20260606-9165605)
+append_entries: 5
+Finish: 2026-06-06 11:14:43.151660
