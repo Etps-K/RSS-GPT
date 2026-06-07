@@ -4103,3 +4103,9 @@ Summarized using deepseek-v4-flash
 Append: [日本驻华使馆举行剑道体验活动 约800人参加](https://www.zaobao.com/news/china/story20260607-9168504)
 append_entries: 3
 Finish: 2026-06-07 13:15:37.905514
+------------------------------------------------------
+Started: 2026-06-07 15:16:28.778118
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-07 15:16:28.950134

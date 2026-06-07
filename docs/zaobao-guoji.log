@@ -3871,3 +3871,21 @@ Append: [法英挪拟绕开布鲁塞尔联手协调制裁以色列](https://www.
 Append: [阿姆斯特丹拟逐步调高旅游税至20%](https://www.zaobao.com/news/world/story20260607-9168728)
 append_entries: 7
 Finish: 2026-06-07 13:16:05.466105
+------------------------------------------------------
+Started: 2026-06-07 15:16:29.745158
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 918
+Summarized using deepseek-v4-flash
+Append: [研究：父亲早期育儿参与 或影响孩子未来健康](https://www.zaobao.com/news/world/story20260607-9168503)
+Token length: 734
+Summarized using deepseek-v4-flash
+Append: [韩地方选举选票短缺抗议延烧 李在明下令彻查](https://www.zaobao.com/news/world/story20260607-9169829)
+Token length: 163
+Summarized using deepseek-v4-flash
+Append: [特朗普告诉伊朗：先签和平协议 再谈资产解冻](https://www.zaobao.com/news/world/story20260607-9168761)
+Token length: 1284
+Summarized using deepseek-v4-flash
+Append: [传美国拟用伊朗资产 助波斯湾盟友重建](https://www.zaobao.com/news/world/story20260607-9169479)
+append_entries: 4
+Finish: 2026-06-07 15:16:48.649592
