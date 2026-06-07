@@ -3889,3 +3889,12 @@ Summarized using deepseek-v4-flash
 Append: [传美国拟用伊朗资产 助波斯湾盟友重建](https://www.zaobao.com/news/world/story20260607-9169479)
 append_entries: 4
 Finish: 2026-06-07 15:16:48.649592
+------------------------------------------------------
+Started: 2026-06-07 17:02:38.216864
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1056
+Summarized using deepseek-v4-flash
+Append: [日本陆自最大规模实弹军演：迈向“有攻击能力”时代](https://www.zaobao.com/news/world/story20260607-9169617)
+append_entries: 1
+Finish: 2026-06-07 17:02:46.822189
