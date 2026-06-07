@@ -3782,3 +3782,24 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：被伊朗战火震醒 美国保护伞恐成依赖陷阱 波斯湾六国重估防务出路](https://www.zaobao.com/news/world/story20260607-9150692)
 append_entries: 1
 Finish: 2026-06-06 22:52:51.089529
+------------------------------------------------------
+Started: 2026-06-07 02:11:00.989499
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 532
+Summarized using deepseek-v4-flash
+Append: [韩国民众多日示威 抗议地方选举选票短缺](https://www.zaobao.com/news/world/story20260607-9167353)
+Token length: 471
+Summarized using deepseek-v4-flash
+Append: [金正恩要求提高军工产能到2.5倍 平壤称核计划不容谈判](https://www.zaobao.com/news/world/story20260607-9167301)
+Token length: 633
+Summarized using deepseek-v4-flash
+Append: [世界杯开幕在即 美国洛杉矶赛场员工或赛时罢工](https://www.zaobao.com/news/world/story20260607-9167251)
+Token length: 795
+Summarized using deepseek-v4-flash
+Append: [纪念诺曼底登陆 赫格塞斯吁欧洲应对移民“入侵”](https://www.zaobao.com/news/world/story20260607-9167220)
+Token length: 370
+Summarized using deepseek-v4-flash
+Append: [消息：美拟动用伊朗资产 助波斯湾盟友重建](https://www.zaobao.com/news/world/story20260607-9167235)
+append_entries: 5
+Finish: 2026-06-07 02:11:21.638283

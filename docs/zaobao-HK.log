@@ -4007,3 +4007,27 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：文旅太内卷也太趋同 各地比流量更比留量](https://www.zaobao.com/news/china/story20260607-9149007)
 append_entries: 1
 Finish: 2026-06-06 22:52:46.635902
+------------------------------------------------------
+Started: 2026-06-07 02:10:36.055990
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 719
+Summarized using deepseek-v4-flash
+Append: [韩正：中国深化对白罗斯合作的决心坚定不移](https://www.zaobao.com/news/china/story20260607-9167468)
+Token length: 768
+Summarized using deepseek-v4-flash
+Append: [新北联合竞总成立 九合一首个“蓝白合”成型](https://www.zaobao.com/news/china/story20260607-9167474)
+Token length: 611
+Summarized using deepseek-v4-flash
+Append: [军事专家：中国驱离荷兰舰首次启用电子干扰设施](https://www.zaobao.com/news/china/story20260607-9167392)
+Token length: 503
+Summarized using deepseek-v4-flash
+Append: [波音高管：可为华200架飞机订单提供售后零部件支持](https://www.zaobao.com/news/china/story20260607-9167394)
+Token length: 820
+Summarized using deepseek-v4-flash
+Append: [辽宁将撤并28家省级经济开发区](https://www.zaobao.com/news/china/story20260607-9167324)
+Append: [特朗普：随时愿意与赖清德就军售案通话](https://www.zaobao.com/news/china/story20260607-9167307)
+Append: [辱骂新加坡保安被解雇 港校长：对校方决定感到遗憾](https://www.zaobao.com/news/china/story20260607-9167273)
+Append: [广东多地遭遇暴雨 深圳出现“水龙卷”](https://www.zaobao.com/news/china/story20260607-9167241)
+append_entries: 8
+Finish: 2026-06-07 02:11:00.161928
