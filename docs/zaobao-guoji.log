@@ -3898,3 +3898,12 @@ Summarized using deepseek-v4-flash
 Append: [日本陆自最大规模实弹军演：迈向“有攻击能力”时代](https://www.zaobao.com/news/world/story20260607-9169617)
 append_entries: 1
 Finish: 2026-06-07 17:02:46.822189
+------------------------------------------------------
+Started: 2026-06-07 19:02:26.132695
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 722
+Summarized using deepseek-v4-flash
+Append: [卵巢癌患者体内发现“免疫记忆”细胞 疗法有望升级](https://www.zaobao.com/news/world/story20260608-9169796)
+append_entries: 1
+Finish: 2026-06-07 19:02:33.121403

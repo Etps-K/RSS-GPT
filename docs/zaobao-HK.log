@@ -4118,3 +4118,9 @@ Summarized using deepseek-v4-flash
 Append: [中国灵活就业人数今年料达3.2亿 占就业人口四成](https://www.zaobao.com/news/china/story20260607-9169767)
 append_entries: 1
 Finish: 2026-06-07 17:02:37.420473
+------------------------------------------------------
+Started: 2026-06-07 19:02:25.129200
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-07 19:02:25.297172
