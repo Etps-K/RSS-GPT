@@ -3803,3 +3803,26 @@ Summarized using deepseek-v4-flash
 Append: [消息：美拟动用伊朗资产 助波斯湾盟友重建](https://www.zaobao.com/news/world/story20260607-9167235)
 append_entries: 5
 Finish: 2026-06-07 02:11:21.638283
+------------------------------------------------------
+Started: 2026-06-07 07:45:39.596547
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 591
+Summarized using deepseek-v4-flash
+Append: [秘鲁大选开启二轮对决 决定10年来第九名总统](https://www.zaobao.com/news/world/story20260607-9168412)
+Token length: 279
+Summarized using deepseek-v4-flash
+Append: [获总统李在明提名 韩圣淑或成为韩国史上第二名女总理](https://www.zaobao.com/news/world/story20260607-9168255)
+Token length: 294
+Summarized using deepseek-v4-flash
+Append: [韩国总统李在明6月8日召开就职一周年记者会](https://www.zaobao.com/news/world/story20260607-9168236)
+Token length: 484
+Summarized using deepseek-v4-flash
+Append: [亚美尼亚今大选 欲摆脱对俄依赖全面转向欧洲](https://www.zaobao.com/news/world/story20260607-9168035)
+Token length: 299
+Summarized using deepseek-v4-flash
+Append: [美国俄州节庆突发枪击致12伤 两枪手疑“互相射击”](https://www.zaobao.com/news/world/story20260607-9167603)
+Append: [美军：击落两架伊朗攻击型无人机](https://www.zaobao.com/news/world/story20260607-9167549)
+Append: [默茨：德国极右党或在两州取得“大爆炸”般突破](https://www.zaobao.com/news/world/story20260607-9167430)
+append_entries: 7
+Finish: 2026-06-07 07:46:02.174286
