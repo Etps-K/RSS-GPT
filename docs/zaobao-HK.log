@@ -4130,3 +4130,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-07 20:58:05.510926
+------------------------------------------------------
+Started: 2026-06-07 22:52:53.718490
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [戴庆成：香港涌现“尼特族”青年的背后](https://www.zaobao.com/news/china/story20260608-9169669)
+append_entries: 1
+Finish: 2026-06-07 22:52:57.831561
