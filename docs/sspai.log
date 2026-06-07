@@ -3908,3 +3908,9 @@ Summarized using deepseek-v4-flash
 Append: [接住来自空间站的信号：如何用手台接收 SSTV？](https://sspai.com/post/110108)
 append_entries: 1
 Finish: 2026-06-07 10:19:49.854278
+------------------------------------------------------
+Started: 2026-06-07 13:15:18.020283
+Existing_entries: 202
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-06-07 13:15:19.428859

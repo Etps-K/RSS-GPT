@@ -3848,3 +3848,26 @@ Append: [外国游客锐减 迪拜豪华酒店转攻本地市场](https://www.za
 Append: [日本西南部连日暴雨 南九州山洪与滑坡风险升高](https://www.zaobao.com/news/world/story20260607-9168479)
 append_entries: 6
 Finish: 2026-06-07 10:20:41.552004
+------------------------------------------------------
+Started: 2026-06-07 13:15:38.727779
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 239
+Summarized using deepseek-v4-flash
+Append: [俄无人机袭击切尔诺贝利乏核燃料贮存设施](https://www.zaobao.com/news/world/story20260607-9169508)
+Token length: 437
+Summarized using deepseek-v4-flash
+Append: [消息：霍尔木兹海峡通行费已大幅下降](https://www.zaobao.com/news/world/story20260607-9169279)
+Token length: 979
+Summarized using deepseek-v4-flash
+Append: [美媒：以色列“近乎疯狂”刺探美高官 五角大楼拉响“危急”警报](https://www.zaobao.com/news/world/story20260607-9169183)
+Token length: 1135
+Summarized using deepseek-v4-flash
+Append: [Z世代患上“恋爱失语症”？年轻人靠AI帮忙“开口”恋爱](https://www.zaobao.com/news/world/story20260607-9169114)
+Token length: 759
+Summarized using deepseek-v4-flash
+Append: [人类首位“万亿富翁”诞生在即：每小时花100万、24小时不停，还要花114年！](https://www.zaobao.com/news/world/story20260607-9169270)
+Append: [法英挪拟绕开布鲁塞尔联手协调制裁以色列](https://www.zaobao.com/news/world/story20260607-9169388)
+Append: [阿姆斯特丹拟逐步调高旅游税至20%](https://www.zaobao.com/news/world/story20260607-9168728)
+append_entries: 7
+Finish: 2026-06-07 13:16:05.466105
