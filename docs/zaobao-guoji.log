@@ -3907,3 +3907,9 @@ Summarized using deepseek-v4-flash
 Append: [卵巢癌患者体内发现“免疫记忆”细胞 疗法有望升级](https://www.zaobao.com/news/world/story20260608-9169796)
 append_entries: 1
 Finish: 2026-06-07 19:02:33.121403
+------------------------------------------------------
+Started: 2026-06-07 20:58:06.337090
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-07 20:58:06.463006
