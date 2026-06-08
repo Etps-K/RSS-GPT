@@ -3963,3 +3963,34 @@ Append: [英媒：白宫考虑绕开英国 直接“收购”查戈斯群岛](ht
 Append: [日本气象厅提醒茨城至冲绳大范围地区注意海啸](https://www.zaobao.com/news/world/story20260608-9170710)
 append_entries: 10
 Finish: 2026-06-08 08:43:43.703942
+------------------------------------------------------
+Started: 2026-06-08 13:57:41.703615
+Existing_entries: 1010
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 906
+Summarized using deepseek-v4-flash
+Append: [你可能已经在为AI买单：四项意想不到的涨价](https://www.zaobao.com/news/world/story20260608-9174759)
+Token length: 350
+Summarized using deepseek-v4-flash
+Append: [欧盟制裁伊朗革命卫队海军及石油出口代表](https://www.zaobao.com/news/world/story20260608-9174655)
+Token length: 560
+Summarized using deepseek-v4-flash
+Append: [联合国促塔利班停止拘留涉违反着装规定女性](https://www.zaobao.com/news/world/story20260608-9173121)
+Token length: 765
+Summarized using deepseek-v4-flash
+Append: [物价高涨引发民愤 高市早苗支持率创新低](https://www.zaobao.com/news/world/story20260608-9173402)
+Token length: 371
+Summarized using deepseek-v4-flash
+Append: [以军官员称 伊朗向以色列发射近30枚导弹](https://www.zaobao.com/news/world/story20260608-9174148)
+Append: [高盛：今年不再预期美联储降息 高利率或维持更久](https://www.zaobao.com/news/world/story20260608-9173031)
+Append: [美国加快AI在国安领域研发应用 不会用于非法监控](https://www.zaobao.com/news/world/story20260608-9166883)
+Append: [澳洲反移民情绪升温 总理阿尔巴尼斯宣布下调移民规模](https://www.zaobao.com/news/world/story20260608-9173260)
+Append: [国泰航空：若油价持续高企 9月起或削减部分航班](https://www.zaobao.com/news/world/story20260608-9173187)
+Append: [国际和平研究所：全球核武数量虽下降 核风险却在上升](https://www.zaobao.com/news/world/story20260608-9173280)
+Append: [李在明执政一周年 誓开拓新增长引擎](https://www.zaobao.com/news/world/story20260608-9173159)
+Append: [消息：德黑兰市中心传出巨大爆炸声](https://www.zaobao.com/news/world/story20260608-9173310)
+Append: [英法德元首促俄乌领导人面对面会谈](https://www.zaobao.com/news/world/story20260608-9173051)
+Append: [苹果拟升级防盗保护 手机遭抢可即时上锁](https://www.zaobao.com/news/world/story20260608-9172974)
+Append: [暴雨天气接受专访 特朗普被提问激怒中断访问离场](https://www.zaobao.com/news/world/story20260608-9172907)
+append_entries: 15
+Finish: 2026-06-08 13:58:14.265350
