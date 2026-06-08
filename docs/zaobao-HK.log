@@ -4238,3 +4238,18 @@ Append: [粤车南下7月25日扩展至大湾区九个大陆城市](https://www.
 Append: [浙江综艺被爆向地方文旅收天价录制费](https://www.zaobao.com/news/china/story20260608-9173266)
 append_entries: 18
 Finish: 2026-06-08 13:57:40.731050
+------------------------------------------------------
+Started: 2026-06-08 17:18:05.988830
+Existing_entries: 1018
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1437
+Summarized using deepseek-v4-flash
+Append: [时隔七年后习近平访朝聚焦双边与战略协作 未提无核化](https://www.zaobao.com/news/china/story20260609-9175322)
+Token length: 1419
+Summarized using deepseek-v4-flash
+Append: [美智库：中国航天业正缩小与美国创新差距](https://www.zaobao.com/news/china/story20260608-9174802)
+Token length: 659
+Summarized using deepseek-v4-flash
+Append: [中国官媒曝企业用拖鞋边角料等做“回料” 制作酒店用一次性牙刷](https://www.zaobao.com/news/china/story20260608-9174826)
+append_entries: 3
+Finish: 2026-06-08 17:18:25.673755
