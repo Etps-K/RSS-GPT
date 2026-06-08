@@ -4028,3 +4028,9 @@ Summarized using deepseek-v4-flash
 Append: [骚扰与仇恨言论增加 日本穆斯林忧成歧视目标](https://www.zaobao.com/news/world/story20260608-9172864)
 append_entries: 2
 Finish: 2026-06-08 19:58:22.201232
+------------------------------------------------------
+Started: 2026-06-08 21:47:26.411710
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-08 21:47:26.546342

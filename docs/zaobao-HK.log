@@ -4259,3 +4259,12 @@ Existing_entries: 1003
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-08 19:58:09.635017
+------------------------------------------------------
+Started: 2026-06-08 21:47:19.929246
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 253
+Summarized using deepseek-v4-flash
+Append: [陈婧：又是一年高考时](https://www.zaobao.com/news/china/story20260609-9175085)
+append_entries: 1
+Finish: 2026-06-08 21:47:25.552455
