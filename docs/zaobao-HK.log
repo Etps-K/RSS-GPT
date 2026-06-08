@@ -4139,3 +4139,29 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：香港涌现“尼特族”青年的背后](https://www.zaobao.com/news/china/story20260608-9169669)
 append_entries: 1
 Finish: 2026-06-07 22:52:57.831561
+------------------------------------------------------
+Started: 2026-06-08 02:15:45.819902
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 97
+Summarized using deepseek-v4-flash
+Append: [习近平离京对朝鲜访问 陪同出访人员包括彭丽媛蔡奇](https://www.zaobao.com/news/china/story20260608-9170896)
+Token length: 496
+Summarized using deepseek-v4-flash
+Append: [美NGO报告：低碳工业项目由中国主导 美国落后](https://www.zaobao.com/news/china/story20260608-9170781)
+Token length: 143
+Summarized using deepseek-v4-flash
+Append: [中国A股三大股指开盘全面下滑](https://www.zaobao.com/news/china/story20260608-9170756)
+Token length: 262
+Summarized using deepseek-v4-flash
+Append: [美联储加息预期重燃 港台股票开盘大跌](https://www.zaobao.com/news/china/story20260608-9170734)
+Token length: 692
+Summarized using deepseek-v4-flash
+Append: [中老声明提统一 台外交部：助长大陆武力侵台](https://www.zaobao.com/news/china/story20260608-9170642)
+Append: [中国多家上市公司补税 追溯至2020年](https://www.zaobao.com/news/china/story20260608-9170573)
+Append: [巴航CEO：E2型客机终将进入中国市场](https://www.zaobao.com/news/china/story20260608-9170567)
+Append: [中国监管发文规范网络测评 广告类测评应作显著提示](https://www.zaobao.com/news/china/story20260608-9170544)
+Append: [九寨沟面包车与货车相撞 致六人死亡](https://www.zaobao.com/news/china/story20260608-9170431)
+Append: [习近平今访朝鲜 署名文章称中朝传统友谊始终牢不可破](https://www.zaobao.com/news/china/story20260608-9170387)
+append_entries: 10
+Finish: 2026-06-08 02:16:01.361400

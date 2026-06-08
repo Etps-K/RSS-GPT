@@ -3919,3 +3919,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-07 22:52:58.776888
+------------------------------------------------------
+Started: 2026-06-08 02:16:02.318587
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 295
+Summarized using deepseek-v4-flash
+Append: [伊朗外长密集通话探讨中东局势](https://www.zaobao.com/news/world/story20260608-9170492)
+Token length: 475
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称警告性打击以军基地 指责美以未履行停火承诺](https://www.zaobao.com/news/world/story20260608-9170442)
+Token length: 600
+Summarized using deepseek-v4-flash
+Append: [特朗普呼吁伊朗回到谈判桌 要求以色列别报复](https://www.zaobao.com/news/world/story20260608-9170386)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [伊朗向以色列发射多枚导弹 美伊临时停火以来首次](https://www.zaobao.com/news/world/story20260608-9170348)
+append_entries: 4
+Finish: 2026-06-08 02:16:18.476047
