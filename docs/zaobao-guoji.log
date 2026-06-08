@@ -3937,3 +3937,29 @@ Summarized using deepseek-v4-flash
 Append: [伊朗向以色列发射多枚导弹 美伊临时停火以来首次](https://www.zaobao.com/news/world/story20260608-9170348)
 append_entries: 4
 Finish: 2026-06-08 02:16:18.476047
+------------------------------------------------------
+Started: 2026-06-08 08:43:12.127580
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 402
+Summarized using deepseek-v4-flash
+Append: [IMF总裁：世界进入频繁冲击时代](https://www.zaobao.com/news/world/story20260608-9172750)
+Token length: 872
+Summarized using deepseek-v4-flash
+Append: [IT公司负责人爆料：曾受高市秘书委托制作攻击小泉视频](https://www.zaobao.com/news/world/story20260608-9172648)
+Token length: 293
+Summarized using deepseek-v4-flash
+Append: [日本4月旅游收支顺差同比下降25.2%](https://www.zaobao.com/news/world/story20260608-9172265)
+Token length: 398
+Summarized using deepseek-v4-flash
+Append: [韩国SK与英伟达携手打造AI工厂](https://www.zaobao.com/news/world/story20260608-9172216)
+Token length: 361
+Summarized using deepseek-v4-flash
+Append: [伊朗副外长：伊朗海外资产不是华盛顿战利品](https://www.zaobao.com/news/world/story20260608-9172064)
+Append: [以军再次监测到伊朗导弹来袭 耶路撒冷响起防空警报](https://www.zaobao.com/news/world/story20260608-9171761)
+Append: [NBA总决赛前纽约车站发生持刀伤人 五人受伤](https://www.zaobao.com/news/world/story20260608-9171259)
+Append: [伊朗多地响起爆炸声 以军称攻击伊朗境内目标](https://www.zaobao.com/news/world/story20260608-9170994)
+Append: [英媒：白宫考虑绕开英国 直接“收购”查戈斯群岛](https://www.zaobao.com/news/world/story20260608-9170747)
+Append: [日本气象厅提醒茨城至冲绳大范围地区注意海啸](https://www.zaobao.com/news/world/story20260608-9170710)
+append_entries: 10
+Finish: 2026-06-08 08:43:43.703942

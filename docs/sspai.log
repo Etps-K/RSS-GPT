@@ -3953,3 +3953,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：乘用车越造越重，12 年增重近 400 公斤](https://sspai.com/post/110847)
 append_entries: 1
 Finish: 2026-06-08 02:15:44.874214
+------------------------------------------------------
+Started: 2026-06-08 08:42:33.361296
+Existing_entries: 203
+Fetching from https://sspai.com/feed
+Token length: 16
+Summarized using deepseek-v4-flash
+Append: [2026 美加墨世界杯观赛指南](https://sspai.com/post/110681)
+Token length: 29
+Summarized using deepseek-v4-flash
+Append: [大语言模型正在变成大编程模型](https://sspai.com/post/110746)
+append_entries: 2
+Finish: 2026-06-08 08:42:42.010907
