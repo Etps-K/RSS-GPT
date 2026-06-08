@@ -4016,3 +4016,15 @@ Append: [伊朗与以色列宣布停止互袭](https://www.zaobao.com/news/world
 Append: [美国促北约盟友动用防务资金拆除华为设备](https://www.zaobao.com/news/world/story20260608-9174904)
 append_entries: 6
 Finish: 2026-06-08 17:19:07.666231
+------------------------------------------------------
+Started: 2026-06-08 19:58:10.600162
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1212
+Summarized using deepseek-v4-flash
+Append: [以色列伊朗两月来首次直接交火](https://www.zaobao.com/news/world/story20260608-9175009)
+Token length: 966
+Summarized using deepseek-v4-flash
+Append: [骚扰与仇恨言论增加 日本穆斯林忧成歧视目标](https://www.zaobao.com/news/world/story20260608-9172864)
+append_entries: 2
+Finish: 2026-06-08 19:58:22.201232

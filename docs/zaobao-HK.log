@@ -4253,3 +4253,9 @@ Summarized using deepseek-v4-flash
 Append: [中国官媒曝企业用拖鞋边角料等做“回料” 制作酒店用一次性牙刷](https://www.zaobao.com/news/china/story20260608-9174826)
 append_entries: 3
 Finish: 2026-06-08 17:18:25.673755
+------------------------------------------------------
+Started: 2026-06-08 19:58:09.475572
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-08 19:58:09.635017
