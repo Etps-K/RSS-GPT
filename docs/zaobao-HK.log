@@ -4384,3 +4384,26 @@ Append: [受战争影响 中国原油进口量跌至八年低点](https://www.za
 Append: [韩国议员访台 北京促韩方勿向台独势力发出错误信号](https://www.zaobao.com/news/china/story20260609-9178901)
 append_entries: 10
 Finish: 2026-06-09 12:29:43.246242
+------------------------------------------------------
+Started: 2026-06-09 16:23:52.635020
+Existing_entries: 1010
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 514
+Summarized using deepseek-v4-flash
+Append: [腾讯拟发行美元与离岸人民币债券](https://www.zaobao.com/news/china/story20260609-9180480)
+Token length: 882
+Summarized using deepseek-v4-flash
+Append: [习近平结束访朝 称中朝相互理解更深刻全面](https://www.zaobao.com/news/china/story20260609-9180104)
+Token length: 951
+Summarized using deepseek-v4-flash
+Append: [日媒爆高市早苗之孙赴华留学 忧被中国抓到软肋](https://www.zaobao.com/news/china/story20260609-9179886)
+Token length: 968
+Summarized using deepseek-v4-flash
+Append: [香港公务员统一加薪2% 低于委员会建议](https://www.zaobao.com/news/china/story20260609-9180350)
+Token length: 711
+Summarized using deepseek-v4-flash
+Append: [中国欢迎巴西在华发行熊猫债](https://www.zaobao.com/news/china/story20260609-9180469)
+Append: [大陆使馆：韩国议员在台湾问题挑战一中原则](https://www.zaobao.com/news/china/story20260609-9180301)
+Append: [全球AI热潮带动中国5月出口超预期增长](https://www.zaobao.com/news/china/story20260609-9178826)
+append_entries: 7
+Finish: 2026-06-09 16:24:22.722704
