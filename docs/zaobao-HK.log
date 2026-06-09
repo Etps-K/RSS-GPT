@@ -4407,3 +4407,15 @@ Append: [大陆使馆：韩国议员在台湾问题挑战一中原则](https://w
 Append: [全球AI热潮带动中国5月出口超预期增长](https://www.zaobao.com/news/china/story20260609-9178826)
 append_entries: 7
 Finish: 2026-06-09 16:24:22.722704
+------------------------------------------------------
+Started: 2026-06-09 19:53:14.641189
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 739
+Summarized using deepseek-v4-flash
+Append: [卢秀燕访欧盼为台中寻找更多国际合作机会](https://www.zaobao.com/news/china/story20260609-9180901)
+Token length: 681
+Summarized using deepseek-v4-flash
+Append: [郑丽文：习近平承诺 只要两岸同属一中“什么事都好商量”](https://www.zaobao.com/news/china/story20260609-9180588)
+append_entries: 2
+Finish: 2026-06-09 19:53:25.297966
