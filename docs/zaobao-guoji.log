@@ -4080,3 +4080,26 @@ Summarized using deepseek-v4-flash
 Append: [特朗普正式提名前私人律师担任司法部长](https://www.zaobao.com/news/world/story20260609-9176130)
 append_entries: 4
 Finish: 2026-06-09 05:59:09.154776
+------------------------------------------------------
+Started: 2026-06-09 09:36:30.302403
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 358
+Summarized using deepseek-v4-flash
+Append: [朝鲜官媒加版位 大力宣传习近平访朝消息](https://www.zaobao.com/news/world/story20260609-9178763)
+Token length: 298
+Summarized using deepseek-v4-flash
+Append: [日本栃木县宇都宫市中心连日目击熊踪 百所学校临时停课](https://www.zaobao.com/news/world/story20260609-9178496)
+Token length: 448
+Summarized using deepseek-v4-flash
+Append: [英国允许报销签证费 营造良好营商环境吸引人才](https://www.zaobao.com/news/world/story20260609-9178098)
+Token length: 252
+Summarized using deepseek-v4-flash
+Append: [韩国涉对美国投资特别法施行令获通过](https://www.zaobao.com/news/world/story20260609-9177945)
+Token length: 594
+Summarized using deepseek-v4-flash
+Append: [多数美国人忧油价会继续涨 特朗普支持率持续低迷](https://www.zaobao.com/news/world/story20260609-9177703)
+Append: [分析：朝鲜或依仗中俄加快推进“核经并举”路线](https://www.zaobao.com/news/world/story20260609-9177567)
+Append: [新西兰首都遭遇强风巨浪 当局敦促数百居民疏散](https://www.zaobao.com/news/world/story20260609-9177411)
+append_entries: 7
+Finish: 2026-06-09 09:37:00.280071
