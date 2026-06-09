@@ -4103,3 +4103,27 @@ Append: [分析：朝鲜或依仗中俄加快推进“核经并举”路线](htt
 Append: [新西兰首都遭遇强风巨浪 当局敦促数百居民疏散](https://www.zaobao.com/news/world/story20260609-9177411)
 append_entries: 7
 Finish: 2026-06-09 09:37:00.280071
+------------------------------------------------------
+Started: 2026-06-09 12:29:44.085674
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [欧盟料推第21轮对俄制裁 90家银行和参战人士将被制裁](https://www.zaobao.com/news/world/story20260609-9180091)
+Token length: 955
+Summarized using deepseek-v4-flash
+Append: [借俄中“东风”逆势增长？朝鲜经济现回暖迹象](https://www.zaobao.com/news/world/story20260609-9179669)
+Token length: 1210
+Summarized using deepseek-v4-flash
+Append: [去年全球核武支出创新高 美国增加最多](https://www.zaobao.com/news/world/story20260609-9178953)
+Token length: 241
+Summarized using deepseek-v4-flash
+Append: [日本宇都宫惊现熊踪 全市中小学临时停课](https://www.zaobao.com/news/world/story20260609-9179525)
+Token length: 781
+Summarized using deepseek-v4-flash
+Append: [美国建隔离中心照料接触伊波拉美国人 遭肯尼亚民众抗议](https://www.zaobao.com/news/world/story20260609-9179556)
+Append: [报告：去年全球主要银行投资化石燃料达9000亿美元](https://www.zaobao.com/news/world/story20260609-9179374)
+Append: [美直升机霍尔木兹海峡附近坠毁 特朗普：两飞行员安全](https://www.zaobao.com/news/world/story20260609-9179219)
+Append: [美国人忧战争再推高油价 特朗普支持率持续低迷](https://www.zaobao.com/news/world/story20260609-9178868)
+append_entries: 8
+Finish: 2026-06-09 12:30:14.139263
