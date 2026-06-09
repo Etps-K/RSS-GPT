@@ -4419,3 +4419,9 @@ Summarized using deepseek-v4-flash
 Append: [郑丽文：习近平承诺 只要两岸同属一中“什么事都好商量”](https://www.zaobao.com/news/china/story20260609-9180588)
 append_entries: 2
 Finish: 2026-06-09 19:53:25.297966
+------------------------------------------------------
+Started: 2026-06-09 21:27:38.989588
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-09 21:27:39.225332
