@@ -4040,3 +4040,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-08 23:06:04.075002
+------------------------------------------------------
+Started: 2026-06-09 01:53:14.555915
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 445
+Summarized using deepseek-v4-flash
+Append: [美军向驶往伊朗油轮开火 24名印度船员安全](https://www.zaobao.com/news/world/story20260609-9176033)
+Token length: 685
+Summarized using deepseek-v4-flash
+Append: [法官裁定特朗普政府大幅抬高H1B签证费违法](https://www.zaobao.com/news/world/story20260609-9175925)
+Token length: 197
+Summarized using deepseek-v4-flash
+Append: [伊朗将在波斯湾至红海之间建新抵抗轴心安全带](https://www.zaobao.com/news/world/story20260609-9175878)
+Token length: 76
+Summarized using deepseek-v4-flash
+Append: [伊朗南部发生5级地震](https://www.zaobao.com/news/world/story20260609-9175846)
+Token length: 620
+Summarized using deepseek-v4-flash
+Append: [古巴西部海域发生6.1级地震 美国佛州墨西哥有震感](https://www.zaobao.com/news/world/story20260609-9175819)
+Append: [美国五角大楼更新中国涉军企业清单](https://www.zaobao.com/news/world/story20260609-9175777)
+append_entries: 6
+Finish: 2026-06-09 01:53:37.541642

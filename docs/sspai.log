@@ -4007,3 +4007,12 @@ Summarized using deepseek-v4-flash
 Append: [Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾](https://sspai.com/post/110888)
 append_entries: 2
 Finish: 2026-06-08 23:06:02.162747
+------------------------------------------------------
+Started: 2026-06-09 01:52:41.652374
+Existing_entries: 209
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [派早报：WWDC26 全球开发者大会开幕等](https://sspai.com/post/110889)
+append_entries: 1
+Finish: 2026-06-09 01:52:47.120701

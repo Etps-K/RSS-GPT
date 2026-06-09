@@ -4274,3 +4274,24 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-08 23:06:03.139543
+------------------------------------------------------
+Started: 2026-06-09 01:52:47.912107
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 551
+Summarized using deepseek-v4-flash
+Append: [中国金融监管总局换帅后召开扩大会议：坚持“监管姓监”](https://www.zaobao.com/news/china/story20260609-9176036)
+Token length: 536
+Summarized using deepseek-v4-flash
+Append: [金正恩：朝中始终站在自主和正义的历史正确一边](https://www.zaobao.com/news/china/story20260609-9176011)
+Token length: 669
+Summarized using deepseek-v4-flash
+Append: [中共福建省委书记会见泰国首富谢国民：望引领更多侨商投资](https://www.zaobao.com/news/china/story20260609-9175992)
+Token length: 589
+Summarized using deepseek-v4-flash
+Append: [新华社：中朝关系站在新的历史起点](https://www.zaobao.com/news/china/story20260609-9175822)
+Token length: 221
+Summarized using deepseek-v4-flash
+Append: [习近平和彭丽媛观看朝鲜专场文艺演出](https://www.zaobao.com/news/china/story20260609-9175809)
+append_entries: 5
+Finish: 2026-06-09 01:53:13.730345
