@@ -4016,3 +4016,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：WWDC26 全球开发者大会开幕等](https://sspai.com/post/110889)
 append_entries: 1
 Finish: 2026-06-09 01:52:47.120701
+------------------------------------------------------
+Started: 2026-06-09 05:58:25.829029
+Existing_entries: 210
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [众测招募｜灵犀 Linx 键盘功能共创计划开启](https://sspai.com/post/110863)
+append_entries: 1
+Finish: 2026-06-09 05:58:29.461695

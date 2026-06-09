@@ -4062,3 +4062,21 @@ Append: [古巴西部海域发生6.1级地震 美国佛州墨西哥有震感](ht
 Append: [美国五角大楼更新中国涉军企业清单](https://www.zaobao.com/news/world/story20260609-9175777)
 append_entries: 6
 Finish: 2026-06-09 01:53:37.541642
+------------------------------------------------------
+Started: 2026-06-09 05:58:50.648205
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 320
+Summarized using deepseek-v4-flash
+Append: [特朗普：两周内对伊朗宣布“全面胜利”](https://www.zaobao.com/news/world/story20260609-9177098)
+Token length: 61
+Summarized using deepseek-v4-flash
+Append: [一架美军阿帕奇直升机在霍尔木兹海峡附近坠毁](https://www.zaobao.com/news/world/story20260609-9176963)
+Token length: 436
+Summarized using deepseek-v4-flash
+Append: [特朗普警告内坦亚胡：勿再攻伊朗 否则就只能靠自己了](https://www.zaobao.com/news/world/story20260609-9176222)
+Token length: 484
+Summarized using deepseek-v4-flash
+Append: [特朗普正式提名前私人律师担任司法部长](https://www.zaobao.com/news/world/story20260609-9176130)
+append_entries: 4
+Finish: 2026-06-09 05:59:09.154776

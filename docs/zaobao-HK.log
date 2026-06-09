@@ -4295,3 +4295,32 @@ Summarized using deepseek-v4-flash
 Append: [习近平和彭丽媛观看朝鲜专场文艺演出](https://www.zaobao.com/news/china/story20260609-9175809)
 append_entries: 5
 Finish: 2026-06-09 01:53:13.730345
+------------------------------------------------------
+Started: 2026-06-09 05:58:30.384412
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 335
+Summarized using deepseek-v4-flash
+Append: [新任陕西省委常委李钧已任省委秘书长](https://www.zaobao.com/news/china/story20260609-9177104)
+Token length: 496
+Summarized using deepseek-v4-flash
+Append: [习近平和彭丽媛参谒中朝友谊塔 金正恩夫妇陪同](https://www.zaobao.com/news/china/story20260609-9177085)
+Token length: 649
+Summarized using deepseek-v4-flash
+Append: [郑丽文：习近平承诺只要两岸同属一中什么都好商量](https://www.zaobao.com/news/china/story20260609-9176713)
+Token length: 553
+Summarized using deepseek-v4-flash
+Append: [台自研“雷霆2000”七年首次实弹射击 一枚火箭弹发射后坠地](https://www.zaobao.com/news/china/story20260609-9176890)
+Token length: 284
+Summarized using deepseek-v4-flash
+Append: [日媒：特朗普政府敦促中国恢复对日稀土供应](https://www.zaobao.com/news/china/story20260609-9176798)
+Append: [赖清德：安倍晋三是台湾人永远怀念的好朋友](https://www.zaobao.com/news/china/story20260609-9176654)
+Append: [中国5月出口同比增13.8% 超出预期](https://www.zaobao.com/news/china/story20260609-9176538)
+Append: [美议员促堵中国海外子公司购买晶片漏洞](https://www.zaobao.com/news/china/story20260609-9176518)
+Append: [被列入协助中国军方清单 百度称坚决反对](https://www.zaobao.com/news/china/story20260609-9176484)
+Append: [陕西塌桥致62死亡失踪事故 调查称检测验收全造假](https://www.zaobao.com/news/china/story20260609-9176275)
+Append: [金正恩：朝中在漫长岁月中同生死共患难](https://www.zaobao.com/news/china/story20260609-9176206)
+Append: [苹果发布新一代Siri AI 中国大陆暂不支持](https://www.zaobao.com/news/china/story20260609-9176151)
+Append: [台八旗文化总编辑富察已出狱 被大陆限制出境](https://www.zaobao.com/news/china/story20260609-9176117)
+append_entries: 13
+Finish: 2026-06-09 05:58:49.675699
