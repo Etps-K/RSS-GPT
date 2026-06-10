@@ -4568,3 +4568,12 @@ Existing_entries: 1005
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-10 21:49:14.955717
+------------------------------------------------------
+Started: 2026-06-10 23:17:28.143398
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 154
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：没有中国队的世界杯](https://www.zaobao.com/news/china/story20260611-9186658)
+append_entries: 1
+Finish: 2026-06-10 23:17:36.388865
