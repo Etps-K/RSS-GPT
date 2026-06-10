@@ -4219,3 +4219,31 @@ Append: [朝媒连续两天大篇幅报道习近平访朝消息](https://www.zao
 Append: [伊朗称“摧毁”一架美国MQ－9死神无人机](https://www.zaobao.com/news/world/story20260610-9181863)
 append_entries: 11
 Finish: 2026-06-10 07:59:29.483830
+------------------------------------------------------
+Started: 2026-06-10 11:36:39.970931
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 999
+Summarized using deepseek-v4-flash
+Append: [联合国报告：全球海洋变暖加速北极冰川融化](https://www.zaobao.com/news/world/story20260610-9185136)
+Token length: 471
+Summarized using deepseek-v4-flash
+Append: [悉尼新国际机场10月启用 24小时运营](https://www.zaobao.com/news/world/story20260610-9182750)
+Token length: 988
+Summarized using deepseek-v4-flash
+Append: [防世界杯期间疫情扩散 美国促欧洲限制疫区旅客入境](https://www.zaobao.com/news/world/story20260610-9183712)
+Token length: 593
+Summarized using deepseek-v4-flash
+Append: [美国众议院通过移民执法拨款法案 结束两党斗争](https://www.zaobao.com/news/world/story20260610-9184665)
+Token length: 549
+Summarized using deepseek-v4-flash
+Append: [持假执照飞17年才东窗事发 加航前机长落网受审](https://www.zaobao.com/news/world/story20260610-9183305)
+Append: [伊媒：美国空袭致水库损毁 数千伊朗人断水](https://www.zaobao.com/news/world/story20260610-9184979)
+Append: [以总理内坦亚胡宣布将参加大选 寻求连任](https://www.zaobao.com/news/world/story20260610-9184907)
+Append: [网络成瘾引关注 G7拟发布首份保护青少年网安联合声明](https://www.zaobao.com/news/world/story20260610-9184171)
+Append: [美国能源信息局下调今年美石油库存预期](https://www.zaobao.com/news/world/story20260610-9183698)
+Append: [NASA公布“阿耳忒弥斯3号”任务宇航员名单](https://www.zaobao.com/news/world/story20260610-9183405)
+Append: [欧盟机构：全球再迎史上第二热5月](https://www.zaobao.com/news/world/story20260610-9182704)
+Append: [拼事业还是生孩子？日本女市长休产假或创全国首例](https://www.zaobao.com/news/world/story20260610-9183210)
+append_entries: 12
+Finish: 2026-06-10 11:37:17.921629
