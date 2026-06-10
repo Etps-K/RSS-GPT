@@ -4170,3 +4170,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-09 23:07:51.764897
+------------------------------------------------------
+Started: 2026-06-10 02:04:43.583469
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 289
+Summarized using deepseek-v4-flash
+Append: [美军宣布完成对伊朗“自卫性打击”](https://www.zaobao.com/news/world/story20260610-9181786)
+Token length: 398
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队袭击停泊在巴林的美国第五舰队](https://www.zaobao.com/news/world/story20260610-9181697)
+Token length: 512
+Summarized using deepseek-v4-flash
+Append: [英加法挪联合制裁约旦河西岸定居者暴力活动](https://www.zaobao.com/news/world/story20260610-9181563)
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [超160艘油轮仍滞留波斯湾 海事组织警告勿涉险闯关](https://www.zaobao.com/news/world/story20260610-9181437)
+Token length: 367
+Summarized using deepseek-v4-flash
+Append: [伊朗外长警告：若想安全就撤出我们这个地区](https://www.zaobao.com/news/world/story20260610-9181407)
+Append: [美国对伊朗发动报复性空袭 回应阿帕奇直升机被击落](https://www.zaobao.com/news/world/story20260610-9181341)
+append_entries: 6
+Finish: 2026-06-10 02:05:05.829852

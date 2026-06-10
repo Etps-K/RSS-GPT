@@ -4434,3 +4434,27 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：王楚钦的乌龙与幼儿园的查家底](https://www.zaobao.com/news/china/story20260610-9180777)
 append_entries: 1
 Finish: 2026-06-09 23:07:50.674408
+------------------------------------------------------
+Started: 2026-06-10 02:04:12.713644
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 442
+Summarized using deepseek-v4-flash
+Append: [498万人民币买百强县排名 辽宁海城市一二把手被免职](https://www.zaobao.com/news/china/story20260610-9181864)
+Token length: 614
+Summarized using deepseek-v4-flash
+Append: [郑丽文坦言两岸分歧逾百年 难以通过和平统一公投](https://www.zaobao.com/news/china/story20260610-9181777)
+Token length: 484
+Summarized using deepseek-v4-flash
+Append: [中国自欧盟进口再度下滑 双方贸易失衡进一步扩大](https://www.zaobao.com/news/china/story20260610-9181725)
+Token length: 1016
+Summarized using deepseek-v4-flash
+Append: [中国据报未来五年投2万亿人民币在全国建数据中心](https://www.zaobao.com/news/china/story20260610-9181659)
+Token length: 535
+Summarized using deepseek-v4-flash
+Append: [韩前官员：中国加强对朝关系可同时遏俄制美](https://www.zaobao.com/news/china/story20260610-9181605)
+Append: [朝媒：习近平向金正恩致感谢电 称达成一系列重要共识](https://www.zaobao.com/news/china/story20260610-9181526)
+Append: [李强：以更大力度更实举措解决发展中的卡点堵点](https://www.zaobao.com/news/china/story20260610-9181403)
+Append: [台湾据悉考虑大幅收紧对中国大陆的AI晶片出口管制](https://www.zaobao.com/news/china/story20260610-9181388)
+append_entries: 8
+Finish: 2026-06-10 02:04:42.623778

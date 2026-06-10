@@ -4064,3 +4064,12 @@ Existing_entries: 212
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-06-09 23:07:45.917624
+------------------------------------------------------
+Started: 2026-06-10 02:03:57.028614
+Existing_entries: 212
+Fetching from https://sspai.com/feed
+Token length: 57
+Summarized using deepseek-v4-flash
+Append: [派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
+append_entries: 1
+Finish: 2026-06-10 02:04:11.802537
