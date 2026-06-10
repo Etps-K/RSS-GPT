@@ -4269,3 +4269,18 @@ Append: [美国国际贸易法院敦促政府加快退还关税](https://www.zao
 Append: [阿富汗塔利班：巴基斯坦空袭致至少13人死亡](https://www.zaobao.com/news/world/story20260610-9184843)
 append_entries: 6
 Finish: 2026-06-10 14:47:42.034056
+------------------------------------------------------
+Started: 2026-06-10 18:22:58.946451
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 444
+Summarized using deepseek-v4-flash
+Append: [以色列空袭黎巴嫩南部 造成13人死亡](https://www.zaobao.com/news/world/story20260611-9186963)
+Token length: 1485
+Summarized using deepseek-v4-flash
+Append: [特朗普指伊朗拖延谈判须“付出代价” 考虑发动新袭击](https://www.zaobao.com/news/world/story20260611-9186170)
+Token length: 511
+Summarized using deepseek-v4-flash
+Append: [调查：仅11%欧洲人视美国为盟友](https://www.zaobao.com/news/world/story20260610-9186699)
+append_entries: 3
+Finish: 2026-06-10 18:23:19.282996
