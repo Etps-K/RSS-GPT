@@ -4192,3 +4192,30 @@ Append: [伊朗外长警告：若想安全就撤出我们这个地区](https://w
 Append: [美国对伊朗发动报复性空袭 回应阿帕奇直升机被击落](https://www.zaobao.com/news/world/story20260610-9181341)
 append_entries: 6
 Finish: 2026-06-10 02:05:05.829852
+------------------------------------------------------
+Started: 2026-06-10 07:59:03.289984
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 99
+Summarized using deepseek-v4-flash
+Append: [南非约翰内斯堡发生枪击 至少12人死亡](https://www.zaobao.com/news/world/story20260610-9183339)
+Token length: 436
+Summarized using deepseek-v4-flash
+Append: [日本企业物价指数同比涨幅创三年多来新高](https://www.zaobao.com/news/world/story20260610-9183179)
+Token length: 574
+Summarized using deepseek-v4-flash
+Append: [新西兰调查：美国被视为比中国更具威胁](https://www.zaobao.com/news/world/story20260610-9183075)
+Token length: 708
+Summarized using deepseek-v4-flash
+Append: [澳洲无家可归问题恶化 非居民露宿者持续增加](https://www.zaobao.com/news/world/story20260610-9182126)
+Token length: 169
+Summarized using deepseek-v4-flash
+Append: [美媒指伊朗向中东美军基地射弹 五枚被约旦拦截或击落](https://www.zaobao.com/news/world/story20260610-9182591)
+Append: [盖茨就与爱泼斯坦关系接受美国国会询问](https://www.zaobao.com/news/world/story20260610-9182469)
+Append: [美媒：美军打击了伊朗境内20个目标](https://www.zaobao.com/news/world/story20260610-9182251)
+Append: [美墨边境墙预计2027年末竣工](https://www.zaobao.com/news/world/story20260610-9182258)
+Append: [韩国70岁以上就业人口首破200万大关](https://www.zaobao.com/news/world/story20260610-9182176)
+Append: [朝媒连续两天大篇幅报道习近平访朝消息](https://www.zaobao.com/news/world/story20260610-9181933)
+Append: [伊朗称“摧毁”一架美国MQ－9死神无人机](https://www.zaobao.com/news/world/story20260610-9181863)
+append_entries: 11
+Finish: 2026-06-10 07:59:29.483830

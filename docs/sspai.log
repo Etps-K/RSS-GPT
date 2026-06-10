@@ -4073,3 +4073,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
 append_entries: 1
 Finish: 2026-06-10 02:04:11.802537
+------------------------------------------------------
+Started: 2026-06-10 07:58:13.499445
+Existing_entries: 213
+Fetching from https://sspai.com/feed
+Token length: 9
+Summarized using deepseek-v4-flash
+Append: [告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)
+append_entries: 2
+Finish: 2026-06-10 07:58:33.982088
