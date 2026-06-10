@@ -4562,3 +4562,9 @@ Summarized using deepseek-v4-flash
 Append: [北京宣布结束在台东海域四天专项执法行动](https://www.zaobao.com/news/china/story20260610-9185014)
 append_entries: 5
 Finish: 2026-06-10 18:22:58.083840
+------------------------------------------------------
+Started: 2026-06-10 21:49:14.797786
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-10 21:49:14.955717
