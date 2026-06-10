@@ -4247,3 +4247,25 @@ Append: [欧盟机构：全球再迎史上第二热5月](https://www.zaobao.com/
 Append: [拼事业还是生孩子？日本女市长休产假或创全国首例](https://www.zaobao.com/news/world/story20260610-9183210)
 append_entries: 12
 Finish: 2026-06-10 11:37:17.921629
+------------------------------------------------------
+Started: 2026-06-10 14:47:16.548360
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 450
+Summarized using deepseek-v4-flash
+Append: [挪威法院下令继续拘留患病王储妃的长子](https://www.zaobao.com/news/world/story20260610-9186150)
+Token length: 312
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊朗在谈判中拖太久 必须付出代价](https://www.zaobao.com/news/world/story20260610-9186112)
+Token length: 457
+Summarized using deepseek-v4-flash
+Append: [日本国会批准提案 解决皇位继承危机](https://www.zaobao.com/news/world/story20260610-9186092)
+Token length: 900
+Summarized using deepseek-v4-flash
+Append: [美能源信息署：主要经济体石油库存料创新低 油价维持高位](https://www.zaobao.com/news/world/story20260610-9184166)
+Token length: 382
+Summarized using deepseek-v4-flash
+Append: [美国国际贸易法院敦促政府加快退还关税](https://www.zaobao.com/news/world/story20260610-9185500)
+Append: [阿富汗塔利班：巴基斯坦空袭致至少13人死亡](https://www.zaobao.com/news/world/story20260610-9184843)
+append_entries: 6
+Finish: 2026-06-10 14:47:42.034056

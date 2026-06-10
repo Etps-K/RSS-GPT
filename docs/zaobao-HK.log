@@ -4520,3 +4520,24 @@ Append: [民进党提名郑朝方参选新竹县长](https://www.zaobao.com/news
 Append: [港警就宏福苑大火起诉七人和两公司涉诈骗洗钱等罪](https://www.zaobao.com/news/china/story20260610-9183748)
 append_entries: 16
 Finish: 2026-06-10 11:36:39.012633
+------------------------------------------------------
+Started: 2026-06-10 14:46:52.079958
+Existing_entries: 1016
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 212
+Summarized using deepseek-v4-flash
+Append: [下午察：天价上“过气综艺”，地方文旅“卑微而富有”？](https://www.zaobao.com/news/china/story20260610-9185452)
+Token length: 1210
+Summarized using deepseek-v4-flash
+Append: [中国5月PPI录得近四年来最高涨幅 CPI涨幅停滞](https://www.zaobao.com/news/china/story20260610-9185309)
+Token length: 725
+Summarized using deepseek-v4-flash
+Append: [马兴瑞多年秘书 南昌市长高世文消失逾四个月后简历被撤](https://www.zaobao.com/news/china/story20260610-9186019)
+Token length: 1367
+Summarized using deepseek-v4-flash
+Append: [香港宏福苑大火168名遇难者姓名首次公布](https://www.zaobao.com/news/china/story20260610-9185925)
+Token length: 648
+Summarized using deepseek-v4-flash
+Append: [郑丽文访陆申请民主基金会补助 涉统独疑义单据尚未核销](https://www.zaobao.com/news/china/story20260610-9185836)
+append_entries: 5
+Finish: 2026-06-10 14:47:15.702740
