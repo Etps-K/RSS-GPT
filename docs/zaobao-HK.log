@@ -4668,3 +4668,25 @@ Append: [陈宇剑落马 上海市委常委会：坚决拥护中央决定](https
 Append: [台通报大陆公务船首次驶入太平岛禁止水域](https://www.zaobao.com/news/china/story20260611-9190390)
 append_entries: 11
 Finish: 2026-06-11 13:48:33.364448
+------------------------------------------------------
+Started: 2026-06-11 17:30:49.097391
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1314
+Summarized using deepseek-v4-flash
+Append: [一带一路遭遇电诈阴影 学者倡中国亚细安设打诈特别工作组](https://www.zaobao.com/news/china/story20260612-9192931)
+Token length: 1266
+Summarized using deepseek-v4-flash
+Append: [郑丽文称未反对军购 传美国国安会临时取消会面](https://www.zaobao.com/news/china/story20260611-9192662)
+Token length: 1260
+Summarized using deepseek-v4-flash
+Append: [重庆男子虐狗罕见引发聚集抗议 分析：反虐待动物立法短期恐难落地](https://www.zaobao.com/news/china/story20260611-9192629)
+Token length: 733
+Summarized using deepseek-v4-flash
+Append: [国民党批民进党禁地方政府人员参加海峡论坛：政治考量凌驾民生](https://www.zaobao.com/news/china/story20260611-9192746)
+Token length: 233
+Summarized using deepseek-v4-flash
+Append: [下午察：游走高校圈多年 “鹅腿阿姨”进城后翻车了](https://www.zaobao.com/news/china/story20260611-9190674)
+Append: [传美国安会取消会晤郑丽文 国民党：暴露民进党恐慌](https://www.zaobao.com/news/china/story20260611-9192478)
+append_entries: 6
+Finish: 2026-06-11 17:31:17.573625

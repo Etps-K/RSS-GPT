@@ -4377,3 +4377,26 @@ Append: [美国在阿曼附近海域击沉印度商船 三名印度海员遇难]
 Append: [一艘油轮在阿曼海岸外起火 伊朗指美国炮弹击中伊朗货船](https://www.zaobao.com/news/world/story20260611-9190377)
 append_entries: 11
 Finish: 2026-06-11 13:49:01.512325
+------------------------------------------------------
+Started: 2026-06-11 17:31:18.578659
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 328
+Summarized using deepseek-v4-flash
+Append: [油盟继续下调今年全球石油需求增长预期](https://www.zaobao.com/news/world/story20260611-9192936)
+Token length: 1416
+Summarized using deepseek-v4-flash
+Append: [美伊连续两天交火 特朗普恫言升级打击占领伊朗石油命脉](https://www.zaobao.com/news/world/story20260611-9192109)
+Token length: 304
+Summarized using deepseek-v4-flash
+Append: [五角大楼发生危险材料泄漏事故 多个楼层人员疏散](https://www.zaobao.com/news/world/story20260611-9192841)
+Token length: 290
+Summarized using deepseek-v4-flash
+Append: [美财长：将用冻结的伊朗账户资金补偿波斯湾国家损失](https://www.zaobao.com/news/world/story20260611-9192727)
+Token length: 593
+Summarized using deepseek-v4-flash
+Append: [以违反封锁为由 美军在阿曼湾击中一艘油轮](https://www.zaobao.com/news/world/story20260611-9192627)
+Append: [分析：特朗普军事打击伊朗策略存在漏洞](https://www.zaobao.com/news/world/story20260611-9192496)
+Append: [巴基斯坦军用直升机坠毁 机上22人遇难](https://www.zaobao.com/news/world/story20260611-9192460)
+append_entries: 7
+Finish: 2026-06-11 17:31:43.545018
