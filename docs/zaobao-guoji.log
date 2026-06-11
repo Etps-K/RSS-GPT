@@ -4400,3 +4400,9 @@ Append: [分析：特朗普军事打击伊朗策略存在漏洞](https://www.zao
 Append: [巴基斯坦军用直升机坠毁 机上22人遇难](https://www.zaobao.com/news/world/story20260611-9192460)
 append_entries: 7
 Finish: 2026-06-11 17:31:43.545018
+------------------------------------------------------
+Started: 2026-06-11 20:06:45.623946
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-11 20:06:45.786775
