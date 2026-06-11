@@ -4299,3 +4299,31 @@ Summarized using deepseek-v4-flash
 Append: [美国夜间对伊朗境内多个目标发动新一轮空袭](https://www.zaobao.com/news/world/story20260611-9187256)
 append_entries: 1
 Finish: 2026-06-10 23:17:41.769211
+------------------------------------------------------
+Started: 2026-06-11 02:16:00.333474
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 682
+Summarized using deepseek-v4-flash
+Append: [加拿大提新法案 拟禁16岁以下青少年拥社媒账号](https://www.zaobao.com/news/world/story20260611-9187759)
+Token length: 169
+Summarized using deepseek-v4-flash
+Append: [美军：已完成对伊朗的新一轮打击](https://www.zaobao.com/news/world/story20260611-9187729)
+Token length: 647
+Summarized using deepseek-v4-flash
+Append: [美国消费者价格指数飙至三年新高 特朗普：我喜欢通胀](https://www.zaobao.com/news/world/story20260611-9187626)
+Token length: 449
+Summarized using deepseek-v4-flash
+Append: [美伊新一轮袭击致国际油价大涨 金价大跌](https://www.zaobao.com/news/world/story20260611-9187565)
+Token length: 376
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称“击中并摧毁”18个美军重要目标](https://www.zaobao.com/news/world/story20260611-9187547)
+Append: [美国：没有美军遇袭 商船依旧通行霍尔木兹海峡](https://www.zaobao.com/news/world/story20260611-9187488)
+Append: [特朗普：伊朗人要求我停止 轰炸很快就会停止](https://www.zaobao.com/news/world/story20260611-9187419)
+Append: [美国古巴关系紧张之际 美访长赫格塞斯访问美军基地](https://www.zaobao.com/news/world/story20260611-9187386)
+Append: [特朗普：美军已“秘密”助200多艘商船通过霍尔木兹海峡](https://www.zaobao.com/news/world/story20260611-9187349)
+Append: [与内坦亚胡存在分歧 万斯称对方“犯了一些错误”](https://www.zaobao.com/news/world/story20260611-9187324)
+Append: [遭美国袭击 伊朗宣布关闭霍尔木兹海峡](https://www.zaobao.com/news/world/story20260611-9187290)
+Append: [盖茨出席爱泼斯坦听证会 称从未伤害过任何人](https://www.zaobao.com/news/world/story20260611-9186979)
+append_entries: 12
+Finish: 2026-06-11 02:16:24.253649

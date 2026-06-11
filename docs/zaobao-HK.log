@@ -4577,3 +4577,29 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：没有中国队的世界杯](https://www.zaobao.com/news/china/story20260611-9186658)
 append_entries: 1
 Finish: 2026-06-10 23:17:36.388865
+------------------------------------------------------
+Started: 2026-06-11 02:15:31.423308
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 580
+Summarized using deepseek-v4-flash
+Append: [山东女学生倡提高性同意年龄 采访视频被下架](https://www.zaobao.com/news/china/story20260611-9187784)
+Token length: 914
+Summarized using deepseek-v4-flash
+Append: [郑丽文华盛顿见五美议员：国民党不反对美对台军售](https://www.zaobao.com/news/china/story20260611-9187700)
+Token length: 868
+Summarized using deepseek-v4-flash
+Append: [彭博：忧受恒大清盘波及 普华永道部分合伙人寻求保全资产](https://www.zaobao.com/news/china/story20260611-9187690)
+Token length: 830
+Summarized using deepseek-v4-flash
+Append: [重庆虐狗案涉事男子被行拘](https://www.zaobao.com/news/china/story20260611-9187563)
+Token length: 36
+Summarized using deepseek-v4-flash
+Append: [广西发生爆炸事件 已致七死17伤](https://www.zaobao.com/news/china/story20260611-9187545)
+Append: [调查：盈利能力改善 美企仍不愿扩大在华投资](https://www.zaobao.com/news/china/story20260611-9187523)
+Append: [涉为中国收集情报 美查封13个网站域名](https://www.zaobao.com/news/china/story20260611-9187501)
+Append: [李希：坚定不移强化制度治权依规用权](https://www.zaobao.com/news/china/story20260611-9187493)
+Append: [OpenAI称中国关联账户试图煽动美国反数据中心情绪](https://www.zaobao.com/news/china/story20260611-9187369)
+Append: [南非安全形势严峻 中使馆召开视频会议](https://www.zaobao.com/news/china/story20260611-9187339)
+append_entries: 10
+Finish: 2026-06-11 02:15:59.489721
