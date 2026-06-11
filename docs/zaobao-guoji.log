@@ -4350,3 +4350,30 @@ Append: [世界杯开幕前夕 美驻墨使馆发出旅游警告](https://www.za
 Append: [美墨加自由贸易协定将到期 特朗普：美国或不会续签](https://www.zaobao.com/news/world/story20260611-9188128)
 append_entries: 7
 Finish: 2026-06-11 08:27:25.865886
+------------------------------------------------------
+Started: 2026-06-11 13:48:34.213173
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 361
+Summarized using deepseek-v4-flash
+Append: [特朗普：今晚将对伊朗进行猛烈打击](https://www.zaobao.com/news/world/story20260611-9192306)
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [因拨款争议 英国国防部长辞职](https://www.zaobao.com/news/world/story20260611-9192189)
+Token length: 915
+Summarized using deepseek-v4-flash
+Append: [日本拟设国防工业支持机构 强化军备出口与技术发展](https://www.zaobao.com/news/world/story20260611-9186122)
+Token length: 644
+Summarized using deepseek-v4-flash
+Append: [欧美等22国发联合声明 谴责伊朗雇犯罪集团在多国刺杀绑架异议者](https://www.zaobao.com/news/world/story20260611-9190661)
+Token length: 610
+Summarized using deepseek-v4-flash
+Append: [下周G7峰会聚焦乌克兰和中东战争 但难有突破性决议](https://www.zaobao.com/news/world/story20260611-9190352)
+Append: [美国发动新一轮攻势 伊朗外交部强烈谴责](https://www.zaobao.com/news/world/story20260611-9191678)
+Append: [约旦：击落20枚伊朗导弹](https://www.zaobao.com/news/world/story20260611-9191497)
+Append: [指为中国间谍窃取机密 美政府查封13个网站域名](https://www.zaobao.com/news/world/story20260611-9190697)
+Append: [预算删减 科学家警告气候监测面临威胁](https://www.zaobao.com/news/world/story20260611-9191352)
+Append: [美国在阿曼附近海域击沉印度商船 三名印度海员遇难](https://www.zaobao.com/news/world/story20260611-9190567)
+Append: [一艘油轮在阿曼海岸外起火 伊朗指美国炮弹击中伊朗货船](https://www.zaobao.com/news/world/story20260611-9190377)
+append_entries: 11
+Finish: 2026-06-11 13:49:01.512325

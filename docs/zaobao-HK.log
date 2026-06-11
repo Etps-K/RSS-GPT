@@ -4641,3 +4641,30 @@ Append: [阿里巴巴宣布钉钉换帅 90后陈宇森接棒](https://www.zaobao
 Append: [傅聪：霍尔木兹海峡航道受阻冲击全球产供链畅通](https://www.zaobao.com/news/china/story20260611-9187933)
 append_entries: 22
 Finish: 2026-06-11 08:26:54.299694
+------------------------------------------------------
+Started: 2026-06-11 13:48:03.485459
+Existing_entries: 1022
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 552
+Summarized using deepseek-v4-flash
+Append: [中国宣布制裁菲律宾防长特奥多罗及其亲属](https://www.zaobao.com/news/china/story20260611-9192203)
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [香港海关检获逾1.5亿港元世杯冒牌商品](https://www.zaobao.com/news/china/story20260611-9192098)
+Token length: 401
+Summarized using deepseek-v4-flash
+Append: [湖南一网民上传AI生成虚假高考试题被行拘](https://www.zaobao.com/news/china/story20260611-9188490)
+Token length: 417
+Summarized using deepseek-v4-flash
+Append: [四川一高校调查原员工被指用职务之便干预招投标](https://www.zaobao.com/news/china/story20260611-9190984)
+Token length: 204
+Summarized using deepseek-v4-flash
+Append: [赖清德恭贺莫迪成为印度任期最长民选总理](https://www.zaobao.com/news/china/story20260611-9190871)
+Append: [北京支持泰国严惩涉曼谷爆炸案两中国新疆维族男子](https://www.zaobao.com/news/china/story20260611-9190811)
+Append: [中国七家涉火车票销售第三方平台被约谈](https://www.zaobao.com/news/china/story20260611-9190783)
+Append: [所罗门群岛因保密条款不会公布涉华安全协议](https://www.zaobao.com/news/china/story20260611-9190612)
+Append: [美团淘宝京东外卖平台在粤签约 首设黑名单共享机制](https://www.zaobao.com/news/china/story20260611-9190598)
+Append: [陈宇剑落马 上海市委常委会：坚决拥护中央决定](https://www.zaobao.com/news/china/story20260611-9190453)
+Append: [台通报大陆公务船首次驶入太平岛禁止水域](https://www.zaobao.com/news/china/story20260611-9190390)
+append_entries: 11
+Finish: 2026-06-11 13:48:33.364448
