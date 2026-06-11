@@ -4327,3 +4327,26 @@ Append: [遭美国袭击 伊朗宣布关闭霍尔木兹海峡](https://www.zaoba
 Append: [盖茨出席爱泼斯坦听证会 称从未伤害过任何人](https://www.zaobao.com/news/world/story20260611-9186979)
 append_entries: 12
 Finish: 2026-06-11 02:16:24.253649
+------------------------------------------------------
+Started: 2026-06-11 08:26:55.282726
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 416
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡封闭 埃及苏伊士运河油轮通行量增长](https://www.zaobao.com/news/world/story20260611-9190029)
+Token length: 1499
+Summarized using deepseek-v4-flash
+Append: [韩国老龄化严重 独居老人依赖AI娃娃陪伴](https://www.zaobao.com/news/world/story20260611-9189767)
+Token length: 931
+Summarized using deepseek-v4-flash
+Append: [涉泄逾3千万用户数据 韩电商平台酷澎遭重罚4亿多美元](https://www.zaobao.com/news/world/story20260611-9189262)
+Token length: 447
+Summarized using deepseek-v4-flash
+Append: [韩欧谴责朝俄军事合作 强调朝鲜永不被承认为核武国](https://www.zaobao.com/news/world/story20260611-9189040)
+Token length: 916
+Summarized using deepseek-v4-flash
+Append: [联合国：全球流离失所者降至1.18亿人 10年来首现下降](https://www.zaobao.com/news/world/story20260611-9188487)
+Append: [世界杯开幕前夕 美驻墨使馆发出旅游警告](https://www.zaobao.com/news/world/story20260611-9188284)
+Append: [美墨加自由贸易协定将到期 特朗普：美国或不会续签](https://www.zaobao.com/news/world/story20260611-9188128)
+append_entries: 7
+Finish: 2026-06-11 08:27:25.865886
