@@ -4696,3 +4696,12 @@ Existing_entries: 1006
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-11 20:06:44.767105
+------------------------------------------------------
+Started: 2026-06-11 23:12:49.458050
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1846
+Summarized using deepseek-v4-flash
+Append: [韩咏红：习近平访问朝鲜各取所得](https://www.zaobao.com/news/china/story20260612-9192826)
+append_entries: 1
+Finish: 2026-06-11 23:12:54.099156
