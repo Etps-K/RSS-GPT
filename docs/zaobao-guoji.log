@@ -4435,3 +4435,28 @@ Append: [伊朗阿巴斯港和锡里克地区传爆炸声](https://www.zaobao.co
 Append: [特朗普撤回打伊言论 称协议或周末在欧洲签署](https://www.zaobao.com/news/world/story20260612-9193409)
 append_entries: 7
 Finish: 2026-06-12 02:12:06.101831
+------------------------------------------------------
+Started: 2026-06-12 08:14:47.586598
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 353
+Summarized using deepseek-v4-flash
+Append: [美媒：美伊协议涉及“免费”重开海峡和减免制裁](https://www.zaobao.com/news/world/story20260612-9195897)
+Token length: 829
+Summarized using deepseek-v4-flash
+Append: [法国：以色列公司涉干预多国选举](https://www.zaobao.com/news/world/story20260612-9195609)
+Token length: 373
+Summarized using deepseek-v4-flash
+Append: [消息：美国拟削减驻欧战机军舰](https://www.zaobao.com/news/world/story20260612-9195354)
+Token length: 451
+Summarized using deepseek-v4-flash
+Append: [古巴外长：古巴电力问题源于美国封锁制裁](https://www.zaobao.com/news/world/story20260612-9195173)
+Token length: 389
+Summarized using deepseek-v4-flash
+Append: [华尔街日报：特朗普正制定计划 推翻弹劾案](https://www.zaobao.com/news/world/story20260612-9195197)
+Append: [金正恩向普京致国庆贺词 称永远与俄站在一起](https://www.zaobao.com/news/world/story20260612-9195122)
+Append: [黎总统：以军撤离并停止袭击后才结束敌对状态](https://www.zaobao.com/news/world/story20260612-9194693)
+Append: [特朗普提名曼哈顿检察官担任下一任国家情报总监](https://www.zaobao.com/news/world/story20260612-9194579)
+Append: [尹锡悦涉“无人机事件”一审被判有期徒刑30年](https://www.zaobao.com/news/world/story20260612-9194125)
+append_entries: 9
+Finish: 2026-06-12 08:15:13.422133
