@@ -4705,3 +4705,25 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：习近平访问朝鲜各取所得](https://www.zaobao.com/news/china/story20260612-9192826)
 append_entries: 1
 Finish: 2026-06-11 23:12:54.099156
+------------------------------------------------------
+Started: 2026-06-12 02:11:17.272154
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 873
+Summarized using deepseek-v4-flash
+Append: [美学者：郑丽文处理美陆台关系仍新手 难除“亲中”标签](https://www.zaobao.com/news/china/story20260612-9193957)
+Token length: 1149
+Summarized using deepseek-v4-flash
+Append: [北京一把手到养老机构检查防汛 去年洪灾致养老院逾30死](https://www.zaobao.com/news/china/story20260612-9193932)
+Token length: 586
+Summarized using deepseek-v4-flash
+Append: [中国副总理张国清促全球各国营造自由便利贸易环境](https://www.zaobao.com/news/china/story20260612-9193854)
+Token length: 586
+Summarized using deepseek-v4-flash
+Append: [菲律宾防长称因说出真相被制裁](https://www.zaobao.com/news/china/story20260612-9193669)
+Token length: 592
+Summarized using deepseek-v4-flash
+Append: [被禁参与海峡论坛 台东县长质疑中央放任农民自生自灭](https://www.zaobao.com/news/china/story20260612-9193500)
+Append: [中国交建据悉赢得肯尼亚29亿美元机场改造项目](https://www.zaobao.com/news/china/story20260612-9193448)
+append_entries: 6
+Finish: 2026-06-12 02:11:41.520323

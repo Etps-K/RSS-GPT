@@ -4412,3 +4412,26 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-11 23:12:55.280872
+------------------------------------------------------
+Started: 2026-06-12 02:11:42.323172
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 166
+Summarized using deepseek-v4-flash
+Append: [伊朗已故最高领袖哈梅内伊葬礼推迟举行](https://www.zaobao.com/news/world/story20260612-9193781)
+Token length: 277
+Summarized using deepseek-v4-flash
+Append: [英国首相任命新国防部长](https://www.zaobao.com/news/world/story20260612-9193686)
+Token length: 172
+Summarized using deepseek-v4-flash
+Append: [伊朗外交部批美袭商船是“武装抢劫”和“国家海盗”](https://www.zaobao.com/news/world/story20260612-9193643)
+Token length: 406
+Summarized using deepseek-v4-flash
+Append: [国家广场现疑似反特朗普数字 美公园警察展开调查](https://www.zaobao.com/news/world/story20260612-9193552)
+Token length: 285
+Summarized using deepseek-v4-flash
+Append: [伊朗称协议尚未定案 批美方阻碍谈判进程](https://www.zaobao.com/news/world/story20260612-9193479)
+Append: [伊朗阿巴斯港和锡里克地区传爆炸声](https://www.zaobao.com/news/world/story20260612-9193442)
+Append: [特朗普撤回打伊言论 称协议或周末在欧洲签署](https://www.zaobao.com/news/world/story20260612-9193409)
+append_entries: 7
+Finish: 2026-06-12 02:12:06.101831
