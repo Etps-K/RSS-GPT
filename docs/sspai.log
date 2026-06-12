@@ -4197,3 +4197,12 @@ Summarized using deepseek-v4-flash
 Append: [WWDC 26 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/110967)
 append_entries: 3
 Finish: 2026-06-12 08:14:17.653033
+------------------------------------------------------
+Started: 2026-06-12 12:47:31.557664
+Existing_entries: 226
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/110992)
+append_entries: 1
+Finish: 2026-06-12 12:47:36.068177

@@ -4460,3 +4460,29 @@ Append: [特朗普提名曼哈顿检察官担任下一任国家情报总监](htt
 Append: [尹锡悦涉“无人机事件”一审被判有期徒刑30年](https://www.zaobao.com/news/world/story20260612-9194125)
 append_entries: 9
 Finish: 2026-06-12 08:15:13.422133
+------------------------------------------------------
+Started: 2026-06-12 12:48:00.939358
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [消息：美伊最快星期天签署结束战争备忘录](https://www.zaobao.com/news/world/story20260612-9197889)
+Token length: 829
+Summarized using deepseek-v4-flash
+Append: [消息：美国拟削减驻欧战机军舰 北约军力恐受限](https://www.zaobao.com/news/world/story20260612-9197202)
+Token length: 341
+Summarized using deepseek-v4-flash
+Append: [乌克兰拟向盟友寻求200亿美元额外军援](https://www.zaobao.com/news/world/story20260612-9197754)
+Token length: 616
+Summarized using deepseek-v4-flash
+Append: [不满政府国防投资计划资金方案 英国两部长辞职](https://www.zaobao.com/news/world/story20260612-9197752)
+Token length: 879
+Summarized using deepseek-v4-flash
+Append: [俄乌战争时长超越一战 专家：已成欧洲转折性冲突](https://www.zaobao.com/news/world/story20260612-9196507)
+Append: [新西兰惠灵顿机场发生火灾 航班暂停起降](https://www.zaobao.com/news/world/story20260612-9197424)
+Append: [南极冰层融化速度异常 6月气温创历史新高](https://www.zaobao.com/news/world/story20260612-9196088)
+Append: [伊媒：伊美谅解备忘录新细节已公布](https://www.zaobao.com/news/world/story20260612-9196803)
+Append: [印度劳工拍摄日常动作 为AI机器人“示范”工作](https://www.zaobao.com/news/world/story20260612-9196523)
+Append: [伊朗与美国和议难成 真人信使传话费时为障碍](https://www.zaobao.com/news/world/story20260612-9196422)
+append_entries: 10
+Finish: 2026-06-12 12:48:27.367771
