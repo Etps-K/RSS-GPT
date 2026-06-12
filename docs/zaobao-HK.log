@@ -4821,3 +4821,12 @@ Existing_entries: 1007
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-12 19:48:54.019810
+------------------------------------------------------
+Started: 2026-06-12 21:22:20.206351
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1621
+Summarized using deepseek-v4-flash
+Append: [庄慧良：从一场股灾看K型社会下的“四贷同堂”](https://www.zaobao.com/news/china/story20260613-9198744)
+append_entries: 1
+Finish: 2026-06-12 21:22:27.394417

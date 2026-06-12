@@ -4523,3 +4523,9 @@ Summarized using deepseek-v4-flash
 Append: [Meta社交网络服务中断 数万用户无法正常访问](https://www.zaobao.com/news/world/story20260613-9199021)
 append_entries: 2
 Finish: 2026-06-12 19:49:06.126223
+------------------------------------------------------
+Started: 2026-06-12 21:22:28.361796
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-12 21:22:28.474527
