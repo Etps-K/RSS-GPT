@@ -4815,3 +4815,9 @@ Append: [论文数据伪造 上海大学转化医学院院长被免职](https://
 Append: [中国国安部：境外间谍机关利用“谍龟谍鱼”窃取海洋数据](https://www.zaobao.com/news/china/story20260612-9198304)
 append_entries: 7
 Finish: 2026-06-12 16:36:57.819199
+------------------------------------------------------
+Started: 2026-06-12 19:48:53.829689
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-12 19:48:54.019810

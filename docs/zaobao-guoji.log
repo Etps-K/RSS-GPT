@@ -4511,3 +4511,15 @@ Append: [尹锡悦涉“平壤无人机案”一审判囚30年](https://www.zaob
 Append: [德国汉堡机场因安全事故疏散人员 航班暂停起飞](https://www.zaobao.com/news/world/story20260612-9198516)
 append_entries: 9
 Finish: 2026-06-12 16:37:23.195833
+------------------------------------------------------
+Started: 2026-06-12 19:48:55.007973
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 553
+Summarized using deepseek-v4-flash
+Append: [研究：治疗关节疼痛的氨基葡萄糖 与痴呆症风险相关](https://www.zaobao.com/news/world/story20260613-9199061)
+Token length: 373
+Summarized using deepseek-v4-flash
+Append: [Meta社交网络服务中断 数万用户无法正常访问](https://www.zaobao.com/news/world/story20260613-9199021)
+append_entries: 2
+Finish: 2026-06-12 19:49:06.126223
