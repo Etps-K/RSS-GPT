@@ -4486,3 +4486,28 @@ Append: [印度劳工拍摄日常动作 为AI机器人“示范”工作](https:
 Append: [伊朗与美国和议难成 真人信使传话费时为障碍](https://www.zaobao.com/news/world/story20260612-9196422)
 append_entries: 10
 Finish: 2026-06-12 12:48:27.367771
+------------------------------------------------------
+Started: 2026-06-12 16:36:58.681661
+Existing_entries: 1010
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 396
+Summarized using deepseek-v4-flash
+Append: [美伊和平协议前景乐观 油气价格延续跌势](https://www.zaobao.com/news/world/story20260612-9198964)
+Token length: 264
+Summarized using deepseek-v4-flash
+Append: [伊朗：备忘录接近完成 美方称伊朗同意弃核](https://www.zaobao.com/news/world/story20260612-9198932)
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [中东战争冲击供应链 印度限制柴油购买量](https://www.zaobao.com/news/world/story20260612-9198916)
+Token length: 421
+Summarized using deepseek-v4-flash
+Append: [中东战事影响显现 英国经济4月环比萎缩0.1%](https://www.zaobao.com/news/world/story20260612-9198731)
+Token length: 1494
+Summarized using deepseek-v4-flash
+Append: [特朗普称美伊几天内在欧洲签协议 伊媒公布14点谅解备忘录内容](https://www.zaobao.com/news/world/story20260612-9196897)
+Append: [伊媒体：伊美星期天签协议纯属“无稽之谈”](https://www.zaobao.com/news/world/story20260612-9198660)
+Append: [中东战争冲击能源供应 15国向亚行求援](https://www.zaobao.com/news/world/story20260612-9197546)
+Append: [尹锡悦涉“平壤无人机案”一审判囚30年](https://www.zaobao.com/news/world/story20260612-9198468)
+Append: [德国汉堡机场因安全事故疏散人员 航班暂停起飞](https://www.zaobao.com/news/world/story20260612-9198516)
+append_entries: 9
+Finish: 2026-06-12 16:37:23.195833
