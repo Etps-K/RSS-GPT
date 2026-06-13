@@ -4535,3 +4535,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-12 23:05:39.542490
+------------------------------------------------------
+Started: 2026-06-13 02:04:12.582803
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 304
+Summarized using deepseek-v4-flash
+Append: [美媒：特朗普政府限制外国访问Anthropic最先进AI模型](https://www.zaobao.com/news/world/story20260613-9199488)
+Token length: 472
+Summarized using deepseek-v4-flash
+Append: [以防长暗示未来以色列或再动武阻止伊朗拥核](https://www.zaobao.com/news/world/story20260613-9199288)
+Token length: 784
+Summarized using deepseek-v4-flash
+Append: [消息：阿联酋解冻伊朗数十亿美元资金 阿联酋否认](https://www.zaobao.com/news/world/story20260613-9199394)
+Token length: 252
+Summarized using deepseek-v4-flash
+Append: [伊媒辟谣锡里克等地发生爆炸或袭击](https://www.zaobao.com/news/world/story20260613-9199332)
+Token length: 258
+Summarized using deepseek-v4-flash
+Append: [伊朗外长：美伊谅解备忘录或数日内远程签署](https://www.zaobao.com/news/world/story20260613-9199315)
+Append: [伊朗外长披露伊美谅解备忘录草案部分内容](https://www.zaobao.com/news/world/story20260613-9199320)
+append_entries: 6
+Finish: 2026-06-13 02:04:38.756802

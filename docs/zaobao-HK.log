@@ -4836,3 +4836,25 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-12 23:05:38.461391
+------------------------------------------------------
+Started: 2026-06-13 02:03:43.156562
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 856
+Summarized using deepseek-v4-flash
+Append: [上海一幼儿园教师疑遭家长园方施压后自杀 官方否认网传说法](https://www.zaobao.com/news/china/story20260613-9199521)
+Token length: 684
+Summarized using deepseek-v4-flash
+Append: [大陆公务船驶入太平岛禁止水域 台外交部：挑衅国际秩序](https://www.zaobao.com/news/china/story20260613-9199477)
+Token length: 466
+Summarized using deepseek-v4-flash
+Append: [贵州一大学生腹泻入院后死亡 官方通报医院存在过错](https://www.zaobao.com/news/china/story20260613-9199459)
+Token length: 411
+Summarized using deepseek-v4-flash
+Append: [中国水利部对七省份启动洪水防御四级应急响应](https://www.zaobao.com/news/china/story20260613-9199381)
+Token length: 529
+Summarized using deepseek-v4-flash
+Append: [中国官方加强农村务农务工出行安全整治 严查超载超速](https://www.zaobao.com/news/china/story20260613-9199362)
+Append: [新闻人间：“卡牌大师”马宁的孤单世界杯](https://www.zaobao.com/news/china/story20260613-9198409)
+append_entries: 6
+Finish: 2026-06-13 02:04:11.592094
