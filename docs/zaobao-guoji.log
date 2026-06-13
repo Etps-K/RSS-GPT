@@ -4557,3 +4557,27 @@ Append: [伊朗外长：美伊谅解备忘录或数日内远程签署](https://w
 Append: [伊朗外长披露伊美谅解备忘录草案部分内容](https://www.zaobao.com/news/world/story20260613-9199320)
 append_entries: 6
 Finish: 2026-06-13 02:04:38.756802
+------------------------------------------------------
+Started: 2026-06-13 07:38:30.901095
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 304
+Summarized using deepseek-v4-flash
+Append: [美国消费者信心指数回升 但通胀预期仍处高位](https://www.zaobao.com/news/world/story20260613-9200362)
+Token length: 352
+Summarized using deepseek-v4-flash
+Append: [美伊谈判现积极信号 国际油价跌逾3%](https://www.zaobao.com/news/world/story20260613-9200277)
+Token length: 231
+Summarized using deepseek-v4-flash
+Append: [美国一大型户外帐篷倒塌 至一死22伤](https://www.zaobao.com/news/world/story20260613-9200239)
+Token length: 275
+Summarized using deepseek-v4-flash
+Append: [朝鲜谴责美国批准向韩国出售空对空导弹](https://www.zaobao.com/news/world/story20260613-9200091)
+Token length: 300
+Summarized using deepseek-v4-flash
+Append: [欧盟将启动乌克兰和摩尔多瓦首阶段入盟谈判](https://www.zaobao.com/news/world/story20260613-9199895)
+Append: [涉安全风险 美国要求限制访问Anthropic最新AI模型](https://www.zaobao.com/news/world/story20260613-9199849)
+Append: [特朗普称美军击毙委内瑞拉黑帮头目](https://www.zaobao.com/news/world/story20260613-9199639)
+Append: [消息：美军击落多架向霍尔木兹海峡发射的伊朗无人机](https://www.zaobao.com/news/world/story20260613-9199589)
+append_entries: 8
+Finish: 2026-06-13 07:39:03.499970
