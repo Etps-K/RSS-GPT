@@ -4581,3 +4581,25 @@ Append: [特朗普称美军击毙委内瑞拉黑帮头目](https://www.zaobao.co
 Append: [消息：美军击落多架向霍尔木兹海峡发射的伊朗无人机](https://www.zaobao.com/news/world/story20260613-9199589)
 append_entries: 8
 Finish: 2026-06-13 07:39:03.499970
+------------------------------------------------------
+Started: 2026-06-13 10:19:50.314679
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 632
+Summarized using deepseek-v4-flash
+Append: [国际劳工组织通过全球首个保障零工权益公约](https://www.zaobao.com/news/world/story20260613-9201084)
+Token length: 583
+Summarized using deepseek-v4-flash
+Append: [古巴向私营企业开放更多领域 支持国家发展](https://www.zaobao.com/news/world/story20260613-9201077)
+Token length: 426
+Summarized using deepseek-v4-flash
+Append: [美法院驳回上诉 肯尼迪中心拆除特朗普名字](https://www.zaobao.com/news/world/story20260613-9200713)
+Token length: 315
+Summarized using deepseek-v4-flash
+Append: [马斯克晋升全球首位万亿富豪 民主党人抨击税制不公](https://www.zaobao.com/news/world/story20260613-9200771)
+Token length: 79
+Summarized using deepseek-v4-flash
+Append: [印度空军一架运输机在降落时坠毁](https://www.zaobao.com/news/world/story20260613-9200687)
+Append: [欧盟航空旅客权益改革达共识 争议措施暂搁置](https://www.zaobao.com/news/world/story20260613-9200564)
+append_entries: 6
+Finish: 2026-06-13 10:20:12.663682
