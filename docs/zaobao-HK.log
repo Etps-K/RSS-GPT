@@ -4961,3 +4961,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-13 20:59:42.768242
+------------------------------------------------------
+Started: 2026-06-13 22:51:59.220411
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 278
+Summarized using deepseek-v4-flash
+Append: [中国特稿：艺考生意经层层流转 灰色产业链环环相扣](https://www.zaobao.com/news/china/story20260614-9064964)
+append_entries: 1
+Finish: 2026-06-13 22:52:03.928389

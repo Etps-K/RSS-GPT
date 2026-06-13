@@ -4671,3 +4671,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-13 20:59:43.724526
+------------------------------------------------------
+Started: 2026-06-13 22:52:04.881450
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 209
+Summarized using deepseek-v4-flash
+Append: [国际特稿：美中期选举掀画地图大战 共和党有地利但众院难保？](https://www.zaobao.com/news/world/story20260614-9186692)
+append_entries: 1
+Finish: 2026-06-13 22:52:20.939091
