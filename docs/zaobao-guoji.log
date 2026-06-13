@@ -4659,3 +4659,9 @@ Summarized using deepseek-v4-flash
 Append: [联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺](https://www.zaobao.com/news/world/story20260613-9201930)
 append_entries: 3
 Finish: 2026-06-13 17:07:21.456103
+------------------------------------------------------
+Started: 2026-06-13 19:04:15.620188
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-13 19:04:15.735159
