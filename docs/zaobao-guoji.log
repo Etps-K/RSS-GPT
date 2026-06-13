@@ -4644,3 +4644,18 @@ Append: [新版东京都市圈地震应对措施 全面升级防火抗震指标]
 Append: [战争扰乱供应 美应急储备原油出口达历史新高](https://www.zaobao.com/news/world/story20260613-9201258)
 append_entries: 7
 Finish: 2026-06-13 15:24:17.986547
+------------------------------------------------------
+Started: 2026-06-13 17:07:05.977446
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 449
+Summarized using deepseek-v4-flash
+Append: [斯塔默：英国将在北约峰会前公布国防计划](https://www.zaobao.com/news/world/story20260614-9202146)
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [瑞典国王伉俪庆祝金婚 乘马车与民同欢](https://www.zaobao.com/news/world/story20260613-9202124)
+Token length: 406
+Summarized using deepseek-v4-flash
+Append: [联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺](https://www.zaobao.com/news/world/story20260613-9201930)
+append_entries: 3
+Finish: 2026-06-13 17:07:21.456103

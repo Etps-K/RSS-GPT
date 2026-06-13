@@ -4940,3 +4940,12 @@ Existing_entries: 1005
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-13 15:23:49.256846
+------------------------------------------------------
+Started: 2026-06-13 17:07:00.125487
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1398
+Summarized using deepseek-v4-flash
+Append: [北京扬言反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”](https://www.zaobao.com/news/china/story20260613-9202005)
+append_entries: 1
+Finish: 2026-06-13 17:07:05.003517
