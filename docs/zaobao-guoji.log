@@ -4621,3 +4621,26 @@ Summarized using deepseek-v4-flash
 Append: [乌克兰将提高军饷 招募更多外国战斗人员](https://www.zaobao.com/news/world/story20260613-9201495)
 append_entries: 4
 Finish: 2026-06-13 13:20:18.628897
+------------------------------------------------------
+Started: 2026-06-13 15:23:50.111379
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 417
+Summarized using deepseek-v4-flash
+Append: [印度季风季或现中强度厄尔尼诺现象](https://www.zaobao.com/news/world/story20260613-9201975)
+Token length: 1208
+Summarized using deepseek-v4-flash
+Append: [美伊均称数日内可签署 和平协议或更利伊朗](https://www.zaobao.com/news/world/story20260613-9201949)
+Token length: 859
+Summarized using deepseek-v4-flash
+Append: [实际断供低于市场预期 霍尔木兹石油运输恢复近半](https://www.zaobao.com/news/world/story20260613-9201798)
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [伊朗外交部：签署备忘录时间不是星期天](https://www.zaobao.com/news/world/story20260613-9201862)
+Token length: 158
+Summarized using deepseek-v4-flash
+Append: [一艘油轮在阿曼附近海域遇袭](https://www.zaobao.com/news/world/story20260613-9201820)
+Append: [新版东京都市圈地震应对措施 全面升级防火抗震指标](https://www.zaobao.com/news/world/story20260613-9201448)
+Append: [战争扰乱供应 美应急储备原油出口达历史新高](https://www.zaobao.com/news/world/story20260613-9201258)
+append_entries: 7
+Finish: 2026-06-13 15:24:17.986547
