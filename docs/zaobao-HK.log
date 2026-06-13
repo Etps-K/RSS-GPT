@@ -4913,3 +4913,24 @@ Append: [张荣恭：民族认同政治互信是两岸和平根本保证](https:
 Append: [百度无人驾驶德士获批在瑞士东部运营](https://www.zaobao.com/news/china/story20260613-9200707)
 append_entries: 6
 Finish: 2026-06-13 10:19:49.348481
+------------------------------------------------------
+Started: 2026-06-13 13:19:23.024940
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 464
+Summarized using deepseek-v4-flash
+Append: [吉利董事长：将关停部分业务单元 资源聚焦港上市平台](https://www.zaobao.com/news/china/story20260613-9201766)
+Token length: 517
+Summarized using deepseek-v4-flash
+Append: [中国出台金融信息服务数据管理指引 加强网络安全监管](https://www.zaobao.com/news/china/story20260613-9201617)
+Token length: 476
+Summarized using deepseek-v4-flash
+Append: [涉致命事故 台空军教练机完成特检恢复飞行训练](https://www.zaobao.com/news/china/story20260613-9201142)
+Token length: 625
+Summarized using deepseek-v4-flash
+Append: [中国日本商会：59%日企今年拟增加和维持在华投资](https://www.zaobao.com/news/china/story20260613-9201342)
+Token length: 504
+Summarized using deepseek-v4-flash
+Append: [台湾未来八年投1000亿新台币助中小微企业转型](https://www.zaobao.com/news/china/story20260613-9201261)
+append_entries: 5
+Finish: 2026-06-13 13:19:50.989561

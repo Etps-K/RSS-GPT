@@ -4603,3 +4603,21 @@ Append: [印度空军一架运输机在降落时坠毁](https://www.zaobao.com/n
 Append: [欧盟航空旅客权益改革达共识 争议措施暂搁置](https://www.zaobao.com/news/world/story20260613-9200564)
 append_entries: 6
 Finish: 2026-06-13 10:20:12.663682
+------------------------------------------------------
+Started: 2026-06-13 13:19:51.791904
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 960
+Summarized using deepseek-v4-flash
+Append: [美国政府封杀Anthropic最新模型 州检察长联手调查OpenAI](https://www.zaobao.com/news/world/story20260613-9201812)
+Token length: 193
+Summarized using deepseek-v4-flash
+Append: [伊朗已故最高领袖哈梅内伊葬礼将于7月举行](https://www.zaobao.com/news/world/story20260613-9201632)
+Token length: 205
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦总理：美伊有望在24小时内签署和平协议](https://www.zaobao.com/news/world/story20260613-9201665)
+Token length: 782
+Summarized using deepseek-v4-flash
+Append: [乌克兰将提高军饷 招募更多外国战斗人员](https://www.zaobao.com/news/world/story20260613-9201495)
+append_entries: 4
+Finish: 2026-06-13 13:20:18.628897
