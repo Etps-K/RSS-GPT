@@ -4680,3 +4680,24 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：美中期选举掀画地图大战 共和党有地利但众院难保？](https://www.zaobao.com/news/world/story20260614-9186692)
 append_entries: 1
 Finish: 2026-06-13 22:52:20.939091
+------------------------------------------------------
+Started: 2026-06-14 02:15:06.158986
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 467
+Summarized using deepseek-v4-flash
+Append: [特朗普将赴法国出席七国集团峰会 会晤中东伙伴](https://www.zaobao.com/news/world/story20260614-9202472)
+Token length: 714
+Summarized using deepseek-v4-flash
+Append: [特朗普名字已从肯尼迪中心外墙上移除](https://www.zaobao.com/news/world/story20260614-9202459)
+Token length: 142
+Summarized using deepseek-v4-flash
+Append: [与特朗普通话 斯塔默：英国支持任何和平协议的实施](https://www.zaobao.com/news/world/story20260614-9202438)
+Token length: 450
+Summarized using deepseek-v4-flash
+Append: [美伊将签署和平协议 伊朗强硬派指责协议不符合国家利益](https://www.zaobao.com/news/world/story20260614-9202402)
+Token length: 536
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊朗和平协议即将签署 霍尔木兹海峡将重新开放](https://www.zaobao.com/news/world/story20260614-9202362)
+append_entries: 5
+Finish: 2026-06-14 02:15:34.035846

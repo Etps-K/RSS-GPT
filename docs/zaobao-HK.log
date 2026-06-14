@@ -4970,3 +4970,21 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：艺考生意经层层流转 灰色产业链环环相扣](https://www.zaobao.com/news/china/story20260614-9064964)
 append_entries: 1
 Finish: 2026-06-13 22:52:03.928389
+------------------------------------------------------
+Started: 2026-06-14 02:14:39.542234
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 359
+Summarized using deepseek-v4-flash
+Append: [河南纸厂三员工窒息死 省委书记：严肃追究违法操作责任](https://www.zaobao.com/news/china/story20260614-9202669)
+Token length: 658
+Summarized using deepseek-v4-flash
+Append: [蒙古国总统：不会因同其他国家关系做损害中方利益的事情](https://www.zaobao.com/news/china/story20260614-9202514)
+Token length: 673
+Summarized using deepseek-v4-flash
+Append: [陆台企业签约对接 张荣恭：没什么力量能阻止自发性互利行为](https://www.zaobao.com/news/china/story20260614-9202494)
+Token length: 362
+Summarized using deepseek-v4-flash
+Append: [“张雪机车”拿下赛季第六冠](https://www.zaobao.com/news/china/story20260614-9202360)
+append_entries: 4
+Finish: 2026-06-14 02:15:05.190911
