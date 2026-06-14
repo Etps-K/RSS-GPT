@@ -5057,3 +5057,9 @@ Summarized using deepseek-v4-flash
 Append: [世界杯在华收视率破1.4% 球迷对比赛热度反应两极](https://www.zaobao.com/news/china/story20260614-9204702)
 append_entries: 1
 Finish: 2026-06-14 15:41:15.120702
+------------------------------------------------------
+Started: 2026-06-14 17:06:13.091497
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-14 17:06:13.282967
