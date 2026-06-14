@@ -4803,3 +4803,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-14 20:57:06.732992
+------------------------------------------------------
+Started: 2026-06-14 22:57:43.785496
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 187
+Summarized using deepseek-v4-flash
+Append: [符祝慧：屋价影响生育 东京房子孩子皆“奢侈品”](https://www.zaobao.com/news/world/story20260615-9202227)
+append_entries: 1
+Finish: 2026-06-14 22:57:50.011222

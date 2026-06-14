@@ -5075,3 +5075,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-14 20:57:05.747751
+------------------------------------------------------
+Started: 2026-06-14 22:57:36.503612
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1625
+Summarized using deepseek-v4-flash
+Append: [戴庆成：舌尖上的香港非遗特色](https://www.zaobao.com/news/china/story20260615-9204708)
+append_entries: 1
+Finish: 2026-06-14 22:57:42.829423
