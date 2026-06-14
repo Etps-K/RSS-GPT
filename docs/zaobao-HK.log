@@ -4988,3 +4988,25 @@ Summarized using deepseek-v4-flash
 Append: [“张雪机车”拿下赛季第六冠](https://www.zaobao.com/news/china/story20260614-9202360)
 append_entries: 4
 Finish: 2026-06-14 02:15:05.190911
+------------------------------------------------------
+Started: 2026-06-14 08:06:16.513030
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 766
+Summarized using deepseek-v4-flash
+Append: [台国安局设大陆民众联系窗口 搜集大陆政军经情资](https://www.zaobao.com/news/china/story20260614-9203588)
+Token length: 310
+Summarized using deepseek-v4-flash
+Append: [墨西哥警方逮捕一名持枪抢劫中国球迷的嫌犯](https://www.zaobao.com/news/china/story20260614-9203419)
+Token length: 468
+Summarized using deepseek-v4-flash
+Append: [香港载荷专家黎家盈将与港市民“天地对话”](https://www.zaobao.com/news/china/story20260614-9203052)
+Token length: 654
+Summarized using deepseek-v4-flash
+Append: [黑龙江女子考编第一却被递补 维权后岗位被取消](https://www.zaobao.com/news/china/story20260614-9202931)
+Token length: 297
+Summarized using deepseek-v4-flash
+Append: [日本爱媛高级柑橘树苗或已流向中国](https://www.zaobao.com/news/china/story20260614-9202980)
+Append: [传会见郑丽文美官员降三级 国民党批绿媒恶意带风向](https://www.zaobao.com/news/china/story20260614-9202840)
+append_entries: 6
+Finish: 2026-06-14 08:06:42.930317

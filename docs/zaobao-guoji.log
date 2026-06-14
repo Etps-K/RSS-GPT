@@ -4701,3 +4701,26 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：伊朗和平协议即将签署 霍尔木兹海峡将重新开放](https://www.zaobao.com/news/world/story20260614-9202362)
 append_entries: 5
 Finish: 2026-06-14 02:15:34.035846
+------------------------------------------------------
+Started: 2026-06-14 08:06:43.900076
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 299
+Summarized using deepseek-v4-flash
+Append: [墨西哥南部贩毒团伙争权地区 一名市长遭枪击身亡](https://www.zaobao.com/news/world/story20260614-9203649)
+Token length: 289
+Summarized using deepseek-v4-flash
+Append: [刚果（金）伊波拉确诊病例升至710起 其中149死亡病例](https://www.zaobao.com/news/world/story20260614-9203353)
+Token length: 387
+Summarized using deepseek-v4-flash
+Append: [英格兰队世界杯装备失窃案 美检方控两嫌犯](https://www.zaobao.com/news/world/story20260614-9203166)
+Token length: 693
+Summarized using deepseek-v4-flash
+Append: [七国集团峰会前夕 日内瓦或爆发抗议活动](https://www.zaobao.com/news/world/story20260614-9202972)
+Token length: 755
+Summarized using deepseek-v4-flash
+Append: [白宫草坪举办格斗比赛 庆特朗普80岁生日](https://www.zaobao.com/news/world/story20260614-9202868)
+Append: [朝鲜：拥核是地区稳定关键 弃核是妄想](https://www.zaobao.com/news/world/story20260614-9202736)
+Append: [录音揭示伊朗革命卫队警告船只勿通行霍尔木兹海峡](https://www.zaobao.com/news/world/story20260614-9202595)
+append_entries: 7
+Finish: 2026-06-14 08:07:09.308453
