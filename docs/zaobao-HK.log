@@ -5036,3 +5036,15 @@ Append: [中国裁判本届世界杯首次执法 担任辅助视频助理裁判]
 Append: [港府谴责《华邮》国安法相关社论 斥其双标不知羞耻](https://www.zaobao.com/news/china/story20260614-9203518)
 append_entries: 10
 Finish: 2026-06-14 11:48:25.628042
+------------------------------------------------------
+Started: 2026-06-14 13:23:22.002003
+Existing_entries: 1010
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 785
+Summarized using deepseek-v4-flash
+Append: [澳智库：中国已具备对澳本土实施直接导弹打击能力](https://www.zaobao.com/news/china/story20260614-9204877)
+Token length: 507
+Summarized using deepseek-v4-flash
+Append: [广东多个城市出现暴雨 防汛应急响应提升至三级](https://www.zaobao.com/news/china/story20260614-9204827)
+append_entries: 2
+Finish: 2026-06-14 13:23:30.405485

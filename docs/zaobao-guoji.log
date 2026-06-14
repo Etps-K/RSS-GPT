@@ -4748,3 +4748,15 @@ Append: [接连遭遇外部冲击 美国经济为何持续超出预期？](https
 Append: [UFO档案曝光 美军目击巨型“太空土豆”悬浮空中](https://www.zaobao.com/news/world/story20260614-9203830)
 append_entries: 8
 Finish: 2026-06-14 11:48:48.661920
+------------------------------------------------------
+Started: 2026-06-14 13:23:31.264308
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1089
+Summarized using deepseek-v4-flash
+Append: [分析：马斯克万亿财富背后 离不开美国政府早期支持](https://www.zaobao.com/news/world/story20260614-9204499)
+Token length: 438
+Summarized using deepseek-v4-flash
+Append: [日本公司开发系统 区别人类和AI学术写作](https://www.zaobao.com/news/world/story20260614-9204195)
+append_entries: 2
+Finish: 2026-06-14 13:23:40.458698
