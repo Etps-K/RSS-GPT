@@ -4760,3 +4760,28 @@ Summarized using deepseek-v4-flash
 Append: [日本公司开发系统 区别人类和AI学术写作](https://www.zaobao.com/news/world/story20260614-9204195)
 append_entries: 2
 Finish: 2026-06-14 13:23:40.458698
+------------------------------------------------------
+Started: 2026-06-14 15:41:15.967920
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1207
+Summarized using deepseek-v4-flash
+Append: [特朗普称美伊星期天签协议 伊朗据报未做出最终决定](https://www.zaobao.com/news/world/story20260614-9204789)
+Token length: 262
+Summarized using deepseek-v4-flash
+Append: [美伊协议前夕袭击黎巴嫩 消息：以色列欲阻协议达成](https://www.zaobao.com/news/world/story20260614-9205188)
+Token length: 862
+Summarized using deepseek-v4-flash
+Append: [研究：七成AI职位属高级岗位 新人入行更难](https://www.zaobao.com/news/world/story20260614-9203893)
+Token length: 813
+Summarized using deepseek-v4-flash
+Append: [日媒：日本拟8月派地质专家 赴格陵兰勘探稀土开采](https://www.zaobao.com/news/world/story20260614-9204779)
+Token length: 884
+Summarized using deepseek-v4-flash
+Append: [日英达成310亿元投资技术合作协议 发展风电人工智能等领域](https://www.zaobao.com/news/world/story20260614-9204674)
+Append: [核心票仓松动 特朗普乡村支持降至50%](https://www.zaobao.com/news/world/story20260614-9204521)
+Append: [朝鲜两天三度重申不会弃核 分析：借与中俄关系升温强化拥核地位](https://www.zaobao.com/news/world/story20260614-9204511)
+Append: [乌军远程打击俄石油化工厂 报复俄拒绝停火](https://www.zaobao.com/news/world/story20260614-9204548)
+Append: [11月迎78岁生日 英国王室为国王查尔斯举行庆生阅兵活动](https://www.zaobao.com/news/world/story20260614-9204787)
+append_entries: 9
+Finish: 2026-06-14 15:41:42.800828

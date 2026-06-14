@@ -5048,3 +5048,12 @@ Summarized using deepseek-v4-flash
 Append: [广东多个城市出现暴雨 防汛应急响应提升至三级](https://www.zaobao.com/news/china/story20260614-9204827)
 append_entries: 2
 Finish: 2026-06-14 13:23:30.405485
+------------------------------------------------------
+Started: 2026-06-14 15:41:07.472308
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1179
+Summarized using deepseek-v4-flash
+Append: [世界杯在华收视率破1.4% 球迷对比赛热度反应两极](https://www.zaobao.com/news/china/story20260614-9204702)
+append_entries: 1
+Finish: 2026-06-14 15:41:15.120702
