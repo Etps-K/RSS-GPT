@@ -4353,3 +4353,19 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线](https://sspai.com/post/111045)
 append_entries: 1
 Finish: 2026-06-15 02:29:59.438266
+------------------------------------------------------
+Started: 2026-06-15 09:49:51.021184
+Existing_entries: 230
+Fetching from https://sspai.com/feed
+Token length: 49
+Summarized using deepseek-v4-flash
+Append: [具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111003)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置](https://sspai.com/post/110984)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [Snapseed 4.0：Google 终于想起了这款「免费修图神器」](https://sspai.com/post/110525)
+Append: [线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令](https://sspai.com/post/110989)
+append_entries: 4
+Finish: 2026-06-15 09:50:16.897226
