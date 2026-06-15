@@ -5084,3 +5084,28 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：舌尖上的香港非遗特色](https://www.zaobao.com/news/china/story20260615-9204708)
 append_entries: 1
 Finish: 2026-06-14 22:57:42.829423
+------------------------------------------------------
+Started: 2026-06-15 02:30:00.229987
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 363
+Summarized using deepseek-v4-flash
+Append: [陆港台股市上涨 台股涨幅一度超过2.8%](https://www.zaobao.com/news/china/story20260615-9206399)
+Token length: 836
+Summarized using deepseek-v4-flash
+Append: [消息：夏宝龙赴港考察两天 关注香港五年规划咨询](https://www.zaobao.com/news/china/story20260615-9206159)
+Token length: 1178
+Summarized using deepseek-v4-flash
+Append: [取消中考选拔全员直升高中 浙江海岛小县城登上热搜榜首](https://www.zaobao.com/news/china/story20260615-9206237)
+Token length: 384
+Summarized using deepseek-v4-flash
+Append: [山东聊城化工厂大爆炸致三伤 火球腾空方圆数里停电](https://www.zaobao.com/news/china/story20260615-9206057)
+Token length: 696
+Summarized using deepseek-v4-flash
+Append: [辽宁渔船翻覆致命事故调查报告出炉 36人被追责问责](https://www.zaobao.com/news/china/story20260615-9206001)
+Append: [中国人保原副总裁俞小平 退休近九年被查](https://www.zaobao.com/news/china/story20260615-9205945)
+Append: [内蒙古一辆皮卡车追尾致车内六人死亡](https://www.zaobao.com/news/china/story20260615-9205901)
+Append: [张国清吁不断增强盐湖产业国际竞争力和影响力](https://www.zaobao.com/news/china/story20260615-9205833)
+Append: [台外交部：大陆通过与他国互动场合 散布一中原则不实谬论](https://www.zaobao.com/news/china/story20260615-9205774)
+append_entries: 9
+Finish: 2026-06-15 02:30:24.393195
