@@ -4904,3 +4904,18 @@ Append: [黎巴嫩警告流离失所者不要急于返回家园](https://www.zao
 Append: [制造业岗位流向海外 英国拉响“去工业化”警报](https://www.zaobao.com/news/world/story20260615-9208753)
 append_entries: 18
 Finish: 2026-06-15 15:38:25.840600
+------------------------------------------------------
+Started: 2026-06-15 19:36:38.619188
+Existing_entries: 1018
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 137
+Summarized using deepseek-v4-flash
+Append: [巴勒斯坦总统宣布2027年初举行总统选举](https://www.zaobao.com/news/world/story20260615-9211104)
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [印度青年领袖示威时 遭两男子多次掌掴](https://www.zaobao.com/news/world/story20260615-9211022)
+Token length: 1263
+Summarized using deepseek-v4-flash
+Append: [美伊达成初步协议 特朗普称商船开始驶出海峡](https://www.zaobao.com/news/world/story20260615-9210791)
+append_entries: 3
+Finish: 2026-06-15 19:36:52.114500
