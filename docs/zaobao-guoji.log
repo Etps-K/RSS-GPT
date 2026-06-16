@@ -4974,3 +4974,34 @@ Append: [叙利亚北部发生恐怖袭击 安全人员一死三伤](https://www
 Append: [以色列对特朗普与伊朗达成的协议感到警惕](https://www.zaobao.com/news/world/story20260616-9211996)
 append_entries: 12
 Finish: 2026-06-16 09:14:46.737207
+------------------------------------------------------
+Started: 2026-06-16 14:51:28.548664
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 371
+Summarized using deepseek-v4-flash
+Append: [特朗普支持率微升至36% 民众对生活成本不满略缓](https://www.zaobao.com/news/world/story20260616-9216859)
+Token length: 439
+Summarized using deepseek-v4-flash
+Append: [欧洲议会批准欧美贸易协议 最早7月4日前生效](https://www.zaobao.com/news/world/story20260616-9216839)
+Token length: 95
+Summarized using deepseek-v4-flash
+Append: [特朗普：本周五前全面重开霍尔木兹海峡](https://www.zaobao.com/news/world/story20260616-9216745)
+Token length: 531
+Summarized using deepseek-v4-flash
+Append: [欧盟法院裁定 法国可强制外国色情网站验证年龄](https://www.zaobao.com/news/world/story20260616-9215655)
+Token length: 614
+Summarized using deepseek-v4-flash
+Append: [联合国：全球几乎全部儿童面临至少一项气候危机](https://www.zaobao.com/news/world/story20260616-9216474)
+Append: [日本关东茨城南部发生5.5级地震](https://www.zaobao.com/news/world/story20260616-9216605)
+Append: [分析：美伊60天谈判棘手课题变数多](https://www.zaobao.com/news/world/story20260616-9215077)
+Append: [美伊协议不利以色列 内坦亚胡坚称可自由对付真主党](https://www.zaobao.com/news/world/story20260616-9214735)
+Append: [美建国250周年前夕 近四成民众不信国家长久维持统一](https://www.zaobao.com/news/world/story20260616-9215966)
+Append: [美特勤局试用AI面部识别工具排查潜在威胁](https://www.zaobao.com/news/world/story20260616-9215734)
+Append: [美国担忧Anthropic模式被中俄等军情机构利用](https://www.zaobao.com/news/world/story20260616-9215532)
+Append: [特朗普：协议进入入第二阶段 美国没义务投资伊朗](https://www.zaobao.com/news/world/story20260616-9215737)
+Append: [涉嘉年华邮轮性侵杀害继姐 16岁佛州少年被收押候审](https://www.zaobao.com/news/world/story20260616-9215535)
+Append: [卡塔尔计划两月内恢复八成液化天然气产量](https://www.zaobao.com/news/world/story20260616-9214600)
+Append: [美通用汽车与洛克希德马丁商谈提振武器生产](https://www.zaobao.com/news/world/story20260616-9214985)
+append_entries: 15
+Finish: 2026-06-16 14:52:01.930472
