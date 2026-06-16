@@ -5005,3 +5005,26 @@ Append: [卡塔尔计划两月内恢复八成液化天然气产量](https://www.
 Append: [美通用汽车与洛克希德马丁商谈提振武器生产](https://www.zaobao.com/news/world/story20260616-9214985)
 append_entries: 15
 Finish: 2026-06-16 14:52:01.930472
+------------------------------------------------------
+Started: 2026-06-16 19:26:09.137755
+Existing_entries: 1015
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 216
+Summarized using deepseek-v4-flash
+Append: [消息：俄护卫舰英吉利海峡鸣枪示警](https://www.zaobao.com/news/world/story20260616-9217289)
+Token length: 719
+Summarized using deepseek-v4-flash
+Append: [美军拟在澳洲设战备物资库 学者：有助应对中国扩军](https://www.zaobao.com/news/world/story20260616-9217008)
+Token length: 1080
+Summarized using deepseek-v4-flash
+Append: [美伊协议附带3000亿美元重建基金](https://www.zaobao.com/news/world/story20260616-9216918)
+Token length: 490
+Summarized using deepseek-v4-flash
+Append: [北极竞争与贸易摩擦升温 冰岛8月公投重启入欧谈判](https://www.zaobao.com/news/world/story20260616-9216677)
+Token length: 1045
+Summarized using deepseek-v4-flash
+Append: [日本有意派兵赴霍尔木兹海峡参与扫雷](https://www.zaobao.com/news/world/story20260616-9216779)
+Append: [G7聚焦俄乌战争 特朗普：俄罗斯应达成协议](https://www.zaobao.com/news/world/story20260616-9216434)
+Append: [曾批伊核协议“最糟” 特朗普新协议遭奥巴马质疑](https://www.zaobao.com/news/world/story20260616-9216958)
+append_entries: 7
+Finish: 2026-06-16 19:26:38.099042
