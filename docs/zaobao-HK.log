@@ -5306,3 +5306,12 @@ Append: [中国AI晶片企业上海燧原科技过会 拟融资60亿人民币](h
 Append: [王毅：国际社会应进一步助力美伊谈判](https://www.zaobao.com/news/china/story20260616-9217066)
 append_entries: 6
 Finish: 2026-06-16 19:26:08.164297
+------------------------------------------------------
+Started: 2026-06-16 22:04:36.924682
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 237
+Summarized using deepseek-v4-flash
+Append: [杨丹旭：面向二十一大的人事考察启动在即](https://www.zaobao.com/news/china/story20260617-9217233)
+append_entries: 1
+Finish: 2026-06-16 22:04:41.649995
