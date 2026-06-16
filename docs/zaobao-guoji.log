@@ -4925,3 +4925,24 @@ Existing_entries: 1003
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-15 22:08:40.754060
+------------------------------------------------------
+Started: 2026-06-16 02:33:20.664533
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 432
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡：以色列维护自身行动自由以应对新威胁](https://www.zaobao.com/news/world/story20260616-9211786)
+Token length: 393
+Summarized using deepseek-v4-flash
+Append: [伊媒：数艘伊朗船只“穿越海上封锁线”](https://www.zaobao.com/news/world/story20260616-9211703)
+Token length: 303
+Summarized using deepseek-v4-flash
+Append: [美国B-52战略轰炸机加州坠毁 机上八人推定全遇难](https://www.zaobao.com/news/world/story20260616-9211670)
+Token length: 402
+Summarized using deepseek-v4-flash
+Append: [特朗普感谢中俄外交协助 促成美伊达成初步协议](https://www.zaobao.com/news/world/story20260616-9211649)
+Token length: 725
+Summarized using deepseek-v4-flash
+Append: [美伊已签谅解备忘录 但具体条款仍保密](https://www.zaobao.com/news/world/story20260616-9211552)
+append_entries: 5
+Finish: 2026-06-16 02:33:42.345184
