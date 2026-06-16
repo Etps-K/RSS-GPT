@@ -4946,3 +4946,31 @@ Summarized using deepseek-v4-flash
 Append: [美伊已签谅解备忘录 但具体条款仍保密](https://www.zaobao.com/news/world/story20260616-9211552)
 append_entries: 5
 Finish: 2026-06-16 02:33:42.345184
+------------------------------------------------------
+Started: 2026-06-16 09:14:19.650661
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 555
+Summarized using deepseek-v4-flash
+Append: [算命仍主宰韩国人婚嫁决定](https://www.zaobao.com/news/world/story20260616-9110138)
+Token length: 477
+Summarized using deepseek-v4-flash
+Append: [日本今年以来累计报告72起蜱虫病病例](https://www.zaobao.com/news/world/story20260616-9214330)
+Token length: 568
+Summarized using deepseek-v4-flash
+Append: [印度为防医考舞弊 暂时封锁Telegram七天](https://www.zaobao.com/news/world/story20260616-9214291)
+Token length: 389
+Summarized using deepseek-v4-flash
+Append: [加拿大获得首份“欧洲安全行动”合同](https://www.zaobao.com/news/world/story20260616-9213795)
+Token length: 1062
+Summarized using deepseek-v4-flash
+Append: [七国集团峰会在抗议声中开幕](https://www.zaobao.com/news/world/story20260616-9212632)
+Append: [美加州州长指特朗普出于政治动机对他和妻子展开调查](https://www.zaobao.com/news/world/story20260616-9213502)
+Append: [福克斯公司宣布以220亿美元收购流媒体企业](https://www.zaobao.com/news/world/story20260616-9213247)
+Append: [美战略石油储备创新低加剧市场担忧](https://www.zaobao.com/news/world/story20260616-9213088)
+Append: [欧盟启动乌克兰和摩尔多瓦首阶段入盟谈判](https://www.zaobao.com/news/world/story20260616-9212991)
+Append: [消息：美伊核协议或附带3000亿美元重建基金诱饵](https://www.zaobao.com/news/world/story20260616-9212360)
+Append: [叙利亚北部发生恐怖袭击 安全人员一死三伤](https://www.zaobao.com/news/world/story20260616-9212109)
+Append: [以色列对特朗普与伊朗达成的协议感到警惕](https://www.zaobao.com/news/world/story20260616-9211996)
+append_entries: 12
+Finish: 2026-06-16 09:14:46.737207

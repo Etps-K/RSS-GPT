@@ -4399,3 +4399,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：大疆发布 Osmo Pocket 4P 双主摄口袋电影机等](https://sspai.com/post/111080)
 append_entries: 1
 Finish: 2026-06-16 02:32:54.715152
+------------------------------------------------------
+Started: 2026-06-16 09:13:36.490822
+Existing_entries: 236
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [独家采访 Home Assistant 创始人：离全面本土化还有多远](https://sspai.com/post/110086)
+Token length: 20
+Summarized using deepseek-v4-flash
+Append: [今年 618，这些鼠标值得一看](https://sspai.com/post/111065)
+append_entries: 2
+Finish: 2026-06-16 09:13:51.826106
