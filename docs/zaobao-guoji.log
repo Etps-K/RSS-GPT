@@ -5055,3 +5055,25 @@ Summarized using deepseek-v4-flash
 Append: [美官员：和平协议签署后 德黑兰可立即出售石油](https://www.zaobao.com/news/world/story20260617-9217693)
 append_entries: 5
 Finish: 2026-06-17 02:31:02.663544
+------------------------------------------------------
+Started: 2026-06-17 08:52:32.580349
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 320
+Summarized using deepseek-v4-flash
+Append: [以媒：以色列在“最后一刻”取消大规模空袭伊朗计划](https://www.zaobao.com/news/world/story20260617-9219928)
+Token length: 836
+Summarized using deepseek-v4-flash
+Append: [AI将全球就业市场一分为二 善用人机协作企业领先](https://www.zaobao.com/news/world/story20260617-9215117)
+Token length: 460
+Summarized using deepseek-v4-flash
+Append: [韩总统李在明请求特朗普牵头 和平解决朝鲜问题](https://www.zaobao.com/news/world/story20260617-9219720)
+Token length: 374
+Summarized using deepseek-v4-flash
+Append: [韩国调整韩朝边境平民出入限制线](https://www.zaobao.com/news/world/story20260617-9219192)
+Token length: 357
+Summarized using deepseek-v4-flash
+Append: [美国特拉华州医院发生枪击事件 致一死一伤](https://www.zaobao.com/news/world/story20260617-9218397)
+Append: [希拉莉称拜登竞选连任是个“可怕的错误”](https://www.zaobao.com/news/world/story20260617-9218100)
+append_entries: 6
+Finish: 2026-06-17 08:52:57.959132

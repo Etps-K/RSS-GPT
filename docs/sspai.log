@@ -4444,3 +4444,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等](https://sspai.com/post/111124)
 append_entries: 1
 Finish: 2026-06-17 02:30:02.379084
+------------------------------------------------------
+Started: 2026-06-17 08:51:44.223474
+Existing_entries: 241
+Fetching from https://sspai.com/feed
+Token length: 26
+Summarized using deepseek-v4-flash
+Append: [具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览](https://sspai.com/post/110958)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [在香港骑共享单车：访客视角的经验分享](https://sspai.com/post/110750)
+append_entries: 2
+Finish: 2026-06-17 08:52:05.833683
