@@ -4456,3 +4456,15 @@ Summarized using deepseek-v4-flash
 Append: [在香港骑共享单车：访客视角的经验分享](https://sspai.com/post/110750)
 append_entries: 2
 Finish: 2026-06-17 08:52:05.833683
+------------------------------------------------------
+Started: 2026-06-17 13:35:04.134798
+Existing_entries: 243
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app](https://sspai.com/post/111181)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
+append_entries: 2
+Finish: 2026-06-17 13:35:19.864608

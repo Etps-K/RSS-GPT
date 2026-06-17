@@ -5077,3 +5077,35 @@ Append: [美国特拉华州医院发生枪击事件 致一死一伤](https://www
 Append: [希拉莉称拜登竞选连任是个“可怕的错误”](https://www.zaobao.com/news/world/story20260617-9218100)
 append_entries: 6
 Finish: 2026-06-17 08:52:57.959132
+------------------------------------------------------
+Started: 2026-06-17 13:35:40.149654
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 321
+Summarized using deepseek-v4-flash
+Append: [本轮以黎冲突已致247名儿童死亡 近千名儿童受伤](https://www.zaobao.com/news/world/story20260617-9222286)
+Token length: 370
+Summarized using deepseek-v4-flash
+Append: [全球至少58国受地雷污染 九成伤亡为平民](https://www.zaobao.com/news/world/story20260617-9222202)
+Token length: 207
+Summarized using deepseek-v4-flash
+Append: [特朗普：谅解备忘录非最终版本 若不满意就恢复轰炸](https://www.zaobao.com/news/world/story20260617-9222078)
+Token length: 379
+Summarized using deepseek-v4-flash
+Append: [匈牙利新政府调查扣押乌克兰现金黄金事件](https://www.zaobao.com/news/world/story20260617-9221903)
+Token length: 230
+Summarized using deepseek-v4-flash
+Append: [美国全球首个AI艺术博物馆即将揭幕 自然素材生成生态艺术](https://www.zaobao.com/news/world/story20260617-9220933)
+Append: [四周内若无法填补资金缺口 伊波拉疫情恐失控](https://www.zaobao.com/news/world/story20260617-9221203)
+Append: [多国资本拟参与3000亿美元私人投资基金 促成美伊最终协议](https://www.zaobao.com/news/world/story20260617-9220773)
+Append: [巴基斯坦协助30名伊朗公民回国](https://www.zaobao.com/news/world/story20260617-9221472)
+Append: [韩国拟北移边境“民统线” 放宽720平方公里军事管制](https://www.zaobao.com/news/world/story20260617-9221064)
+Append: [G7峰会与特朗普见面无熊抱 莫迪演说警告信任赤字加剧](https://www.zaobao.com/news/world/story20260617-9221239)
+Append: [日本拟派3万青年科研人才出国深造 积累AI等领域经验](https://www.zaobao.com/news/world/story20260617-9220884)
+Append: [韩首尔市长涉政治资金案 被求刑一年六个月](https://www.zaobao.com/news/world/story20260617-9220979)
+Append: [新研究：血液蛋白或能提早预示肺癌风险](https://www.zaobao.com/news/world/story20260617-9203906)
+Append: [英前卫生部长最快下周挑战斯塔默党魁地位](https://www.zaobao.com/news/world/story20260617-9220713)
+Append: [七国集团将加强金融调查 包括非法虚拟资产](https://www.zaobao.com/news/world/story20260617-9220529)
+Append: [法国迎来新一波高温天气 热浪席卷全国](https://www.zaobao.com/news/world/story20260617-9220462)
+append_entries: 16
+Finish: 2026-06-17 13:36:05.706479
