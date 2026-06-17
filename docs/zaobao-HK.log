@@ -5446,3 +5446,9 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：当3.2亿人灵活就业](https://www.zaobao.com/news/china/story20260618-9222930)
 append_entries: 1
 Finish: 2026-06-17 21:50:44.596250
+------------------------------------------------------
+Started: 2026-06-17 23:14:23.899805
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-17 23:14:24.041484
