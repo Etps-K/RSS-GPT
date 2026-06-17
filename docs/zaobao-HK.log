@@ -5437,3 +5437,12 @@ Existing_entries: 1006
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-17 19:55:18.922249
+------------------------------------------------------
+Started: 2026-06-17 21:50:41.015082
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 193
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：当3.2亿人灵活就业](https://www.zaobao.com/news/china/story20260618-9222930)
+append_entries: 1
+Finish: 2026-06-17 21:50:44.596250
