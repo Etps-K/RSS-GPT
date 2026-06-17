@@ -5315,3 +5315,26 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：面向二十一大的人事考察启动在即](https://www.zaobao.com/news/china/story20260617-9217233)
 append_entries: 1
 Finish: 2026-06-16 22:04:41.649995
+------------------------------------------------------
+Started: 2026-06-17 02:30:02.818310
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 650
+Summarized using deepseek-v4-flash
+Append: [台湾多名公众人物社交账号因“未满13岁”集体被封](https://www.zaobao.com/news/china/story20260617-9218136)
+Token length: 787
+Summarized using deepseek-v4-flash
+Append: [比亚迪加速巴西电池布局 拟投资1亿美元建设储能系统](https://www.zaobao.com/news/china/story20260617-9218105)
+Token length: 366
+Summarized using deepseek-v4-flash
+Append: [江苏副省长陈忠伟任中共江苏省委常委](https://www.zaobao.com/news/china/story20260617-9217994)
+Token length: 879
+Summarized using deepseek-v4-flash
+Append: [路透：美国暂缓将DeepSeek等百家中企列入黑名单](https://www.zaobao.com/news/china/story20260617-9217942)
+Token length: 342
+Summarized using deepseek-v4-flash
+Append: [英国再以涉俄为由制裁中企 中使馆提严正交涉](https://www.zaobao.com/news/china/story20260617-9217827)
+Append: [中国离岸人民币债券需求强劲 加剧香港流动性紧张](https://www.zaobao.com/news/china/story20260617-9217707)
+Append: [台湾指控肯尼亚配合北京拘留台学者20小时](https://www.zaobao.com/news/china/story20260617-9217683)
+append_entries: 7
+Finish: 2026-06-17 02:30:34.180529

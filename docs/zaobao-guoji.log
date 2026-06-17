@@ -5034,3 +5034,24 @@ Existing_entries: 1007
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-16 22:04:42.741656
+------------------------------------------------------
+Started: 2026-06-17 02:30:34.643491
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 427
+Summarized using deepseek-v4-flash
+Append: [真主党：若以色列不撤军 伊朗不会签和平协议](https://www.zaobao.com/news/world/story20260617-9217982)
+Token length: 485
+Summarized using deepseek-v4-flash
+Append: [特朗普批评以色列打击真主党 称正在杀害平民](https://www.zaobao.com/news/world/story20260617-9217913)
+Token length: 567
+Summarized using deepseek-v4-flash
+Append: [特朗普白宫宴会厅造价7.7亿元 一半来自纳税人](https://www.zaobao.com/news/world/story20260617-9217834)
+Token length: 642
+Summarized using deepseek-v4-flash
+Append: [俄罗斯异见艺术家在波兰遭枪杀 枪手疑白罗斯人](https://www.zaobao.com/news/world/story20260617-9217711)
+Token length: 496
+Summarized using deepseek-v4-flash
+Append: [美官员：和平协议签署后 德黑兰可立即出售石油](https://www.zaobao.com/news/world/story20260617-9217693)
+append_entries: 5
+Finish: 2026-06-17 02:31:02.663544
