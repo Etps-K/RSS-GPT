@@ -5152,3 +5152,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-17 23:14:25.099938
+------------------------------------------------------
+Started: 2026-06-18 02:16:09.986976
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 234
+Summarized using deepseek-v4-flash
+Append: [乌克兰首都基辅遭导弹袭击 多次传出爆炸声](https://www.zaobao.com/news/world/story20260618-9223905)
+Token length: 394
+Summarized using deepseek-v4-flash
+Append: [美官员：美国与伊朗已远程签署谅解备忘录](https://www.zaobao.com/news/world/story20260618-9223811)
+Token length: 190
+Summarized using deepseek-v4-flash
+Append: [特朗普：若他国都有弹道导弹 伊朗没有并不公平](https://www.zaobao.com/news/world/story20260618-9223767)
+Token length: 693
+Summarized using deepseek-v4-flash
+Append: [美联储维持利率不变 新主席沃什淡化前瞻指引重要性](https://www.zaobao.com/news/world/story20260618-9223703)
+append_entries: 4
+Finish: 2026-06-18 02:16:39.865645

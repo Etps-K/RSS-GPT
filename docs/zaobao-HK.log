@@ -5452,3 +5452,24 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-17 23:14:24.041484
+------------------------------------------------------
+Started: 2026-06-18 02:15:40.818213
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [国台办欢迎台民众赴陆看世界杯 台陆委会批闲事管太多](https://www.zaobao.com/news/china/story20260618-9224016)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [微软向字节腾讯等出售AI模型 赚取丰厚利润](https://www.zaobao.com/news/china/story20260618-9223985)
+Token length: 626
+Summarized using deepseek-v4-flash
+Append: [大陆车企亮相香港车展 挑战右舵市场日企主导地位](https://www.zaobao.com/news/china/story20260618-9223920)
+Token length: 616
+Summarized using deepseek-v4-flash
+Append: [中国官方拟出新政规范外卖平台补贴](https://www.zaobao.com/news/china/story20260618-9223836)
+Token length: 642
+Summarized using deepseek-v4-flash
+Append: [中国称支持缅甸全面参与亚细安及联合国事务](https://www.zaobao.com/news/china/story20260618-9223801)
+append_entries: 5
+Finish: 2026-06-18 02:16:09.154533
