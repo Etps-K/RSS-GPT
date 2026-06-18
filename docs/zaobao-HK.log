@@ -5560,3 +5560,15 @@ Existing_entries: 1003
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-18 20:05:52.895184
+------------------------------------------------------
+Started: 2026-06-18 23:27:14.342661
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1031
+Summarized using deepseek-v4-flash
+Append: [为中国从事间谍活动 英国两男子最高获刑10年](https://www.zaobao.com/news/china/story20260619-9229924)
+Token length: 437
+Summarized using deepseek-v4-flash
+Append: [韩咏红：美欧在G7峰会上“重新为友”貌合神不合](https://www.zaobao.com/news/china/story20260619-9229428)
+append_entries: 2
+Finish: 2026-06-18 23:27:22.682439
