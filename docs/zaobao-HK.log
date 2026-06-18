@@ -5554,3 +5554,9 @@ Summarized using deepseek-v4-flash
 Append: [夏宝龙访港高度评价李家超 学者：最早年底才知会否连任特首](https://www.zaobao.com/news/china/story20260618-9228449)
 append_entries: 3
 Finish: 2026-06-18 16:49:40.241399
+------------------------------------------------------
+Started: 2026-06-18 20:05:52.648080
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-18 20:05:52.895184
