@@ -5170,3 +5170,28 @@ Summarized using deepseek-v4-flash
 Append: [美联储维持利率不变 新主席沃什淡化前瞻指引重要性](https://www.zaobao.com/news/world/story20260618-9223703)
 append_entries: 4
 Finish: 2026-06-18 02:16:39.865645
+------------------------------------------------------
+Started: 2026-06-18 08:29:07.891217
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [美国批准向奥地利出售12架黑鹰直升机](https://www.zaobao.com/news/world/story20260618-9225444)
+Token length: 266
+Summarized using deepseek-v4-flash
+Append: [以媒：美国施压 以色列将与叙利亚恢复谈判](https://www.zaobao.com/news/world/story20260618-9225305)
+Token length: 405
+Summarized using deepseek-v4-flash
+Append: [莫迪会见特朗普 称美印贸易谈判取得进展](https://www.zaobao.com/news/world/story20260618-9225145)
+Token length: 475
+Summarized using deepseek-v4-flash
+Append: [战争消耗国内供应 美国最大商业储油中心库存创新低](https://www.zaobao.com/news/world/story20260618-9224842)
+Token length: 446
+Summarized using deepseek-v4-flash
+Append: [古巴批准经济改革 促进私营部门发展与投资](https://www.zaobao.com/news/world/story20260618-9224723)
+Append: [美国洛杉矶仓储设施发生大火 当局发布就地避难令](https://www.zaobao.com/news/world/story20260618-9224566)
+Append: [美伊14点协议细节趋于明晰 美官员概述备忘录大纲](https://www.zaobao.com/news/world/story20260618-9224190)
+Append: [巴基斯坦：伊朗将立即重开霍尔木兹海峡 美国立即解除封锁](https://www.zaobao.com/news/world/story20260618-9224065)
+Append: [伊朗证实 伊美总统已签署备忘录](https://www.zaobao.com/news/world/story20260618-9224049)
+append_entries: 9
+Finish: 2026-06-18 08:29:38.576682
