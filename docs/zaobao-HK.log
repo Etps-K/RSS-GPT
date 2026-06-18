@@ -5539,3 +5539,18 @@ Append: [山西82死矿难后 沁源县迎新书记代县长](https://www.zaobao
 Append: [5月访日中国游客同比锐减六成 连续六个月下滑](https://www.zaobao.com/news/china/story20260618-9226806)
 append_entries: 12
 Finish: 2026-06-18 12:44:43.211396
+------------------------------------------------------
+Started: 2026-06-18 16:49:24.079228
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 669
+Summarized using deepseek-v4-flash
+Append: [赖清德重申两岸互不隶属 郑丽文：台湾要因应全新形态的美陆关系](https://www.zaobao.com/news/china/story20260618-9228607)
+Token length: 1550
+Summarized using deepseek-v4-flash
+Append: [中共印发通知 要求把学习贯彻习近平党建思想作为重要政治任务](https://www.zaobao.com/news/china/story20260618-9228938)
+Token length: 1086
+Summarized using deepseek-v4-flash
+Append: [夏宝龙访港高度评价李家超 学者：最早年底才知会否连任特首](https://www.zaobao.com/news/china/story20260618-9228449)
+append_entries: 3
+Finish: 2026-06-18 16:49:40.241399
