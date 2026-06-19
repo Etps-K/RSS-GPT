@@ -5654,3 +5654,18 @@ Append: [日媒：中旅集团相关公司恢复赴日团队游](https://www.zao
 Append: [德媒：欧盟拟对中国混动汽车征收反补贴税](https://www.zaobao.com/news/china/story20260619-9232935)
 append_entries: 12
 Finish: 2026-06-19 13:26:09.743084
+------------------------------------------------------
+Started: 2026-06-19 16:26:18.832014
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1659
+Summarized using deepseek-v4-flash
+Append: [中国借外交文件强化“反军国主义”叙事 学者：对日施压关键在台湾问题](https://www.zaobao.com/news/china/story20260619-9235207)
+Token length: 556
+Summarized using deepseek-v4-flash
+Append: [香港海关侦破两起行李藏毒案 检获1600万港元毒品](https://www.zaobao.com/news/china/story20260619-9235200)
+Token length: 1054
+Summarized using deepseek-v4-flash
+Append: [大陆海警船端午节驶入东沙岛限制水域 与台海巡船舰对峙](https://www.zaobao.com/news/china/story20260619-9235078)
+append_entries: 3
+Finish: 2026-06-19 16:26:33.195045

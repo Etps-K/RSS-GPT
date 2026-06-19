@@ -5337,3 +5337,21 @@ Append: [翻新不到两周 美国林肯纪念堂倒影池开始脱漆](https://
 Append: [唯一无H5禽流感病例大陆 澳洲发现首个疑似病例](https://www.zaobao.com/news/world/story20260619-9233300)
 append_entries: 6
 Finish: 2026-06-19 13:26:33.839688
+------------------------------------------------------
+Started: 2026-06-19 16:26:34.061366
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1034
+Summarized using deepseek-v4-flash
+Append: [发放购房津贴送大米 日本北海道成移居首选地](https://www.zaobao.com/news/world/story20260619-9234882)
+Token length: 375
+Summarized using deepseek-v4-flash
+Append: [英媒：多名英国部长将敦促斯塔默制定离任时间表](https://www.zaobao.com/news/world/story20260619-9235138)
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [美国官员：以色列与黎巴嫩真主党已同意停火](https://www.zaobao.com/news/world/story20260619-9235072)
+Token length: 600
+Summarized using deepseek-v4-flash
+Append: [特朗普称梅洛尼求合照 意大利外长取消访美](https://www.zaobao.com/news/world/story20260619-9234803)
+append_entries: 4
+Finish: 2026-06-19 16:26:54.671774
