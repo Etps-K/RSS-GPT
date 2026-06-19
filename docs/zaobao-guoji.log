@@ -5355,3 +5355,18 @@ Summarized using deepseek-v4-flash
 Append: [特朗普称梅洛尼求合照 意大利外长取消访美](https://www.zaobao.com/news/world/story20260619-9234803)
 append_entries: 4
 Finish: 2026-06-19 16:26:54.671774
+------------------------------------------------------
+Started: 2026-06-19 19:21:51.169156
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 673
+Summarized using deepseek-v4-flash
+Append: [伊朗战争调解人定6月21日在埃及举行会谈](https://www.zaobao.com/news/world/story20260619-9235270)
+Token length: 149
+Summarized using deepseek-v4-flash
+Append: [伊朗：不急于在瑞士会见美国特使 或数日内会晤](https://www.zaobao.com/news/world/story20260619-9235221)
+Token length: 1300
+Summarized using deepseek-v4-flash
+Append: [美伊在瑞士直接会谈临时取消后 以色列真主党同意停火](https://www.zaobao.com/news/world/story20260619-9234786)
+append_entries: 3
+Finish: 2026-06-19 19:22:02.347942

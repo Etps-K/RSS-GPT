@@ -5669,3 +5669,9 @@ Summarized using deepseek-v4-flash
 Append: [大陆海警船端午节驶入东沙岛限制水域 与台海巡船舰对峙](https://www.zaobao.com/news/china/story20260619-9235078)
 append_entries: 3
 Finish: 2026-06-19 16:26:33.195045
+------------------------------------------------------
+Started: 2026-06-19 19:21:50.087759
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-19 19:21:50.320570
