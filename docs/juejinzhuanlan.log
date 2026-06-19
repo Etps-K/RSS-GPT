@@ -1454,3 +1454,11 @@ Fetch error: 403
 Fetch failed from https://rsshub.app/juejin/posts/1838039172387262
 append_entries: 0
 error when rendering xml, skip docs/juejinzhuanlan
+------------------------------------------------------
+Started: 2026-06-19 13:26:33.975601
+Existing_entries: 0
+Fetching from https://rsshub.app/juejin/posts/1838039172387262
+Fetch error: 403
+Fetch failed from https://rsshub.app/juejin/posts/1838039172387262
+append_entries: 0
+error when rendering xml, skip docs/juejinzhuanlan
