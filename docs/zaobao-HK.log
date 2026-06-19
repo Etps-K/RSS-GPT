@@ -5572,3 +5572,24 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：美欧在G7峰会上“重新为友”貌合神不合](https://www.zaobao.com/news/china/story20260619-9229428)
 append_entries: 2
 Finish: 2026-06-18 23:27:22.682439
+------------------------------------------------------
+Started: 2026-06-19 02:44:37.364890
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 768
+Summarized using deepseek-v4-flash
+Append: [刚登上NHK“润日”纪录片 日华裔移民中介涉违法被捕](https://www.zaobao.com/news/china/story20260619-9230395)
+Token length: 1115
+Summarized using deepseek-v4-flash
+Append: [韩媒：韩国就“中方默许朝鲜拥核”论调向中国表示关切](https://www.zaobao.com/news/china/story20260619-9230279)
+Token length: 851
+Summarized using deepseek-v4-flash
+Append: [扣押百余瓶茅台后被指缺失 四川警方：仍处扣押时包装状态](https://www.zaobao.com/news/china/story20260619-9230264)
+Token length: 813
+Summarized using deepseek-v4-flash
+Append: [习近平再赠外国元首中国手机 送敏昂莱华为最新款折叠机](https://www.zaobao.com/news/china/story20260619-9230142)
+Token length: 695
+Summarized using deepseek-v4-flash
+Append: [美两党参议员敦促贝森特联手G7施压人民币升值](https://www.zaobao.com/news/china/story20260619-9229955)
+append_entries: 5
+Finish: 2026-06-19 02:45:04.496811

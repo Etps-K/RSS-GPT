@@ -5266,3 +5266,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-18 23:27:23.646124
+------------------------------------------------------
+Started: 2026-06-19 02:45:05.338847
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 741
+Summarized using deepseek-v4-flash
+Append: [以总理办公室：内坦亚胡强调与美保持紧密关系重要性](https://www.zaobao.com/news/world/story20260619-9230148)
+Token length: 344
+Summarized using deepseek-v4-flash
+Append: [伊朗：霍尔木兹海峡60天内免费通行](https://www.zaobao.com/news/world/story20260619-9230056)
+Token length: 496
+Summarized using deepseek-v4-flash
+Append: [万斯警告批评美伊谅解备忘录的以色列人士](https://www.zaobao.com/news/world/story20260619-9230018)
+Token length: 252
+Summarized using deepseek-v4-flash
+Append: [特朗普：美国期待中东“所有战线全面停火”](https://www.zaobao.com/news/world/story20260619-9229952)
+Token length: 375
+Summarized using deepseek-v4-flash
+Append: [黎巴嫩媒体：伊朗代表团暂停前往日内瓦与美谈判行程](https://www.zaobao.com/news/world/story20260619-9229896)
+Append: [伊朗最高领袖称持不同意见 但批准伊美谅解备忘录](https://www.zaobao.com/news/world/story20260619-9229863)
+append_entries: 6
+Finish: 2026-06-19 02:45:28.536562
