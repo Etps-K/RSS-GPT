@@ -5772,3 +5772,9 @@ Summarized using deepseek-v4-flash
 Append: [中国5月成品油出口环比回升 同比锐减近七成](https://www.zaobao.com/news/china/story20260620-9238082)
 append_entries: 1
 Finish: 2026-06-20 13:21:34.528747
+------------------------------------------------------
+Started: 2026-06-20 15:27:16.526284
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-20 15:27:16.692356

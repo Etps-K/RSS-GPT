@@ -5464,3 +5464,24 @@ Summarized using deepseek-v4-flash
 Append: [玻利维亚总统宣布国家进入紧急状态 以解除道路封锁](https://www.zaobao.com/news/world/story20260620-9237749)
 append_entries: 4
 Finish: 2026-06-20 13:21:50.556820
+------------------------------------------------------
+Started: 2026-06-20 15:27:17.668192
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 860
+Summarized using deepseek-v4-flash
+Append: [日美启动“坚毅之龙”军演 聚焦西南岛屿防御](https://www.zaobao.com/news/world/story20260620-9238213)
+Token length: 322
+Summarized using deepseek-v4-flash
+Append: [伊朗：因以色列袭击黎巴嫩 霍尔木兹海峡封闭](https://www.zaobao.com/news/world/story20260620-9238335)
+Token length: 323
+Summarized using deepseek-v4-flash
+Append: [西班牙法院谕令首相夫人须接受腐败指控审判](https://www.zaobao.com/news/world/story20260620-9238279)
+Token length: 263
+Summarized using deepseek-v4-flash
+Append: [慕尼黑列车相撞 车厢坠落路上致一死](https://www.zaobao.com/news/world/story20260620-9238203)
+Token length: 483
+Summarized using deepseek-v4-flash
+Append: [特朗普为新专机揭幕 称“飞行白宫”飞更快更远](https://www.zaobao.com/news/world/story20260620-9238110)
+append_entries: 5
+Finish: 2026-06-20 15:27:41.005013
