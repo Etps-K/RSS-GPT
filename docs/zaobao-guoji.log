@@ -5518,3 +5518,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-20 21:01:13.961198
+------------------------------------------------------
+Started: 2026-06-20 22:56:05.839994
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 299
+Summarized using deepseek-v4-flash
+Append: [国际特稿：自嘲“小强”掀抗议巨浪 印度青年敲响体制警钟](https://www.zaobao.com/news/world/story20260621-9220822)
+append_entries: 1
+Finish: 2026-06-20 22:56:09.807400

@@ -5799,3 +5799,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-20 21:01:13.022973
+------------------------------------------------------
+Started: 2026-06-20 22:56:00.744747
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 222
+Summarized using deepseek-v4-flash
+Append: [中国特稿：软实力入岛入户入心 中国大陆变酷搅动台湾？](https://www.zaobao.com/news/china/story20260621-9194403)
+append_entries: 1
+Finish: 2026-06-20 22:56:05.044507
