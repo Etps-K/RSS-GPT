@@ -5693,3 +5693,21 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：澳门首位“女财爷”吴惠娴工作挑战大](https://www.zaobao.com/news/china/story20260620-9234745)
 append_entries: 2
 Finish: 2026-06-19 22:42:09.752916
+------------------------------------------------------
+Started: 2026-06-20 02:04:19.236513
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 502
+Summarized using deepseek-v4-flash
+Append: [中国男艺人黄子韬为违规停车致歉 否认非法改装车辆](https://www.zaobao.com/news/china/story20260620-9235906)
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [郑州一汽车用品商场失火致二死](https://www.zaobao.com/news/china/story20260620-9235848)
+Token length: 363
+Summarized using deepseek-v4-flash
+Append: [特朗普称今年将再赴中国](https://www.zaobao.com/news/china/story20260620-9235795)
+Token length: 747
+Summarized using deepseek-v4-flash
+Append: [暴雨来袭 湖南广东等多地龙舟赛取消或延期](https://www.zaobao.com/news/china/story20260620-9235758)
+append_entries: 4
+Finish: 2026-06-20 02:04:42.671262

@@ -5382,3 +5382,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-19 22:42:10.669917
+------------------------------------------------------
+Started: 2026-06-20 02:04:43.635439
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 590
+Summarized using deepseek-v4-flash
+Append: [欧盟拟立法推动供应链多元化 降低对华依赖](https://www.zaobao.com/news/world/story20260620-9235804)
+Token length: 280
+Summarized using deepseek-v4-flash
+Append: [英国两列火车相撞 导致一死数十人伤](https://www.zaobao.com/news/world/story20260620-9235752)
+Token length: 180
+Summarized using deepseek-v4-flash
+Append: [美媒：特朗普特使正前往瑞士与伊朗谈判](https://www.zaobao.com/news/world/story20260620-9235723)
+Token length: 532
+Summarized using deepseek-v4-flash
+Append: [美国情报：以色列不会停止打击黎巴嫩真主党](https://www.zaobao.com/news/world/story20260620-9235686)
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [伊朗本周已运出2000万桶石油](https://www.zaobao.com/news/world/story20260620-9235313)
+append_entries: 5
+Finish: 2026-06-20 02:05:22.088727
