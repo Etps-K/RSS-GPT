@@ -5778,3 +5778,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-20 15:27:16.692356
+------------------------------------------------------
+Started: 2026-06-20 17:12:40.694347
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1471
+Summarized using deepseek-v4-flash
+Append: [负面事件缠身形象受创 武汉大学纪委书记由中纪委干将空降引议论](https://www.zaobao.com/news/china/story20260620-9238318)
+append_entries: 1
+Finish: 2026-06-20 17:12:46.720514

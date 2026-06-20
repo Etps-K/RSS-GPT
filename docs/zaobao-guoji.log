@@ -5485,3 +5485,24 @@ Summarized using deepseek-v4-flash
 Append: [特朗普为新专机揭幕 称“飞行白宫”飞更快更远](https://www.zaobao.com/news/world/story20260620-9238110)
 append_entries: 5
 Finish: 2026-06-20 15:27:41.005013
+------------------------------------------------------
+Started: 2026-06-20 17:12:47.689900
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 744
+Summarized using deepseek-v4-flash
+Append: [乌克兰总统：因二战争议 已归还波兰最高荣誉勋章](https://www.zaobao.com/news/world/story20260621-9238559)
+Token length: 910
+Summarized using deepseek-v4-flash
+Append: [伊朗拟在霍尔木兹海峡征“保险费”引航运业忧虑](https://www.zaobao.com/news/world/story20260621-9238321)
+Token length: 282
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦：美伊后续会谈定于6月21日举行](https://www.zaobao.com/news/world/story20260620-9238504)
+Token length: 1173
+Summarized using deepseek-v4-flash
+Append: [美伊高官相继到瑞士 以黎停火后又互攻](https://www.zaobao.com/news/world/story20260620-9238250)
+Token length: 378
+Summarized using deepseek-v4-flash
+Append: [伊朗代表团将前往瑞士谈判](https://www.zaobao.com/news/world/story20260620-9238429)
+append_entries: 5
+Finish: 2026-06-20 17:13:14.580796
