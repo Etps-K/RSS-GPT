@@ -5446,3 +5446,21 @@ Summarized using deepseek-v4-flash
 Append: [波兰撤销授予泽连斯基最高荣誉](https://www.zaobao.com/news/world/story20260620-9237140)
 append_entries: 4
 Finish: 2026-06-20 10:24:40.224762
+------------------------------------------------------
+Started: 2026-06-20 13:21:35.480940
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 736
+Summarized using deepseek-v4-flash
+Append: [特朗普冒犯意日领导人 梅洛尼讥“欺友畏敌”](https://www.zaobao.com/news/world/story20260620-9237848)
+Token length: 414
+Summarized using deepseek-v4-flash
+Append: [就任后首次出访 孟加拉总理将访马中](https://www.zaobao.com/news/world/story20260620-9237937)
+Token length: 937
+Summarized using deepseek-v4-flash
+Append: [美国卡塔尔共商解冻伊朗资金 革命卫队或成停火最大赢家](https://www.zaobao.com/news/world/story20260620-9237715)
+Token length: 713
+Summarized using deepseek-v4-flash
+Append: [玻利维亚总统宣布国家进入紧急状态 以解除道路封锁](https://www.zaobao.com/news/world/story20260620-9237749)
+append_entries: 4
+Finish: 2026-06-20 13:21:50.556820
