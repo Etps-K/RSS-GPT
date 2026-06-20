@@ -5403,3 +5403,28 @@ Summarized using deepseek-v4-flash
 Append: [伊朗本周已运出2000万桶石油](https://www.zaobao.com/news/world/story20260620-9235313)
 append_entries: 5
 Finish: 2026-06-20 02:05:22.088727
+------------------------------------------------------
+Started: 2026-06-20 07:40:41.794161
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 61
+Summarized using deepseek-v4-flash
+Append: [以色列空袭黎南部 致五人死亡](https://www.zaobao.com/news/world/story20260620-9236791)
+Token length: 371
+Summarized using deepseek-v4-flash
+Append: [多米尼加度假酒店大火致一死 1700人疏散](https://www.zaobao.com/news/world/story20260620-9236632)
+Token length: 294
+Summarized using deepseek-v4-flash
+Append: [联合国：加沙停火后逾九成遇难儿童死于以军行动](https://www.zaobao.com/news/world/story20260620-9236680)
+Token length: 216
+Summarized using deepseek-v4-flash
+Append: [涉嫌禁锢5岁女童在垃圾桶 日本男子被捕](https://www.zaobao.com/news/world/story20260620-9236475)
+Token length: 311
+Summarized using deepseek-v4-flash
+Append: [伊朗外长：美国应为违反谅解备忘录行为负责](https://www.zaobao.com/news/world/story20260620-9236418)
+Append: [澳洲大陆出现第一起H5N1禽流感确诊病例](https://www.zaobao.com/news/world/story20260620-9236318)
+Append: [英国交通部长也促首相斯塔默离任](https://www.zaobao.com/news/world/story20260620-9236135)
+Append: [无人机袭击黑海巴拿马货船导致一死二伤](https://www.zaobao.com/news/world/story20260620-9236010)
+Append: [以军称将继续回应黎真主党“违反停火协议行为”](https://www.zaobao.com/news/world/story20260620-9235956)
+append_entries: 9
+Finish: 2026-06-20 07:40:59.824598

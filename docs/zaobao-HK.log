@@ -5711,3 +5711,29 @@ Summarized using deepseek-v4-flash
 Append: [暴雨来袭 湖南广东等多地龙舟赛取消或延期](https://www.zaobao.com/news/china/story20260620-9235758)
 append_entries: 4
 Finish: 2026-06-20 02:04:42.671262
+------------------------------------------------------
+Started: 2026-06-20 07:40:18.393059
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 647
+Summarized using deepseek-v4-flash
+Append: [蔡英文：建设冷链物流体系 让台湾水果走向世界](https://www.zaobao.com/news/china/story20260620-9237051)
+Token length: 575
+Summarized using deepseek-v4-flash
+Append: [港官员盼市民从宏观角度出发 为五年规划提出战略性意见](https://www.zaobao.com/news/china/story20260620-9236919)
+Token length: 1154
+Summarized using deepseek-v4-flash
+Append: [大陆官媒：以后我们的视野里会越来越少出现“台湾海峡”](https://www.zaobao.com/news/china/story20260620-9236809)
+Token length: 667
+Summarized using deepseek-v4-flash
+Append: [中国肥胖形势不容乐观 成年人超重率逾三成](https://www.zaobao.com/news/china/story20260620-9236646)
+Token length: 386
+Summarized using deepseek-v4-flash
+Append: [西安汽车行驶中两女孩从车顶探出身体 车主称准备接受处置](https://www.zaobao.com/news/china/story20260620-9236452)
+Append: [巴西财长下周访华宣布设税务顾问办公室](https://www.zaobao.com/news/china/story20260620-9236561)
+Append: [多款婴儿纸尿裤涉毒事件 中国造纸学会：检测依据有瑕疵](https://www.zaobao.com/news/china/story20260620-9236476)
+Append: [港媒：特朗普近期无意就对台军售与赖清德通话](https://www.zaobao.com/news/china/story20260620-9236314)
+Append: [立陶宛允许中国在维尔纽斯设临时代办处](https://www.zaobao.com/news/china/story20260620-9236253)
+Append: [台美官员会晤 擘划台美巴三方合作愿景](https://www.zaobao.com/news/china/story20260620-9235964)
+append_entries: 10
+Finish: 2026-06-20 07:40:40.958022
