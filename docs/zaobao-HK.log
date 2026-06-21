@@ -5891,3 +5891,9 @@ Summarized using deepseek-v4-flash
 Append: [中国留学归国人数创新高 国内求职海归祛魅光环不再？](https://www.zaobao.com/news/china/story20260621-9092706)
 append_entries: 1
 Finish: 2026-06-21 15:43:23.542098
+------------------------------------------------------
+Started: 2026-06-21 17:15:16.635994
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-21 17:15:16.826886

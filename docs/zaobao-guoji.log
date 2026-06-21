@@ -5609,3 +5609,26 @@ Summarized using deepseek-v4-flash
 Append: [伊方消息：以色列若不停火 海峡不会重开](https://www.zaobao.com/news/world/story20260621-9241246)
 append_entries: 2
 Finish: 2026-06-21 15:43:32.927454
+------------------------------------------------------
+Started: 2026-06-21 17:15:17.658975
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1464
+Summarized using deepseek-v4-flash
+Append: [黎巴嫩成首要议题 万斯称美伊谈判取得进展](https://www.zaobao.com/news/world/story20260621-9241510)
+Token length: 747
+Summarized using deepseek-v4-flash
+Append: [同桌共餐却“各看各屏” 研究显示父母滑手机多过孩子](https://www.zaobao.com/news/world/story20260621-9240541)
+Token length: 407
+Summarized using deepseek-v4-flash
+Append: [美伊瑞士会谈设禁飞区 空管故障致苏黎世多航班延误](https://www.zaobao.com/news/world/story20260621-9241564)
+Token length: 129
+Summarized using deepseek-v4-flash
+Append: [特朗普：斯塔默将辞去英国首相职务](https://www.zaobao.com/news/world/story20260621-9241552)
+Token length: 640
+Summarized using deepseek-v4-flash
+Append: [万斯称美伊关系或迎根本改变](https://www.zaobao.com/news/world/story20260621-9241498)
+Append: [日媒：高市首亮相七国集团 建议纳入联合声明凸显日本存在感](https://www.zaobao.com/news/world/story20260621-9241314)
+Append: [塔利班限制下 阿富汗女性靠创业撑起生计](https://www.zaobao.com/news/world/story20260621-9240678)
+append_entries: 7
+Finish: 2026-06-21 17:15:45.503835
