@@ -4645,3 +4645,12 @@ Existing_entries: 250
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-06-21 02:27:38.608219
+------------------------------------------------------
+Started: 2026-06-21 08:19:32.082430
+Existing_entries: 250
+Fetching from https://sspai.com/feed
+Token length: 16
+Summarized using deepseek-v4-flash
+Append: [AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发](https://sspai.com/post/110972)
+append_entries: 1
+Finish: 2026-06-21 08:19:37.287040
