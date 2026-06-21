@@ -5912,3 +5912,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-21 21:01:51.175102
+------------------------------------------------------
+Started: 2026-06-21 22:57:41.903444
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 322
+Summarized using deepseek-v4-flash
+Append: [戴庆成：香港旅游业转型仍需努力](https://www.zaobao.com/news/china/story20260622-9241395)
+append_entries: 1
+Finish: 2026-06-21 22:57:47.083004

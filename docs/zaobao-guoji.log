@@ -5647,3 +5647,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-21 21:01:52.297515
+------------------------------------------------------
+Started: 2026-06-21 22:57:47.927157
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 193
+Summarized using deepseek-v4-flash
+Append: [姜贵瑛：《铁拳教育》热播 韩国教育现场究竟失去了什么](https://www.zaobao.com/news/world/story20260622-9234629)
+append_entries: 1
+Finish: 2026-06-21 22:57:51.907237
