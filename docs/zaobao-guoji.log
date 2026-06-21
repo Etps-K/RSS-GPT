@@ -5527,3 +5527,25 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：自嘲“小强”掀抗议巨浪 印度青年敲响体制警钟](https://www.zaobao.com/news/world/story20260621-9220822)
 append_entries: 1
 Finish: 2026-06-20 22:56:09.807400
+------------------------------------------------------
+Started: 2026-06-21 02:28:04.460985
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 218
+Summarized using deepseek-v4-flash
+Append: [美国中央司令部：伊朗未控制和关闭霍尔木兹海峡](https://www.zaobao.com/news/world/story20260621-9239080)
+Token length: 199
+Summarized using deepseek-v4-flash
+Append: [特朗普警告：若谈判无果 美国将对霍尔木兹海峡征通行费](https://www.zaobao.com/news/world/story20260621-9239057)
+Token length: 758
+Summarized using deepseek-v4-flash
+Append: [英媒称首相斯塔默将辞职 但消息人士称他仍继续执政](https://www.zaobao.com/news/world/story20260621-9239055)
+Token length: 275
+Summarized using deepseek-v4-flash
+Append: [黎巴嫩：以色列新一轮空袭造成七人死亡](https://www.zaobao.com/news/world/story20260621-9239038)
+Token length: 704
+Summarized using deepseek-v4-flash
+Append: [以色列空袭加沙至少九人死亡 包括一名半岛电视台记者](https://www.zaobao.com/news/world/story20260621-9239022)
+Append: [伊朗代表团抵达瑞士 美国副总统万斯启程参加会谈](https://www.zaobao.com/news/world/story20260621-9239000)
+append_entries: 6
+Finish: 2026-06-21 02:28:36.177970

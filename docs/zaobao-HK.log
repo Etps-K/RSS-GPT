@@ -5808,3 +5808,24 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：软实力入岛入户入心 中国大陆变酷搅动台湾？](https://www.zaobao.com/news/china/story20260621-9194403)
 append_entries: 1
 Finish: 2026-06-20 22:56:05.044507
+------------------------------------------------------
+Started: 2026-06-21 02:27:39.523058
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 486
+Summarized using deepseek-v4-flash
+Append: [马宁首次主哨世界杯比赛](https://www.zaobao.com/news/china/story20260621-9239276)
+Token length: 935
+Summarized using deepseek-v4-flash
+Append: [乌克兰无人机业者据报寻求与台日菲防务合作](https://www.zaobao.com/news/china/story20260621-9239222)
+Token length: 877
+Summarized using deepseek-v4-flash
+Append: [台外长：美邀韩国瑜访美 为消除郑丽文留下亲中印象](https://www.zaobao.com/news/china/story20260621-9239161)
+Token length: 830
+Summarized using deepseek-v4-flash
+Append: [中国官媒首次公布东风17导弹试射画面](https://www.zaobao.com/news/china/story20260621-9239116)
+Token length: 492
+Summarized using deepseek-v4-flash
+Append: [中国代表：应尊重各国自主选择的人权发展道路](https://www.zaobao.com/news/china/story20260621-9239028)
+append_entries: 5
+Finish: 2026-06-21 02:28:03.499255
