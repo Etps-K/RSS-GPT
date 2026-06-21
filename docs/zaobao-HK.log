@@ -5906,3 +5906,9 @@ Summarized using deepseek-v4-flash
 Append: [大陆官媒称台东部海域纳入“近海治理” 分析：借模糊表述推进治理与管辖权](https://www.zaobao.com/news/china/story20260622-9241522)
 append_entries: 1
 Finish: 2026-06-21 19:10:22.779088
+------------------------------------------------------
+Started: 2026-06-21 21:01:51.048148
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-21 21:01:51.175102
