@@ -6026,3 +6026,9 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：当法式鹅肝成为中国特产](https://www.zaobao.com/news/china/story20260623-9247297)
 append_entries: 1
 Finish: 2026-06-22 21:53:51.760824
+------------------------------------------------------
+Started: 2026-06-22 23:10:14.473359
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-22 23:10:14.596208
