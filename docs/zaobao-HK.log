@@ -5921,3 +5921,29 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：香港旅游业转型仍需努力](https://www.zaobao.com/news/china/story20260622-9241395)
 append_entries: 1
 Finish: 2026-06-21 22:57:47.083004
+------------------------------------------------------
+Started: 2026-06-22 02:31:42.363533
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 657
+Summarized using deepseek-v4-flash
+Append: [广东女童在幼儿园被暴力喂食受伤 涉事教师被拘留](https://www.zaobao.com/news/china/story20260622-9242678)
+Token length: 223
+Summarized using deepseek-v4-flash
+Append: [广州海关查获4800个重1.6吨夹藏出口粽子](https://www.zaobao.com/news/china/story20260622-9242609)
+Token length: 176
+Summarized using deepseek-v4-flash
+Append: [中国财政部：禁止政府采购46家美企产品](https://www.zaobao.com/news/china/story20260622-9242453)
+Token length: 419
+Summarized using deepseek-v4-flash
+Append: [中国商务部：将10家美国实体列入出口管制管控名单](https://www.zaobao.com/news/china/story20260622-9242403)
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [消息：台湾向美采购首批两架MQ-9B无人机已抵台](https://www.zaobao.com/news/china/story20260622-9242373)
+Append: [韩国总理时隔10年出席夏季达沃斯论坛](https://www.zaobao.com/news/china/story20260622-9242337)
+Append: [立陶宛预计半年内看到改善对华关系成果](https://www.zaobao.com/news/china/story20260622-9242274)
+Append: [台湾今起开展战备操演 验证部队联合作战效能](https://www.zaobao.com/news/china/story20260622-9242232)
+Append: [中国官媒：践行正确政绩观要善于“弹钢琴”](https://www.zaobao.com/news/china/story20260622-9242181)
+Append: [朱昌杰被查 新疆强调坚决拥护中共中央决定](https://www.zaobao.com/news/china/story20260622-9242119)
+append_entries: 10
+Finish: 2026-06-22 02:32:08.293692

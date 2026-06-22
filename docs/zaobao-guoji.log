@@ -5656,3 +5656,25 @@ Summarized using deepseek-v4-flash
 Append: [姜贵瑛：《铁拳教育》热播 韩国教育现场究竟失去了什么](https://www.zaobao.com/news/world/story20260622-9234629)
 append_entries: 1
 Finish: 2026-06-21 22:57:51.907237
+------------------------------------------------------
+Started: 2026-06-22 02:32:09.143743
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 176
+Summarized using deepseek-v4-flash
+Append: [伊朗外交部：伊美谈判就解冻伊朗资产等取得良好进展](https://www.zaobao.com/news/world/story20260622-9242441)
+Token length: 297
+Summarized using deepseek-v4-flash
+Append: [伊美谈判不确定性增加 国际油价明显走高](https://www.zaobao.com/news/world/story20260622-9242318)
+Token length: 488
+Summarized using deepseek-v4-flash
+Append: [美媒称美伊谈判还在继续 美方团队将“通宵工作”](https://www.zaobao.com/news/world/story20260622-9242216)
+Token length: 549
+Summarized using deepseek-v4-flash
+Append: [获特朗普力挺 哥伦比亚极右翼总统候选人第二轮投票胜出](https://www.zaobao.com/news/world/story20260622-9242183)
+Token length: 720
+Summarized using deepseek-v4-flash
+Append: [以媒：以色列正考虑从黎巴嫩南部“小规模撤军”](https://www.zaobao.com/news/world/story20260622-9242063)
+Append: [特朗普发出威胁言论后 伊朗代表团暂停谈判](https://www.zaobao.com/news/world/story20260622-9242016)
+append_entries: 6
+Finish: 2026-06-22 02:32:40.989438
