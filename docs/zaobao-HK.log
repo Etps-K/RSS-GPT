@@ -6017,3 +6017,12 @@ Summarized using deepseek-v4-flash
 Append: [丁薛祥链博会致辞：批泛安全化出口管制 称中国不刻意追求顺差](https://www.zaobao.com/news/china/story20260622-9247212)
 append_entries: 1
 Finish: 2026-06-22 19:17:19.442785
+------------------------------------------------------
+Started: 2026-06-22 21:53:39.438511
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 152
+Summarized using deepseek-v4-flash
+Append: [杨丹旭：当法式鹅肝成为中国特产](https://www.zaobao.com/news/china/story20260623-9247297)
+append_entries: 1
+Finish: 2026-06-22 21:53:51.760824
