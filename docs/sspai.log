@@ -4756,3 +4756,15 @@ Summarized using deepseek-v4-flash
 Append: [把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
 append_entries: 1
 Finish: 2026-06-23 06:03:24.314906
+------------------------------------------------------
+Started: 2026-06-23 10:51:54.485040
+Existing_entries: 257
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
+Token length: 26
+Summarized using deepseek-v4-flash
+Append: [运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源](https://sspai.com/post/111261)
+append_entries: 2
+Finish: 2026-06-23 10:52:14.217170

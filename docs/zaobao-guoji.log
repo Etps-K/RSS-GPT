@@ -5813,3 +5813,27 @@ Append: [朝鲜劳动党九届二中全会 金正恩强调加强核武](https://
 Append: [美国放松对伊朗石油制裁 国际油价显著下跌](https://www.zaobao.com/news/world/story20260623-9248476)
 append_entries: 6
 Finish: 2026-06-23 06:04:25.921304
+------------------------------------------------------
+Started: 2026-06-23 10:52:47.526369
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 572
+Summarized using deepseek-v4-flash
+Append: [与伊朗开战致库存承压 白宫召军工企业促扩产](https://www.zaobao.com/news/world/story20260623-9251354)
+Token length: 617
+Summarized using deepseek-v4-flash
+Append: [美贸易代表格里尔访印度商谈贸易协议](https://www.zaobao.com/news/world/story20260623-9251389)
+Token length: 162
+Summarized using deepseek-v4-flash
+Append: [热浪来袭游泳降温 法国约20人溺水身亡](https://www.zaobao.com/news/world/story20260623-9251446)
+Token length: 642
+Summarized using deepseek-v4-flash
+Append: [美英同步收紧社媒监管 聚焦儿童保护与打击假信息](https://www.zaobao.com/news/world/story20260623-9250823)
+Token length: 938
+Summarized using deepseek-v4-flash
+Append: [需求跌中国出口放行 化肥价格已跌至战前水平](https://www.zaobao.com/news/world/story20260623-9250854)
+Append: [日本人服装消费重视性能 买高价睡衣解压](https://www.zaobao.com/news/world/story20260623-9222508)
+Append: [神户学院大学教授：高市早苗及秘书涉虚假记载政治资金](https://www.zaobao.com/news/world/story20260623-9250444)
+Append: [援俄朝鲜战俘若自愿投奔 韩国愿意接收](https://www.zaobao.com/news/world/story20260623-9250241)
+append_entries: 8
+Finish: 2026-06-23 10:53:11.896280

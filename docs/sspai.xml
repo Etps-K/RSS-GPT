@@ -5,18 +5,42 @@
 <link>https://sspai.com</link>
 
 <item>
+<title>社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器</title>
+<link>https://sspai.com/post/111410</link>
+<guid>https://sspai.com/post/111410</guid>
+<content:encoded><![CDATA[
+<div> 少数派，Matrix社区，周报，内容曝光，新玩意
+
+<br><br>总结: 少数派Matrix社区因首页时间流和侧栏精选展位有限，许多优秀内容曝光不足，故决定重启Matrix周报，并在此基础上增加更多社区内容及作者投稿的新玩意，以呈现给用户。 <div>
+除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href="https://sspai.com/post/111410" target="_blank">查看全文</a>
+]]></content:encoded>
+<pubDate>Tue, 23 Jun 2026 17:00:00 +0800</pubDate>
+<pubDate>Tue, 23 Jun 2026 17:00:00 +0800</pubDate>
+</item>
+<item>
+<title>运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源</title>
+<link>https://sspai.com/post/111261</link>
+<guid>https://sspai.com/post/111261</guid>
+<content:encoded><![CDATA[
+<div> HiDPI 非整数缩放 Apple Silicon 渲染管线 动态分辨率  
+<br><br>总结:2026年macOS画面缩放机制进一步演进，核心优化在于Apple Silicon原生支持整数倍缩放，避免模糊与性能开销。系统引入动态渲染分辨率与硬件加速缩放单元，根据显示器PPI自动切换最佳算法。非整数缩放场景下的清晰度显著提升，多显示器混合缩放统一体验。未来趋向于完全消除非整数缩放质量损失，实现低功耗高画质。 <div>
+2026 年让我们再谈 macOS 的画面缩放机制。<a href="https://sspai.com/post/111261" target="_blank">查看全文</a>
+]]></content:encoded>
+<pubDate>Tue, 23 Jun 2026 15:00:00 +0800</pubDate>
+<pubDate>Tue, 23 Jun 2026 15:00:00 +0800</pubDate>
+</item>
+
+<item>
 <title>把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP</title>
 <link>https://sspai.com/post/110947</link>
 <guid>https://sspai.com/post/110947</guid>
 <content:encoded><![CDATA[
 <div> 样本量 面试 推理 小游戏 有迹可循  
-<br><br>总结:当面试的样本量积累到足够多时，其本质就转化为一场有迹可循的推理小游戏。要点包括：1.样本量是关键，足够数据才能发现规律；2.面试过程可被理性分析，而非随机；3.通过观察和归纳，能预测常见模式；4.面试者可据此调整策略，提升成功率；5.整体上，面试从主观评判变为可推理的逻辑游戏。 <div>
+<br /><br />总结:当面试的样本量积累到足够多时，其本质就转化为一场有迹可循的推理小游戏。要点包括：1.样本量是关键，足够数据才能发现规律；2.面试过程可被理性分析，而非随机；3.通过观察和归纳，能预测常见模式；4.面试者可据此调整策略，提升成功率；5.整体上，面试从主观评判变为可推理的逻辑游戏。 <div>
 当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。<a href="https://sspai.com/post/110947" target="_blank">查看全文</a>
 ]]></content:encoded>
 <pubDate>Tue, 23 Jun 2026 11:00:18 +0800</pubDate>
-<pubDate>Tue, 23 Jun 2026 11:00:18 +0800</pubDate>
 </item>
-
 <item>
 <title>派早报：荣耀发布 X80 Pro Max 等新品等</title>
 <link>https://sspai.com/post/111385</link>
