@@ -6143,3 +6143,21 @@ Summarized using deepseek-v4-flash
 Append: [中国在全球最快超级电脑排行榜超越美国荣登榜首](https://www.zaobao.com/news/china/story20260623-9252060)
 append_entries: 5
 Finish: 2026-06-23 14:16:34.622009
+------------------------------------------------------
+Started: 2026-06-23 17:46:29.326121
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [台国防部公布福建舰再航经台湾海峡](https://www.zaobao.com/news/china/story20260623-9253544)
+Token length: 661
+Summarized using deepseek-v4-flash
+Append: [王毅在金砖会议强调加强战略性矿产资源合作](https://www.zaobao.com/news/china/story20260623-9253462)
+Token length: 2219
+Summarized using deepseek-v4-flash
+Append: [“中国冲击论”卷土重来 欧洲警报频响对华重拳却难落下？](https://www.zaobao.com/news/china/story20260623-9252132)
+Token length: 1148
+Summarized using deepseek-v4-flash
+Append: [美国在台协会处长：10年前两岸相互吸引已不存在](https://www.zaobao.com/news/china/story20260623-9252316)
+append_entries: 4
+Finish: 2026-06-23 17:46:48.265716
