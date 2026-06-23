@@ -6161,3 +6161,9 @@ Summarized using deepseek-v4-flash
 Append: [美国在台协会处长：10年前两岸相互吸引已不存在](https://www.zaobao.com/news/china/story20260623-9252316)
 append_entries: 4
 Finish: 2026-06-23 17:46:48.265716
+------------------------------------------------------
+Started: 2026-06-23 19:46:45.913803
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-23 19:46:46.111793
