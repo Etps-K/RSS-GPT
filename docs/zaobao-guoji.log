@@ -5773,3 +5773,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-22 23:10:15.639527
+------------------------------------------------------
+Started: 2026-06-23 01:58:48.536589
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 507
+Summarized using deepseek-v4-flash
+Append: [特朗普下令加快研发强大量子电脑 设2028年实现目标](https://www.zaobao.com/news/world/story20260623-9248179)
+Token length: 626
+Summarized using deepseek-v4-flash
+Append: [美伊谈判后 逾400艘大型船只聚集霍尔木兹海峡附近](https://www.zaobao.com/news/world/story20260623-9247883)
+Token length: 477
+Summarized using deepseek-v4-flash
+Append: [以色列三方高层联合声明：继续黎南部军事行动](https://www.zaobao.com/news/world/story20260623-9247987)
+Token length: 454
+Summarized using deepseek-v4-flash
+Append: [美国称伊朗同意恢复核设施检查 伊朗予以否认](https://www.zaobao.com/news/world/story20260623-9247926)
+append_entries: 4
+Finish: 2026-06-23 01:59:05.337948

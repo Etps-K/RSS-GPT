@@ -6032,3 +6032,25 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-22 23:10:14.596208
+------------------------------------------------------
+Started: 2026-06-23 01:58:21.870221
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 500
+Summarized using deepseek-v4-flash
+Append: [欧洲央行行长促全球领导人商讨人民币被低估问题](https://www.zaobao.com/news/china/story20260623-9248351)
+Token length: 706
+Summarized using deepseek-v4-flash
+Append: [澳民调显示逾半数民众认为对华关系比对美关系更重要](https://www.zaobao.com/news/china/story20260623-9248288)
+Token length: 511
+Summarized using deepseek-v4-flash
+Append: [加拿大工业部长称中国车企考虑在加建立制造合作关系](https://www.zaobao.com/news/china/story20260623-9248215)
+Token length: 846
+Summarized using deepseek-v4-flash
+Append: [美在台协会处长：10年前两岸间的相互吸引已不存在](https://www.zaobao.com/news/china/story20260623-9248194)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [欧盟贸易专员下周将与中国商务部长会晤](https://www.zaobao.com/news/china/story20260623-9248027)
+Append: [李强：大力发展高端装备制造业](https://www.zaobao.com/news/china/story20260623-9248015)
+append_entries: 6
+Finish: 2026-06-23 01:58:47.576444
