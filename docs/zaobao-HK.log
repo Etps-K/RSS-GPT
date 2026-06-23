@@ -6122,3 +6122,24 @@ Append: [国民党称维持现状不应是毫无责任感的开放式问卷](htt
 Append: [中国财政赤字两年多来首次收窄 内需疲软仍推进节省开支](https://www.zaobao.com/news/china/story20260623-9249896)
 append_entries: 22
 Finish: 2026-06-23 10:52:46.676172
+------------------------------------------------------
+Started: 2026-06-23 14:16:06.583447
+Existing_entries: 1022
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 272
+Summarized using deepseek-v4-flash
+Append: [柬前首相洪森后天起访华](https://www.zaobao.com/news/china/story20260623-9252935)
+Token length: 1756
+Summarized using deepseek-v4-flash
+Append: [环太平洋军演前夕 中美西太平洋军事对垒态势升温](https://www.zaobao.com/news/china/story20260623-9251320)
+Token length: 1001
+Summarized using deepseek-v4-flash
+Append: [李强吁中韩拓展半导体人工智能等新兴产业合作](https://www.zaobao.com/news/china/story20260623-9252755)
+Token length: 806
+Summarized using deepseek-v4-flash
+Append: [王毅吁中俄推动金砖做强做大 成为全球南方第一方阵](https://www.zaobao.com/news/china/story20260623-9252620)
+Token length: 688
+Summarized using deepseek-v4-flash
+Append: [中国在全球最快超级电脑排行榜超越美国荣登榜首](https://www.zaobao.com/news/china/story20260623-9252060)
+append_entries: 5
+Finish: 2026-06-23 14:16:34.622009
