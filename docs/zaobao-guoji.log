@@ -5889,3 +5889,9 @@ Summarized using deepseek-v4-flash
 Append: [伊朗称将自主处置解冻资产](https://www.zaobao.com/news/world/story20260624-9253625)
 append_entries: 3
 Finish: 2026-06-23 19:47:01.516749
+------------------------------------------------------
+Started: 2026-06-23 21:21:23.454453
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-23 21:21:23.563929
