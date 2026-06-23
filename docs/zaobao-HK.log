@@ -6173,3 +6173,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-23 21:21:22.583260
+------------------------------------------------------
+Started: 2026-06-23 22:57:07.628306
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 246
+Summarized using deepseek-v4-flash
+Append: [庄慧良：需要《铁拳教育》支撑的“教权”危机](https://www.zaobao.com/news/china/story20260624-9253379)
+append_entries: 1
+Finish: 2026-06-23 22:57:12.698478
