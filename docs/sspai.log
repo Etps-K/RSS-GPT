@@ -4747,3 +4747,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：荣耀发布 X80 Pro Max 等新品等](https://sspai.com/post/111385)
 append_entries: 1
 Finish: 2026-06-23 01:58:20.957722
+------------------------------------------------------
+Started: 2026-06-23 06:03:12.792863
+Existing_entries: 256
+Fetching from https://sspai.com/feed
+Token length: 30
+Summarized using deepseek-v4-flash
+Append: [把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
+append_entries: 1
+Finish: 2026-06-23 06:03:24.314906

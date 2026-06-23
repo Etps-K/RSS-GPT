@@ -5791,3 +5791,25 @@ Summarized using deepseek-v4-flash
 Append: [美国称伊朗同意恢复核设施检查 伊朗予以否认](https://www.zaobao.com/news/world/story20260623-9247926)
 append_entries: 4
 Finish: 2026-06-23 01:59:05.337948
+------------------------------------------------------
+Started: 2026-06-23 06:03:50.470540
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 556
+Summarized using deepseek-v4-flash
+Append: [伊朗副外长：伊美决定成立多个磋商工作组](https://www.zaobao.com/news/world/story20260623-9249658)
+Token length: 316
+Summarized using deepseek-v4-flash
+Append: [沙特4月原油出口量延续跌势 跌至24年来新低](https://www.zaobao.com/news/world/story20260623-9249389)
+Token length: 425
+Summarized using deepseek-v4-flash
+Append: [伊朗央行行长：无义务用伊朗解冻资金买美国农产品](https://www.zaobao.com/news/world/story20260623-9249066)
+Token length: 333
+Summarized using deepseek-v4-flash
+Append: [伊朗同意就霍尔木兹海峡安全通行设热线](https://www.zaobao.com/news/world/story20260623-9248959)
+Token length: 395
+Summarized using deepseek-v4-flash
+Append: [朝鲜劳动党九届二中全会 金正恩强调加强核武](https://www.zaobao.com/news/world/story20260623-9248621)
+Append: [美国放松对伊朗石油制裁 国际油价显著下跌](https://www.zaobao.com/news/world/story20260623-9248476)
+append_entries: 6
+Finish: 2026-06-23 06:04:25.921304
