@@ -6182,3 +6182,15 @@ Summarized using deepseek-v4-flash
 Append: [庄慧良：需要《铁拳教育》支撑的“教权”危机](https://www.zaobao.com/news/china/story20260624-9253379)
 append_entries: 1
 Finish: 2026-06-23 22:57:12.698478
+------------------------------------------------------
+Started: 2026-06-24 01:58:18.581763
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 645
+Summarized using deepseek-v4-flash
+Append: [中国深化涉麻精药品等成瘾性物质打击整治](https://www.zaobao.com/news/china/story20260624-9254146)
+Token length: 716
+Summarized using deepseek-v4-flash
+Append: [阿里巴巴起诉美国防部 寻求从涉军名单中移除](https://www.zaobao.com/news/china/story20260624-9254134)
+append_entries: 2
+Finish: 2026-06-24 01:58:27.501028

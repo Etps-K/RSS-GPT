@@ -5901,3 +5901,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-23 22:57:13.633545
+------------------------------------------------------
+Started: 2026-06-24 01:58:28.445180
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 466
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊朗解冻资金将进入美国控制托管账户](https://www.zaobao.com/news/world/story20260624-9254465)
+Token length: 453
+Summarized using deepseek-v4-flash
+Append: [巴方称伊美谅解备忘录谈判未涉弹道导弹议题](https://www.zaobao.com/news/world/story20260624-9254322)
+Token length: 233
+Summarized using deepseek-v4-flash
+Append: [崔贤号新型多用途驱逐舰正式进入朝鲜海军服役](https://www.zaobao.com/news/world/story20260624-9254276)
+Token length: 400
+Summarized using deepseek-v4-flash
+Append: [美国参议院通过决议 制衡特朗普发动战争权力](https://www.zaobao.com/news/world/story20260624-9254205)
+Token length: 226
+Summarized using deepseek-v4-flash
+Append: [因全国范围内IT系统故障 德国全境铁路暂停运作](https://www.zaobao.com/news/world/story20260624-9254049)
+Append: [国际海事组织宣布启动霍尔木兹海峡滞留海员疏散计划](https://www.zaobao.com/news/world/story20260624-9254091)
+append_entries: 6
+Finish: 2026-06-24 01:58:49.357363
