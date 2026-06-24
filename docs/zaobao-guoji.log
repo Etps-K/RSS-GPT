@@ -5923,3 +5923,24 @@ Append: [因全国范围内IT系统故障 德国全境铁路暂停运作](https:
 Append: [国际海事组织宣布启动霍尔木兹海峡滞留海员疏散计划](https://www.zaobao.com/news/world/story20260624-9254091)
 append_entries: 6
 Finish: 2026-06-24 01:58:49.357363
+------------------------------------------------------
+Started: 2026-06-24 06:04:00.526661
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 196
+Summarized using deepseek-v4-flash
+Append: [特朗普称将调查未降低油价的石油公司](https://www.zaobao.com/news/world/story20260624-9255732)
+Token length: 472
+Summarized using deepseek-v4-flash
+Append: [联合国：美国关税措施加剧不确定性 拉美吸引外资受影响](https://www.zaobao.com/news/world/story20260624-9255551)
+Token length: 389
+Summarized using deepseek-v4-flash
+Append: [秘鲁总统决选初步计票出炉 藤森庆子领先](https://www.zaobao.com/news/world/story20260624-9255185)
+Token length: 472
+Summarized using deepseek-v4-flash
+Append: [贝森特：美国须强化供应链韧性 防止关键行业遭“卡脖子”](https://www.zaobao.com/news/world/story20260624-9255053)
+Token length: 245
+Summarized using deepseek-v4-flash
+Append: [金正恩要打造万吨级战舰 推动海军装备核武器](https://www.zaobao.com/news/world/story20260624-9254648)
+append_entries: 5
+Finish: 2026-06-24 06:04:28.826467

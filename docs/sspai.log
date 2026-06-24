@@ -4807,3 +4807,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等](https://sspai.com/post/111438)
 append_entries: 1
 Finish: 2026-06-24 01:58:17.683482
+------------------------------------------------------
+Started: 2026-06-24 06:03:03.671611
+Existing_entries: 260
+Fetching from https://sspai.com/feed
+Token length: 46
+Summarized using deepseek-v4-flash
+Append: [DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备](https://sspai.com/post/111223)
+append_entries: 1
+Finish: 2026-06-24 06:03:24.336523
