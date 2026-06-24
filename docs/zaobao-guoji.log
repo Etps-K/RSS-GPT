@@ -5993,3 +5993,21 @@ Append: [金正恩高调推进海军核武装 时隔八个月再有朝军投韩]
 Append: [欧洲热浪持续刷新纪录 法国大停电逾6万户受影响](https://www.zaobao.com/news/world/story20260624-9257332)
 append_entries: 8
 Finish: 2026-06-24 14:01:43.466795
+------------------------------------------------------
+Started: 2026-06-24 17:45:54.322798
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 746
+Summarized using deepseek-v4-flash
+Append: [澳洲出口命脉面临罢工风险 铁矿石与天然气行业紧张升温](https://www.zaobao.com/news/world/story20260624-9257169)
+Token length: 380
+Summarized using deepseek-v4-flash
+Append: [熊患加剧 东京郊区斥资购700支防熊喷雾](https://www.zaobao.com/news/world/story20260624-9258489)
+Token length: 1233
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊朗若在霍尔木兹海峡收费就终止谈判](https://www.zaobao.com/news/world/story20260624-9258836)
+Token length: 1052
+Summarized using deepseek-v4-flash
+Append: [裸体画拍出天价是何体验？60岁画模：世界不该只有一种身材](https://www.zaobao.com/news/world/story20260624-9259234)
+append_entries: 4
+Finish: 2026-06-24 17:46:18.402203

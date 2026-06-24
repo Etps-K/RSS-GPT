@@ -6279,3 +6279,18 @@ Summarized using deepseek-v4-flash
 Append: [李强提“中国机遇” 反驳“中国冲击” ：中国产品不是威胁](https://www.zaobao.com/news/china/story20260624-9258006)
 append_entries: 4
 Finish: 2026-06-24 14:01:17.517308
+------------------------------------------------------
+Started: 2026-06-24 17:45:39.759642
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 613
+Summarized using deepseek-v4-flash
+Append: [中国网安企业三六零发布国产Mythos模型](https://www.zaobao.com/news/china/story20260624-9258928)
+Token length: 365
+Summarized using deepseek-v4-flash
+Append: [下午察：辽宁安徽双舰合璧打破岛链封锁？](https://www.zaobao.com/news/china/story20260624-9258745)
+Token length: 488
+Summarized using deepseek-v4-flash
+Append: [美在台协会批大陆台海行动加剧紧张局势](https://www.zaobao.com/news/china/story20260624-9258864)
+append_entries: 3
+Finish: 2026-06-24 17:45:53.348414
