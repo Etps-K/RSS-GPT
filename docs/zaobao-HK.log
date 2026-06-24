@@ -6294,3 +6294,9 @@ Summarized using deepseek-v4-flash
 Append: [美在台协会批大陆台海行动加剧紧张局势](https://www.zaobao.com/news/china/story20260624-9258864)
 append_entries: 3
 Finish: 2026-06-24 17:45:53.348414
+------------------------------------------------------
+Started: 2026-06-24 19:23:52.448381
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-24 19:23:52.791139
