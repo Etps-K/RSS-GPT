@@ -6047,3 +6047,28 @@ Summarized using deepseek-v4-flash
 Append: [鲁比奥：美国不会采取任何损害波斯湾盟友安全的行动](https://www.zaobao.com/news/world/story20260625-9260057)
 append_entries: 4
 Finish: 2026-06-25 02:01:55.986306
+------------------------------------------------------
+Started: 2026-06-25 07:32:03.861382
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 460
+Summarized using deepseek-v4-flash
+Append: [鲁比奥：美国正“立即向委内瑞拉部署”救援人员](https://www.zaobao.com/news/world/story20260625-9262691)
+Token length: 918
+Summarized using deepseek-v4-flash
+Append: [分析：美伊协议或使内坦亚胡成最大输家](https://www.zaobao.com/news/world/story20260625-9262474)
+Token length: 365
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉一分钟内遭遇两次强震 至少32死700伤](https://www.zaobao.com/news/world/story20260625-9262152)
+Token length: 647
+Summarized using deepseek-v4-flash
+Append: [澳洲情报主管：国家安全环境持续恶化](https://www.zaobao.com/news/world/story20260625-9261970)
+Token length: 430
+Summarized using deepseek-v4-flash
+Append: [欧洲五国承诺加强防务合作 感谢斯塔默促进团结](https://www.zaobao.com/news/world/story20260625-9261537)
+Append: [委内瑞拉连发7级以上强震 当局宣布进入紧急状态](https://www.zaobao.com/news/world/story20260625-9261238)
+Append: [革命卫队：未经伊朗协调宣布的霍尔木兹海峡新航线不可接受且具危险](https://www.zaobao.com/news/world/story20260625-9260944)
+Append: [日本气象厅：未来一周可能再发生强震](https://www.zaobao.com/news/world/story20260625-9260728)
+Append: [特朗普申请876亿美元追加预算 逾七成用于伊朗战争](https://www.zaobao.com/news/world/story20260625-9260627)
+append_entries: 9
+Finish: 2026-06-25 07:32:32.716295
