@@ -6443,3 +6443,12 @@ Summarized using deepseek-v4-flash
 Append: [王毅会奥地利外长：愿奥方为中欧关系发展继续发挥建设性作用](https://www.zaobao.com/news/china/story20260626-9266310)
 append_entries: 1
 Finish: 2026-06-25 19:42:43.143082
+------------------------------------------------------
+Started: 2026-06-25 21:19:48.143659
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 330
+Summarized using deepseek-v4-flash
+Append: [韩咏红：李强回击“中国冲击2.0”为中企发声](https://www.zaobao.com/news/china/story20260626-9266208)
+append_entries: 1
+Finish: 2026-06-25 21:19:52.998578

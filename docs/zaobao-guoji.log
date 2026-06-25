@@ -6148,3 +6148,9 @@ Summarized using deepseek-v4-flash
 Append: [美最高法院：允许政府终止保护叙利亚与海地人免遭遣返](https://www.zaobao.com/news/world/story20260625-9266168)
 append_entries: 2
 Finish: 2026-06-25 19:42:54.188159
+------------------------------------------------------
+Started: 2026-06-25 21:19:53.817380
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-25 21:19:53.971466
