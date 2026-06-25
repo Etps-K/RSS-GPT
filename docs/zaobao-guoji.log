@@ -6072,3 +6072,21 @@ Append: [日本气象厅：未来一周可能再发生强震](https://www.zaobao
 Append: [特朗普申请876亿美元追加预算 逾七成用于伊朗战争](https://www.zaobao.com/news/world/story20260625-9260627)
 append_entries: 9
 Finish: 2026-06-25 07:32:32.716295
+------------------------------------------------------
+Started: 2026-06-25 10:32:26.251339
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 844
+Summarized using deepseek-v4-flash
+Append: [伊朗战争加剧美内部分歧 特朗普与共和党参议员争吵](https://www.zaobao.com/news/world/story20260625-9263699)
+Token length: 592
+Summarized using deepseek-v4-flash
+Append: [分析：欧洲上亿人6月25日承受超35度高温](https://www.zaobao.com/news/world/story20260625-9264144)
+Token length: 930
+Summarized using deepseek-v4-flash
+Append: [塑料短缺导致包装成本上升 亚洲消费者食品开销或更高](https://www.zaobao.com/news/world/story20260625-9263458)
+Token length: 426
+Summarized using deepseek-v4-flash
+Append: [气候专家：欧洲热浪是化石燃料污染的代价](https://www.zaobao.com/news/world/story20260625-9263060)
+append_entries: 4
+Finish: 2026-06-25 10:32:46.721808

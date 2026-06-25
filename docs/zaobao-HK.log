@@ -6365,3 +6365,26 @@ Append: [日媒：两名日本人被拘加剧在华日企不安](https://www.zao
 Append: [胡诚林、彭纯辞去中国政协委员](https://www.zaobao.com/news/china/story20260625-9260427)
 append_entries: 16
 Finish: 2026-06-25 07:32:02.871848
+------------------------------------------------------
+Started: 2026-06-25 10:31:51.109349
+Existing_entries: 1016
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 164
+Summarized using deepseek-v4-flash
+Append: [【视频】石家庄国字脸网红猴定名“石英俊”](https://www.zaobao.com/news/china/story20260625-9263737)
+Token length: 978
+Summarized using deepseek-v4-flash
+Append: [赖清德首谈黄梨释迦风波 称大陆已不是台农产品最大出口地](https://www.zaobao.com/news/china/story20260625-9263709)
+Token length: 450
+Summarized using deepseek-v4-flash
+Append: [大陆外交部：美在建交公报中承诺联邦地方与台仅保持非官方关系](https://www.zaobao.com/news/china/story20260625-9263633)
+Token length: 641
+Summarized using deepseek-v4-flash
+Append: [中国31省消防罚没收入少缴中央国库逾25亿元人民币](https://www.zaobao.com/news/china/story20260625-9263174)
+Token length: 251
+Summarized using deepseek-v4-flash
+Append: [台湾医美针孔偷拍事件 爱尔丽偷拍病患时间长达六年](https://www.zaobao.com/news/china/story20260625-9263054)
+Append: [中国媒体：委内瑞拉强震约10华人或遇难包括13岁女孩](https://www.zaobao.com/news/china/story20260625-9262888)
+Append: [港媒：武汉反渎职官员利用在港儿子洗黑钱逾6400万港元](https://www.zaobao.com/news/china/story20260625-9262779)
+append_entries: 7
+Finish: 2026-06-25 10:32:25.446857
