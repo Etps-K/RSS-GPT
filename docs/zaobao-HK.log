@@ -6312,3 +6312,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-24 22:57:55.126413
+------------------------------------------------------
+Started: 2026-06-25 02:01:00.583281
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 597
+Summarized using deepseek-v4-flash
+Append: [Anthropic称阿里巴巴非法蒸馏Claude模型能力](https://www.zaobao.com/news/china/story20260625-9260349)
+Token length: 496
+Summarized using deepseek-v4-flash
+Append: [美部门鼓励州长与企业领袖扩大与台在贸易投资方面交流](https://www.zaobao.com/news/china/story20260625-9260300)
+Token length: 774
+Summarized using deepseek-v4-flash
+Append: [王毅：美伊绝不能重燃战火](https://www.zaobao.com/news/china/story20260625-9260115)
+Token length: 408
+Summarized using deepseek-v4-flash
+Append: [中国央行顾问预计今年仍有可能降息](https://www.zaobao.com/news/china/story20260625-9260055)
+Token length: 1655
+Summarized using deepseek-v4-flash
+Append: [戴庆成：香港扶贫策略转变的争议](https://www.zaobao.com/news/china/story20260625-9259203)
+append_entries: 5
+Finish: 2026-06-25 02:01:33.152485

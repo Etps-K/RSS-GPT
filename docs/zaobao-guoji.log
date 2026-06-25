@@ -6029,3 +6029,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-24 22:57:56.085612
+------------------------------------------------------
+Started: 2026-06-25 02:01:33.990518
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 374
+Summarized using deepseek-v4-flash
+Append: [乌克兰扩大攻击俄能源设施 泽连斯基下令先发制人行动](https://www.zaobao.com/news/world/story20260625-9260480)
+Token length: 641
+Summarized using deepseek-v4-flash
+Append: [特朗普会见吕特 称对北约盟友感到失望](https://www.zaobao.com/news/world/story20260625-9260301)
+Token length: 328
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉发生7.1级地震 日本岩手县近海也发生6.9级地震](https://www.zaobao.com/news/world/story20260625-9260173)
+Token length: 565
+Summarized using deepseek-v4-flash
+Append: [鲁比奥：美国不会采取任何损害波斯湾盟友安全的行动](https://www.zaobao.com/news/world/story20260625-9260057)
+append_entries: 4
+Finish: 2026-06-25 02:01:55.986306
