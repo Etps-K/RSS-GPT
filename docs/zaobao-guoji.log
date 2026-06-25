@@ -6090,3 +6090,27 @@ Summarized using deepseek-v4-flash
 Append: [气候专家：欧洲热浪是化石燃料污染的代价](https://www.zaobao.com/news/world/story20260625-9263060)
 append_entries: 4
 Finish: 2026-06-25 10:32:46.721808
+------------------------------------------------------
+Started: 2026-06-25 13:58:12.580115
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 696
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡重开供应增加 布伦特原油抹去战时涨幅](https://www.zaobao.com/news/world/story20260625-9265604)
+Token length: 1099
+Summarized using deepseek-v4-flash
+Append: [美国承诺与伊朗最终协议将维护波斯湾盟友利益](https://www.zaobao.com/news/world/story20260625-9265286)
+Token length: 733
+Summarized using deepseek-v4-flash
+Append: [泽连斯基：乌克兰将对俄设施发动先发制人打击](https://www.zaobao.com/news/world/story20260625-9265274)
+Token length: 306
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震罹难者升至164人 近千人受伤](https://www.zaobao.com/news/world/story20260625-9265073)
+Token length: 259
+Summarized using deepseek-v4-flash
+Append: [获健力士世界纪录认证 巴西最长寿三姐妹齐破百岁](https://www.zaobao.com/news/world/story20260625-9264585)
+Append: [最后期限前 欧盟批准与美国的贸易协议](https://www.zaobao.com/news/world/story20260625-9264805)
+Append: [美官员：以色列军撤离黎南部部分“缓冲区”](https://www.zaobao.com/news/world/story20260625-9264496)
+Append: [澳洲社媒禁令起始效用不彰 青少年继续浏览社媒](https://www.zaobao.com/news/world/story20260625-9262937)
+append_entries: 8
+Finish: 2026-06-25 13:58:44.611606
