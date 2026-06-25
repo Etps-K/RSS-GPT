@@ -4897,3 +4897,9 @@ Summarized using deepseek-v4-flash
 Append: [新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
 append_entries: 1
 Finish: 2026-06-25 13:57:48.831289
+------------------------------------------------------
+Started: 2026-06-25 16:18:45.703833
+Existing_entries: 268
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-06-25 16:18:46.824044

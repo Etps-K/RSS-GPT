@@ -6114,3 +6114,25 @@ Append: [美官员：以色列军撤离黎南部部分“缓冲区”](https://w
 Append: [澳洲社媒禁令起始效用不彰 青少年继续浏览社媒](https://www.zaobao.com/news/world/story20260625-9262937)
 append_entries: 8
 Finish: 2026-06-25 13:58:44.611606
+------------------------------------------------------
+Started: 2026-06-25 16:19:05.357342
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1205
+Summarized using deepseek-v4-flash
+Append: [日本东北地区发生7.2级地震 一周内恐再有强震](https://www.zaobao.com/news/world/story20260625-9265712)
+Token length: 217
+Summarized using deepseek-v4-flash
+Append: [美国通胀升至三年高点 消费支出增长加快](https://www.zaobao.com/news/world/story20260625-9265987)
+Token length: 559
+Summarized using deepseek-v4-flash
+Append: [黎巴嫩与以色列否认以军撤离黎南部分“缓冲区”](https://www.zaobao.com/news/world/story20260625-9265870)
+Token length: 1095
+Summarized using deepseek-v4-flash
+Append: [美中印等多国愿为委内瑞拉提供援助](https://www.zaobao.com/news/world/story20260625-9265616)
+Token length: 177
+Summarized using deepseek-v4-flash
+Append: [伊朗议长：伊朗动用解冻资产购买美国农产品之说不实](https://www.zaobao.com/news/world/story20260625-9265791)
+Append: [委内瑞拉百年强震致164人死近千人受伤](https://www.zaobao.com/news/world/story20260625-9265040)
+append_entries: 6
+Finish: 2026-06-25 16:19:27.361216
