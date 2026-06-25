@@ -6452,3 +6452,9 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：李强回击“中国冲击2.0”为中企发声](https://www.zaobao.com/news/china/story20260626-9266208)
 append_entries: 1
 Finish: 2026-06-25 21:19:52.998578
+------------------------------------------------------
+Started: 2026-06-25 23:05:42.342701
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-25 23:05:42.577388
