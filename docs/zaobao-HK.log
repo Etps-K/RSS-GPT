@@ -6434,3 +6434,12 @@ Summarized using deepseek-v4-flash
 Append: [日军据报二战曾在华采集战俘血液用于输血研究](https://www.zaobao.com/news/china/story20260625-9265934)
 append_entries: 4
 Finish: 2026-06-25 16:19:04.367853
+------------------------------------------------------
+Started: 2026-06-25 19:42:37.716019
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 817
+Summarized using deepseek-v4-flash
+Append: [王毅会奥地利外长：愿奥方为中欧关系发展继续发挥建设性作用](https://www.zaobao.com/news/china/story20260626-9266310)
+append_entries: 1
+Finish: 2026-06-25 19:42:43.143082
