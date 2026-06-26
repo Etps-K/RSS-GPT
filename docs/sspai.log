@@ -4951,3 +4951,12 @@ Summarized using deepseek-v4-flash
 Append: [空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
 append_entries: 2
 Finish: 2026-06-26 10:41:46.106173
+------------------------------------------------------
+Started: 2026-06-26 13:55:36.009591
+Existing_entries: 272
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
+append_entries: 1
+Finish: 2026-06-26 13:55:42.861108
