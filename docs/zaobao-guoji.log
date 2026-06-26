@@ -6254,3 +6254,18 @@ Append: [欧洲6月热浪为历年来最严重 极端高温未来或定期出现
 Append: [新西兰评估 中国海军巡航与导弹试射将成太平洋常态](https://www.zaobao.com/news/world/story20260626-9269465)
 append_entries: 7
 Finish: 2026-06-26 13:56:43.871033
+------------------------------------------------------
+Started: 2026-06-26 16:06:00.647495
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 779
+Summarized using deepseek-v4-flash
+Append: [日媒：中国U盘藏病毒 潜伏日本防卫系统一年](https://www.zaobao.com/news/world/story20260626-9272001)
+Token length: 425
+Summarized using deepseek-v4-flash
+Append: [乌克兰频密空袭 俄吞并的克里米亚进入“紧急状态”](https://www.zaobao.com/news/world/story20260626-9272438)
+Token length: 1119
+Summarized using deepseek-v4-flash
+Append: [挂新加坡旗货船阿曼湾遇袭 疏散滞留船只行动暂停](https://www.zaobao.com/news/world/story20260626-9271999)
+append_entries: 3
+Finish: 2026-06-26 16:06:16.611728

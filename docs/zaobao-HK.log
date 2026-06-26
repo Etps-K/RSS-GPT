@@ -6554,3 +6554,24 @@ Append: [台海基会抛“三个停止”冀化解两岸僵局](https://www.zao
 Append: [香港廉署与警方联手打击踢假球外围赌博活动 逮捕19人](https://www.zaobao.com/news/china/story20260626-9269995)
 append_entries: 6
 Finish: 2026-06-26 13:56:08.220569
+------------------------------------------------------
+Started: 2026-06-26 16:05:32.320225
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 540
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉双强震已致589死 习近平承诺提供救灾重建帮助](https://www.zaobao.com/news/china/story20260626-9272400)
+Token length: 951
+Summarized using deepseek-v4-flash
+Append: [刘尚进任重庆市政府党组副书记 市长一职罕见空缺逾三个月](https://www.zaobao.com/news/china/story20260626-9271751)
+Token length: 618
+Summarized using deepseek-v4-flash
+Append: [台风“米克拉”引发特大暴雨 台湾约600万人受灾](https://www.zaobao.com/news/china/story20260626-9270494)
+Token length: 1832
+Summarized using deepseek-v4-flash
+Append: [艾利森：若放任大国竞争 下一代人或以灾难性战争告终](https://www.zaobao.com/news/china/story20260626-9266169)
+Token length: 558
+Summarized using deepseek-v4-flash
+Append: [北京第一高楼“中国尊”被小飞机撞击](https://www.zaobao.com/news/china/story20260626-9272045)
+append_entries: 5
+Finish: 2026-06-26 16:05:59.656563
