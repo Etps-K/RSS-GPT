@@ -6284,3 +6284,9 @@ Summarized using deepseek-v4-flash
 Append: [日本山梨县东部发生5.6级地震](https://www.zaobao.com/news/world/story20260626-9272615)
 append_entries: 3
 Finish: 2026-06-26 19:25:59.444639
+------------------------------------------------------
+Started: 2026-06-26 21:11:48.066956
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-26 21:11:48.180571

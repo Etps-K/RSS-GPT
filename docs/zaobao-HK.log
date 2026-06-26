@@ -6584,3 +6584,15 @@ Summarized using deepseek-v4-flash
 Append: [马兴瑞胡衡华解放军三名上将等15人 被终止中国人大代表资格](https://www.zaobao.com/news/china/story20260626-9272735)
 append_entries: 1
 Finish: 2026-06-26 19:25:45.882370
+------------------------------------------------------
+Started: 2026-06-26 21:11:37.885058
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 280
+Summarized using deepseek-v4-flash
+Append: [陈婧：看世界杯，听粤语解说？](https://www.zaobao.com/news/china/story20260627-9272142)
+Token length: 248
+Summarized using deepseek-v4-flash
+Append: [【新闻人间】陆委会梁文杰一句话掀起凤梨释迦风波](https://www.zaobao.com/news/china/story20260627-9271576)
+append_entries: 2
+Finish: 2026-06-26 21:11:47.222577
