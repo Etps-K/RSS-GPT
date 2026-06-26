@@ -6596,3 +6596,9 @@ Summarized using deepseek-v4-flash
 Append: [【新闻人间】陆委会梁文杰一句话掀起凤梨释迦风波](https://www.zaobao.com/news/china/story20260627-9271576)
 append_entries: 2
 Finish: 2026-06-26 21:11:47.222577
+------------------------------------------------------
+Started: 2026-06-26 22:57:29.873374
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-26 22:57:30.253736
