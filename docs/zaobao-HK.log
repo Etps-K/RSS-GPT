@@ -6575,3 +6575,12 @@ Summarized using deepseek-v4-flash
 Append: [北京第一高楼“中国尊”被小飞机撞击](https://www.zaobao.com/news/china/story20260626-9272045)
 append_entries: 5
 Finish: 2026-06-26 16:05:59.656563
+------------------------------------------------------
+Started: 2026-06-26 19:25:40.494642
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 136
+Summarized using deepseek-v4-flash
+Append: [马兴瑞胡衡华解放军三名上将等15人 被终止中国人大代表资格](https://www.zaobao.com/news/china/story20260626-9272735)
+append_entries: 1
+Finish: 2026-06-26 19:25:45.882370

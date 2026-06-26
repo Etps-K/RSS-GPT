@@ -6269,3 +6269,18 @@ Summarized using deepseek-v4-flash
 Append: [挂新加坡旗货船阿曼湾遇袭 疏散滞留船只行动暂停](https://www.zaobao.com/news/world/story20260626-9271999)
 append_entries: 3
 Finish: 2026-06-26 16:06:16.611728
+------------------------------------------------------
+Started: 2026-06-26 19:25:46.868802
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 383
+Summarized using deepseek-v4-flash
+Append: [日本“雪猴”公园限游客数量 遏制不文明行为](https://www.zaobao.com/news/world/story20260626-9272733)
+Token length: 457
+Summarized using deepseek-v4-flash
+Append: [交换战俘 泽连斯基下令开展40天行动结束战争](https://www.zaobao.com/news/world/story20260626-9272683)
+Token length: 157
+Summarized using deepseek-v4-flash
+Append: [日本山梨县东部发生5.6级地震](https://www.zaobao.com/news/world/story20260626-9272615)
+append_entries: 3
+Finish: 2026-06-26 19:25:59.444639
