@@ -6458,3 +6458,18 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-25 23:05:42.577388
+------------------------------------------------------
+Started: 2026-06-26 02:02:44.182195
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 890
+Summarized using deepseek-v4-flash
+Append: [重庆人事调整中 刘尚进已任市政府党组副书记料出任副市长](https://www.zaobao.com/news/china/story20260626-9266927)
+Token length: 322
+Summarized using deepseek-v4-flash
+Append: [中国发布人工智能AI微短剧分类分层标准](https://www.zaobao.com/news/china/story20260626-9266836)
+Token length: 334
+Summarized using deepseek-v4-flash
+Append: [两中国公民在委内瑞拉强震中遇难](https://www.zaobao.com/news/china/story20260626-9266806)
+append_entries: 3
+Finish: 2026-06-26 02:02:59.608990

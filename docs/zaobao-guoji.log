@@ -6160,3 +6160,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-25 23:05:43.669277
+------------------------------------------------------
+Started: 2026-06-26 02:03:00.574973
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 212
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉强震已致235人死亡](https://www.zaobao.com/news/world/story20260626-9267034)
+Token length: 310
+Summarized using deepseek-v4-flash
+Append: [金正恩视察瞄准韩国主要设施的新型火箭炮和导弹](https://www.zaobao.com/news/world/story20260626-9266949)
+Token length: 484
+Summarized using deepseek-v4-flash
+Append: [伊朗：驶离指定航线的船舶将不享有安全保障](https://www.zaobao.com/news/world/story20260626-9266897)
+Token length: 761
+Summarized using deepseek-v4-flash
+Append: [集装箱船阿曼岸外遭袭 国际海事组织暂停海员疏散行动](https://www.zaobao.com/news/world/story20260626-9266814)
+Token length: 588
+Summarized using deepseek-v4-flash
+Append: [国际救援队赶赴委内瑞拉 美国派专业城市搜救队](https://www.zaobao.com/news/world/story20260626-9266799)
+Append: [委内瑞拉地震死亡人数升至188人 高楼地下停车场均有人受困](https://www.zaobao.com/news/world/story20260626-9266730)
+append_entries: 6
+Finish: 2026-06-26 02:03:30.532224
