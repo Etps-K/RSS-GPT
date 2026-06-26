@@ -4930,3 +4930,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
 append_entries: 1
 Finish: 2026-06-26 02:02:43.280955
+------------------------------------------------------
+Started: 2026-06-26 07:40:12.535674
+Existing_entries: 269
+Fetching from https://sspai.com/feed
+Token length: 32
+Summarized using deepseek-v4-flash
+Append: [林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
+append_entries: 1
+Finish: 2026-06-26 07:40:19.960723

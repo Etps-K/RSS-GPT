@@ -6182,3 +6182,28 @@ Append: [国际救援队赶赴委内瑞拉 美国派专业城市搜救队](https
 Append: [委内瑞拉地震死亡人数升至188人 高楼地下停车场均有人受困](https://www.zaobao.com/news/world/story20260626-9266730)
 append_entries: 6
 Finish: 2026-06-26 02:03:30.532224
+------------------------------------------------------
+Started: 2026-06-26 07:40:53.232067
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 549
+Summarized using deepseek-v4-flash
+Append: [联合国监管机构：新型合成毒品以前所未有速度增加](https://www.zaobao.com/news/world/story20260626-9269114)
+Token length: 235
+Summarized using deepseek-v4-flash
+Append: [泽连斯基称已批准一项为期40天的情报行动](https://www.zaobao.com/news/world/story20260626-9268745)
+Token length: 511
+Summarized using deepseek-v4-flash
+Append: [热带风暴逼近 日航全日空取消百多趟航班](https://www.zaobao.com/news/world/story20260626-9268801)
+Token length: 624
+Summarized using deepseek-v4-flash
+Append: [国际刑事法院三名女法官起诉特朗普和美国政府](https://www.zaobao.com/news/world/story20260626-9268301)
+Token length: 391
+Summarized using deepseek-v4-flash
+Append: [特朗普：伊朗将成为美国的“新市场”](https://www.zaobao.com/news/world/story20260626-9268093)
+Append: [日本千叶县发生5.8级地震 东京震感明显](https://www.zaobao.com/news/world/story20260626-9268163)
+Append: [韩国防部：将培训50万名“无人机战士”应对朝鲜](https://www.zaobao.com/news/world/story20260626-9267764)
+Append: [美官员：悬挂新加坡国旗货轮遭无人机袭击 无人员伤亡](https://www.zaobao.com/news/world/story20260626-9267652)
+Append: [环太平洋军演启动 韩军首任联合部队司令](https://www.zaobao.com/news/world/story20260626-9267546)
+append_entries: 9
+Finish: 2026-06-26 07:41:25.338215
