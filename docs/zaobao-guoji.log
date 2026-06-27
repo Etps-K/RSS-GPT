@@ -6387,3 +6387,26 @@ Summarized using deepseek-v4-flash
 Append: [一油轮在霍尔木兹海峡遭“不明投射物”击中](https://www.zaobao.com/news/world/story20260627-9275398)
 append_entries: 1
 Finish: 2026-06-27 13:03:47.819560
+------------------------------------------------------
+Started: 2026-06-27 15:06:30.683996
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 950
+Summarized using deepseek-v4-flash
+Append: [美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠](https://www.zaobao.com/news/world/story20260627-9275924)
+Token length: 118
+Summarized using deepseek-v4-flash
+Append: [阿富汗兴都库什地区发生6级地震](https://www.zaobao.com/news/world/story20260627-9275958)
+Token length: 261
+Summarized using deepseek-v4-flash
+Append: [真主党领袖：以黎框架协议“无效” 是为耻辱](https://www.zaobao.com/news/world/story20260627-9275938)
+Token length: 698
+Summarized using deepseek-v4-flash
+Append: [青少年社媒禁令加强 澳洲对违规科技公司罚款加倍](https://www.zaobao.com/news/world/story20260627-9275839)
+Token length: 1196
+Summarized using deepseek-v4-flash
+Append: [美以黎签框架协议 推动以军移交黎南控制区解除真主党武装](https://www.zaobao.com/news/world/story20260627-9275579)
+Append: [商船接连遇袭 霍尔木兹海峡威胁等级上调](https://www.zaobao.com/news/world/story20260627-9275790)
+Append: [委内瑞拉双强震近千人罹难 黄金救援期将尽逾5万人失踪](https://www.zaobao.com/news/world/story20260627-9275868)
+append_entries: 7
+Finish: 2026-06-27 15:06:57.751821
