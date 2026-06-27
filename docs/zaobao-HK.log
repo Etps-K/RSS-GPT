@@ -6716,3 +6716,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-27 16:53:06.959612
+------------------------------------------------------
+Started: 2026-06-27 18:59:56.523887
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 728
+Summarized using deepseek-v4-flash
+Append: [北京小飞机撞击高楼事故致一死13伤 官方正进一步调查](https://www.zaobao.com/news/china/story20260628-9276063)
+append_entries: 1
+Finish: 2026-06-27 19:00:00.995512
