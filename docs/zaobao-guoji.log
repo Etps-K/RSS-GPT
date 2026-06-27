@@ -6410,3 +6410,15 @@ Append: [商船接连遇袭 霍尔木兹海峡威胁等级上调](https://www.za
 Append: [委内瑞拉双强震近千人罹难 黄金救援期将尽逾5万人失踪](https://www.zaobao.com/news/world/story20260627-9275868)
 append_entries: 7
 Finish: 2026-06-27 15:06:57.751821
+------------------------------------------------------
+Started: 2026-06-27 16:53:07.968647
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 416
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震废墟中 一新生儿获救](https://www.zaobao.com/news/world/story20260627-9276122)
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [中非共和国暴发霍乱疫情 24人死亡](https://www.zaobao.com/news/world/story20260627-9276076)
+append_entries: 2
+Finish: 2026-06-27 16:53:18.889758
