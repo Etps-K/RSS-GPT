@@ -6338,3 +6338,21 @@ Summarized using deepseek-v4-flash
 Append: [特朗普威胁对征数码税国家商品征100%关税](https://www.zaobao.com/news/world/story20260627-9273376)
 append_entries: 5
 Finish: 2026-06-27 05:47:30.243493
+------------------------------------------------------
+Started: 2026-06-27 08:23:46.633243
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 192
+Summarized using deepseek-v4-flash
+Append: [巴伊外长讨论地区局势 承诺继续保持密切沟通](https://www.zaobao.com/news/world/story20260627-9274645)
+Token length: 308
+Summarized using deepseek-v4-flash
+Append: [韩国70多岁男子持镰刀伤人 潜逃10小时后落网](https://www.zaobao.com/news/world/story20260627-9274439)
+Token length: 266
+Summarized using deepseek-v4-flash
+Append: [德国气温飙至41.3摄氏度 创历史新高](https://www.zaobao.com/news/world/story20260627-9274315)
+Token length: 412
+Summarized using deepseek-v4-flash
+Append: [伊朗称美军袭击未造成损失 锡里克港运营正常](https://www.zaobao.com/news/world/story20260627-9274108)
+append_entries: 4
+Finish: 2026-06-27 08:24:08.866112
