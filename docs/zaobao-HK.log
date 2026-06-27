@@ -6731,3 +6731,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-27 20:46:48.396472
+------------------------------------------------------
+Started: 2026-06-27 22:51:21.328152
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 246
+Summarized using deepseek-v4-flash
+Append: [中国特稿：人口在减少 腰围在增大 中国全民体重管理在路上](https://www.zaobao.com/news/china/story20260628-9261826)
+append_entries: 1
+Finish: 2026-06-27 22:51:28.256280

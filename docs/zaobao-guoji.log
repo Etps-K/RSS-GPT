@@ -6437,3 +6437,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-27 20:46:49.475555
+------------------------------------------------------
+Started: 2026-06-27 22:51:29.096330
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 159
+Summarized using deepseek-v4-flash
+Append: [国际特稿：内斗激烈外斗不止 美国跨越250年门槛 与立国理想渐行渐远？](https://www.zaobao.com/news/world/story20260628-9253572)
+append_entries: 1
+Finish: 2026-06-27 22:51:32.822597
