@@ -6356,3 +6356,25 @@ Summarized using deepseek-v4-flash
 Append: [伊朗称美军袭击未造成损失 锡里克港运营正常](https://www.zaobao.com/news/world/story20260627-9274108)
 append_entries: 4
 Finish: 2026-06-27 08:24:08.866112
+------------------------------------------------------
+Started: 2026-06-27 11:18:17.283737
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 433
+Summarized using deepseek-v4-flash
+Append: [特朗普推限量版“爱国者护照” 肖像首登美国旅行证件内页](https://www.zaobao.com/news/world/story20260627-9275312)
+Token length: 617
+Summarized using deepseek-v4-flash
+Append: [乌无人机封锁克里米亚 普京“战略资产”变战争负担](https://www.zaobao.com/news/world/story20260627-9274839)
+Token length: 651
+Summarized using deepseek-v4-flash
+Append: [AI泡沫忧虑升温 专家警告破裂冲击恐甚于历次股灾](https://www.zaobao.com/news/world/story20260627-9275291)
+Token length: 910
+Summarized using deepseek-v4-flash
+Append: [IMF首席经济师：全球化未终结 而是绕过美国找新出路](https://www.zaobao.com/news/world/story20260627-9274904)
+Token length: 717
+Summarized using deepseek-v4-flash
+Append: [极端热浪横扫欧洲 多国医疗系统与基础设施告急](https://www.zaobao.com/news/world/story20260627-9274861)
+Append: [伊朗强烈谴责美军空袭 袭击美军相关目标以示报复](https://www.zaobao.com/news/world/story20260627-9274900)
+append_entries: 6
+Finish: 2026-06-27 11:18:48.885923
