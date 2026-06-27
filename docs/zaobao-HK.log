@@ -6725,3 +6725,9 @@ Summarized using deepseek-v4-flash
 Append: [北京小飞机撞击高楼事故致一死13伤 官方正进一步调查](https://www.zaobao.com/news/china/story20260628-9276063)
 append_entries: 1
 Finish: 2026-06-27 19:00:00.995512
+------------------------------------------------------
+Started: 2026-06-27 20:46:48.272117
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-27 20:46:48.396472
