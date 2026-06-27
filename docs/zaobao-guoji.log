@@ -6296,3 +6296,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-26 22:57:31.177793
+------------------------------------------------------
+Started: 2026-06-27 01:56:56.067329
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 645
+Summarized using deepseek-v4-flash
+Append: [标普确认美国AA+评级 展望维持稳定](https://www.zaobao.com/news/world/story20260627-9273231)
+Token length: 241
+Summarized using deepseek-v4-flash
+Append: [美国允许Anthropic向“可信任”合作伙伴发布Mythos模型](https://www.zaobao.com/news/world/story20260627-9273198)
+Token length: 351
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称打击区内美军据点 回应美军新一轮袭击](https://www.zaobao.com/news/world/story20260627-9273151)
+Token length: 682
+Summarized using deepseek-v4-flash
+Append: [以黎美达成框架协议 鲁比奥：为解除真主党武装制定路线图](https://www.zaobao.com/news/world/story20260627-9273114)
+Token length: 470
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡货船遇袭后 美军报复打击伊朗](https://www.zaobao.com/news/world/story20260627-9273066)
+append_entries: 5
+Finish: 2026-06-27 01:57:21.941419

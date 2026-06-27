@@ -6602,3 +6602,24 @@ Existing_entries: 1002
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-26 22:57:30.253736
+------------------------------------------------------
+Started: 2026-06-27 01:56:32.807218
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 575
+Summarized using deepseek-v4-flash
+Append: [台媒：韩国瑜结束访美前与众院议长会面](https://www.zaobao.com/news/china/story20260627-9273255)
+Token length: 945
+Summarized using deepseek-v4-flash
+Append: [重庆公安局长张安疆因病去世 全国人大终止代表资格时未哀悼](https://www.zaobao.com/news/china/story20260627-9273238)
+Token length: 357
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉强震中国公民遇难人数增至七人](https://www.zaobao.com/news/china/story20260627-9273209)
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [中国公安部反恐专员岳修虎任国家发改委副主任](https://www.zaobao.com/news/china/story20260627-9273141)
+Token length: 244
+Summarized using deepseek-v4-flash
+Append: [中组部副部长张光军履新科技部副部长](https://www.zaobao.com/news/china/story20260627-9273127)
+append_entries: 5
+Finish: 2026-06-27 01:56:55.089983
