@@ -6317,3 +6317,24 @@ Summarized using deepseek-v4-flash
 Append: [霍尔木兹海峡货船遇袭后 美军报复打击伊朗](https://www.zaobao.com/news/world/story20260627-9273066)
 append_entries: 5
 Finish: 2026-06-27 01:57:21.941419
+------------------------------------------------------
+Started: 2026-06-27 05:47:04.069008
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 289
+Summarized using deepseek-v4-flash
+Append: [恶劣天气肆虐 新西兰数千人断电](https://www.zaobao.com/news/world/story20260627-9273988)
+Token length: 182
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦发生5.4级地震 暂无伤亡报告](https://www.zaobao.com/news/world/story20260627-9273805)
+Token length: 256
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震死亡人数快破千 失踪人数超过5万](https://www.zaobao.com/news/world/story20260627-9273756)
+Token length: 346
+Summarized using deepseek-v4-flash
+Append: [伊朗高级官员：特朗普不遵守谈判和停火原则](https://www.zaobao.com/news/world/story20260627-9273516)
+Token length: 546
+Summarized using deepseek-v4-flash
+Append: [特朗普威胁对征数码税国家商品征100%关税](https://www.zaobao.com/news/world/story20260627-9273376)
+append_entries: 5
+Finish: 2026-06-27 05:47:30.243493

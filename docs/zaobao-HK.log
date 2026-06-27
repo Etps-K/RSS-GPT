@@ -6623,3 +6623,27 @@ Summarized using deepseek-v4-flash
 Append: [中组部副部长张光军履新科技部副部长](https://www.zaobao.com/news/china/story20260627-9273127)
 append_entries: 5
 Finish: 2026-06-27 01:56:55.089983
+------------------------------------------------------
+Started: 2026-06-27 05:46:34.148896
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 572
+Summarized using deepseek-v4-flash
+Append: [深圳两私募机构涉利益输送被罚逾5800万人民币](https://www.zaobao.com/news/china/story20260627-9273823)
+Token length: 344
+Summarized using deepseek-v4-flash
+Append: [英媒：苹果寻求获准从长鑫存储购买晶片](https://www.zaobao.com/news/china/story20260627-9273964)
+Token length: 1089
+Summarized using deepseek-v4-flash
+Append: [蔡英文访意大利出席全球女性领袖峰会 与希拉莉并肩合影](https://www.zaobao.com/news/china/story20260627-9273952)
+Token length: 564
+Summarized using deepseek-v4-flash
+Append: [谌贻琴：全力做好高校毕业生农民工等重点群体就业](https://www.zaobao.com/news/china/story20260627-9273818)
+Token length: 358
+Summarized using deepseek-v4-flash
+Append: [中国工业利润增5月稍微减缓但仍保持双位数](https://www.zaobao.com/news/china/story20260627-9273671)
+Append: [中国东航拟向空客购买25架飞机](https://www.zaobao.com/news/china/story20260627-9273517)
+Append: [中国官方：山西煤矿领域非法违法问题依然严重](https://www.zaobao.com/news/china/story20260627-9273514)
+Append: [美国禁止进口更多中国科技产品](https://www.zaobao.com/news/china/story20260627-9273384)
+append_entries: 8
+Finish: 2026-06-27 05:47:03.084206
