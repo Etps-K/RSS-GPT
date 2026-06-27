@@ -6378,3 +6378,12 @@ Append: [极端热浪横扫欧洲 多国医疗系统与基础设施告急](https
 Append: [伊朗强烈谴责美军空袭 袭击美军相关目标以示报复](https://www.zaobao.com/news/world/story20260627-9274900)
 append_entries: 6
 Finish: 2026-06-27 11:18:48.885923
+------------------------------------------------------
+Started: 2026-06-27 13:03:44.062234
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 213
+Summarized using deepseek-v4-flash
+Append: [一油轮在霍尔木兹海峡遭“不明投射物”击中](https://www.zaobao.com/news/world/story20260627-9275398)
+append_entries: 1
+Finish: 2026-06-27 13:03:47.819560
