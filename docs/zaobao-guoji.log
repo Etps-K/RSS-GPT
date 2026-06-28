@@ -6568,3 +6568,9 @@ Summarized using deepseek-v4-flash
 Append: [委内瑞拉强震：黄金72小时已过搜救希望渐渺 官方反应迟缓引民怨](https://www.zaobao.com/news/world/story20260628-9279446)
 append_entries: 2
 Finish: 2026-06-28 16:55:34.777981
+------------------------------------------------------
+Started: 2026-06-28 18:58:52.746163
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-28 18:58:52.853222
