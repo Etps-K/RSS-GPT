@@ -6556,3 +6556,15 @@ Append: [伊朗外长：霍尔木兹海峡交通管理是伊朗责任](https://w
 Append: [乌克兰无人机夜袭俄罗斯两座炼油厂](https://www.zaobao.com/news/world/story20260628-9278338)
 append_entries: 8
 Finish: 2026-06-28 15:09:34.657428
+------------------------------------------------------
+Started: 2026-06-28 16:55:24.481427
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 708
+Summarized using deepseek-v4-flash
+Append: [特朗普谈判爱拉锯 分析称恐成“不成交的艺术”](https://www.zaobao.com/news/world/story20260628-9278792)
+Token length: 1174
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉强震：黄金72小时已过搜救希望渐渺 官方反应迟缓引民怨](https://www.zaobao.com/news/world/story20260628-9279446)
+append_entries: 2
+Finish: 2026-06-28 16:55:34.777981

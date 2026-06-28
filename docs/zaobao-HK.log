@@ -6843,3 +6843,12 @@ Existing_entries: 1004
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-28 15:09:07.049458
+------------------------------------------------------
+Started: 2026-06-28 16:55:18.517972
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1145
+Summarized using deepseek-v4-flash
+Append: [河南省提级调查冷冻货车集体跨省偏航查扣案 分析：比“远洋捕捞”更恶劣](https://www.zaobao.com/news/china/story20260628-9279142)
+append_entries: 1
+Finish: 2026-06-28 16:55:23.658438
