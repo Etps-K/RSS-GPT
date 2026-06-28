@@ -6510,3 +6510,25 @@ Summarized using deepseek-v4-flash
 Append: [热浪席卷法国 死亡人数比预期多约1000人](https://www.zaobao.com/news/world/story20260628-9277973)
 append_entries: 5
 Finish: 2026-06-28 10:19:35.344036
+------------------------------------------------------
+Started: 2026-06-28 13:09:08.859647
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 462
+Summarized using deepseek-v4-flash
+Append: [为填补太平洋防卫空白 日本拟发展对舰攻击无人潜艇](https://www.zaobao.com/news/world/story20260628-9278844)
+Token length: 505
+Summarized using deepseek-v4-flash
+Append: [特朗普孙女“开箱”白宫私人区 网民质疑滥用特权](https://www.zaobao.com/news/world/story20260628-9278593)
+Token length: 198
+Summarized using deepseek-v4-flash
+Append: [伦敦购物街汽车撞人致五伤 34岁男子涉谋杀未遂被捕](https://www.zaobao.com/news/world/story20260628-9278630)
+Token length: 836
+Summarized using deepseek-v4-flash
+Append: [韩日重申朝鲜半岛无核化承诺 商定加强防务合作](https://www.zaobao.com/news/world/story20260628-9278322)
+Token length: 920
+Summarized using deepseek-v4-flash
+Append: [竞争激烈考试压力大 AI智能眼镜助长作弊风气](https://www.zaobao.com/news/world/story20260628-9278651)
+Append: [向18岁女儿供酒后乱伦 美国狼父仅判一年引不满](https://www.zaobao.com/news/world/story20260628-9278254)
+append_entries: 6
+Finish: 2026-06-28 13:09:32.007313
