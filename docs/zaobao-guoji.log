@@ -6446,3 +6446,28 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：内斗激烈外斗不止 美国跨越250年门槛 与立国理想渐行渐远？](https://www.zaobao.com/news/world/story20260628-9253572)
 append_entries: 1
 Finish: 2026-06-27 22:51:32.822597
+------------------------------------------------------
+Started: 2026-06-28 02:07:45.964797
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1344
+Summarized using deepseek-v4-flash
+Append: [欧洲热浪继续肆虐 多地气温超40摄氏度](https://www.zaobao.com/news/world/story20260628-9276892)
+Token length: 587
+Summarized using deepseek-v4-flash
+Append: [袭击美国中东军事基地 伊朗：美国将经历“地狱般”考验](https://www.zaobao.com/news/world/story20260628-9276743)
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [阿根廷总统米莱亲信 陷贪腐丑闻宣布辞职](https://www.zaobao.com/news/world/story20260628-9276718)
+Token length: 783
+Summarized using deepseek-v4-flash
+Append: [塞尔维亚总统武契奇宣布数周后辞职](https://www.zaobao.com/news/world/story20260628-9276599)
+Token length: 479
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡：10月大选后 望组建广泛的联合政府](https://www.zaobao.com/news/world/story20260628-9276579)
+Append: [黎总统与特朗普通话 盼美促以方从黎南撤军](https://www.zaobao.com/news/world/story20260628-9276561)
+Append: [内坦亚胡称框架协议是历史成就 对伊朗和真主党造成打击](https://www.zaobao.com/news/world/story20260628-9276551)
+Append: [一油轮遭袭 美国再次对伊朗发动打击](https://www.zaobao.com/news/world/story20260628-9276520)
+Append: [日本岩手县附近海域发生6.1级地震](https://www.zaobao.com/news/world/story20260628-9276503)
+append_entries: 9
+Finish: 2026-06-28 02:08:13.926099

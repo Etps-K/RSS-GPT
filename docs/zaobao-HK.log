@@ -6740,3 +6740,27 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：人口在减少 腰围在增大 中国全民体重管理在路上](https://www.zaobao.com/news/china/story20260628-9261826)
 append_entries: 1
 Finish: 2026-06-27 22:51:28.256280
+------------------------------------------------------
+Started: 2026-06-28 02:07:17.399917
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [辽宁舰载歼15T远海训练 中国官媒指日舰靠得特别近](https://www.zaobao.com/news/china/story20260628-9276859)
+Token length: 665
+Summarized using deepseek-v4-flash
+Append: [韩国瑜总结访美：美国强烈支持台湾民主](https://www.zaobao.com/news/china/story20260628-9276806)
+Token length: 575
+Summarized using deepseek-v4-flash
+Append: [曾任矿难地沁源县一把手 山西长治原副市长王玉圣落马](https://www.zaobao.com/news/china/story20260628-9276749)
+Token length: 881
+Summarized using deepseek-v4-flash
+Append: [DeepSeek更新V4版AI模型 推理速度最高提升85%](https://www.zaobao.com/news/china/story20260628-9276700)
+Token length: 427
+Summarized using deepseek-v4-flash
+Append: [中社部成立成立三年多来“首虎” 副部长贺志亮任上被查](https://www.zaobao.com/news/china/story20260628-9276638)
+Append: [中国政府顾问呼吁解决经济失衡问题](https://www.zaobao.com/news/china/story20260628-9276630)
+Append: [律协：坚决拥护中共领导和社会主义法治](https://www.zaobao.com/news/china/story20260628-9276490)
+Append: [委地震中国公民遇难人数升至八人](https://www.zaobao.com/news/china/story20260628-9276459)
+append_entries: 8
+Finish: 2026-06-28 02:07:44.979326
