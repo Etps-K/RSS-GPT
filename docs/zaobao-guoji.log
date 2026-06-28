@@ -6471,3 +6471,21 @@ Append: [一油轮遭袭 美国再次对伊朗发动打击](https://www.zaobao.c
 Append: [日本岩手县附近海域发生6.1级地震](https://www.zaobao.com/news/world/story20260628-9276503)
 append_entries: 9
 Finish: 2026-06-28 02:08:13.926099
+------------------------------------------------------
+Started: 2026-06-28 07:42:12.450546
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 445
+Summarized using deepseek-v4-flash
+Append: [美墨工厂生产“无菌苍蝇” 对抗可致牛只死亡的害虫](https://www.zaobao.com/news/world/story20260628-9277887)
+Token length: 325
+Summarized using deepseek-v4-flash
+Append: [韩日防长重申 承诺对朝鲜半岛无核化](https://www.zaobao.com/news/world/story20260628-9277674)
+Token length: 855
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震死亡人数增至1430人](https://www.zaobao.com/news/world/story20260628-9277322)
+Token length: 864
+Summarized using deepseek-v4-flash
+Append: [澳洲：违反儿童社媒禁令 公司最高可罚9900万澳元](https://www.zaobao.com/news/world/story20260628-9277139)
+append_entries: 4
+Finish: 2026-06-28 07:42:33.623992
