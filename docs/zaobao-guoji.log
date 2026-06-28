@@ -6489,3 +6489,24 @@ Summarized using deepseek-v4-flash
 Append: [澳洲：违反儿童社媒禁令 公司最高可罚9900万澳元](https://www.zaobao.com/news/world/story20260628-9277139)
 append_entries: 4
 Finish: 2026-06-28 07:42:33.623992
+------------------------------------------------------
+Started: 2026-06-28 10:19:08.824118
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 501
+Summarized using deepseek-v4-flash
+Append: [买瓶水也被提示付小费 世界杯外国球迷直呼吃不消](https://www.zaobao.com/news/world/story20260628-9278401)
+Token length: 482
+Summarized using deepseek-v4-flash
+Append: [研究：走动五分钟就可缓解久坐办公疲累](https://www.zaobao.com/news/world/story20260628-9256692)
+Token length: 813
+Summarized using deepseek-v4-flash
+Append: [【图集】热浪熔炉：欧洲近2亿人遭破纪录高温“烤验”](https://www.zaobao.com/news/world/story20260628-9278191)
+Token length: 554
+Summarized using deepseek-v4-flash
+Append: [迟到两分钟寒门女痛失医考资格 印度清贫父绝望撞门](https://www.zaobao.com/news/world/story20260628-9277995)
+Token length: 315
+Summarized using deepseek-v4-flash
+Append: [热浪席卷法国 死亡人数比预期多约1000人](https://www.zaobao.com/news/world/story20260628-9277973)
+append_entries: 5
+Finish: 2026-06-28 10:19:35.344036
