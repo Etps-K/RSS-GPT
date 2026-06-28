@@ -6864,3 +6864,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-28 20:49:21.914171
+------------------------------------------------------
+Started: 2026-06-28 22:51:27.642966
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 467
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：解放军反腐持续扩围](https://www.zaobao.com/news/china/story20260629-9279304)
+append_entries: 1
+Finish: 2026-06-28 22:51:31.602839
