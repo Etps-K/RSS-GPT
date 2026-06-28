@@ -6837,3 +6837,9 @@ Summarized using deepseek-v4-flash
 Append: [赖清德：金曲奖再一次听见台湾音乐的丰富与自由](https://www.zaobao.com/news/china/story20260628-9277976)
 append_entries: 4
 Finish: 2026-06-28 13:09:08.043241
+------------------------------------------------------
+Started: 2026-06-28 15:09:06.929833
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-28 15:09:07.049458

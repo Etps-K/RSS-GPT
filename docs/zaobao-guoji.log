@@ -6532,3 +6532,27 @@ Append: [竞争激烈考试压力大 AI智能眼镜助长作弊风气](https://w
 Append: [向18岁女儿供酒后乱伦 美国狼父仅判一年引不满](https://www.zaobao.com/news/world/story20260628-9278254)
 append_entries: 6
 Finish: 2026-06-28 13:09:32.007313
+------------------------------------------------------
+Started: 2026-06-28 15:09:08.030824
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1282
+Summarized using deepseek-v4-flash
+Append: [美伊互袭波及科威特巴林 特朗普再威胁摧毁伊朗](https://www.zaobao.com/news/world/story20260628-9279225)
+Token length: 737
+Summarized using deepseek-v4-flash
+Append: [养生还是养病？每天吞多种保健品 恐更伤身](https://www.zaobao.com/news/world/story20260628-9278426)
+Token length: 1083
+Summarized using deepseek-v4-flash
+Append: [日本东北地区频震 专家：有必要警惕7.5至8级大地震和海啸](https://www.zaobao.com/news/world/story20260628-9279277)
+Token length: 156
+Summarized using deepseek-v4-flash
+Append: [普京：俄罗斯正经历困难时期 但也学到很多](https://www.zaobao.com/news/world/story20260628-9279384)
+Token length: 1131
+Summarized using deepseek-v4-flash
+Append: [欧洲热浪持续肆虐 多国气温再攀新高](https://www.zaobao.com/news/world/story20260628-9278653)
+Append: [澳洲7月起扩大悉尼海滩无人机鲨鱼监测范围](https://www.zaobao.com/news/world/story20260628-9279161)
+Append: [伊朗外长：霍尔木兹海峡交通管理是伊朗责任](https://www.zaobao.com/news/world/story20260628-9279164)
+Append: [乌克兰无人机夜袭俄罗斯两座炼油厂](https://www.zaobao.com/news/world/story20260628-9278338)
+append_entries: 8
+Finish: 2026-06-28 15:09:34.657428
