@@ -5113,3 +5113,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
 append_entries: 1
 Finish: 2026-06-29 02:07:55.756918
+------------------------------------------------------
+Started: 2026-06-29 08:46:24.737727
+Existing_entries: 276
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [在格鲁吉亚的大地上：徒步篇](https://sspai.com/post/111369)
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失](https://sspai.com/post/111462)
+append_entries: 2
+Finish: 2026-06-29 08:46:45.007174

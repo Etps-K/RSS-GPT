@@ -6601,3 +6601,30 @@ Summarized using deepseek-v4-flash
 Append: [消息：美国伊朗同意停止相互攻击 重启对话](https://www.zaobao.com/news/world/story20260629-9280034)
 append_entries: 3
 Finish: 2026-06-29 02:08:41.875659
+------------------------------------------------------
+Started: 2026-06-29 08:47:09.812704
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 562
+Summarized using deepseek-v4-flash
+Append: [癌症缓解一年多后 凯特王妃24小时登顶英国三高峰](https://www.zaobao.com/news/world/story20260629-9282052)
+Token length: 180
+Summarized using deepseek-v4-flash
+Append: [巴黎雷暴交加 闪电击中埃菲尔铁塔](https://www.zaobao.com/news/world/story20260629-9282309)
+Token length: 515
+Summarized using deepseek-v4-flash
+Append: [韩国男性全职家庭主夫 人数达历史新高](https://www.zaobao.com/news/world/story20260629-9282268)
+Token length: 406
+Summarized using deepseek-v4-flash
+Append: [日本议员：爱子公主不可能当天皇](https://www.zaobao.com/news/world/story20260629-9282224)
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [日本旅游胜地箱根 计划征收住宿税](https://www.zaobao.com/news/world/story20260629-9281366)
+Append: [“坚毅之龙”日美联合射击训练向媒体开放](https://www.zaobao.com/news/world/story20260629-9281008)
+Append: [澳洲与瓦努阿图签安全协议 禁在该岛国设外国军事基地](https://www.zaobao.com/news/world/story20260629-9281235)
+Append: [普京承认乌克兰空袭导致俄罗斯出现燃料短缺](https://www.zaobao.com/news/world/story20260629-9280529)
+Append: [英媒：斯塔默考虑角逐北约秘书长职位](https://www.zaobao.com/news/world/story20260629-9280886)
+Append: [伊朗警告：绕开特定霍尔木兹航线 将加剧中东紧张局势](https://www.zaobao.com/news/world/story20260629-9280414)
+Append: [委内瑞拉地震死亡人数近1500人 一对父子四天后获救](https://www.zaobao.com/news/world/story20260629-9280232)
+append_entries: 11
+Finish: 2026-06-29 08:47:31.463488
