@@ -6873,3 +6873,24 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：解放军反腐持续扩围](https://www.zaobao.com/news/china/story20260629-9279304)
 append_entries: 1
 Finish: 2026-06-28 22:51:31.602839
+------------------------------------------------------
+Started: 2026-06-29 02:07:56.653514
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1052
+Summarized using deepseek-v4-flash
+Append: [东风26“裸弹”发射画面首曝光 打击范围覆盖第二岛链](https://www.zaobao.com/news/china/story20260629-9280285)
+Token length: 626
+Summarized using deepseek-v4-flash
+Append: [港媒：合肥数百民众集会抗议建垃圾站](https://www.zaobao.com/news/china/story20260629-9280243)
+Token length: 657
+Summarized using deepseek-v4-flash
+Append: [国台办副主任：两岸民众要从孙中山奋斗历程中汲取智慧和力量](https://www.zaobao.com/news/china/story20260629-9280152)
+Token length: 583
+Summarized using deepseek-v4-flash
+Append: [何立峰四川调研称要加快高水平科技自立自强](https://www.zaobao.com/news/china/story20260629-9280141)
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [四川高县发生5.5级地震13人伤](https://www.zaobao.com/news/china/story20260629-9280040)
+append_entries: 5
+Finish: 2026-06-29 02:08:23.262284

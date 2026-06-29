@@ -6586,3 +6586,18 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-28 22:51:32.586869
+------------------------------------------------------
+Started: 2026-06-29 02:08:24.118479
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 401
+Summarized using deepseek-v4-flash
+Append: [以色列摧毁黎南部真主党地下设施 真主党：以方违反协议](https://www.zaobao.com/news/world/story20260629-9280113)
+Token length: 437
+Summarized using deepseek-v4-flash
+Append: [普京：俄罗斯准备继续与美国讨论乌克兰问题](https://www.zaobao.com/news/world/story20260629-9280085)
+Token length: 398
+Summarized using deepseek-v4-flash
+Append: [消息：美国伊朗同意停止相互攻击 重启对话](https://www.zaobao.com/news/world/story20260629-9280034)
+append_entries: 3
+Finish: 2026-06-29 02:08:41.875659
