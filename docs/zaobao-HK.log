@@ -6999,3 +6999,9 @@ Summarized using deepseek-v4-flash
 Append: [缪宗翰：一架小飞机撞出的风险](https://www.zaobao.com/news/china/story20260630-9283114)
 append_entries: 1
 Finish: 2026-06-29 21:15:24.112307
+------------------------------------------------------
+Started: 2026-06-29 22:44:30.406611
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-29 22:44:30.543287
