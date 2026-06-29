@@ -6657,3 +6657,21 @@ Append: [伊朗称在卡塔尔77亿元资产将解冻](https://www.zaobao.com/ne
 Append: [欧盟总部热浪中关冷气 “高官有低层无”惹员工不满](https://www.zaobao.com/news/world/story20260629-9282241)
 append_entries: 13
 Finish: 2026-06-29 13:57:37.704816
+------------------------------------------------------
+Started: 2026-06-29 16:50:05.935272
+Existing_entries: 1013
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 481
+Summarized using deepseek-v4-flash
+Append: [【图集】余震再袭委内瑞拉 搜救进入关键时刻](https://www.zaobao.com/news/world/story20260629-9284870)
+Token length: 1069
+Summarized using deepseek-v4-flash
+Append: [日本推出新机制扩大对外资审核力度 强化经济安全](https://www.zaobao.com/news/world/story20260629-9284487)
+Token length: 480
+Summarized using deepseek-v4-flash
+Append: [英美烟草推AI降本计划 裁员5500人另转移3500岗位](https://www.zaobao.com/news/world/story20260629-9282782)
+Token length: 881
+Summarized using deepseek-v4-flash
+Append: [想居家办公？研究：老板越自恋越难点头](https://www.zaobao.com/news/world/story20260629-9284307)
+append_entries: 4
+Finish: 2026-06-29 16:50:28.357223
