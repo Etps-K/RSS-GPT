@@ -6984,3 +6984,9 @@ Summarized using deepseek-v4-flash
 Append: [沈阳警方称网红恶意曲解袁隆平科研成果 已被刑拘](https://www.zaobao.com/news/china/story20260629-9284321)
 append_entries: 4
 Finish: 2026-06-29 16:50:05.061002
+------------------------------------------------------
+Started: 2026-06-29 19:29:45.805690
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-29 19:29:46.001111

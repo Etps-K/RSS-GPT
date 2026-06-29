@@ -6675,3 +6675,15 @@ Summarized using deepseek-v4-flash
 Append: [想居家办公？研究：老板越自恋越难点头](https://www.zaobao.com/news/world/story20260629-9284307)
 append_entries: 4
 Finish: 2026-06-29 16:50:28.357223
+------------------------------------------------------
+Started: 2026-06-29 19:29:46.965876
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1209
+Summarized using deepseek-v4-flash
+Append: [美伊同意恢复谈判 或周二在多哈举行](https://www.zaobao.com/news/world/story20260629-9284595)
+Token length: 481
+Summarized using deepseek-v4-flash
+Append: [美国最高法院阻特朗普解雇美联储理事](https://www.zaobao.com/news/world/story20260629-9284906)
+append_entries: 2
+Finish: 2026-06-29 19:29:59.361503
