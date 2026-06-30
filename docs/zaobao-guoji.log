@@ -6742,3 +6742,25 @@ Append: [秘鲁大选险胜 藤森庆子成首位女总统](https://www.zaobao.c
 Append: [调查：韩国跃升金融机构扩张首选地 对中印转趋谨慎](https://www.zaobao.com/news/world/story20260630-9285977)
 append_entries: 9
 Finish: 2026-06-30 07:41:09.447236
+------------------------------------------------------
+Started: 2026-06-30 10:47:06.873758
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 564
+Summarized using deepseek-v4-flash
+Append: [德国6月份失业率有所下降](https://www.zaobao.com/news/world/story20260630-9289476)
+Token length: 939
+Summarized using deepseek-v4-flash
+Append: [日经：美国毕业生因AI难觅职](https://www.zaobao.com/news/world/story20260630-9289463)
+Token length: 611
+Summarized using deepseek-v4-flash
+Append: [美将军：美国与欧洲盟友一起保卫波罗的海国家](https://www.zaobao.com/news/world/story20260630-9289401)
+Token length: 556
+Summarized using deepseek-v4-flash
+Append: [英国斥资85亿元 发展无人机与自主作战系统](https://www.zaobao.com/news/world/story20260630-9288504)
+Token length: 696
+Summarized using deepseek-v4-flash
+Append: [拉加德：欧元区已更能抵御地缘政治冲击](https://www.zaobao.com/news/world/story20260630-9288289)
+Append: [世行放弃将45%贷款资源用于气候变化项目](https://www.zaobao.com/news/world/story20260630-9288197)
+append_entries: 6
+Finish: 2026-06-30 10:47:31.381577
