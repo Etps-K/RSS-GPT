@@ -7133,3 +7133,9 @@ Summarized using deepseek-v4-flash
 Append: [中德时隔10年重启经济合作联委会机制](https://www.zaobao.com/news/china/story20260630-9290918)
 append_entries: 2
 Finish: 2026-06-30 16:13:32.875301
+------------------------------------------------------
+Started: 2026-06-30 19:28:15.719055
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-06-30 19:28:15.858264

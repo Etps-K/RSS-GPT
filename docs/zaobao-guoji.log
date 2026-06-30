@@ -6811,3 +6811,9 @@ Append: [法国5月热浪期间超额死亡人数达300人](https://www.zaobao.c
 Append: [美国伊朗将在多哈会见调解人 伊朗誓言回击](https://www.zaobao.com/news/world/story20260630-9290890)
 append_entries: 7
 Finish: 2026-06-30 16:13:52.037883
+------------------------------------------------------
+Started: 2026-06-30 19:28:16.862416
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-06-30 19:28:16.979658
