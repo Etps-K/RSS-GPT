@@ -7121,3 +7121,15 @@ Append: [【东谈西论】小飞机撞“中国尊”暴露低空风险](https:
 Append: [下午察：谢娜成也流量 败也流量](https://www.zaobao.com/news/china/story20260630-9288919)
 append_entries: 9
 Finish: 2026-06-30 13:50:35.264877
+------------------------------------------------------
+Started: 2026-06-30 16:13:23.589580
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1396
+Summarized using deepseek-v4-flash
+Append: [中欧设定10月期限解决贸易分歧 学者：矛盾难解但有望避免贸易战](https://www.zaobao.com/news/china/story20260630-9290972)
+Token length: 480
+Summarized using deepseek-v4-flash
+Append: [中德时隔10年重启经济合作联委会机制](https://www.zaobao.com/news/china/story20260630-9290918)
+append_entries: 2
+Finish: 2026-06-30 16:13:32.875301

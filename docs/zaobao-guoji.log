@@ -6788,3 +6788,26 @@ Append: [韩国乌克兰就俄乌战争的朝鲜战俘举行会谈](https://www.
 Append: [日本警方调查一起疑似熊袭击致死事件](https://www.zaobao.com/news/world/story20260630-9289794)
 append_entries: 8
 Finish: 2026-06-30 13:51:09.209205
+------------------------------------------------------
+Started: 2026-06-30 16:13:33.550596
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 451
+Summarized using deepseek-v4-flash
+Append: [美国最高法院驳回特朗普限制出生公民权的尝试](https://www.zaobao.com/news/world/story20260630-9291512)
+Token length: 443
+Summarized using deepseek-v4-flash
+Append: [联合国：埃博拉可能让非洲损失36亿美元](https://www.zaobao.com/news/world/story20260630-9291481)
+Token length: 1306
+Summarized using deepseek-v4-flash
+Append: [美伊谈判未定 伊朗：未与美方安排任何会谈](https://www.zaobao.com/news/world/story20260630-9290904)
+Token length: 495
+Summarized using deepseek-v4-flash
+Append: [民调：俄罗斯民众对经济悲观程度达20年来最高](https://www.zaobao.com/news/world/story20260630-9291194)
+Token length: 791
+Summarized using deepseek-v4-flash
+Append: [日本修改皇室法以收“养子”断“女天皇”之路](https://www.zaobao.com/news/world/story20260630-9291072)
+Append: [法国5月热浪期间超额死亡人数达300人](https://www.zaobao.com/news/world/story20260630-9291047)
+Append: [美国伊朗将在多哈会见调解人 伊朗誓言回击](https://www.zaobao.com/news/world/story20260630-9290890)
+append_entries: 7
+Finish: 2026-06-30 16:13:52.037883
