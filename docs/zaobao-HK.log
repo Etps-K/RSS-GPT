@@ -7139,3 +7139,12 @@ Existing_entries: 1002
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-30 19:28:15.858264
+------------------------------------------------------
+Started: 2026-06-30 21:21:26.838433
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1588
+Summarized using deepseek-v4-flash
+Append: [刘柳：住进一套法拍房](https://www.zaobao.com/news/china/story20260701-9290299)
+append_entries: 1
+Finish: 2026-06-30 21:21:33.160388
