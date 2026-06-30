@@ -7005,3 +7005,24 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-29 22:44:30.543287
+------------------------------------------------------
+Started: 2026-06-30 02:02:31.390946
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 792
+Summarized using deepseek-v4-flash
+Append: [涉向大陆出口英伟达晶片 美超微电脑台分司被查](https://www.zaobao.com/news/china/story20260630-9285953)
+Token length: 499
+Summarized using deepseek-v4-flash
+Append: [涉10亿美元诈骗案 中国富商郭文贵在美被判监30年](https://www.zaobao.com/news/china/story20260630-9285872)
+Token length: 1063
+Summarized using deepseek-v4-flash
+Append: [欧盟与中国设定10月期限 解决双边贸易分歧](https://www.zaobao.com/news/china/story20260630-9285846)
+Token length: 405
+Summarized using deepseek-v4-flash
+Append: [中韩自贸协定第二阶段谈判 提出进一步提升服务投资开放水平](https://www.zaobao.com/news/china/story20260630-9285792)
+Token length: 358
+Summarized using deepseek-v4-flash
+Append: [习近平李强赵乐际等出席庆祝中共成立105周年音乐会](https://www.zaobao.com/news/china/story20260630-9285691)
+append_entries: 5
+Finish: 2026-06-30 02:03:01.345671
