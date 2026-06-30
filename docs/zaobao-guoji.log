@@ -6717,3 +6717,28 @@ Summarized using deepseek-v4-flash
 Append: [特朗普称美伊将在多哈会谈 伊朗予以否认](https://www.zaobao.com/news/world/story20260630-9285478)
 append_entries: 4
 Finish: 2026-06-30 02:03:23.107877
+------------------------------------------------------
+Started: 2026-06-30 07:40:42.054957
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 168
+Summarized using deepseek-v4-flash
+Append: [印度东部炼化厂发生火灾 约20人受伤](https://www.zaobao.com/news/world/story20260630-9287692)
+Token length: 314
+Summarized using deepseek-v4-flash
+Append: [特朗普警告汽油商降油价 否则将面临“大问题”](https://www.zaobao.com/news/world/story20260630-9287476)
+Token length: 116
+Summarized using deepseek-v4-flash
+Append: [伊朗边境武装冲突 两名革命卫队成员身亡](https://www.zaobao.com/news/world/story20260630-9287249)
+Token length: 411
+Summarized using deepseek-v4-flash
+Append: [韩国一季度对外直接投资额同比增36%](https://www.zaobao.com/news/world/story20260630-9286905)
+Token length: 221
+Summarized using deepseek-v4-flash
+Append: [白罗斯气温首次突破40摄氏度](https://www.zaobao.com/news/world/story20260630-9286882)
+Append: [WhatsApp将提供用户名 无须向联系人透露电话号码](https://www.zaobao.com/news/world/story20260630-9286568)
+Append: [美最高法院重大裁决 扩大总统解雇联邦独立机构官员权力](https://www.zaobao.com/news/world/story20260630-9286329)
+Append: [秘鲁大选险胜 藤森庆子成首位女总统](https://www.zaobao.com/news/world/story20260630-9285908)
+Append: [调查：韩国跃升金融机构扩张首选地 对中印转趋谨慎](https://www.zaobao.com/news/world/story20260630-9285977)
+append_entries: 9
+Finish: 2026-06-30 07:41:09.447236

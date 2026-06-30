@@ -5167,3 +5167,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：DeepSeek V4 正式版 7 月中旬上线等](https://sspai.com/post/111707)
 append_entries: 1
 Finish: 2026-06-30 02:02:30.764284
+------------------------------------------------------
+Started: 2026-06-30 07:40:04.597158
+Existing_entries: 280
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机](https://sspai.com/post/111706)
+append_entries: 1
+Finish: 2026-06-30 07:40:11.849008
