@@ -7289,3 +7289,9 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：中国出口“生不逢时”？](https://www.zaobao.com/news/china/story20260702-9290929)
 append_entries: 1
 Finish: 2026-07-01 21:14:49.366842
+------------------------------------------------------
+Started: 2026-07-01 22:59:25.968152
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-01 22:59:26.098162
