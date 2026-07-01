@@ -5218,3 +5218,12 @@ Existing_entries: 283
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-06-30 23:01:36.161576
+------------------------------------------------------
+Started: 2026-07-01 02:07:34.084725
+Existing_entries: 283
+Fetching from https://sspai.com/feed
+Token length: 97
+Summarized using deepseek-v4-flash
+Append: [派早报：Google 推出 Eclipsa Video 视频标准等](https://sspai.com/post/111773)
+append_entries: 1
+Finish: 2026-07-01 02:07:45.503936

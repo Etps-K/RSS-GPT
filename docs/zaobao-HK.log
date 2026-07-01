@@ -7154,3 +7154,26 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-06-30 23:01:37.230565
+------------------------------------------------------
+Started: 2026-07-01 02:07:46.400094
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 534
+Summarized using deepseek-v4-flash
+Append: [贝森特：除中国外 鲜有国家购买伊朗石油](https://www.zaobao.com/news/china/story20260701-9292373)
+Token length: 771
+Summarized using deepseek-v4-flash
+Append: [国民党立委提案加码500亿新台币采购美无人机](https://www.zaobao.com/news/china/story20260701-9292365)
+Token length: 320
+Summarized using deepseek-v4-flash
+Append: [巴拉圭：愿与北京发展贸易关系 但不会放弃与台湾邦交](https://www.zaobao.com/news/china/story20260701-9292254)
+Token length: 876
+Summarized using deepseek-v4-flash
+Append: [美国据报正起草禁令 禁止中国制能源逆变器](https://www.zaobao.com/news/china/story20260701-9292241)
+Token length: 588
+Summarized using deepseek-v4-flash
+Append: [王毅同沙特外长会谈：拼拳头拼不来和平安宁](https://www.zaobao.com/news/china/story20260701-9292145)
+Append: [金正恩形容与习近平会晤是历史性契机](https://www.zaobao.com/news/china/story20260701-9292095)
+Append: [世界银行计划2031年前逐步停止向中国提供贷款](https://www.zaobao.com/news/china/story20260701-9292003)
+append_entries: 7
+Finish: 2026-07-01 02:08:16.516532

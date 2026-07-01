@@ -6829,3 +6829,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-06-30 23:01:38.333622
+------------------------------------------------------
+Started: 2026-07-01 02:08:17.488860
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 131
+Summarized using deepseek-v4-flash
+Append: [日本宫崎县北部附近发生5.1级地震](https://www.zaobao.com/news/world/story20260701-9292269)
+Token length: 726
+Summarized using deepseek-v4-flash
+Append: [特朗普政府料不延长《美墨加协定》 启动10年终止倒计时](https://www.zaobao.com/news/world/story20260701-9292168)
+Token length: 282
+Summarized using deepseek-v4-flash
+Append: [墨西哥加利福尼亚湾海域发生6.1级地震](https://www.zaobao.com/news/world/story20260701-9291866)
+Token length: 791
+Summarized using deepseek-v4-flash
+Append: [消息：阿曼提议与伊朗向霍尔木兹海峡船只收费](https://www.zaobao.com/news/world/story20260701-9292004)
+append_entries: 4
+Finish: 2026-07-01 02:08:48.402599
