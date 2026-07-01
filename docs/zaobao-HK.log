@@ -7249,3 +7249,28 @@ Existing_entries: 1013
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-01 14:01:49.147131
+------------------------------------------------------
+Started: 2026-07-01 17:44:48.841827
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 500
+Summarized using deepseek-v4-flash
+Append: [王毅与鲁比奥通话 指台湾问题牵一发动全身](https://www.zaobao.com/news/china/story20260701-9297935)
+Token length: 2020
+Summarized using deepseek-v4-flash
+Append: [两中将出席党庆与上将并排而坐 显示解放军高层人事升迁](https://www.zaobao.com/news/china/story20260701-9297537)
+Token length: 1497
+Summarized using deepseek-v4-flash
+Append: [习近平中共党庆讲话：准备经受惊涛骇浪考验 誓清除侵蚀党肌体病毒](https://www.zaobao.com/news/china/story20260701-9297586)
+Token length: 647
+Summarized using deepseek-v4-flash
+Append: [强化长效约束 中国券商密集修订薪酬管理制度](https://www.zaobao.com/news/china/story20260701-9297426)
+Token length: 863
+Summarized using deepseek-v4-flash
+Append: [赖清德批在野党提无人机采购条例草案：侵犯行政权](https://www.zaobao.com/news/china/story20260701-9297113)
+Append: [港府与中联办合办党庆活动 学者指中共在港运作将公开化](https://www.zaobao.com/news/china/story20260701-9297278)
+Append: [下午察：“走个面儿”风波里的清算冲动](https://www.zaobao.com/news/china/story20260701-9296637)
+Append: [持续热浪推高需求 中国空调欧洲热销](https://www.zaobao.com/news/china/story20260701-9297131)
+Append: [涉职场霸凌 台经贸总谈判代表杨珍妮遭总统令免职](https://www.zaobao.com/news/china/story20260701-9297330)
+append_entries: 9
+Finish: 2026-07-01 17:45:10.404452

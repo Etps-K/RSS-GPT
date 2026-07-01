@@ -6915,3 +6915,25 @@ Summarized using deepseek-v4-flash
 Append: [朝鲜派兵援俄打乌 传已近半逾7000官兵伤亡](https://www.zaobao.com/news/world/story20260701-9295873)
 append_entries: 3
 Finish: 2026-07-01 14:02:05.385001
+------------------------------------------------------
+Started: 2026-07-01 17:45:11.409633
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [“草莓月”升空 各地共赏夏季首轮满月](https://www.zaobao.com/news/world/story20260701-9298019)
+Token length: 557
+Summarized using deepseek-v4-flash
+Append: [澳洲房产拍卖遇冷 悉尼墨尔本清盘率创多年新低](https://www.zaobao.com/news/world/story20260701-9278699)
+Token length: 542
+Summarized using deepseek-v4-flash
+Append: [美国将在耶路撒冷兴建永久使馆](https://www.zaobao.com/news/world/story20260701-9297443)
+Token length: 714
+Summarized using deepseek-v4-flash
+Append: [塔利班新法令变相承认童婚 联合国批侵蚀女童权利](https://www.zaobao.com/news/world/story20260701-9296681)
+Token length: 1323
+Summarized using deepseek-v4-flash
+Append: [消息：阿曼向美提交海峡收费提案 倡议航运公司自愿缴“服务费”](https://www.zaobao.com/news/world/story20260701-9296886)
+Append: [亚洲人进门脱鞋有道理 实验发现鞋底藏致病细菌](https://www.zaobao.com/news/world/story20260701-9294678)
+append_entries: 6
+Finish: 2026-07-01 17:45:39.560089
