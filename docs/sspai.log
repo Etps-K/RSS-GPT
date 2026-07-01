@@ -5227,3 +5227,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Google 推出 Eclipsa Video 视频标准等](https://sspai.com/post/111773)
 append_entries: 1
 Finish: 2026-07-01 02:07:45.503936
+------------------------------------------------------
+Started: 2026-07-01 08:00:21.420683
+Existing_entries: 284
+Fetching from https://sspai.com/feed
+Token length: 24
+Summarized using deepseek-v4-flash
+Append: [年度报告不够看？微信读书 Skill 上手体验](https://sspai.com/post/109932)
+append_entries: 1
+Finish: 2026-07-01 08:00:27.090962

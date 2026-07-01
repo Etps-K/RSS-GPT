@@ -6847,3 +6847,30 @@ Summarized using deepseek-v4-flash
 Append: [消息：阿曼提议与伊朗向霍尔木兹海峡船只收费](https://www.zaobao.com/news/world/story20260701-9292004)
 append_entries: 4
 Finish: 2026-07-01 02:08:48.402599
+------------------------------------------------------
+Started: 2026-07-01 08:00:53.741960
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 184
+Summarized using deepseek-v4-flash
+Append: [日元兑美元跌破162.80 创近40年新低](https://www.zaobao.com/news/world/story20260701-9294271)
+Token length: 572
+Summarized using deepseek-v4-flash
+Append: [联合国机构警告：刚果（金）伊波拉疫情恐冲击地区经济](https://www.zaobao.com/news/world/story20260701-9294106)
+Token length: 359
+Summarized using deepseek-v4-flash
+Append: [世界大型企业研究会：美国就业市场现疲软迹象](https://www.zaobao.com/news/world/story20260701-9291870)
+Token length: 688
+Summarized using deepseek-v4-flash
+Append: [美军部署逾千名军人支援委内瑞拉救灾](https://www.zaobao.com/news/world/story20260701-9293879)
+Token length: 394
+Summarized using deepseek-v4-flash
+Append: [俄罗斯未成年人犯罪激增 当局要求果断遏制](https://www.zaobao.com/news/world/story20260701-9293402)
+Append: [美国宇航员完成太空行走 更换机械臂故障部件](https://www.zaobao.com/news/world/story20260701-9293301)
+Append: [特朗普申报去年加密货币收入逾14亿美元](https://www.zaobao.com/news/world/story20260701-9293259)
+Append: [伊朗议会委员会主席：美国干涉地区事务时代已结束](https://www.zaobao.com/news/world/story20260701-9292798)
+Append: [以色列前国防军总参谋长启动竞选 挑战内坦亚胡](https://www.zaobao.com/news/world/story20260701-9292611)
+Append: [卡塔尔重申继续扮演美伊谈判协调角色](https://www.zaobao.com/news/world/story20260701-9292402)
+Append: [委内瑞拉地震3岁男童受困废墟六天 奇迹获救](https://www.zaobao.com/news/world/story20260701-9291880)
+append_entries: 11
+Finish: 2026-07-01 08:01:22.970340
