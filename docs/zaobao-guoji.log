@@ -7045,3 +7045,18 @@ Summarized using deepseek-v4-flash
 Append: [美伊完成间接技术磋商未谈核问题 万斯称不保证不恢复全面作战](https://www.zaobao.com/news/world/story20260702-9303465)
 append_entries: 3
 Finish: 2026-07-02 15:58:24.485396
+------------------------------------------------------
+Started: 2026-07-02 17:40:55.519854
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 396
+Summarized using deepseek-v4-flash
+Append: [世卫：洪迪厄斯号相关的汉坦病毒疫情结束](https://www.zaobao.com/news/world/story20260703-9304255)
+Token length: 295
+Summarized using deepseek-v4-flash
+Append: [美国新增非农就业岗位降至四个月来最低](https://www.zaobao.com/news/world/story20260703-9304200)
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [伊朗已故最高领袖哈梅内伊葬礼周末举行 中俄等国政要出席](https://www.zaobao.com/news/world/story20260702-9304126)
+append_entries: 3
+Finish: 2026-07-02 17:41:19.227429

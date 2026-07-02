@@ -7418,3 +7418,12 @@ Summarized using deepseek-v4-flash
 Append: [铜锣湾书店店长林荣基在台北病逝](https://www.zaobao.com/news/china/story20260702-9303786)
 append_entries: 3
 Finish: 2026-07-02 15:58:07.895988
+------------------------------------------------------
+Started: 2026-07-02 17:40:47.780368
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1225
+Summarized using deepseek-v4-flash
+Append: [中国官方定性小飞机撞“中国尊”：个人原因造成的危害公共安全案件](https://www.zaobao.com/news/china/story20260702-9303973)
+append_entries: 1
+Finish: 2026-07-02 17:40:54.525432
