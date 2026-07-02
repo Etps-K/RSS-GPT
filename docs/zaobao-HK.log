@@ -7439,3 +7439,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-02 20:49:52.746648
+------------------------------------------------------
+Started: 2026-07-02 22:54:10.302954
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 224
+Summarized using deepseek-v4-flash
+Append: [韩咏红：中共将把高压反腐持续下去](https://www.zaobao.com/news/china/story20260703-9304194)
+append_entries: 1
+Finish: 2026-07-02 22:54:16.378743
