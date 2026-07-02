@@ -7427,3 +7427,9 @@ Summarized using deepseek-v4-flash
 Append: [中国官方定性小飞机撞“中国尊”：个人原因造成的危害公共安全案件](https://www.zaobao.com/news/china/story20260702-9303973)
 append_entries: 1
 Finish: 2026-07-02 17:40:54.525432
+------------------------------------------------------
+Started: 2026-07-02 19:05:10.017580
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-02 19:05:10.281303

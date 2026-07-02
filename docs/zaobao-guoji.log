@@ -7060,3 +7060,9 @@ Summarized using deepseek-v4-flash
 Append: [伊朗已故最高领袖哈梅内伊葬礼周末举行 中俄等国政要出席](https://www.zaobao.com/news/world/story20260702-9304126)
 append_entries: 3
 Finish: 2026-07-02 17:41:19.227429
+------------------------------------------------------
+Started: 2026-07-02 19:05:11.293039
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-02 19:05:11.449699
