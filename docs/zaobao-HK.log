@@ -7403,3 +7403,18 @@ Append: [6月中国平均气温较常年同期偏高0.3摄氏度](https://www.za
 Append: [秘鲁法院裁定中资钱凯港应接受监管](https://www.zaobao.com/news/china/story20260702-9301854)
 append_entries: 6
 Finish: 2026-07-02 13:25:28.866883
+------------------------------------------------------
+Started: 2026-07-02 15:57:55.351079
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1100
+Summarized using deepseek-v4-flash
+Append: [香港中联办机构调整 学者指北京对港政策转为拼经济](https://www.zaobao.com/news/china/story20260702-9303872)
+Token length: 624
+Summarized using deepseek-v4-flash
+Append: [香港2025年管理资产总值上升20% 写下历史新高](https://www.zaobao.com/news/china/story20260702-9303497)
+Token length: 283
+Summarized using deepseek-v4-flash
+Append: [铜锣湾书店店长林荣基在台北病逝](https://www.zaobao.com/news/china/story20260702-9303786)
+append_entries: 3
+Finish: 2026-07-02 15:58:07.895988

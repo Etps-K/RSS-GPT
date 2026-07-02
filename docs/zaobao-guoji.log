@@ -7030,3 +7030,18 @@ Append: [中美等捐助国仍欠费 联合国资金只能维持到8月底](http
 Append: [日本首相访印度 两国签署多项合作协议](https://www.zaobao.com/news/world/story20260702-9302207)
 append_entries: 8
 Finish: 2026-07-02 13:26:02.811937
+------------------------------------------------------
+Started: 2026-07-02 15:58:08.887794
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 503
+Summarized using deepseek-v4-flash
+Append: [报告：俄借受禁油轮船队 在欧洲以无人机摸排防空弱点](https://www.zaobao.com/news/world/story20260702-9303957)
+Token length: 1285
+Summarized using deepseek-v4-flash
+Append: [高市早苗访印度 推进经济与安全领域战略合作](https://www.zaobao.com/news/world/story20260702-9303628)
+Token length: 973
+Summarized using deepseek-v4-flash
+Append: [美伊完成间接技术磋商未谈核问题 万斯称不保证不恢复全面作战](https://www.zaobao.com/news/world/story20260702-9303465)
+append_entries: 3
+Finish: 2026-07-02 15:58:24.485396
