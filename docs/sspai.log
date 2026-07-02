@@ -5296,3 +5296,12 @@ Summarized using deepseek-v4-flash
 Append: [家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
 append_entries: 1
 Finish: 2026-07-02 06:00:43.465594
+------------------------------------------------------
+Started: 2026-07-02 10:25:42.788491
+Existing_entries: 289
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
+append_entries: 1
+Finish: 2026-07-02 10:25:47.683685

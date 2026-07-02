@@ -6991,3 +6991,18 @@ Summarized using deepseek-v4-flash
 Append: [美正式宣布不续签美墨加协定](https://www.zaobao.com/news/world/story20260702-9298901)
 append_entries: 4
 Finish: 2026-07-02 06:01:44.833561
+------------------------------------------------------
+Started: 2026-07-02 10:26:06.413987
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 446
+Summarized using deepseek-v4-flash
+Append: [俄罗斯：乌克兰可能已使用首枚弹道导弹](https://www.zaobao.com/news/world/story20260702-9301599)
+Token length: 414
+Summarized using deepseek-v4-flash
+Append: [世行：资源丰富的巴布亚新几内亚让国民共享经济增长成果](https://www.zaobao.com/news/world/story20260702-9300603)
+Token length: 346
+Summarized using deepseek-v4-flash
+Append: [俄国防部：对乌发动空袭 报复乌军袭击俄民用设施](https://www.zaobao.com/news/world/story20260702-9300342)
+append_entries: 3
+Finish: 2026-07-02 10:26:18.908055
