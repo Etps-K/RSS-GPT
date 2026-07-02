@@ -5287,3 +5287,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等](https://sspai.com/post/111861)
 append_entries: 1
 Finish: 2026-07-02 02:00:26.369637
+------------------------------------------------------
+Started: 2026-07-02 06:00:33.683588
+Existing_entries: 288
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
+append_entries: 1
+Finish: 2026-07-02 06:00:43.465594

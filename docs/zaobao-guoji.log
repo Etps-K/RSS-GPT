@@ -6973,3 +6973,21 @@ Summarized using deepseek-v4-flash
 Append: [美伊结束多哈技术会谈 万斯：非必要不会重返战场](https://www.zaobao.com/news/world/story20260702-9298514)
 append_entries: 4
 Finish: 2026-07-02 02:01:07.198519
+------------------------------------------------------
+Started: 2026-07-02 06:01:11.495048
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 527
+Summarized using deepseek-v4-flash
+Append: [全日空与日本航空上调7至8月燃油附加费](https://www.zaobao.com/news/world/story20260702-9299771)
+Token length: 346
+Summarized using deepseek-v4-flash
+Append: [俄情侣攀帝国大厦塔尖示爱宣传和平 双双被捕](https://www.zaobao.com/news/world/story20260702-9299322)
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [请人难成本高 韩国商家转向机器人和自助服务](https://www.zaobao.com/news/world/story20260702-9298988)
+Token length: 458
+Summarized using deepseek-v4-flash
+Append: [美正式宣布不续签美墨加协定](https://www.zaobao.com/news/world/story20260702-9298901)
+append_entries: 4
+Finish: 2026-07-02 06:01:44.833561
