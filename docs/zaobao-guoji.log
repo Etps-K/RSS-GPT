@@ -6955,3 +6955,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-01 22:59:27.184224
+------------------------------------------------------
+Started: 2026-07-02 02:00:50.911038
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 396
+Summarized using deepseek-v4-flash
+Append: [7月1日起 日本签证申请费上调五倍](https://www.zaobao.com/news/world/story20260702-9298823)
+Token length: 453
+Summarized using deepseek-v4-flash
+Append: [俄无人机对基辅发动大规模袭击 市中心一酒店起火](https://www.zaobao.com/news/world/story20260702-9298692)
+Token length: 498
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉为地震遇难者举行7天全国哀悼](https://www.zaobao.com/news/world/story20260702-9298605)
+Token length: 705
+Summarized using deepseek-v4-flash
+Append: [美伊结束多哈技术会谈 万斯：非必要不会重返战场](https://www.zaobao.com/news/world/story20260702-9298514)
+append_entries: 4
+Finish: 2026-07-02 02:01:07.198519

@@ -7295,3 +7295,21 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-01 22:59:26.098162
+------------------------------------------------------
+Started: 2026-07-02 02:00:27.297734
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 544
+Summarized using deepseek-v4-flash
+Append: [日本抗议中国海警阻止日海保船在日专属经济区开展作业](https://www.zaobao.com/news/china/story20260702-9298785)
+Token length: 621
+Summarized using deepseek-v4-flash
+Append: [伦敦金属交易所拟放宽仓储规定 提升香港金属枢纽地位](https://www.zaobao.com/news/china/story20260702-9298758)
+Token length: 161
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉强震遇难中国公民增至九人](https://www.zaobao.com/news/china/story20260702-9298671)
+Token length: 275
+Summarized using deepseek-v4-flash
+Append: [中国海军舰艇编队抵达香港](https://www.zaobao.com/news/china/story20260702-9298588)
+append_entries: 4
+Finish: 2026-07-02 02:00:49.906040
