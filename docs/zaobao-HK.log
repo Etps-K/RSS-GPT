@@ -7381,3 +7381,25 @@ Append: [台糖撤销声请 民进党派系大佬吴乃仁仅收押12天获释](
 Append: [助选被媒体质疑是“票房毒药” 郑丽文回呛：你是民进党派来的吗？](https://www.zaobao.com/news/china/story20260702-9300048)
 append_entries: 22
 Finish: 2026-07-02 10:26:05.410093
+------------------------------------------------------
+Started: 2026-07-02 13:24:59.365260
+Existing_entries: 1022
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 636
+Summarized using deepseek-v4-flash
+Append: [立陶宛外交委员会主席：中国倾向就关系正常化谈判](https://www.zaobao.com/news/china/story20260702-9302941)
+Token length: 382
+Summarized using deepseek-v4-flash
+Append: [前深圳市委金融办副主任黄宇任万科新总裁](https://www.zaobao.com/news/china/story20260702-9303395)
+Token length: 1123
+Summarized using deepseek-v4-flash
+Append: [与鲁比奥通话 王毅：台湾问题牵一发动全身](https://www.zaobao.com/news/china/story20260702-9302212)
+Token length: 472
+Summarized using deepseek-v4-flash
+Append: [中国商务部：中美原则同意降低部分农产品对等关税](https://www.zaobao.com/news/china/story20260702-9303152)
+Token length: 340
+Summarized using deepseek-v4-flash
+Append: [6月中国平均气温较常年同期偏高0.3摄氏度](https://www.zaobao.com/news/china/story20260702-9300918)
+Append: [秘鲁法院裁定中资钱凯港应接受监管](https://www.zaobao.com/news/china/story20260702-9301854)
+append_entries: 6
+Finish: 2026-07-02 13:25:28.866883

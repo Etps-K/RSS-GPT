@@ -7006,3 +7006,27 @@ Summarized using deepseek-v4-flash
 Append: [俄国防部：对乌发动空袭 报复乌军袭击俄民用设施](https://www.zaobao.com/news/world/story20260702-9300342)
 append_entries: 3
 Finish: 2026-07-02 10:26:18.908055
+------------------------------------------------------
+Started: 2026-07-02 13:25:29.753540
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 861
+Summarized using deepseek-v4-flash
+Append: [消除政治障碍 OpenAI拟交5%股权予美国政府](https://www.zaobao.com/news/world/story20260702-9303408)
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [强风助长火势 法国南部林火烧毁800公顷土地](https://www.zaobao.com/news/world/story20260702-9302456)
+Token length: 676
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震死亡人数近2300 多国救援队携手营救受困废墟八天男子](https://www.zaobao.com/news/world/story20260702-9302130)
+Token length: 291
+Summarized using deepseek-v4-flash
+Append: [针对欧盟41亿欧元反垄断罚款 谷歌上诉失败](https://www.zaobao.com/news/world/story20260702-9302724)
+Token length: 529
+Summarized using deepseek-v4-flash
+Append: [特朗普政府拟修改核辐射监管条例 加快核电发展](https://www.zaobao.com/news/world/story20260702-9301471)
+Append: [德国北部一医院起火 两名病人罹难](https://www.zaobao.com/news/world/story20260702-9302520)
+Append: [中美等捐助国仍欠费 联合国资金只能维持到8月底](https://www.zaobao.com/news/world/story20260702-9301513)
+Append: [日本首相访印度 两国签署多项合作协议](https://www.zaobao.com/news/world/story20260702-9302207)
+append_entries: 8
+Finish: 2026-07-02 13:26:02.811937
