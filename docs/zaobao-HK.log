@@ -7566,3 +7566,18 @@ Summarized using deepseek-v4-flash
 Append: [网信办整治网络娱乐团播乱象 包括内容低俗不良等六类问题](https://www.zaobao.com/news/china/story20260703-9309960)
 append_entries: 2
 Finish: 2026-07-03 13:54:44.066792
+------------------------------------------------------
+Started: 2026-07-03 15:46:53.582586
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 619
+Summarized using deepseek-v4-flash
+Append: [热带风暴“美莎克”携风裹雨在海南陵水登陆](https://www.zaobao.com/news/china/story20260703-9310324)
+Token length: 810
+Summarized using deepseek-v4-flash
+Append: [台朝野无人机草案四版本星期五付委审查](https://www.zaobao.com/news/china/story20260703-9310110)
+Token length: 913
+Summarized using deepseek-v4-flash
+Append: [香港正式进入夏季流感季 冠病病毒活跃程度也升](https://www.zaobao.com/news/china/story20260703-9310162)
+append_entries: 3
+Finish: 2026-07-03 15:47:13.120671

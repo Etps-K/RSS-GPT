@@ -7155,3 +7155,25 @@ Summarized using deepseek-v4-flash
 Append: [霍尔木兹海峡无公海通道 伊朗拟“换个名头”收过路费](https://www.zaobao.com/news/world/story20260703-9307914)
 append_entries: 2
 Finish: 2026-07-03 13:54:54.872771
+------------------------------------------------------
+Started: 2026-07-03 15:47:14.114101
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 374
+Summarized using deepseek-v4-flash
+Append: [欧洲逾三分之二人口 6月经历35摄氏度以上高温](https://www.zaobao.com/news/world/story20260703-9310656)
+Token length: 362
+Summarized using deepseek-v4-flash
+Append: [英国据悉争取参加欧盟部分会议 引发不满](https://www.zaobao.com/news/world/story20260703-9310566)
+Token length: 310
+Summarized using deepseek-v4-flash
+Append: [印度总理莫迪将访印尼澳洲新西兰 加强与亚太地区关系](https://www.zaobao.com/news/world/story20260703-9310514)
+Token length: 590
+Summarized using deepseek-v4-flash
+Append: [世界气象组织：厄尔尼诺现象增强 气候极端概率料升高](https://www.zaobao.com/news/world/story20260703-9310434)
+Token length: 988
+Summarized using deepseek-v4-flash
+Append: [传部分欧洲波斯湾国家或已接受 为霍尔木兹海峡支付通行费](https://www.zaobao.com/news/world/story20260703-9309636)
+Append: [俄大规模空袭基辅致30死近百伤 乌克兰誓言报复](https://www.zaobao.com/news/world/story20260703-9308601)
+append_entries: 6
+Finish: 2026-07-03 15:47:45.118919
