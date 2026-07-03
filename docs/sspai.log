@@ -5350,3 +5350,15 @@ Existing_entries: 291
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-03 01:43:49.367382
+------------------------------------------------------
+Started: 2026-07-03 05:40:39.506221
+Existing_entries: 291
+Fetching from https://sspai.com/feed
+Token length: 84
+Summarized using deepseek-v4-flash
+Append: [这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708)
+Token length: 56
+Summarized using deepseek-v4-flash
+Append: [派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等](https://sspai.com/post/111898)
+append_entries: 2
+Finish: 2026-07-03 05:40:53.025271

@@ -7093,3 +7093,21 @@ Summarized using deepseek-v4-flash
 Append: [美官员：特朗普希望结束俄乌战争的“无谓杀戮”](https://www.zaobao.com/news/world/story20260703-9304781)
 append_entries: 3
 Finish: 2026-07-03 01:44:32.827893
+------------------------------------------------------
+Started: 2026-07-03 05:41:22.675480
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 732
+Summarized using deepseek-v4-flash
+Append: [美国超高温天气持续 多个城市气温打破记录](https://www.zaobao.com/news/world/story20260703-9306243)
+Token length: 980
+Summarized using deepseek-v4-flash
+Append: [AI深伪成诈骗工具 假迪拜王子骗情又骗财](https://www.zaobao.com/news/world/story20260703-9305832)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [叙利亚大马士革咖啡馆爆炸 九死20伤](https://www.zaobao.com/news/world/story20260703-9305464)
+Token length: 616
+Summarized using deepseek-v4-flash
+Append: [报告：特勤局错过102条枪手通讯险酿特朗普遇刺](https://www.zaobao.com/news/world/story20260703-9305195)
+append_entries: 4
+Finish: 2026-07-03 05:41:40.311461
