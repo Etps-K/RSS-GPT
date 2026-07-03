@@ -7614,3 +7614,15 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-03 20:50:13.551150
+------------------------------------------------------
+Started: 2026-07-03 22:52:02.031755
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 260
+Summarized using deepseek-v4-flash
+Append: [吕爱丽：台湾准备好迎接更多外国人了吗？](https://www.zaobao.com/news/china/story20260704-9310099)
+Token length: 267
+Summarized using deepseek-v4-flash
+Append: [新闻人间：“酒仙”高官刘满仓 退而不休贪满仓](https://www.zaobao.com/news/china/story20260704-9302845)
+append_entries: 2
+Finish: 2026-07-03 22:52:10.568625
