@@ -7608,3 +7608,9 @@ Summarized using deepseek-v4-flash
 Append: [白天高温晚上冰雹 北京一天内经历“冰火两重天”](https://www.zaobao.com/news/china/story20260704-9310842)
 append_entries: 1
 Finish: 2026-07-03 18:57:47.592556
+------------------------------------------------------
+Started: 2026-07-03 20:50:13.431021
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-03 20:50:13.551150
