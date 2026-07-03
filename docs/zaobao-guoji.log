@@ -7117,3 +7117,29 @@ Existing_entries: 1004
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-03 08:44:58.932917
+------------------------------------------------------
+Started: 2026-07-03 11:59:13.272030
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 639
+Summarized using deepseek-v4-flash
+Append: [美国半导体业：政府干预价格与产能恐加剧储存晶片短缺](https://www.zaobao.com/news/world/story20260703-9308366)
+Token length: 958
+Summarized using deepseek-v4-flash
+Append: [加拿大拟推介全球国防银行 筹资千亿元强化防务](https://www.zaobao.com/news/world/story20260703-9308127)
+Token length: 1017
+Summarized using deepseek-v4-flash
+Append: [特朗普及盟友拟重塑美联储 撤换库克与鲍威尔](https://www.zaobao.com/news/world/story20260703-9309126)
+Token length: 899
+Summarized using deepseek-v4-flash
+Append: [特朗普去年股票交易最高达24亿元 政策宣布前后频繁买卖引关注](https://www.zaobao.com/news/world/story20260703-9308087)
+Token length: 503
+Summarized using deepseek-v4-flash
+Append: [法国热浪期间 死亡人数一周升近三成](https://www.zaobao.com/news/world/story20260703-9308606)
+Append: [美国独立250周年 特朗普想青史留名？](https://www.zaobao.com/news/world/story20260703-9296695)
+Append: [美国酷暑中迎国庆 大型烟花表演引健康和污染担忧](https://www.zaobao.com/news/world/story20260703-9307758)
+Append: [巴基斯坦巴士偏离道路坠谷 至少40死11伤](https://www.zaobao.com/news/world/story20260703-9308197)
+Append: [哈梅内伊遗体运抵德黑兰 准备举行葬礼](https://www.zaobao.com/news/world/story20260703-9307724)
+Append: [委内瑞拉地震2595人遇难 总统驳斥救援迟缓指控](https://www.zaobao.com/news/world/story20260703-9307633)
+append_entries: 10
+Finish: 2026-07-03 11:59:36.050750
