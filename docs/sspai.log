@@ -5383,3 +5383,9 @@ Summarized using deepseek-v4-flash
 Append: [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
 append_entries: 2
 Finish: 2026-07-03 11:58:41.067627
+------------------------------------------------------
+Started: 2026-07-03 13:54:33.757253
+Existing_entries: 296
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-07-03 13:54:34.847765
