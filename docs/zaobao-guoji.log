@@ -7189,3 +7189,9 @@ Summarized using deepseek-v4-flash
 Append: [前所未有 比利时6月热浪致死亡人数激增39%](https://www.zaobao.com/news/world/story20260703-9310681)
 append_entries: 2
 Finish: 2026-07-03 17:09:55.400921
+------------------------------------------------------
+Started: 2026-07-03 18:57:48.484223
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-03 18:57:48.588073

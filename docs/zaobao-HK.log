@@ -7599,3 +7599,12 @@ Summarized using deepseek-v4-flash
 Append: [接替孙卫东 中国副外长苗得雨兼任外交部机关党委书记](https://www.zaobao.com/news/china/story20260703-9310691)
 append_entries: 4
 Finish: 2026-07-03 17:09:44.962065
+------------------------------------------------------
+Started: 2026-07-03 18:57:44.046598
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 532
+Summarized using deepseek-v4-flash
+Append: [白天高温晚上冰雹 北京一天内经历“冰火两重天”](https://www.zaobao.com/news/china/story20260704-9310842)
+append_entries: 1
+Finish: 2026-07-03 18:57:47.592556
