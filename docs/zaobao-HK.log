@@ -7448,3 +7448,24 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：中共将把高压反腐持续下去](https://www.zaobao.com/news/china/story20260703-9304194)
 append_entries: 1
 Finish: 2026-07-02 22:54:16.378743
+------------------------------------------------------
+Started: 2026-07-03 01:43:50.278870
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 775
+Summarized using deepseek-v4-flash
+Append: [王文涛：发挥中英经贸联委会机制作用 推动两国贸易投资合作](https://www.zaobao.com/news/china/story20260703-9304992)
+Token length: 592
+Summarized using deepseek-v4-flash
+Append: [王毅会见丹麦外长：中欧是伙伴而不是对手](https://www.zaobao.com/news/china/story20260703-9304915)
+Token length: 536
+Summarized using deepseek-v4-flash
+Append: [今年第10号台风“美莎克”生成 预计今天在海南沿海登陆](https://www.zaobao.com/news/china/story20260703-9304901)
+Token length: 668
+Summarized using deepseek-v4-flash
+Append: [中国称日菲海域划界谈判构成国际不法行为](https://www.zaobao.com/news/china/story20260703-9304790)
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [美通报中美外长通话 鲁比奥强调构建建设性双边关系重要性](https://www.zaobao.com/news/china/story20260703-9304736)
+append_entries: 5
+Finish: 2026-07-03 01:44:14.265928

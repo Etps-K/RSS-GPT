@@ -7078,3 +7078,18 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-02 22:54:17.498418
+------------------------------------------------------
+Started: 2026-07-03 01:44:15.271172
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 552
+Summarized using deepseek-v4-flash
+Append: [熊袭事件激增 日本北部山区增设800摄像头监测](https://www.zaobao.com/news/world/story20260703-9304878)
+Token length: 583
+Summarized using deepseek-v4-flash
+Append: [消息：美国认为以色列曾密谋杀害伊朗谈判代表](https://www.zaobao.com/news/world/story20260703-9304809)
+Token length: 374
+Summarized using deepseek-v4-flash
+Append: [美官员：特朗普希望结束俄乌战争的“无谓杀戮”](https://www.zaobao.com/news/world/story20260703-9304781)
+append_entries: 3
+Finish: 2026-07-03 01:44:32.827893
