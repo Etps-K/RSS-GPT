@@ -7730,3 +7730,18 @@ Summarized using deepseek-v4-flash
 Append: [中国海军舰艇编队7月初访问越南](https://www.zaobao.com/news/china/story20260704-9313194)
 append_entries: 2
 Finish: 2026-07-04 12:54:46.290459
+------------------------------------------------------
+Started: 2026-07-04 14:56:28.442149
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 752
+Summarized using deepseek-v4-flash
+Append: [伊朗驻华大使：将在霍尔木兹海峡收费安排中给予中国特殊待遇](https://www.zaobao.com/news/china/story20260704-9313941)
+Token length: 1148
+Summarized using deepseek-v4-flash
+Append: [中国金监总局接管众邦银行 凸显地方民企压力和助贷风险](https://www.zaobao.com/news/china/story20260704-9313740)
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [台高官：北京沿第一岛链部署逾110艘船舰 创历史新高](https://www.zaobao.com/news/china/story20260704-9313730)
+append_entries: 3
+Finish: 2026-07-04 14:56:45.288913

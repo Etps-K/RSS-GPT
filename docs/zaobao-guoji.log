@@ -7287,3 +7287,15 @@ Summarized using deepseek-v4-flash
 Append: [俄罗斯圣彼得堡港口遭大规模乌克兰无人机袭击](https://www.zaobao.com/news/world/story20260704-9313336)
 append_entries: 1
 Finish: 2026-07-04 12:54:51.814095
+------------------------------------------------------
+Started: 2026-07-04 14:56:46.299022
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 343
+Summarized using deepseek-v4-flash
+Append: [西班牙旅游胜地山火 三分之二受控制](https://www.zaobao.com/news/world/story20260704-9313889)
+Token length: 1237
+Summarized using deepseek-v4-flash
+Append: [酷暑热翻250周年独立日节庆 美东周末起料转暴风雨](https://www.zaobao.com/news/world/story20260704-9313598)
+append_entries: 2
+Finish: 2026-07-04 14:56:54.821002
