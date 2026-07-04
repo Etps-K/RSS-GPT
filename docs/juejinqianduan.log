@@ -2486,3 +2486,11 @@ Fetch error: 403
 Fetch failed from https://rsshub.app/juejin/category/frontend
 append_entries: 0
 error when rendering xml, skip docs/juejinqianduan
+------------------------------------------------------
+Started: 2026-07-04 20:41:03.621700
+Existing_entries: 0
+Fetching from https://rsshub.app/juejin/category/frontend
+Fetch error: 403
+Fetch failed from https://rsshub.app/juejin/category/frontend
+append_entries: 0
+error when rendering xml, skip docs/juejinqianduan
