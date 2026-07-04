@@ -7745,3 +7745,15 @@ Summarized using deepseek-v4-flash
 Append: [台高官：北京沿第一岛链部署逾110艘船舰 创历史新高](https://www.zaobao.com/news/china/story20260704-9313730)
 append_entries: 3
 Finish: 2026-07-04 14:56:45.288913
+------------------------------------------------------
+Started: 2026-07-04 16:49:54.004132
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1419
+Summarized using deepseek-v4-flash
+Append: [中国学者：美对台军售将终结中美“建设性战略稳定”框架](https://www.zaobao.com/news/china/story20260705-9314129)
+Token length: 676
+Summarized using deepseek-v4-flash
+Append: [伊朗驻华大使：霍尔木兹海峡拟收服务费 对友好国家给予特殊待遇](https://www.zaobao.com/news/china/story20260704-9313952)
+append_entries: 2
+Finish: 2026-07-04 16:50:04.937677

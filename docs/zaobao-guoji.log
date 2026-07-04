@@ -7299,3 +7299,18 @@ Summarized using deepseek-v4-flash
 Append: [酷暑热翻250周年独立日节庆 美东周末起料转暴风雨](https://www.zaobao.com/news/world/story20260704-9313598)
 append_entries: 2
 Finish: 2026-07-04 14:56:54.821002
+------------------------------------------------------
+Started: 2026-07-04 16:50:05.818582
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 973
+Summarized using deepseek-v4-flash
+Append: [签证大涨价日语或得及格 日本调高移民门槛](https://www.zaobao.com/news/world/story20260704-9313846)
+Token length: 1359
+Summarized using deepseek-v4-flash
+Append: [哈梅内伊告别式上千万民众瞻仰 部分德黑兰居民周末“出逃”](https://www.zaobao.com/news/world/story20260704-9313877)
+Token length: 337
+Summarized using deepseek-v4-flash
+Append: [英法承诺同阿曼合作维护海上安全](https://www.zaobao.com/news/world/story20260704-9313991)
+append_entries: 3
+Finish: 2026-07-04 16:50:21.534688
