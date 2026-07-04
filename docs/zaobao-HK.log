@@ -7769,3 +7769,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-04 20:41:02.170685
+------------------------------------------------------
+Started: 2026-07-04 22:44:23.804186
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 266
+Summarized using deepseek-v4-flash
+Append: [中国特稿：AI​引发​​​​​双速经济​两​台湾 新科技狂飙旧产业慢行](https://www.zaobao.com/news/china/story20260705-9296845)
+append_entries: 1
+Finish: 2026-07-04 22:44:27.584960
