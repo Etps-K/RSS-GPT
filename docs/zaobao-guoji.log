@@ -7251,3 +7251,12 @@ Append: [法国航母戴高乐号离开中东 驶回法国](https://www.zaobao.c
 Append: [格陵兰自治总理：美国持续施压但格陵兰岛绝不出售](https://www.zaobao.com/news/world/story20260704-9311120)
 append_entries: 6
 Finish: 2026-07-04 05:34:33.009506
+------------------------------------------------------
+Started: 2026-07-04 08:18:50.723885
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 459
+Summarized using deepseek-v4-flash
+Append: [德国新预算草案：借贷规模逾2000亿欧元](https://www.zaobao.com/news/world/story20260704-9312281)
+append_entries: 1
+Finish: 2026-07-04 08:18:54.682810
