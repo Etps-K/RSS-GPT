@@ -7757,3 +7757,9 @@ Summarized using deepseek-v4-flash
 Append: [伊朗驻华大使：霍尔木兹海峡拟收服务费 对友好国家给予特殊待遇](https://www.zaobao.com/news/china/story20260704-9313952)
 append_entries: 2
 Finish: 2026-07-04 16:50:04.937677
+------------------------------------------------------
+Started: 2026-07-04 18:52:03.020950
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-04 18:52:03.217594
