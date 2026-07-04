@@ -7260,3 +7260,21 @@ Summarized using deepseek-v4-flash
 Append: [德国新预算草案：借贷规模逾2000亿欧元](https://www.zaobao.com/news/world/story20260704-9312281)
 append_entries: 1
 Finish: 2026-07-04 08:18:54.682810
+------------------------------------------------------
+Started: 2026-07-04 11:15:51.786726
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 896
+Summarized using deepseek-v4-flash
+Append: [特意选在美国独立日访意大利离岛 罗马教宗为移民发声](https://www.zaobao.com/news/world/story20260704-9313084)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [联合国决定维持大堡礁世界遗产地位 澳洲政府表示欢迎](https://www.zaobao.com/news/world/story20260704-9312693)
+Token length: 646
+Summarized using deepseek-v4-flash
+Append: [金融监管赶不上AI发展 欧洲决策者促建防线控风险](https://www.zaobao.com/news/world/story20260704-9312592)
+Token length: 853
+Summarized using deepseek-v4-flash
+Append: [特朗普独立日前演说 斥民主党构成“共产主义威胁”](https://www.zaobao.com/news/world/story20260704-9312609)
+append_entries: 4
+Finish: 2026-07-04 11:16:23.625454

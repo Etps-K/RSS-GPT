@@ -7697,3 +7697,24 @@ Append: [港立会主席：黄锦辉辞任议员体现愿承担责任](https://w
 Append: [昆明检测列车撞人致11死 官方调查后惩处34人](https://www.zaobao.com/news/china/story20260704-9311864)
 append_entries: 11
 Finish: 2026-07-04 08:18:50.046171
+------------------------------------------------------
+Started: 2026-07-04 11:15:19.023135
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 702
+Summarized using deepseek-v4-flash
+Append: [中联油脂沙拉油检出致癌物超标 波及全台300家企业](https://www.zaobao.com/news/china/story20260704-9312923)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [胡锡进吁中国男足向佛得角看齐再圆世杯正赛梦](https://www.zaobao.com/news/china/story20260704-9313195)
+Token length: 261
+Summarized using deepseek-v4-flash
+Append: [再有两人涉山西留神峪致命矿难被查](https://www.zaobao.com/news/china/story20260704-9313020)
+Token length: 492
+Summarized using deepseek-v4-flash
+Append: [中国发文促进电影院多样化经营 提出引入AI智能体、卡拉OK](https://www.zaobao.com/news/china/story20260704-9312736)
+Token length: 579
+Summarized using deepseek-v4-flash
+Append: [豆包千问宣布下线智能体功能](https://www.zaobao.com/news/china/story20260704-9313042)
+append_entries: 5
+Finish: 2026-07-04 11:15:50.793562
