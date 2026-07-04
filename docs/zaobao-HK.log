@@ -7718,3 +7718,15 @@ Summarized using deepseek-v4-flash
 Append: [豆包千问宣布下线智能体功能](https://www.zaobao.com/news/china/story20260704-9313042)
 append_entries: 5
 Finish: 2026-07-04 11:15:50.793562
+------------------------------------------------------
+Started: 2026-07-04 12:54:31.451893
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 561
+Summarized using deepseek-v4-flash
+Append: [中国前五个月失业保险支出创新高](https://www.zaobao.com/news/china/story20260704-9313239)
+Token length: 221
+Summarized using deepseek-v4-flash
+Append: [中国海军舰艇编队7月初访问越南](https://www.zaobao.com/news/china/story20260704-9313194)
+append_entries: 2
+Finish: 2026-07-04 12:54:46.290459

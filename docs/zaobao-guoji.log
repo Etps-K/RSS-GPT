@@ -7278,3 +7278,12 @@ Summarized using deepseek-v4-flash
 Append: [特朗普独立日前演说 斥民主党构成“共产主义威胁”](https://www.zaobao.com/news/world/story20260704-9312609)
 append_entries: 4
 Finish: 2026-07-04 11:16:23.625454
+------------------------------------------------------
+Started: 2026-07-04 12:54:47.122082
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 466
+Summarized using deepseek-v4-flash
+Append: [俄罗斯圣彼得堡港口遭大规模乌克兰无人机袭击](https://www.zaobao.com/news/world/story20260704-9313336)
+append_entries: 1
+Finish: 2026-07-04 12:54:51.814095
