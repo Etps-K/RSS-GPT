@@ -7626,3 +7626,21 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：“酒仙”高官刘满仓 退而不休贪满仓](https://www.zaobao.com/news/china/story20260704-9302845)
 append_entries: 2
 Finish: 2026-07-03 22:52:10.568625
+------------------------------------------------------
+Started: 2026-07-04 01:43:11.034794
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 707
+Summarized using deepseek-v4-flash
+Append: [中国外交官对菲方近期负面动向表达关切](https://www.zaobao.com/news/china/story20260704-9311350)
+Token length: 549
+Summarized using deepseek-v4-flash
+Append: [王毅与丹麦国王会面：不忘过去教训才能防止走回头路](https://www.zaobao.com/news/china/story20260704-9311347)
+Token length: 219
+Summarized using deepseek-v4-flash
+Append: [“70后”李刚任新疆维吾尔自治区党委常委](https://www.zaobao.com/news/china/story20260704-9311242)
+Token length: 599
+Summarized using deepseek-v4-flash
+Append: [中国国务院党组会议：以更高标准当好贯彻中央决策的执行者](https://www.zaobao.com/news/china/story20260704-9311217)
+append_entries: 4
+Finish: 2026-07-04 01:43:29.604797

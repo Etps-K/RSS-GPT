@@ -7207,3 +7207,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-03 22:52:11.745290
+------------------------------------------------------
+Started: 2026-07-04 01:43:30.606415
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 500
+Summarized using deepseek-v4-flash
+Append: [流行天后泰勒丝和NFL球星凯尔西结婚了](https://www.zaobao.com/news/world/story20260704-9311420)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [普京：俄军已完全解放卢甘斯克 在顿涅茨克取得进展](https://www.zaobao.com/news/world/story20260704-9311295)
+Token length: 676
+Summarized using deepseek-v4-flash
+Append: [秘鲁全国选举委员会宣布藤森庆子当选总统](https://www.zaobao.com/news/world/story20260704-9311123)
+Token length: 64
+Summarized using deepseek-v4-flash
+Append: [智利中部沿海地区发生5.5级地震](https://www.zaobao.com/news/world/story20260704-9311132)
+Token length: 455
+Summarized using deepseek-v4-flash
+Append: [美国最大电网启动紧急限电 高温推升用电需求](https://www.zaobao.com/news/world/story20260704-9311214)
+Append: [美国热浪持续 建国250周年庆典多项活动喊停](https://www.zaobao.com/news/world/story20260704-9311179)
+append_entries: 6
+Finish: 2026-07-04 01:43:52.601170
