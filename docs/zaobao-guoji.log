@@ -7429,3 +7429,24 @@ Summarized using deepseek-v4-flash
 Append: [真主党哈马斯代表出席哈梅内伊告别式](https://www.zaobao.com/news/world/story20260705-9316584)
 append_entries: 3
 Finish: 2026-07-05 13:02:31.125952
+------------------------------------------------------
+Started: 2026-07-05 15:04:09.592521
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 681
+Summarized using deepseek-v4-flash
+Append: [泰勒丝婚礼引西方礼金热议 宾客随多少合适？](https://www.zaobao.com/news/world/story20260705-9317171)
+Token length: 393
+Summarized using deepseek-v4-flash
+Append: [韩国拟用晶片税收设基金 助推未来产业](https://www.zaobao.com/news/world/story20260705-9316579)
+Token length: 1333
+Summarized using deepseek-v4-flash
+Append: [特朗普建国250周年演说：美国是“人类史上巅峰成就”](https://www.zaobao.com/news/world/story20260705-9316817)
+Token length: 789
+Summarized using deepseek-v4-flash
+Append: [安保争议未解 英国哈里王子赴伦敦不带梅根子女](https://www.zaobao.com/news/world/story20260705-9316771)
+Token length: 311
+Summarized using deepseek-v4-flash
+Append: [法国塞纳河开放免费泳区 巴黎市民与游客下水消暑](https://www.zaobao.com/news/world/story20260705-9317075)
+append_entries: 5
+Finish: 2026-07-05 15:04:41.645418
