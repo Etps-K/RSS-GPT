@@ -7892,3 +7892,15 @@ Summarized using deepseek-v4-flash
 Append: [佛得角爆红掀旅游热 广州出发机票搜索量飙184倍](https://www.zaobao.com/news/china/story20260705-9316991)
 append_entries: 1
 Finish: 2026-07-05 15:04:08.753300
+------------------------------------------------------
+Started: 2026-07-05 16:51:52.949289
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1606
+Summarized using deepseek-v4-flash
+Append: [中国军舰频繁横穿第一岛链 与俄海上联演或牵制日本](https://www.zaobao.com/news/china/story20260705-9317224)
+Token length: 1055
+Summarized using deepseek-v4-flash
+Append: [中国人大通报蒋方舟论文造假问题：未发现学术不端行为](https://www.zaobao.com/news/china/story20260705-9317325)
+append_entries: 2
+Finish: 2026-07-05 16:52:00.377657
