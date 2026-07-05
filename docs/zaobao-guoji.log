@@ -7414,3 +7414,18 @@ Append: [俄罗斯推出无人机识别系统 紧急情况下可一键迫降](ht
 Append: [韩国去年进口日本啤酒突破10万吨 占比达41.7%](https://www.zaobao.com/news/world/story20260705-9315897)
 append_entries: 8
 Finish: 2026-07-05 11:22:00.755724
+------------------------------------------------------
+Started: 2026-07-05 13:02:13.799304
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 927
+Summarized using deepseek-v4-flash
+Append: [日本现“隐形贫困群” 漂泊无依以车为家](https://www.zaobao.com/news/world/story20260705-9316734)
+Token length: 980
+Summarized using deepseek-v4-flash
+Append: [英法联手阿曼保霍尔木兹航运 伊朗警告“危机制造者”后果自负](https://www.zaobao.com/news/world/story20260705-9316509)
+Token length: 906
+Summarized using deepseek-v4-flash
+Append: [真主党哈马斯代表出席哈梅内伊告别式](https://www.zaobao.com/news/world/story20260705-9316584)
+append_entries: 3
+Finish: 2026-07-05 13:02:31.125952

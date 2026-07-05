@@ -7874,3 +7874,12 @@ Append: [王毅盼瑞典工商界推动政府奉行理性务实对华政策](htt
 Append: [中国“人造太阳”取得突破 计划2030年演示发电](https://www.zaobao.com/news/china/story20260705-9316187)
 append_entries: 7
 Finish: 2026-07-05 11:21:37.349879
+------------------------------------------------------
+Started: 2026-07-05 13:02:07.773217
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [香港金管局预告未来数周出台更多人民币国际化措施](https://www.zaobao.com/news/china/story20260705-9316374)
+append_entries: 1
+Finish: 2026-07-05 13:02:12.779216
