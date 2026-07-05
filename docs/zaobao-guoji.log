@@ -7375,3 +7375,18 @@ Summarized using deepseek-v4-flash
 Append: [美国天气酷热转为雷暴 特朗普坚称将发表演讲](https://www.zaobao.com/news/world/story20260705-9314960)
 append_entries: 5
 Finish: 2026-07-05 05:52:49.021809
+------------------------------------------------------
+Started: 2026-07-05 08:37:09.302443
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1004
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震死亡人数近3000 救援队逐步结束搜寻](https://www.zaobao.com/news/world/story20260705-9315690)
+Token length: 437
+Summarized using deepseek-v4-flash
+Append: [美国四名前总统各别发表声明 呼吁美国人继续推动发展](https://www.zaobao.com/news/world/story20260705-9315623)
+Token length: 580
+Summarized using deepseek-v4-flash
+Append: [美大学民调：61%民众认为美国没有践行《独立宣言》理想](https://www.zaobao.com/news/world/story20260705-9315545)
+append_entries: 3
+Finish: 2026-07-05 08:37:23.909934
