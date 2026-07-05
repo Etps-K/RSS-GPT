@@ -7778,3 +7778,24 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：AI​引发​​​​​双速经济​两​台湾 新科技狂飙旧产业慢行](https://www.zaobao.com/news/china/story20260705-9296845)
 append_entries: 1
 Finish: 2026-07-04 22:44:27.584960
+------------------------------------------------------
+Started: 2026-07-05 01:47:32.177493
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 464
+Summarized using deepseek-v4-flash
+Append: [美国建国250周年 台北101亮起红白蓝三色](https://www.zaobao.com/news/china/story20260705-9314795)
+Token length: 701
+Summarized using deepseek-v4-flash
+Append: [马未都回应“被盗佛像”疑云：尺寸细节存多处差异](https://www.zaobao.com/news/china/story20260705-9314752)
+Token length: 749
+Summarized using deepseek-v4-flash
+Append: [中国男足因备战亚洲杯 短期内不会与佛得角交手](https://www.zaobao.com/news/china/story20260705-9314741)
+Token length: 683
+Summarized using deepseek-v4-flash
+Append: [新华社：中共的领导必须全面系统整体](https://www.zaobao.com/news/china/story20260705-9314686)
+Token length: 384
+Summarized using deepseek-v4-flash
+Append: [高雄往返宁波等两岸直飞航线陆续复航](https://www.zaobao.com/news/china/story20260705-9314606)
+append_entries: 5
+Finish: 2026-07-05 01:47:53.501037

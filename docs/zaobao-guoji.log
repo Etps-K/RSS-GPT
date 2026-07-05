@@ -7332,3 +7332,25 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-04 22:44:28.672499
+------------------------------------------------------
+Started: 2026-07-05 01:47:54.342035
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 665
+Summarized using deepseek-v4-flash
+Append: [万斯：英国政治存在严重问题 但仍是亲密盟友之一](https://www.zaobao.com/news/world/story20260705-9314808)
+Token length: 245
+Summarized using deepseek-v4-flash
+Append: [继2月美伊冲突 内坦亚胡与特朗普料下周会面](https://www.zaobao.com/news/world/story20260705-9314726)
+Token length: 1395
+Summarized using deepseek-v4-flash
+Append: [【图集】美国各地民众同庆250周年独立日](https://www.zaobao.com/news/world/story20260705-9314675)
+Token length: 464
+Summarized using deepseek-v4-flash
+Append: [朝鲜第二艘5000吨级驱逐舰进行导弹试射](https://www.zaobao.com/news/world/story20260705-9314590)
+Token length: 754
+Summarized using deepseek-v4-flash
+Append: [普京泽连斯基分别与特朗普通话 讨论俄乌问题](https://www.zaobao.com/news/world/story20260705-9314554)
+Append: [巴勒斯坦人在西岸建设家园 以色列定居者违法侵占](https://www.zaobao.com/news/world/story20260705-9314091)
+append_entries: 6
+Finish: 2026-07-05 01:48:22.208637
