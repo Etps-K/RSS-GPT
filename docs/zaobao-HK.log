@@ -7851,3 +7851,26 @@ Append: [韩男团中国籍成员在中国开启见面会巡演](https://www.zao
 Append: [被美国制裁六年 港保安局长：无意争取美方撤销](https://www.zaobao.com/news/china/story20260705-9315227)
 append_entries: 7
 Finish: 2026-07-05 08:37:08.364152
+------------------------------------------------------
+Started: 2026-07-05 11:21:06.041186
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 635
+Summarized using deepseek-v4-flash
+Append: [谴责大陆新法提案遭蓝白否决 民进党批封杀讨论是“价值选择”](https://www.zaobao.com/news/china/story20260705-9315743)
+Token length: 1923
+Summarized using deepseek-v4-flash
+Append: [特稿：东南亚产量激增 中国“榴梿自由”分化](https://www.zaobao.com/news/china/story20260705-9300671)
+Token length: 1660
+Summarized using deepseek-v4-flash
+Append: [特稿：从反制裁到检察公益诉讼 中国涉外法律工具箱加速成形](https://www.zaobao.com/news/china/story20260705-9301207)
+Token length: 386
+Summarized using deepseek-v4-flash
+Append: [中国国家一级文物永乐款菩萨像上现TCL广告字样](https://www.zaobao.com/news/china/story20260705-9316474)
+Token length: 393
+Summarized using deepseek-v4-flash
+Append: [广西辽宁遭台风暴雨侵袭 中央派工作组指导救灾工作](https://www.zaobao.com/news/china/story20260705-9316437)
+Append: [王毅盼瑞典工商界推动政府奉行理性务实对华政策](https://www.zaobao.com/news/china/story20260705-9316101)
+Append: [中国“人造太阳”取得突破 计划2030年演示发电](https://www.zaobao.com/news/china/story20260705-9316187)
+append_entries: 7
+Finish: 2026-07-05 11:21:37.349879

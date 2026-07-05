@@ -7390,3 +7390,27 @@ Summarized using deepseek-v4-flash
 Append: [美大学民调：61%民众认为美国没有践行《独立宣言》理想](https://www.zaobao.com/news/world/story20260705-9315545)
 append_entries: 3
 Finish: 2026-07-05 08:37:23.909934
+------------------------------------------------------
+Started: 2026-07-05 11:21:38.359057
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [消息：OPEC+拟8月起再增产](https://www.zaobao.com/news/world/story20260705-9316432)
+Token length: 791
+Summarized using deepseek-v4-flash
+Append: [AI难取代技术工 美国年轻人转向学技艺](https://www.zaobao.com/news/world/story20260705-9303874)
+Token length: 1015
+Summarized using deepseek-v4-flash
+Append: [分析：朝鲜海军核武装迈向水面舰艇时代](https://www.zaobao.com/news/world/story20260705-9315865)
+Token length: 224
+Summarized using deepseek-v4-flash
+Append: [美国纽约国庆日发生枪击 至少八人中枪](https://www.zaobao.com/news/world/story20260705-9316293)
+Token length: 721
+Summarized using deepseek-v4-flash
+Append: [赴印旅行疑误食虫卵 英国女子脑部感染38条寄生虫](https://www.zaobao.com/news/world/story20260705-9316121)
+Append: [韩国去年人均工作1833小时 高OECD近百小时](https://www.zaobao.com/news/world/story20260705-9316070)
+Append: [俄罗斯推出无人机识别系统 紧急情况下可一键迫降](https://www.zaobao.com/news/world/story20260705-9315912)
+Append: [韩国去年进口日本啤酒突破10万吨 占比达41.7%](https://www.zaobao.com/news/world/story20260705-9315897)
+append_entries: 8
+Finish: 2026-07-05 11:22:00.755724
