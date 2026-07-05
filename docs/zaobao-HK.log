@@ -7904,3 +7904,9 @@ Summarized using deepseek-v4-flash
 Append: [中国人大通报蒋方舟论文造假问题：未发现学术不端行为](https://www.zaobao.com/news/china/story20260705-9317325)
 append_entries: 2
 Finish: 2026-07-05 16:52:00.377657
+------------------------------------------------------
+Started: 2026-07-05 18:56:19.070887
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-05 18:56:19.255524

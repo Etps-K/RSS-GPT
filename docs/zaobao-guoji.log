@@ -7471,3 +7471,9 @@ Summarized using deepseek-v4-flash
 Append: [首尔“爱虫”锐减 又现会咬人的褐色螽斯](https://www.zaobao.com/news/world/story20260705-9316277)
 append_entries: 5
 Finish: 2026-07-05 16:52:29.538913
+------------------------------------------------------
+Started: 2026-07-05 18:56:20.261335
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-05 18:56:20.364939
