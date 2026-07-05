@@ -7354,3 +7354,24 @@ Append: [普京泽连斯基分别与特朗普通话 讨论俄乌问题](https://
 Append: [巴勒斯坦人在西岸建设家园 以色列定居者违法侵占](https://www.zaobao.com/news/world/story20260705-9314091)
 append_entries: 6
 Finish: 2026-07-05 01:48:22.208637
+------------------------------------------------------
+Started: 2026-07-05 05:52:27.572017
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 451
+Summarized using deepseek-v4-flash
+Append: [特朗普展示最初美国国旗 庆祝“250年永不落幕的胜利”](https://www.zaobao.com/news/world/story20260705-9315309)
+Token length: 388
+Summarized using deepseek-v4-flash
+Append: [新南威尔士州首现H5N1病例 澳洲累计三州通报](https://www.zaobao.com/news/world/story20260705-9315257)
+Token length: 196
+Summarized using deepseek-v4-flash
+Append: [美国独立250周年烟花表演引火灾 布鲁克林大桥冒浓烟](https://www.zaobao.com/news/world/story20260705-9315155)
+Token length: 948
+Summarized using deepseek-v4-flash
+Append: [美国独立250周年 白人至上组织成员蒙面游行](https://www.zaobao.com/news/world/story20260705-9315024)
+Token length: 690
+Summarized using deepseek-v4-flash
+Append: [美国天气酷热转为雷暴 特朗普坚称将发表演讲](https://www.zaobao.com/news/world/story20260705-9314960)
+append_entries: 5
+Finish: 2026-07-05 05:52:49.021809

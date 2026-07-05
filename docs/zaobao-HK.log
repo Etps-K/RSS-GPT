@@ -7799,3 +7799,32 @@ Summarized using deepseek-v4-flash
 Append: [高雄往返宁波等两岸直飞航线陆续复航](https://www.zaobao.com/news/china/story20260705-9314606)
 append_entries: 5
 Finish: 2026-07-05 01:47:53.501037
+------------------------------------------------------
+Started: 2026-07-05 05:52:05.850723
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 318
+Summarized using deepseek-v4-flash
+Append: [官媒披露四川舰最新进展：甲板已划线阻拦索已安装](https://www.zaobao.com/news/china/story20260705-9315457)
+Token length: 542
+Summarized using deepseek-v4-flash
+Append: [俄舰艇编队抵达青岛 包括瓦良格号导弹巡洋舰](https://www.zaobao.com/news/china/story20260705-9315470)
+Token length: 882
+Summarized using deepseek-v4-flash
+Append: [蒋方舟再回应肖鹰举报 称已报警](https://www.zaobao.com/news/china/story20260705-9315154)
+Token length: 815
+Summarized using deepseek-v4-flash
+Append: [台军更名恢复军官学校毕业生反共爱国教育课程](https://www.zaobao.com/news/china/story20260705-9315353)
+Token length: 381
+Summarized using deepseek-v4-flash
+Append: [北京锡安教会创办人金明日获释 已抵达美国](https://www.zaobao.com/news/china/story20260705-9315292)
+Append: [中国驻伊拉克大使向波周六抵伊履新](https://www.zaobao.com/news/china/story20260705-9315174)
+Append: [辽宁抚顺降雨破历史极值 已致三人死亡](https://www.zaobao.com/news/china/story20260705-9315136)
+Append: [中俄将在青岛附近海空域举行联合演习 并赴太平洋海域联合巡航](https://www.zaobao.com/news/china/story20260705-9315077)
+Append: [诺贝尔化学奖得主加盟清华大学](https://www.zaobao.com/news/china/story20260705-9315014)
+Append: [一家三口新疆自驾游遇山洪 母子被冲走失联](https://www.zaobao.com/news/china/story20260705-9315018)
+Append: [中国二手燃油豪车价格暴跌 保时捷仅卖15万人民币](https://www.zaobao.com/news/china/story20260705-9314904)
+Append: [王毅指中瑞关系近年来遇到一些困难](https://www.zaobao.com/news/china/story20260705-9314903)
+Append: [习近平表示愿同金正恩引领中朝关系长期健康稳定发展](https://www.zaobao.com/news/china/story20260705-9314846)
+append_entries: 13
+Finish: 2026-07-05 05:52:26.890917
