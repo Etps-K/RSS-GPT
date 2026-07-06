@@ -7582,3 +7582,15 @@ Summarized using deepseek-v4-flash
 Append: [哈马斯解散在加沙20年行政机构](https://www.zaobao.com/news/world/story20260706-9321869)
 append_entries: 5
 Finish: 2026-07-06 14:52:29.488117
+------------------------------------------------------
+Started: 2026-07-06 18:02:28.629263
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 482
+Summarized using deepseek-v4-flash
+Append: [克宫：普京特朗普同意近期再次通话](https://www.zaobao.com/news/world/story20260706-9323045)
+Token length: 317
+Summarized using deepseek-v4-flash
+Append: [指俄军机多次接近英航母打击群 英出动战机拦截](https://www.zaobao.com/news/world/story20260706-9322850)
+append_entries: 2
+Finish: 2026-07-06 18:02:36.300600

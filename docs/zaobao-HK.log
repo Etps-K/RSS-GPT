@@ -8025,3 +8025,18 @@ Summarized using deepseek-v4-flash
 Append: [大陆试射潜射战略导弹 台总统府称意图威吓国际社会](https://www.zaobao.com/news/china/story20260706-9322316)
 append_entries: 4
 Finish: 2026-07-06 14:52:02.685816
+------------------------------------------------------
+Started: 2026-07-06 18:02:11.967856
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1273
+Summarized using deepseek-v4-flash
+Append: [中国试射潜射战略导弹 分析：展示全面战略核力量威慑美国](https://www.zaobao.com/news/china/story20260706-9322539)
+Token length: 1187
+Summarized using deepseek-v4-flash
+Append: [新中学者聚焦“习特会”后中美G2形成 建设性战略稳定或难延续](https://www.zaobao.com/news/china/story20260706-9322583)
+Token length: 504
+Summarized using deepseek-v4-flash
+Append: [学者：区域国家向过航霍尔木兹船只收费或成新常态](https://www.zaobao.com/news/china/story20260706-9322853)
+append_entries: 3
+Finish: 2026-07-06 18:02:27.728273
