@@ -5554,3 +5554,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
 append_entries: 1
 Finish: 2026-07-06 01:53:59.648623
+------------------------------------------------------
+Started: 2026-07-06 06:15:55.050640
+Existing_entries: 299
+Fetching from https://sspai.com/feed
+Token length: 28
+Summarized using deepseek-v4-flash
+Append: [自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
+append_entries: 1
+Finish: 2026-07-06 06:16:00.536240

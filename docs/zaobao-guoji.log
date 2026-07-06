@@ -7510,3 +7510,21 @@ Summarized using deepseek-v4-flash
 Append: [特朗普将出席北约峰会 与泽连斯基会面推动结束战争](https://www.zaobao.com/news/world/story20260706-9317950)
 append_entries: 5
 Finish: 2026-07-06 01:54:51.863814
+------------------------------------------------------
+Started: 2026-07-06 06:16:24.702367
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 424
+Summarized using deepseek-v4-flash
+Append: [刚果（金）伊波拉疫情 累计死亡病例已超过500起](https://www.zaobao.com/news/world/story20260706-9319183)
+Token length: 754
+Summarized using deepseek-v4-flash
+Append: [法国再有博物馆入贼 遭窃走数百万欧元珠宝](https://www.zaobao.com/news/world/story20260706-9318747)
+Token length: 435
+Summarized using deepseek-v4-flash
+Append: [伯纳姆：若接替斯塔默出任英国首相 不会提前举行大选](https://www.zaobao.com/news/world/story20260706-9318508)
+Token length: 309
+Summarized using deepseek-v4-flash
+Append: [澳洲与斐济签署新防务联盟 加强关系应对中国影响力](https://www.zaobao.com/news/world/story20260706-9318425)
+append_entries: 4
+Finish: 2026-07-06 06:16:47.769135
