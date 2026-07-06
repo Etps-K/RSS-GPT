@@ -7594,3 +7594,9 @@ Summarized using deepseek-v4-flash
 Append: [指俄军机多次接近英航母打击群 英出动战机拦截](https://www.zaobao.com/news/world/story20260706-9322850)
 append_entries: 2
 Finish: 2026-07-06 18:02:36.300600
+------------------------------------------------------
+Started: 2026-07-06 21:18:11.995093
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-06 21:18:12.140220

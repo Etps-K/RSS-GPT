@@ -8040,3 +8040,9 @@ Summarized using deepseek-v4-flash
 Append: [学者：区域国家向过航霍尔木兹船只收费或成新常态](https://www.zaobao.com/news/china/story20260706-9322853)
 append_entries: 3
 Finish: 2026-07-06 18:02:27.728273
+------------------------------------------------------
+Started: 2026-07-06 21:18:10.819909
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-06 21:18:11.006236
