@@ -8046,3 +8046,12 @@ Existing_entries: 1003
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-06 21:18:11.006236
+------------------------------------------------------
+Started: 2026-07-06 22:54:16.463537
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1780
+Summarized using deepseek-v4-flash
+Append: [庄慧良：民调迷雾](https://www.zaobao.com/news/china/story20260707-9323121)
+append_entries: 1
+Finish: 2026-07-06 22:54:21.118861
