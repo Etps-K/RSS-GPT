@@ -7561,3 +7561,24 @@ Append: [英国外长警告：AI或成未来10年最大安全挑战](https://www
 Append: [超级台风“巴威”袭击美属岛屿 可能造成严重破坏](https://www.zaobao.com/news/world/story20260706-9319645)
 append_entries: 17
 Finish: 2026-07-06 11:53:40.104260
+------------------------------------------------------
+Started: 2026-07-06 14:52:03.713844
+Existing_entries: 1017
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 510
+Summarized using deepseek-v4-flash
+Append: [亚美尼亚总理：与俄罗斯关系出现问题 盼双方解决](https://www.zaobao.com/news/world/story20260706-9322775)
+Token length: 608
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡称黎南部基督村庄要求被以色列吞并](https://www.zaobao.com/news/world/story20260706-9322679)
+Token length: 309
+Summarized using deepseek-v4-flash
+Append: [黎巴嫩总统：以军对黎南占领阻碍黎军部署](https://www.zaobao.com/news/world/story20260706-9322555)
+Token length: 668
+Summarized using deepseek-v4-flash
+Append: [高温天气导致欧洲南部多国林火肆虐](https://www.zaobao.com/news/world/story20260706-9322139)
+Token length: 352
+Summarized using deepseek-v4-flash
+Append: [哈马斯解散在加沙20年行政机构](https://www.zaobao.com/news/world/story20260706-9321869)
+append_entries: 5
+Finish: 2026-07-06 14:52:29.488117
