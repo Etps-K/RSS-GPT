@@ -5563,3 +5563,15 @@ Summarized using deepseek-v4-flash
 Append: [自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
 append_entries: 1
 Finish: 2026-07-06 06:16:00.536240
+------------------------------------------------------
+Started: 2026-07-06 11:52:36.842813
+Existing_entries: 300
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/111999)
+Token length: 29
+Summarized using deepseek-v4-flash
+Append: [iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
+append_entries: 2
+Finish: 2026-07-06 11:52:45.482837
