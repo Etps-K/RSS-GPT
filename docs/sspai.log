@@ -5545,3 +5545,12 @@ Existing_entries: 298
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-05 22:46:54.349428
+------------------------------------------------------
+Started: 2026-07-06 01:53:49.406609
+Existing_entries: 298
+Fetching from https://sspai.com/feed
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
+append_entries: 1
+Finish: 2026-07-06 01:53:59.648623

@@ -7489,3 +7489,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-05 22:47:00.614849
+------------------------------------------------------
+Started: 2026-07-06 01:54:23.146986
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 780
+Summarized using deepseek-v4-flash
+Append: [OPEC+同意提高产量 油价小幅走低](https://www.zaobao.com/news/world/story20260706-9318265)
+Token length: 963
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震死亡人数升至3342 上百具遗体未确认身份](https://www.zaobao.com/news/world/story20260706-9318166)
+Token length: 524
+Summarized using deepseek-v4-flash
+Append: [新一轮热浪再袭法国 山火持续肆虐上万人被疏散](https://www.zaobao.com/news/world/story20260706-9317990)
+Token length: 487
+Summarized using deepseek-v4-flash
+Append: [北约峰会召开前 多地爆发反北约示威游行](https://www.zaobao.com/news/world/story20260706-9317971)
+Token length: 897
+Summarized using deepseek-v4-flash
+Append: [特朗普将出席北约峰会 与泽连斯基会面推动结束战争](https://www.zaobao.com/news/world/story20260706-9317950)
+append_entries: 5
+Finish: 2026-07-06 01:54:51.863814

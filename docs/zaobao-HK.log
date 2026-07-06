@@ -7925,3 +7925,25 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：中国军舰访问香港的意义](https://www.zaobao.com/news/china/story20260706-9316905)
 append_entries: 1
 Finish: 2026-07-05 22:46:59.626891
+------------------------------------------------------
+Started: 2026-07-06 01:54:00.571490
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 422
+Summarized using deepseek-v4-flash
+Append: [纳米比亚总统抵达广州开启访华行程](https://www.zaobao.com/news/china/story20260706-9318232)
+Token length: 898
+Summarized using deepseek-v4-flash
+Append: [张国清要求央企持续深化拓展与新疆务实合作](https://www.zaobao.com/news/china/story20260706-9318183)
+Token length: 509
+Summarized using deepseek-v4-flash
+Append: [中国援助委内瑞拉首批地震救灾物资启运](https://www.zaobao.com/news/china/story20260706-9318151)
+Token length: 454
+Summarized using deepseek-v4-flash
+Append: [中国海军83舰编队周日抵达越南 展开四天访问](https://www.zaobao.com/news/china/story20260706-9318111)
+Token length: 409
+Summarized using deepseek-v4-flash
+Append: [王毅敦促芬兰为推动欧中关系健康稳定发展发挥积极作用](https://www.zaobao.com/news/china/story20260706-9318052)
+Append: [内蒙交通事故危化品运输车爆炸两死四伤](https://www.zaobao.com/news/china/story20260706-9318016)
+append_entries: 6
+Finish: 2026-07-06 01:54:22.138611
