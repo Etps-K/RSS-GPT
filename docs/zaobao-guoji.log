@@ -7624,3 +7624,25 @@ Summarized using deepseek-v4-flash
 Append: [从格陵兰北约关税到世界杯 特朗普再掀美欧争端](https://www.zaobao.com/news/world/story20260707-9323648)
 append_entries: 4
 Finish: 2026-07-07 01:51:21.405651
+------------------------------------------------------
+Started: 2026-07-07 05:57:28.869282
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 402
+Summarized using deepseek-v4-flash
+Append: [以色列外长：以方坚持解除哈马斯武装](https://www.zaobao.com/news/world/story20260707-9325011)
+Token length: 787
+Summarized using deepseek-v4-flash
+Append: [研究：老龄少子化 经济仍可蓬勃发展](https://www.zaobao.com/news/world/story20260707-9324696)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [特朗普向伊朗放话 不达成协议就彻底了结](https://www.zaobao.com/news/world/story20260707-9324309)
+Token length: 73
+Summarized using deepseek-v4-flash
+Append: [一艘油轮在阿曼湾被“不明投射物”击中起火](https://www.zaobao.com/news/world/story20260707-9324081)
+Token length: 199
+Summarized using deepseek-v4-flash
+Append: [美媒：伊朗恢复袭击海峡 两艘商船受损严重但无人员伤亡](https://www.zaobao.com/news/world/story20260707-9324036)
+Append: [伊朗借悼念哈梅内伊 向敌友释放重要信号](https://www.zaobao.com/news/world/story20260707-9323956)
+append_entries: 6
+Finish: 2026-07-07 05:57:47.423402
