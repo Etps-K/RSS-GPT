@@ -8211,3 +8211,12 @@ Existing_entries: 1004
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-07 21:12:57.834391
+------------------------------------------------------
+Started: 2026-07-07 22:49:20.602017
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 188
+Summarized using deepseek-v4-flash
+Append: [杨丹旭：当特朗普为世界杯“吹哨”](https://www.zaobao.com/news/china/story20260708-9329159)
+append_entries: 1
+Finish: 2026-07-07 22:49:25.560815
