@@ -7606,3 +7606,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-06 22:54:22.241298
+------------------------------------------------------
+Started: 2026-07-07 01:50:59.565273
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 427
+Summarized using deepseek-v4-flash
+Append: [特朗普预计习近平9月24日前后访美](https://www.zaobao.com/news/world/story20260707-9323876)
+Token length: 244
+Summarized using deepseek-v4-flash
+Append: [一艘液化天然气运输船在阿曼湾遭袭](https://www.zaobao.com/news/world/story20260707-9323801)
+Token length: 280
+Summarized using deepseek-v4-flash
+Append: [北约秘书长促成员国履行承诺 提高军费占比](https://www.zaobao.com/news/world/story20260707-9323500)
+Token length: 981
+Summarized using deepseek-v4-flash
+Append: [从格陵兰北约关税到世界杯 特朗普再掀美欧争端](https://www.zaobao.com/news/world/story20260707-9323648)
+append_entries: 4
+Finish: 2026-07-07 01:51:21.405651

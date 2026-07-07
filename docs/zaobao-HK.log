@@ -8055,3 +8055,24 @@ Summarized using deepseek-v4-flash
 Append: [庄慧良：民调迷雾](https://www.zaobao.com/news/china/story20260707-9323121)
 append_entries: 1
 Finish: 2026-07-06 22:54:21.118861
+------------------------------------------------------
+Started: 2026-07-07 01:50:33.396565
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 797
+Summarized using deepseek-v4-flash
+Append: [王毅：愿同挪威加强多边协作 推动构建更公正全球治理体系](https://www.zaobao.com/news/china/story20260707-9323923)
+Token length: 221
+Summarized using deepseek-v4-flash
+Append: [中国两支登山队遭遇暴风雪三死一失联](https://www.zaobao.com/news/china/story20260707-9323916)
+Token length: 329
+Summarized using deepseek-v4-flash
+Append: [美国称已对中国潜射战略导弹试射进行检测](https://www.zaobao.com/news/china/story20260707-9323865)
+Token length: 246
+Summarized using deepseek-v4-flash
+Append: [腾讯拟减持快手 套现最高约16亿美元](https://www.zaobao.com/news/china/story20260707-9323635)
+Token length: 247
+Summarized using deepseek-v4-flash
+Append: [湖北多地遭遇强对流天气致八人死亡](https://www.zaobao.com/news/china/story20260707-9323621)
+append_entries: 5
+Finish: 2026-07-07 01:50:58.686244

@@ -5599,3 +5599,12 @@ Existing_entries: 302
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-06 22:54:15.547927
+------------------------------------------------------
+Started: 2026-07-07 01:50:25.533941
+Existing_entries: 302
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [派早报：Xbox 启动史上最大的业务重组计划等](https://sspai.com/post/112010)
+append_entries: 1
+Finish: 2026-07-07 01:50:32.583639
