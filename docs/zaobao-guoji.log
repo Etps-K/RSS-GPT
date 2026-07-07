@@ -7670,3 +7670,21 @@ Append: [美国独立日烟花使华盛顿特区顿成全球最污染城市](htt
 Append: [日本舆论质疑高市早苗“轻视国会”](https://www.zaobao.com/news/world/story20260707-9325137)
 append_entries: 8
 Finish: 2026-07-07 09:28:37.003025
+------------------------------------------------------
+Started: 2026-07-07 12:20:25.004376
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 746
+Summarized using deepseek-v4-flash
+Append: [特朗普称俄乌接近停战方案](https://www.zaobao.com/news/world/story20260707-9327717)
+Token length: 1127
+Summarized using deepseek-v4-flash
+Append: [美国对中国试射导弹表示担忧 促北京参与军控磋商](https://www.zaobao.com/news/world/story20260707-9327081)
+Token length: 197
+Summarized using deepseek-v4-flash
+Append: [美国不排除在海外生产PAC-3“爱国者”导弹](https://www.zaobao.com/news/world/story20260707-9327625)
+Token length: 170
+Summarized using deepseek-v4-flash
+Append: [世卫：刚果（金）伊波拉疫情仍在扩大](https://www.zaobao.com/news/world/story20260707-9327269)
+append_entries: 4
+Finish: 2026-07-07 12:20:45.674310

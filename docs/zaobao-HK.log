@@ -8143,3 +8143,25 @@ Append: [“75后”谢元履新天津市委常委](https://www.zaobao.com/news/
 Append: [广西横州市强降雨已致四人死亡八人失联](https://www.zaobao.com/news/china/story20260707-9325564)
 append_entries: 19
 Finish: 2026-07-07 09:28:09.098532
+------------------------------------------------------
+Started: 2026-07-07 12:20:00.764695
+Existing_entries: 1019
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 642
+Summarized using deepseek-v4-flash
+Append: [路透：北京研究限制海外获取中国最先进AI模型](https://www.zaobao.com/news/china/story20260707-9328013)
+Token length: 742
+Summarized using deepseek-v4-flash
+Append: [中国足协：未收到佛得角友谊赛正式邀请](https://www.zaobao.com/news/china/story20260707-9327932)
+Token length: 275
+Summarized using deepseek-v4-flash
+Append: [港交所上半年IPO金额同比升92%](https://www.zaobao.com/news/china/story20260707-9327648)
+Token length: 540
+Summarized using deepseek-v4-flash
+Append: [台国安会副秘书长：备战应对大陆攻击并非挑衅](https://www.zaobao.com/news/china/story20260707-9327624)
+Token length: 473
+Summarized using deepseek-v4-flash
+Append: [七七事变89周年 多个团体到日本驻港总领馆外抗议](https://www.zaobao.com/news/china/story20260707-9325810)
+Append: [台风巴威逼近 台湾预置近三万兵力投入救灾](https://www.zaobao.com/news/china/story20260707-9327552)
+append_entries: 6
+Finish: 2026-07-07 12:20:23.990305
