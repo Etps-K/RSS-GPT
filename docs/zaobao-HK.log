@@ -8187,3 +8187,21 @@ Append: [中国经济学家高善文去世 享年55岁](https://www.zaobao.com/n
 Append: [深度求索据报正在开发自有AI晶片 或加剧华为挑战](https://www.zaobao.com/news/china/story20260707-9328003)
 append_entries: 6
 Finish: 2026-07-07 16:14:54.995512
+------------------------------------------------------
+Started: 2026-07-07 19:29:53.832444
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1531
+Summarized using deepseek-v4-flash
+Append: [荷兰贸易部长率团访华 阿斯麦与安世争议交织中美科技博弈](https://www.zaobao.com/news/china/story20260707-9329157)
+Token length: 1039
+Summarized using deepseek-v4-flash
+Append: [香港黄金中央清算及结算系统试营运](https://www.zaobao.com/news/china/story20260707-9328805)
+Token length: 1039
+Summarized using deepseek-v4-flash
+Append: [台卫福部急转弯 致癌油食品全下架](https://www.zaobao.com/news/china/story20260707-9328815)
+Token length: 1467
+Summarized using deepseek-v4-flash
+Append: [受贿逾22亿元人民币破中国纪录 南京小官巨贪杨有林被判死刑](https://www.zaobao.com/news/china/story20260707-9328771)
+append_entries: 4
+Finish: 2026-07-07 19:30:18.129816
