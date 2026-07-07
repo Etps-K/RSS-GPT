@@ -5635,3 +5635,9 @@ Summarized using deepseek-v4-flash
 Append: [社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕](https://sspai.com/post/112017)
 append_entries: 1
 Finish: 2026-07-07 12:19:59.802490
+------------------------------------------------------
+Started: 2026-07-07 16:14:30.120602
+Existing_entries: 306
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-07-07 16:14:31.336073

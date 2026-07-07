@@ -7688,3 +7688,29 @@ Summarized using deepseek-v4-flash
 Append: [世卫：刚果（金）伊波拉疫情仍在扩大](https://www.zaobao.com/news/world/story20260707-9327269)
 append_entries: 4
 Finish: 2026-07-07 12:20:45.674310
+------------------------------------------------------
+Started: 2026-07-07 16:14:55.838967
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 751
+Summarized using deepseek-v4-flash
+Append: [晚婚与女性收入提高推动 美国年轻人更愿意签婚前协议](https://www.zaobao.com/news/world/story20260707-9327588)
+Token length: 688
+Summarized using deepseek-v4-flash
+Append: [法国债务压力加剧 恐在大选前持续恶化](https://www.zaobao.com/news/world/story20260707-9328495)
+Token length: 140
+Summarized using deepseek-v4-flash
+Append: [特朗普：格陵兰应由美国而非丹麦控制](https://www.zaobao.com/news/world/story20260707-9328786)
+Token length: 684
+Summarized using deepseek-v4-flash
+Append: [英国制裁俄罗斯机构 指涉研发毒害纳瓦利内毒剂](https://www.zaobao.com/news/world/story20260707-9326612)
+Token length: 540
+Summarized using deepseek-v4-flash
+Append: [韩国佛教塑造潮流形象吸引年轻Z世代](https://www.zaobao.com/news/world/story20260707-9328666)
+Append: [中国限制关键矿产出口 对日本企业带来冲击](https://www.zaobao.com/news/world/story20260707-9328532)
+Append: [伊朗再袭击霍尔木兹海峡商船 或招致美国反击](https://www.zaobao.com/news/world/story20260707-9328417)
+Append: [美国“特朗普账户”申请破600万 低收入家庭能否受益受质疑](https://www.zaobao.com/news/world/story20260707-9327819)
+Append: [年花260万新元抗衰老 美国企业家患自身免疫性胃病](https://www.zaobao.com/news/world/story20260707-9327052)
+Append: [西欧多国面临第三波热浪袭击加剧野火风险](https://www.zaobao.com/news/world/story20260707-9327865)
+append_entries: 10
+Finish: 2026-07-07 16:15:19.895039

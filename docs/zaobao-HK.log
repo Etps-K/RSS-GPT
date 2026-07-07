@@ -8165,3 +8165,25 @@ Append: [七七事变89周年 多个团体到日本驻港总领馆外抗议](htt
 Append: [台风巴威逼近 台湾预置近三万兵力投入救灾](https://www.zaobao.com/news/china/story20260707-9327552)
 append_entries: 6
 Finish: 2026-07-07 12:20:23.990305
+------------------------------------------------------
+Started: 2026-07-07 16:14:32.093760
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1329
+Summarized using deepseek-v4-flash
+Append: [湖北黄冈历史罕见龙卷风已致11人死亡 中国多地频现极端天气引灾情](https://www.zaobao.com/news/china/story20260707-9327699)
+Token length: 291
+Summarized using deepseek-v4-flash
+Append: [广西洪涝灾害致六死11失联](https://www.zaobao.com/news/china/story20260707-9328608)
+Token length: 303
+Summarized using deepseek-v4-flash
+Append: [下午察：LV告赢茉莉奶白 中国网民不买账？](https://www.zaobao.com/news/china/story20260707-9327663)
+Token length: 676
+Summarized using deepseek-v4-flash
+Append: [中国驻菲使馆通报七起绑架案：受害者与绑匪都是中国人](https://www.zaobao.com/news/china/story20260707-9327765)
+Token length: 370
+Summarized using deepseek-v4-flash
+Append: [中国经济学家高善文去世 享年55岁](https://www.zaobao.com/news/china/story20260707-9328328)
+Append: [深度求索据报正在开发自有AI晶片 或加剧华为挑战](https://www.zaobao.com/news/china/story20260707-9328003)
+append_entries: 6
+Finish: 2026-07-07 16:14:54.995512
