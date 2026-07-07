@@ -5617,3 +5617,12 @@ Summarized using deepseek-v4-flash
 Append: [新手日记的「为什么」与「写什么」](https://sspai.com/post/111655)
 append_entries: 1
 Finish: 2026-07-07 05:57:06.070386
+------------------------------------------------------
+Started: 2026-07-07 09:27:19.620145
+Existing_entries: 304
+Fetching from https://sspai.com/feed
+Token length: 37
+Summarized using deepseek-v4-flash
+Append: [用 Option 给 macOS 操作加点料](https://sspai.com/post/73385)
+append_entries: 1
+Finish: 2026-07-07 09:27:35.180227
