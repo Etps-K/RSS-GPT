@@ -8205,3 +8205,9 @@ Summarized using deepseek-v4-flash
 Append: [受贿逾22亿元人民币破中国纪录 南京小官巨贪杨有林被判死刑](https://www.zaobao.com/news/china/story20260707-9328771)
 append_entries: 4
 Finish: 2026-07-07 19:30:18.129816
+------------------------------------------------------
+Started: 2026-07-07 21:12:57.697604
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-07 21:12:57.834391
