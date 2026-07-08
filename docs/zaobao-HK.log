@@ -8335,3 +8335,15 @@ Summarized using deepseek-v4-flash
 Append: [香港独立书店营业近30年首次未获准参展 将于明年熄灯](https://www.zaobao.com/news/china/story20260708-9334273)
 append_entries: 3
 Finish: 2026-07-08 13:23:58.407679
+------------------------------------------------------
+Started: 2026-07-08 15:56:01.155746
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1613
+Summarized using deepseek-v4-flash
+Append: [习近平：中国一些科技领域原创能力不足 要积极引进海外人才](https://www.zaobao.com/news/china/story20260708-9334795)
+Token length: 318
+Summarized using deepseek-v4-flash
+Append: [下午察：不敌日韩，中国篮球怎么了？](https://www.zaobao.com/news/china/story20260708-9331675)
+append_entries: 2
+Finish: 2026-07-08 15:56:07.986704

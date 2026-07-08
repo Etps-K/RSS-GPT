@@ -7819,3 +7819,28 @@ Existing_entries: 1005
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-08 13:23:59.435024
+------------------------------------------------------
+Started: 2026-07-08 15:56:08.979086
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 330
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡油轮交通“基本停止”](https://www.zaobao.com/news/world/story20260708-9334997)
+Token length: 366
+Summarized using deepseek-v4-flash
+Append: [特朗普同意授权乌克兰生产“爱国者”导弹 称俄乌都有意结束战争](https://www.zaobao.com/news/world/story20260708-9334802)
+Token length: 649
+Summarized using deepseek-v4-flash
+Append: [IMF略微下调世界经济增长预期](https://www.zaobao.com/news/world/story20260708-9334713)
+Token length: 547
+Summarized using deepseek-v4-flash
+Append: [丹麦重申格陵兰岛是非卖品 称准备好捍卫北约每一寸土地](https://www.zaobao.com/news/world/story20260708-9334658)
+Token length: 451
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦货机飞往卡拉奇途中失联 机上五人生死未卜](https://www.zaobao.com/news/world/story20260708-9334365)
+Append: [德国一中学发生枪击事件致数人受伤 嫌犯被捕](https://www.zaobao.com/news/world/story20260708-9334608)
+Append: [意大利中部烟花厂发生爆炸 造成两人死亡](https://www.zaobao.com/news/world/story20260708-9334529)
+Append: [韩国年轻士兵“负债退伍”现象加剧引关注](https://www.zaobao.com/news/world/story20260708-9333515)
+Append: [北约盟友公布近650亿元军购 特朗普仍不满再抱怨](https://www.zaobao.com/news/world/story20260708-9332698)
+append_entries: 9
+Finish: 2026-07-08 15:57:02.881490
