@@ -7735,3 +7735,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-07 22:49:26.664839
+------------------------------------------------------
+Started: 2026-07-08 01:22:19.220986
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 514
+Summarized using deepseek-v4-flash
+Append: [伊朗指责美国一再违约 警告将果断回应](https://www.zaobao.com/news/world/story20260708-9329911)
+Token length: 645
+Summarized using deepseek-v4-flash
+Append: [美军对伊朗发起一系列打击 回应伊朗袭击三艘商船](https://www.zaobao.com/news/world/story20260708-9329788)
+append_entries: 2
+Finish: 2026-07-08 01:22:26.712397

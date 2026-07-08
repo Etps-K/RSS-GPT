@@ -8220,3 +8220,18 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：当特朗普为世界杯“吹哨”](https://www.zaobao.com/news/china/story20260708-9329159)
 append_entries: 1
 Finish: 2026-07-07 22:49:25.560815
+------------------------------------------------------
+Started: 2026-07-08 01:22:04.512839
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 625
+Summarized using deepseek-v4-flash
+Append: [王沪宁吁把专门协商机构职能履行好 发挥建言资政作用](https://www.zaobao.com/news/china/story20260708-9330109)
+Token length: 112
+Summarized using deepseek-v4-flash
+Append: [四川宜宾发生5.0级地震](https://www.zaobao.com/news/china/story20260708-9329946)
+Token length: 422
+Summarized using deepseek-v4-flash
+Append: [中国国防部：推动核力量现代化旨在维护全球战略稳定](https://www.zaobao.com/news/china/story20260708-9329927)
+append_entries: 3
+Finish: 2026-07-08 01:22:18.219669
