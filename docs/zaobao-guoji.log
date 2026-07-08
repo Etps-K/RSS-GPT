@@ -7747,3 +7747,30 @@ Summarized using deepseek-v4-flash
 Append: [美军对伊朗发起一系列打击 回应伊朗袭击三艘商船](https://www.zaobao.com/news/world/story20260708-9329788)
 append_entries: 2
 Finish: 2026-07-08 01:22:26.712397
+------------------------------------------------------
+Started: 2026-07-08 04:56:15.114493
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 167
+Summarized using deepseek-v4-flash
+Append: [伊军方称袭击巴林科威特境内85个美军目标](https://www.zaobao.com/news/world/story20260708-9331149)
+Token length: 449
+Summarized using deepseek-v4-flash
+Append: [伊朗议长斥美国五项“违约”行为](https://www.zaobao.com/news/world/story20260708-9331008)
+Token length: 66
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称击落美国MQ-9死神无人机](https://www.zaobao.com/news/world/story20260708-9331050)
+Token length: 401
+Summarized using deepseek-v4-flash
+Append: [美日韩签署合作协议 推动印太地区民用核能合作](https://www.zaobao.com/news/world/story20260708-9330593)
+Token length: 355
+Summarized using deepseek-v4-flash
+Append: [伊朗军方誓言毁灭性回击美军侵略行为](https://www.zaobao.com/news/world/story20260708-9330672)
+Append: [卡塔尔就运输船遇袭向伊朗发出照会](https://www.zaobao.com/news/world/story20260708-9329724)
+Append: [韩国拟向乌克兰提供1亿美元援助配套 致命武器除外](https://www.zaobao.com/news/world/story20260708-9330436)
+Append: [伊朗媒体称格什姆岛再传出爆炸声](https://www.zaobao.com/news/world/story20260708-9330394)
+Append: [改建大楼支撑柱弯曲 纽约市紧急封街疏散民众](https://www.zaobao.com/news/world/story20260708-9330302)
+Append: [美袭击伊朗南部后 伊朗总统结束伊拉克行程回国](https://www.zaobao.com/news/world/story20260708-9330148)
+Append: [特朗普取消对土耳其制裁 可能恢复出售F35战机](https://www.zaobao.com/news/world/story20260708-9330014)
+append_entries: 11
+Finish: 2026-07-08 04:56:39.122800
