@@ -7774,3 +7774,21 @@ Append: [美袭击伊朗南部后 伊朗总统结束伊拉克行程回国](https
 Append: [特朗普取消对土耳其制裁 可能恢复出售F35战机](https://www.zaobao.com/news/world/story20260708-9330014)
 append_entries: 11
 Finish: 2026-07-08 04:56:39.122800
+------------------------------------------------------
+Started: 2026-07-08 08:04:12.921510
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 259
+Summarized using deepseek-v4-flash
+Append: [伊朗军方称美在中东军事基地是“合法打击目标”](https://www.zaobao.com/news/world/story20260708-9332232)
+Token length: 847
+Summarized using deepseek-v4-flash
+Append: [挪用公款罪维持原判 法国极右翼勒庞仍将竞选总统](https://www.zaobao.com/news/world/story20260708-9331963)
+Token length: 508
+Summarized using deepseek-v4-flash
+Append: [北约秘书长：美国强硬回击伊朗是绝对必要的](https://www.zaobao.com/news/world/story20260708-9331789)
+Token length: 411
+Summarized using deepseek-v4-flash
+Append: [美军完成对伊朗新一轮打击 称击中超过80个目标](https://www.zaobao.com/news/world/story20260708-9331558)
+append_entries: 4
+Finish: 2026-07-08 08:04:37.058448
