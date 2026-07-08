@@ -5686,3 +5686,15 @@ Existing_entries: 309
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-08 08:03:44.372385
+------------------------------------------------------
+Started: 2026-07-08 11:40:02.489441
+Existing_entries: 309
+Fetching from https://sspai.com/feed
+Token length: 23
+Summarized using deepseek-v4-flash
+Append: [乌兰布统，草原观星](https://sspai.com/post/111923)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [我的出行好伙伴，用 iPhone 一站式解决旅途痛点](https://sspai.com/post/112044)
+append_entries: 2
+Finish: 2026-07-08 11:40:19.072831

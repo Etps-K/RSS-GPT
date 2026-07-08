@@ -7792,3 +7792,24 @@ Summarized using deepseek-v4-flash
 Append: [美军完成对伊朗新一轮打击 称击中超过80个目标](https://www.zaobao.com/news/world/story20260708-9331558)
 append_entries: 4
 Finish: 2026-07-08 08:04:37.058448
+------------------------------------------------------
+Started: 2026-07-08 11:40:45.989683
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1814
+Summarized using deepseek-v4-flash
+Append: [伊朗进入后哈梅内伊时代 权力博弈未见分晓](https://www.zaobao.com/news/world/story20260708-9332538)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [特朗普称美伊谅解备忘录已终结 不愿再同德黑兰谈判](https://www.zaobao.com/news/world/story20260708-9333248)
+Token length: 955
+Summarized using deepseek-v4-flash
+Append: [特朗普政府多管齐下平息民怨 拉抬中期选举情势](https://www.zaobao.com/news/world/story20260708-9332530)
+Token length: 589
+Summarized using deepseek-v4-flash
+Append: [调查：顶尖AI企业安全表现不佳 榜首Anthropic评级仅C+](https://www.zaobao.com/news/world/story20260708-9332686)
+Token length: 620
+Summarized using deepseek-v4-flash
+Append: [以色列总理反对美国向土耳其出售F-35战斗机](https://www.zaobao.com/news/world/story20260708-9332351)
+append_entries: 5
+Finish: 2026-07-08 11:41:13.131007
