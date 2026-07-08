@@ -8377,3 +8377,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-08 20:53:22.224281
+------------------------------------------------------
+Started: 2026-07-08 22:53:13.429790
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 461
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：解放军反腐暴风中导弹升空](https://www.zaobao.com/news/china/story20260709-9334271)
+append_entries: 1
+Finish: 2026-07-08 22:53:17.588284
