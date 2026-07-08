@@ -7853,3 +7853,9 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：美国应把叙利亚移出支恐名单](https://www.zaobao.com/news/world/story20260708-9335103)
 append_entries: 1
 Finish: 2026-07-08 17:18:06.112821
+------------------------------------------------------
+Started: 2026-07-08 19:02:11.816704
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-08 19:02:11.926366

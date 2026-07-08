@@ -8362,3 +8362,12 @@ Summarized using deepseek-v4-flash
 Append: [胡锡进：谷立言螳臂当车 国台办强烈措辞点名抨击非常罕见](https://www.zaobao.com/news/china/story20260708-9334919)
 append_entries: 3
 Finish: 2026-07-08 17:18:01.810270
+------------------------------------------------------
+Started: 2026-07-08 19:02:04.121493
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1279
+Summarized using deepseek-v4-flash
+Append: [中荷时隔五年半再开部长级经贸会议 冀彻底告别摩擦时期](https://www.zaobao.com/news/china/story20260709-9334860)
+append_entries: 1
+Finish: 2026-07-08 19:02:10.798741
