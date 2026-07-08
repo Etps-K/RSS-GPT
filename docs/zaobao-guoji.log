@@ -7844,3 +7844,12 @@ Append: [韩国年轻士兵“负债退伍”现象加剧引关注](https://www.
 Append: [北约盟友公布近650亿元军购 特朗普仍不满再抱怨](https://www.zaobao.com/news/world/story20260708-9332698)
 append_entries: 9
 Finish: 2026-07-08 15:57:02.881490
+------------------------------------------------------
+Started: 2026-07-08 17:18:02.704331
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 480
+Summarized using deepseek-v4-flash
+Append: [特朗普：美国应把叙利亚移出支恐名单](https://www.zaobao.com/news/world/story20260708-9335103)
+append_entries: 1
+Finish: 2026-07-08 17:18:06.112821

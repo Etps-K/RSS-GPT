@@ -8347,3 +8347,18 @@ Summarized using deepseek-v4-flash
 Append: [下午察：不敌日韩，中国篮球怎么了？](https://www.zaobao.com/news/china/story20260708-9331675)
 append_entries: 2
 Finish: 2026-07-08 15:56:07.986704
+------------------------------------------------------
+Started: 2026-07-08 17:17:50.498767
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 653
+Summarized using deepseek-v4-flash
+Append: [中国多地现洪涝山体滑坡等灾情 至少38人遇难](https://www.zaobao.com/news/china/story20260708-9334850)
+Token length: 993
+Summarized using deepseek-v4-flash
+Append: [台在野党要求卓荣泰为致癌油负责下台 赖清德吁请立法行政合作修食安法](https://www.zaobao.com/news/china/story20260708-9334711)
+Token length: 1285
+Summarized using deepseek-v4-flash
+Append: [胡锡进：谷立言螳臂当车 国台办强烈措辞点名抨击非常罕见](https://www.zaobao.com/news/china/story20260708-9334919)
+append_entries: 3
+Finish: 2026-07-08 17:18:01.810270
