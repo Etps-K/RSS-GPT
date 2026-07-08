@@ -8371,3 +8371,9 @@ Summarized using deepseek-v4-flash
 Append: [中荷时隔五年半再开部长级经贸会议 冀彻底告别摩擦时期](https://www.zaobao.com/news/china/story20260709-9334860)
 append_entries: 1
 Finish: 2026-07-08 19:02:10.798741
+------------------------------------------------------
+Started: 2026-07-08 20:53:22.089905
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-08 20:53:22.224281
