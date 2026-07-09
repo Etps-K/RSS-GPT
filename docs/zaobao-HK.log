@@ -8491,3 +8491,28 @@ Append: [香港犬只今起可入食肆 多家餐厅未准备好](https://www.za
 Append: [中国九部门联合印发文件 支持做强做优做大零售企业](https://www.zaobao.com/news/china/story20260709-9338242)
 append_entries: 15
 Finish: 2026-07-09 12:34:29.537041
+------------------------------------------------------
+Started: 2026-07-09 16:19:53.358937
+Existing_entries: 1015
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 382
+Summarized using deepseek-v4-flash
+Append: [因应台风巴威 官方对浙江福建启动地质灾害防御三级响应](https://www.zaobao.com/news/china/story20260709-9341242)
+Token length: 867
+Summarized using deepseek-v4-flash
+Append: [超强台风“巴威”逼近 台湾福建浙江面临猛烈风雨考验](https://www.zaobao.com/news/china/story20260709-9340942)
+Token length: 372
+Summarized using deepseek-v4-flash
+Append: [福建晋江鞋厂火患致28人遇难](https://www.zaobao.com/news/china/story20260709-9340877)
+Token length: 1139
+Summarized using deepseek-v4-flash
+Append: [矢板明夫遇袭引跨境镇压疑虑 台官员坦言难追指挥链](https://www.zaobao.com/news/china/story20260709-9340167)
+Token length: 673
+Summarized using deepseek-v4-flash
+Append: [中国车企小鹏启动Robotaxi内测 拟下半年载客示范运营](https://www.zaobao.com/news/china/story20260709-9339945)
+Append: [台陆委会通报一地方法官赴陆旅行被大陆公安盘查](https://www.zaobao.com/news/china/story20260709-9340342)
+Append: [中国三部门调拨五万件救灾物资支持浙江福建避险转移](https://www.zaobao.com/news/china/story20260709-9340412)
+Append: [前中国外交官上月据报访美厘清华盛顿对贸易休战立场](https://www.zaobao.com/news/china/story20260709-9340186)
+Append: [福建试点台胞申办残疾人证](https://www.zaobao.com/news/china/story20260709-9338185)
+append_entries: 9
+Finish: 2026-07-09 16:20:15.319598
