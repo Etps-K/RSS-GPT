@@ -7893,3 +7893,21 @@ Append: [刚果（金）伊波拉确诊案例增至1759起 累计死例600起](h
 Append: [特朗普下令再空袭伊朗 警告再袭霍尔木兹船只将付更大代价](https://www.zaobao.com/news/world/story20260709-9335697)
 append_entries: 6
 Finish: 2026-07-09 01:31:17.170191
+------------------------------------------------------
+Started: 2026-07-09 05:53:16.514118
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 273
+Summarized using deepseek-v4-flash
+Append: [美军称新一轮空袭打击约90个伊朗军事目标](https://www.zaobao.com/news/world/story20260709-9336894)
+Token length: 444
+Summarized using deepseek-v4-flash
+Append: [美法官下令发放性侵诽谤案赔偿 特朗普须支付580万美元](https://www.zaobao.com/news/world/story20260709-9336620)
+Token length: 287
+Summarized using deepseek-v4-flash
+Append: [伊朗称霍尔木兹海峡只有在“伊朗安排下”重开](https://www.zaobao.com/news/world/story20260709-9336270)
+Token length: 506
+Summarized using deepseek-v4-flash
+Append: [北约承诺向乌克兰提供700亿欧元军援 俄警告决定恐酿灾难](https://www.zaobao.com/news/world/story20260709-9336045)
+append_entries: 4
+Finish: 2026-07-09 05:53:40.824748
