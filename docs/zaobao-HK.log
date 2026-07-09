@@ -8386,3 +8386,24 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：解放军反腐暴风中导弹升空](https://www.zaobao.com/news/china/story20260709-9334271)
 append_entries: 1
 Finish: 2026-07-08 22:53:17.588284
+------------------------------------------------------
+Started: 2026-07-09 01:30:22.210568
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 568
+Summarized using deepseek-v4-flash
+Append: [美国批中国试射导弹前几个小时才发通知](https://www.zaobao.com/news/china/story20260709-9335875)
+Token length: 714
+Summarized using deepseek-v4-flash
+Append: [蔡奇：希望科技工作者坚定科技报国志向 勇担自立自强使命](https://www.zaobao.com/news/china/story20260709-9335849)
+Token length: 579
+Summarized using deepseek-v4-flash
+Append: [日本前外长岩屋毅继任会长后 国贸促拟9月访华](https://www.zaobao.com/news/china/story20260709-9335828)
+Token length: 335
+Summarized using deepseek-v4-flash
+Append: [粉笔CEO张小龙辞职 此前称考公“混吃等死”引争议](https://www.zaobao.com/news/china/story20260709-9335734)
+Token length: 679
+Summarized using deepseek-v4-flash
+Append: [超强台风“巴威”逐渐靠近 将严重影响中国近海海域](https://www.zaobao.com/news/china/story20260709-9335713)
+append_entries: 5
+Finish: 2026-07-09 01:30:48.202816
