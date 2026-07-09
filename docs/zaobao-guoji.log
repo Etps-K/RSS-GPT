@@ -7996,3 +7996,9 @@ Summarized using deepseek-v4-flash
 Append: [伊朗同阿曼与土耳其通话 阿曼反对征收海峡通行费](https://www.zaobao.com/news/world/story20260709-9341166)
 append_entries: 3
 Finish: 2026-07-09 19:17:19.380124
+------------------------------------------------------
+Started: 2026-07-09 21:09:00.104474
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-09 21:09:00.233689
