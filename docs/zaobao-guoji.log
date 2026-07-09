@@ -7911,3 +7911,21 @@ Summarized using deepseek-v4-flash
 Append: [北约承诺向乌克兰提供700亿欧元军援 俄警告决定恐酿灾难](https://www.zaobao.com/news/world/story20260709-9336045)
 append_entries: 4
 Finish: 2026-07-09 05:53:40.824748
+------------------------------------------------------
+Started: 2026-07-09 09:00:06.079078
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [研究：父母沉迷手机或对子女心理发展造成负面影响](https://www.zaobao.com/news/world/story20260709-9338182)
+Token length: 483
+Summarized using deepseek-v4-flash
+Append: [新西兰考虑加入澳斐防务联盟](https://www.zaobao.com/news/world/story20260709-9337626)
+Token length: 1120
+Summarized using deepseek-v4-flash
+Append: [日本舆论指高市早苗缺席北约峰会错失良机](https://www.zaobao.com/news/world/story20260709-9337426)
+Token length: 430
+Summarized using deepseek-v4-flash
+Append: [韩国最高法院维持尹锡悦涉嫌妨碍逮捕案二审判决](https://www.zaobao.com/news/world/story20260709-9337397)
+append_entries: 4
+Finish: 2026-07-09 09:00:25.167035
