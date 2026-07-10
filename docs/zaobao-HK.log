@@ -8678,3 +8678,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-10 20:57:41.357092
+------------------------------------------------------
+Started: 2026-07-10 22:47:07.304349
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 235
+Summarized using deepseek-v4-flash
+Append: [陈婧：小红书上市遭遇拦路虎？](https://www.zaobao.com/news/china/story20260711-9346740)
+Token length: 274
+Summarized using deepseek-v4-flash
+Append: [新闻人间：“散帅”和“集美”的性别战争](https://www.zaobao.com/news/china/story20260711-9340832)
+append_entries: 2
+Finish: 2026-07-10 22:47:15.171168
