@@ -8110,3 +8110,15 @@ Append: [伊朗誓言回击敌方攻击 卡塔尔代表抵达伊朗推动谈判]
 Append: [西班牙林火肆虐12人丧命 官员：这是前所未有的悲剧](https://www.zaobao.com/news/world/story20260710-9346317)
 append_entries: 7
 Finish: 2026-07-10 16:12:47.401510
+------------------------------------------------------
+Started: 2026-07-10 19:12:20.829542
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 594
+Summarized using deepseek-v4-flash
+Append: [AI投资狂潮之下 科技巨头债务规模翻倍](https://www.zaobao.com/news/world/story20260710-9347013)
+Token length: 255
+Summarized using deepseek-v4-flash
+Append: [特朗普：美国同意与伊朗继续谈判 停火协议“已结束”](https://www.zaobao.com/news/world/story20260710-9346936)
+append_entries: 2
+Finish: 2026-07-10 19:12:30.348633
