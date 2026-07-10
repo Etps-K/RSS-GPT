@@ -8008,3 +8008,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-09 23:00:37.026859
+------------------------------------------------------
+Started: 2026-07-10 01:28:21.782736
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 231
+Summarized using deepseek-v4-flash
+Append: [伊朗圣城发生致命枪击 距哈梅内伊安葬地仅17公里](https://www.zaobao.com/news/world/story20260710-9341692)
+Token length: 670
+Summarized using deepseek-v4-flash
+Append: [消息：以色列向美通报 伊朗策划暗杀特朗普](https://www.zaobao.com/news/world/story20260710-9341668)
+append_entries: 2
+Finish: 2026-07-10 01:28:31.944690

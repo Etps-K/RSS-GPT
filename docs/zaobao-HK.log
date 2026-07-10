@@ -8537,3 +8537,24 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：鼓噪又充满戾气的网络空间](https://www.zaobao.com/news/china/story20260710-9341237)
 append_entries: 1
 Finish: 2026-07-09 23:00:35.916093
+------------------------------------------------------
+Started: 2026-07-10 01:27:51.944437
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 924
+Summarized using deepseek-v4-flash
+Append: [丁薛祥：要以新型举国体制保障高水平科技自立自强](https://www.zaobao.com/news/china/story20260710-9341931)
+Token length: 894
+Summarized using deepseek-v4-flash
+Append: [中国6万亿债务化解取得阶段性进展 地方财政迎缓解契机](https://www.zaobao.com/news/china/story20260710-9341899)
+Token length: 642
+Summarized using deepseek-v4-flash
+Append: [李强：中方愿同纳方加强发展战略对接 扩大双边贸易规模](https://www.zaobao.com/news/china/story20260710-9341866)
+Token length: 223
+Summarized using deepseek-v4-flash
+Append: [四川宜宾高县地震致四伤 初排房屋受损超4300户](https://www.zaobao.com/news/china/story20260710-9341793)
+Token length: 612
+Summarized using deepseek-v4-flash
+Append: [山东泰安决定将泰山景区现有刀片式隔离网拆除或替代](https://www.zaobao.com/news/china/story20260710-9341763)
+append_entries: 5
+Finish: 2026-07-10 01:28:20.763699
