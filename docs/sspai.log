@@ -5800,3 +5800,15 @@ Existing_entries: 315
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-10 01:27:51.027268
+------------------------------------------------------
+Started: 2026-07-10 05:50:11.221109
+Existing_entries: 315
+Fetching from https://sspai.com/feed
+Token length: 52
+Summarized using deepseek-v4-flash
+Append: [Vibe Coding 时代，为什么降本不一定增效？](https://sspai.com/post/111975)
+Token length: 52
+Summarized using deepseek-v4-flash
+Append: [派早报：蔚来 ES8 大五座版正式上市等](https://sspai.com/post/112143)
+append_entries: 2
+Finish: 2026-07-10 05:50:22.875823

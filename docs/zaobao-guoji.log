@@ -8020,3 +8020,26 @@ Summarized using deepseek-v4-flash
 Append: [消息：以色列向美通报 伊朗策划暗杀特朗普](https://www.zaobao.com/news/world/story20260710-9341668)
 append_entries: 2
 Finish: 2026-07-10 01:28:31.944690
+------------------------------------------------------
+Started: 2026-07-10 05:50:46.622555
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 268
+Summarized using deepseek-v4-flash
+Append: [韩国近两天强降雨 一人失联逾400处设施受损](https://www.zaobao.com/news/world/story20260710-9342958)
+Token length: 250
+Summarized using deepseek-v4-flash
+Append: [西班牙南部林火已导致12人死亡](https://www.zaobao.com/news/world/story20260710-9342681)
+Token length: 418
+Summarized using deepseek-v4-flash
+Append: [美国暂缓对进口商用飞机征收新关税](https://www.zaobao.com/news/world/story20260710-9342306)
+Token length: 221
+Summarized using deepseek-v4-flash
+Append: [朝鲜决定加强核武力量 推动军队现代化](https://www.zaobao.com/news/world/story20260710-9342139)
+Token length: 245
+Summarized using deepseek-v4-flash
+Append: [巴勒斯坦11月28日举行立法委员会选举](https://www.zaobao.com/news/world/story20260710-9341557)
+Append: [美伊连日交火 美官员称技术性谈判仍持续](https://www.zaobao.com/news/world/story20260710-9341972)
+Append: [美媒：中俄试图借AI争议激化美国社会分裂](https://www.zaobao.com/news/world/story20260710-9341881)
+append_entries: 7
+Finish: 2026-07-10 05:51:09.519189
