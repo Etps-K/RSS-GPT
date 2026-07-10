@@ -8122,3 +8122,9 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：美国同意与伊朗继续谈判 停火协议“已结束”](https://www.zaobao.com/news/world/story20260710-9346936)
 append_entries: 2
 Finish: 2026-07-10 19:12:30.348633
+------------------------------------------------------
+Started: 2026-07-10 20:57:42.367146
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-10 20:57:42.503576
