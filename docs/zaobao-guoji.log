@@ -8066,3 +8066,24 @@ Append: [美机构：厄尔尼诺现象将持续至2027年](https://www.zaobao.c
 Append: [霍尔木兹海峡航运锐减 油轮关闭应答器避袭](https://www.zaobao.com/news/world/story20260710-9343300)
 append_entries: 7
 Finish: 2026-07-10 08:57:00.014140
+------------------------------------------------------
+Started: 2026-07-10 12:17:52.200557
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 946
+Summarized using deepseek-v4-flash
+Append: [分析：中俄等国试图通过官媒 煽动美国AI数据中心争议](https://www.zaobao.com/news/world/story20260710-9345829)
+Token length: 854
+Summarized using deepseek-v4-flash
+Append: [美乌就生产爱国者导弹拦截器达成政治协议](https://www.zaobao.com/news/world/story20260710-9345017)
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [瑞安航空飞机窗户“脱落” 一乘客险些被吸出机外](https://www.zaobao.com/news/world/story20260710-9345859)
+Token length: 685
+Summarized using deepseek-v4-flash
+Append: [伯纳姆几乎笃定出任工党党魁接任英国首相](https://www.zaobao.com/news/world/story20260710-9345038)
+Token length: 492
+Summarized using deepseek-v4-flash
+Append: [佛州棕榈滩机场正式改名“特朗普”](https://www.zaobao.com/news/world/story20260710-9343925)
+append_entries: 5
+Finish: 2026-07-10 12:18:14.008642

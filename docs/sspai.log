@@ -5821,3 +5821,12 @@ Summarized using deepseek-v4-flash
 Append: [安达卢西亚的日与夜：格拉纳达漫游指南](https://sspai.com/post/112097)
 append_entries: 1
 Finish: 2026-07-10 08:56:02.910891
+------------------------------------------------------
+Started: 2026-07-10 12:17:12.660422
+Existing_entries: 318
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/112169)
+append_entries: 1
+Finish: 2026-07-10 12:17:25.610264
