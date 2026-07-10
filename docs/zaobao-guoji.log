@@ -8087,3 +8087,26 @@ Summarized using deepseek-v4-flash
 Append: [佛州棕榈滩机场正式改名“特朗普”](https://www.zaobao.com/news/world/story20260710-9343925)
 append_entries: 5
 Finish: 2026-07-10 12:18:14.008642
+------------------------------------------------------
+Started: 2026-07-10 16:12:16.235319
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1174
+Summarized using deepseek-v4-flash
+Append: [石油设施受乌克兰持续空袭 俄罗斯全国燃油短缺](https://www.zaobao.com/news/world/story20260710-9346554)
+Token length: 635
+Summarized using deepseek-v4-flash
+Append: [乌克兰推出2000格里夫纳纸币 应对现金需求](https://www.zaobao.com/news/world/story20260710-9346790)
+Token length: 1458
+Summarized using deepseek-v4-flash
+Append: [哈梅内伊已安葬 最高领袖缺席葬礼引关注](https://www.zaobao.com/news/world/story20260710-9346419)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [泽连斯基：乌克兰将打造国产反导系统](https://www.zaobao.com/news/world/story20260710-9346681)
+Token length: 861
+Summarized using deepseek-v4-flash
+Append: [日本拟扩建成田机场 打造亚洲领先航空枢纽](https://www.zaobao.com/news/world/story20260710-9346362)
+Append: [伊朗誓言回击敌方攻击 卡塔尔代表抵达伊朗推动谈判](https://www.zaobao.com/news/world/story20260710-9346442)
+Append: [西班牙林火肆虐12人丧命 官员：这是前所未有的悲剧](https://www.zaobao.com/news/world/story20260710-9346317)
+append_entries: 7
+Finish: 2026-07-10 16:12:47.401510
