@@ -8803,3 +8803,12 @@ Append: [北京市升级发布暴雨红色预警](https://www.zaobao.com/news/ch
 Append: [台风“巴威”逼近中国沿海 上海两机场取消近400架航班](https://www.zaobao.com/news/china/story20260711-9349113)
 append_entries: 9
 Finish: 2026-07-11 10:51:34.663796
+------------------------------------------------------
+Started: 2026-07-11 12:47:03.319480
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [欧盟：减少对华依赖须投入资金支持](https://www.zaobao.com/news/china/story20260711-9349772)
+append_entries: 1
+Finish: 2026-07-11 12:47:09.234743
