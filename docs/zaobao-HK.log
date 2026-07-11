@@ -8812,3 +8812,15 @@ Summarized using deepseek-v4-flash
 Append: [欧盟：减少对华依赖须投入资金支持](https://www.zaobao.com/news/china/story20260711-9349772)
 append_entries: 1
 Finish: 2026-07-11 12:47:09.234743
+------------------------------------------------------
+Started: 2026-07-11 14:42:57.369859
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 533
+Summarized using deepseek-v4-flash
+Append: [中国多人因捏造散布汛情谣言被拘](https://www.zaobao.com/news/china/story20260711-9350188)
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [中国石化完成对中国航油重组](https://www.zaobao.com/news/china/story20260711-9350070)
+append_entries: 2
+Finish: 2026-07-11 14:43:06.815475

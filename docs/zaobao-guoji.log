@@ -8219,3 +8219,24 @@ Existing_entries: 1006
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-11 12:47:10.433292
+------------------------------------------------------
+Started: 2026-07-11 14:43:07.539582
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 491
+Summarized using deepseek-v4-flash
+Append: [特朗普曾扬言封锁 美加大桥7月27日通车](https://www.zaobao.com/news/world/story20260711-9350082)
+Token length: 1107
+Summarized using deepseek-v4-flash
+Append: [美伊达成核协议希望渐微 霍尔木兹海峡僵局加剧](https://www.zaobao.com/news/world/story20260711-9349904)
+Token length: 886
+Summarized using deepseek-v4-flash
+Append: [日本众院通过修改皇室法 确保皇室男丁不凋零](https://www.zaobao.com/news/world/story20260711-9349843)
+Token length: 174
+Summarized using deepseek-v4-flash
+Append: [伊朗最高领袖：誓为父亲哈梅内伊报仇](https://www.zaobao.com/news/world/story20260711-9349979)
+Token length: 337
+Summarized using deepseek-v4-flash
+Append: [伊朗：除非美国“放弃立场” 否则不会谈判](https://www.zaobao.com/news/world/story20260711-9349657)
+append_entries: 5
+Finish: 2026-07-11 14:43:31.662049
