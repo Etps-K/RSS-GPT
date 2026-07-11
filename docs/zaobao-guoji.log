@@ -8191,3 +8191,25 @@ Summarized using deepseek-v4-flash
 Append: [白宫证实特朗普已“清空”选举援助委员会](https://www.zaobao.com/news/world/story20260711-9348646)
 append_entries: 2
 Finish: 2026-07-11 09:14:24.736563
+------------------------------------------------------
+Started: 2026-07-11 10:51:35.681097
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 632
+Summarized using deepseek-v4-flash
+Append: [俄禁柴油出口冲击全球市场 燃油供应紧张加剧价格飙升](https://www.zaobao.com/news/world/story20260711-9349039)
+Token length: 672
+Summarized using deepseek-v4-flash
+Append: [特朗普政府放宽对阿联酋出口管制 民主党质疑涉利益输送](https://www.zaobao.com/news/world/story20260711-9349019)
+Token length: 421
+Summarized using deepseek-v4-flash
+Append: [古巴本周第二次全国断电](https://www.zaobao.com/news/world/story20260711-9349235)
+Token length: 769
+Summarized using deepseek-v4-flash
+Append: [苹果告OpenAI：窃取商业机密图利自身硬件研发](https://www.zaobao.com/news/world/story20260711-9348914)
+Token length: 342
+Summarized using deepseek-v4-flash
+Append: [国际能源署：美伊冲突再升温 重建石油库存进程或受扰](https://www.zaobao.com/news/world/story20260711-9349108)
+Append: [英国前国务部长家中遇害 警列谋杀案调查](https://www.zaobao.com/news/world/story20260711-9348862)
+append_entries: 6
+Finish: 2026-07-11 10:52:06.837192
