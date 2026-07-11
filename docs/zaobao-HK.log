@@ -8836,3 +8836,9 @@ Summarized using deepseek-v4-flash
 Append: [台风“巴威”浙江登陆超200万人转移 中国时隔两年再发暴雨红色预警](https://www.zaobao.com/news/china/story20260711-9350218)
 append_entries: 2
 Finish: 2026-07-11 16:39:57.297117
+------------------------------------------------------
+Started: 2026-07-11 18:41:18.761369
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-11 18:41:18.875430

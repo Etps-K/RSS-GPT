@@ -8258,3 +8258,9 @@ Summarized using deepseek-v4-flash
 Append: [扬言千枚导弹已锁定伊朗 特朗普警告伊朗勿暗杀他](https://www.zaobao.com/news/world/story20260711-9349609)
 append_entries: 4
 Finish: 2026-07-11 16:40:21.439501
+------------------------------------------------------
+Started: 2026-07-11 18:41:19.916085
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-11 18:41:20.013574
