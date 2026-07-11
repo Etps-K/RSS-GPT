@@ -8179,3 +8179,15 @@ Summarized using deepseek-v4-flash
 Append: [莫迪访新西兰 印新关系升级为战略伙伴](https://www.zaobao.com/news/world/story20260711-9348038)
 append_entries: 3
 Finish: 2026-07-11 07:29:41.882288
+------------------------------------------------------
+Started: 2026-07-11 09:14:15.544824
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 298
+Summarized using deepseek-v4-flash
+Append: [伊外长指美国违反承诺 美军两天袭击致17死115伤](https://www.zaobao.com/news/world/story20260711-9348814)
+Token length: 698
+Summarized using deepseek-v4-flash
+Append: [白宫证实特朗普已“清空”选举援助委员会](https://www.zaobao.com/news/world/story20260711-9348646)
+append_entries: 2
+Finish: 2026-07-11 09:14:24.736563

@@ -8756,3 +8756,25 @@ Append: [张雪机车最迟明年在台湾设门店](https://www.zaobao.com/news
 Append: [北京吁相关各方维护并落实美伊谅解备忘录](https://www.zaobao.com/news/china/story20260711-9348325)
 append_entries: 8
 Finish: 2026-07-11 07:29:23.870709
+------------------------------------------------------
+Started: 2026-07-11 09:13:48.147154
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 742
+Summarized using deepseek-v4-flash
+Append: [台风“巴威”快速逼近 浙江多地发布《告全体市民书》](https://www.zaobao.com/news/china/story20260711-9349064)
+Token length: 646
+Summarized using deepseek-v4-flash
+Append: [中国民盟中央常务副主席王光谦当选科协主席](https://www.zaobao.com/news/china/story20260711-9348983)
+Token length: 1054
+Summarized using deepseek-v4-flash
+Append: [长沙公职霸车位 官媒：“小恶难惩”把维权者逼向违法边缘](https://www.zaobao.com/news/china/story20260711-9348785)
+Token length: 774
+Summarized using deepseek-v4-flash
+Append: [伊朗海上滞销原油增加 中国独立炼厂转购其他中东原油](https://www.zaobao.com/news/china/story20260711-9348925)
+Token length: 551
+Summarized using deepseek-v4-flash
+Append: [美团小米传大规模裁员 美团回应实际离职数不足2000人](https://www.zaobao.com/news/china/story20260711-9348924)
+Append: [李强：中朝携手捍卫自身正当权益和国际公平正义](https://www.zaobao.com/news/china/story20260711-9348873)
+append_entries: 6
+Finish: 2026-07-11 09:14:14.520208
