@@ -8824,3 +8824,15 @@ Summarized using deepseek-v4-flash
 Append: [中国石化完成对中国航油重组](https://www.zaobao.com/news/china/story20260711-9350070)
 append_entries: 2
 Finish: 2026-07-11 14:43:06.815475
+------------------------------------------------------
+Started: 2026-07-11 16:39:47.688136
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1019
+Summarized using deepseek-v4-flash
+Append: [台风巴威暴风圈扫过台湾东北部 日本三艘巡防舰到台海避风](https://www.zaobao.com/news/china/story20260711-9350156)
+Token length: 1004
+Summarized using deepseek-v4-flash
+Append: [台风“巴威”浙江登陆超200万人转移 中国时隔两年再发暴雨红色预警](https://www.zaobao.com/news/china/story20260711-9350218)
+append_entries: 2
+Finish: 2026-07-11 16:39:57.297117

@@ -8240,3 +8240,21 @@ Summarized using deepseek-v4-flash
 Append: [伊朗：除非美国“放弃立场” 否则不会谈判](https://www.zaobao.com/news/world/story20260711-9349657)
 append_entries: 5
 Finish: 2026-07-11 14:43:31.662049
+------------------------------------------------------
+Started: 2026-07-11 16:39:58.323386
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 476
+Summarized using deepseek-v4-flash
+Append: [美国民主党众议员访西岸 遭以色列定居者持枪挟持](https://www.zaobao.com/news/world/story20260712-9350465)
+Token length: 1305
+Summarized using deepseek-v4-flash
+Append: [乌克兰成立远程打击司令部 推进对俄深入打击](https://www.zaobao.com/news/world/story20260711-9349978)
+Token length: 622
+Summarized using deepseek-v4-flash
+Append: [孟加拉洪灾致44人死亡 逾百万人受灾](https://www.zaobao.com/news/world/story20260711-9350291)
+Token length: 1126
+Summarized using deepseek-v4-flash
+Append: [扬言千枚导弹已锁定伊朗 特朗普警告伊朗勿暗杀他](https://www.zaobao.com/news/world/story20260711-9349609)
+append_entries: 4
+Finish: 2026-07-11 16:40:21.439501
