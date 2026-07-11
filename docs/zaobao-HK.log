@@ -8732,3 +8732,27 @@ Append: [台风“巴威”风势增强 预计明天凌晨登陆浙闽沿海](ht
 Append: [美参议员：中国可向俄罗斯施压 助推结束乌克兰战争](https://www.zaobao.com/news/china/story20260711-9347771)
 append_entries: 8
 Finish: 2026-07-11 04:51:12.480999
+------------------------------------------------------
+Started: 2026-07-11 07:28:54.419589
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 585
+Summarized using deepseek-v4-flash
+Append: [台风巴威袭台致36伤 多因骑车摔倒或防风准备受伤](https://www.zaobao.com/news/china/story20260711-9348757)
+Token length: 850
+Summarized using deepseek-v4-flash
+Append: [试管胚胎样本错配案 港警“一哥”：暂未有人被捕](https://www.zaobao.com/news/china/story20260711-9348731)
+Token length: 309
+Summarized using deepseek-v4-flash
+Append: [河北张家口路面塌陷 三车坠入一死一伤](https://www.zaobao.com/news/china/story20260711-9348638)
+Token length: 713
+Summarized using deepseek-v4-flash
+Append: [中共会议再提整治形式主义 纠治政绩观偏差](https://www.zaobao.com/news/china/story20260711-9348245)
+Token length: 470
+Summarized using deepseek-v4-flash
+Append: [张玉卓任中国工程院院长](https://www.zaobao.com/news/china/story20260711-9347980)
+Append: [广西一动物园洪灾锁兽笼致狮子溺亡 PETA：不可接受](https://www.zaobao.com/news/china/story20260711-9348477)
+Append: [张雪机车最迟明年在台湾设门店](https://www.zaobao.com/news/china/story20260711-9348444)
+Append: [北京吁相关各方维护并落实美伊谅解备忘录](https://www.zaobao.com/news/china/story20260711-9348325)
+append_entries: 8
+Finish: 2026-07-11 07:29:23.870709

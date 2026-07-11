@@ -8164,3 +8164,18 @@ Summarized using deepseek-v4-flash
 Append: [霍尔木兹海峡通航量连续两天下降](https://www.zaobao.com/news/world/story20260711-9347451)
 append_entries: 3
 Finish: 2026-07-11 04:51:26.881406
+------------------------------------------------------
+Started: 2026-07-11 07:29:24.896119
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 286
+Summarized using deepseek-v4-flash
+Append: [面对暗杀威胁 特朗普警告伊朗：1000枚导弹已对准你们](https://www.zaobao.com/news/world/story20260711-9348521)
+Token length: 284
+Summarized using deepseek-v4-flash
+Append: [朝鲜通报军方特大腐败案 金正恩强调廉洁](https://www.zaobao.com/news/world/story20260711-9348366)
+Token length: 581
+Summarized using deepseek-v4-flash
+Append: [莫迪访新西兰 印新关系升级为战略伙伴](https://www.zaobao.com/news/world/story20260711-9348038)
+append_entries: 3
+Finish: 2026-07-11 07:29:41.882288
