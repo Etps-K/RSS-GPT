@@ -8270,3 +8270,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-11 20:36:05.531123
+------------------------------------------------------
+Started: 2026-07-11 22:34:46.298680
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 185
+Summarized using deepseek-v4-flash
+Append: [国际特稿：反华情绪高涨无阻消费 中国品牌虏获韩国人心](https://www.zaobao.com/news/world/story20260712-9322359)
+append_entries: 1
+Finish: 2026-07-11 22:34:50.778190

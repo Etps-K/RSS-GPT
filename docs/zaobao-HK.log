@@ -8848,3 +8848,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-11 20:36:04.658257
+------------------------------------------------------
+Started: 2026-07-11 22:34:37.204924
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 4170
+Summarized using deepseek-v4-flash
+Append: [中国特稿：中国出口管制反守为攻 地缘博弈对手如何拆招？](https://www.zaobao.com/news/china/story20260712-9339849)
+append_entries: 1
+Finish: 2026-07-11 22:34:45.260154
