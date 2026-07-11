@@ -8149,3 +8149,18 @@ Summarized using deepseek-v4-flash
 Append: [美官员：霍尔木兹海峡将全面恢复通航](https://www.zaobao.com/news/world/story20260711-9347509)
 append_entries: 3
 Finish: 2026-07-11 01:21:51.879486
+------------------------------------------------------
+Started: 2026-07-11 04:51:13.379767
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 281
+Summarized using deepseek-v4-flash
+Append: [以媒：以色列应美国要求 暂缓黎巴嫩军事行动](https://www.zaobao.com/news/world/story20260711-9347439)
+Token length: 612
+Summarized using deepseek-v4-flash
+Append: [美白人至上主义者威胁杀国会议员等被控12罪](https://www.zaobao.com/news/world/story20260711-9347796)
+Token length: 582
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡通航量连续两天下降](https://www.zaobao.com/news/world/story20260711-9347451)
+append_entries: 3
+Finish: 2026-07-11 04:51:26.881406

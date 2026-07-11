@@ -8708,3 +8708,27 @@ Summarized using deepseek-v4-flash
 Append: [官方再拨8000万元人民币支持广西救灾](https://www.zaobao.com/news/china/story20260711-9347525)
 append_entries: 4
 Finish: 2026-07-11 01:21:36.551369
+------------------------------------------------------
+Started: 2026-07-11 04:50:46.542055
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 357
+Summarized using deepseek-v4-flash
+Append: [福建鞋厂火灾致28死 中国官方对查处挂牌督办](https://www.zaobao.com/news/china/story20260711-9348265)
+Token length: 705
+Summarized using deepseek-v4-flash
+Append: [美官方反驳大陆批评 指谷立言代表美方立场](https://www.zaobao.com/news/china/story20260711-9348148)
+Token length: 605
+Summarized using deepseek-v4-flash
+Append: [台邀外国议员巡航金门水域 国台办：可笑又可悲的闹剧](https://www.zaobao.com/news/china/story20260711-9348126)
+Token length: 612
+Summarized using deepseek-v4-flash
+Append: [泽连斯基称中国再警告俄罗斯不得考虑向乌克兰使用核武](https://www.zaobao.com/news/china/story20260711-9348017)
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [中东局势趋紧 中国原油进口或将回升](https://www.zaobao.com/news/china/story20260711-9347905)
+Append: [万科预计今年上半年亏损扩大至150亿人民币](https://www.zaobao.com/news/china/story20260711-9347861)
+Append: [台风“巴威”风势增强 预计明天凌晨登陆浙闽沿海](https://www.zaobao.com/news/china/story20260711-9347787)
+Append: [美参议员：中国可向俄罗斯施压 助推结束乌克兰战争](https://www.zaobao.com/news/china/story20260711-9347771)
+append_entries: 8
+Finish: 2026-07-11 04:51:12.480999
