@@ -8690,3 +8690,21 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：“散帅”和“集美”的性别战争](https://www.zaobao.com/news/china/story20260711-9340832)
 append_entries: 2
 Finish: 2026-07-10 22:47:15.171168
+------------------------------------------------------
+Started: 2026-07-11 01:21:17.313014
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 745
+Summarized using deepseek-v4-flash
+Append: [金正恩习近平互致贺电 称朝中关系升至新战略高度](https://www.zaobao.com/news/china/story20260711-9347674)
+Token length: 767
+Summarized using deepseek-v4-flash
+Append: [习近平：中国愿与纳方共同加强矿产合作](https://www.zaobao.com/news/china/story20260711-9347650)
+Token length: 650
+Summarized using deepseek-v4-flash
+Append: [中国国常会部署抗洪救灾：紧盯高风险区域减少人员伤亡](https://www.zaobao.com/news/china/story20260711-9347542)
+Token length: 486
+Summarized using deepseek-v4-flash
+Append: [官方再拨8000万元人民币支持广西救灾](https://www.zaobao.com/news/china/story20260711-9347525)
+append_entries: 4
+Finish: 2026-07-11 01:21:36.551369
