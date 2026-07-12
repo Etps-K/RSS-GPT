@@ -8953,3 +8953,21 @@ Summarized using deepseek-v4-flash
 Append: [习近平：中基两国复交以来 双方坚持平等相待](https://www.zaobao.com/news/china/story20260712-9351976)
 append_entries: 1
 Finish: 2026-07-12 11:02:20.081759
+------------------------------------------------------
+Started: 2026-07-12 12:48:35.989918
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 389
+Summarized using deepseek-v4-flash
+Append: [中国据报指示大型炼油厂维持高产量](https://www.zaobao.com/news/china/story20260712-9352658)
+Token length: 2654
+Summarized using deepseek-v4-flash
+Append: [特稿：让高位截瘫患者握笔写字 中国脑机接口抢先商业化](https://www.zaobao.com/news/china/story20260712-9199066)
+Token length: 376
+Summarized using deepseek-v4-flash
+Append: [美国儿童合唱团40名青少年赴新疆交流](https://www.zaobao.com/news/china/story20260712-9352140)
+Token length: 1473
+Summarized using deepseek-v4-flash
+Append: [中国外交部驳14国涉南中国海声明：所谓裁决是非法无效废纸](https://www.zaobao.com/news/china/story20260712-9352945)
+append_entries: 4
+Finish: 2026-07-12 12:49:05.543588

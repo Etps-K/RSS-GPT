@@ -8368,3 +8368,18 @@ Append: [俄称乌无人机袭击亚速海油轮 无人伤亡](https://www.zaoba
 Append: [日本企业发放奖金 鼓励员工采用AI技术](https://www.zaobao.com/news/world/story20260712-9352134)
 append_entries: 7
 Finish: 2026-07-12 11:02:50.394709
+------------------------------------------------------
+Started: 2026-07-12 12:49:06.445603
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 526
+Summarized using deepseek-v4-flash
+Append: [南美洲安第斯山脉降雪不足 滑雪胜地面临“消融”风险](https://www.zaobao.com/news/world/story20260712-9352720)
+Token length: 220
+Summarized using deepseek-v4-flash
+Append: [美国指阿曼南部航道仍开放](https://www.zaobao.com/news/world/story20260712-9352902)
+Token length: 262
+Summarized using deepseek-v4-flash
+Append: [商船阿曼外海遇袭 一印度船员失踪](https://www.zaobao.com/news/world/story20260712-9352635)
+append_entries: 3
+Finish: 2026-07-12 12:49:24.072716
