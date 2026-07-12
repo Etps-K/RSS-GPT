@@ -8327,3 +8327,21 @@ Summarized using deepseek-v4-flash
 Append: [不丹颁布生育补贴政策 应对人口下降](https://www.zaobao.com/news/world/story20260712-9351545)
 append_entries: 2
 Finish: 2026-07-12 07:55:08.804400
+------------------------------------------------------
+Started: 2026-07-12 09:40:54.139793
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 300
+Summarized using deepseek-v4-flash
+Append: [韩国海军舰艇兵执行警备任务时失联](https://www.zaobao.com/news/world/story20260712-9352174)
+Token length: 731
+Summarized using deepseek-v4-flash
+Append: [阿富汗排斥女性参与经济 年损失恐近13亿元](https://www.zaobao.com/news/world/story20260712-9352120)
+Token length: 258
+Summarized using deepseek-v4-flash
+Append: [伊朗袭击波斯湾邻国 报复美国空袭](https://www.zaobao.com/news/world/story20260712-9352137)
+Token length: 275
+Summarized using deepseek-v4-flash
+Append: [美军称本周共打击300多个伊朗目标](https://www.zaobao.com/news/world/story20260712-9351964)
+append_entries: 4
+Finish: 2026-07-12 09:41:16.085747
