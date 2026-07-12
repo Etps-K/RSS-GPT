@@ -9004,3 +9004,12 @@ Existing_entries: 1001
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-12 20:33:15.072119
+------------------------------------------------------
+Started: 2026-07-12 22:35:34.572668
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 300
+Summarized using deepseek-v4-flash
+Append: [戴庆成：那些年的香港二楼书店](https://www.zaobao.com/news/china/story20260713-9352300)
+append_entries: 1
+Finish: 2026-07-12 22:35:48.311571
