@@ -8427,3 +8427,9 @@ Summarized using deepseek-v4-flash
 Append: [韩美多地酷暑气温或破40度 法国迎今年第三轮热浪](https://www.zaobao.com/news/world/story20260712-9353162)
 append_entries: 5
 Finish: 2026-07-12 16:42:37.780332
+------------------------------------------------------
+Started: 2026-07-12 18:44:48.310076
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-12 18:44:48.398649

@@ -8989,3 +8989,12 @@ Summarized using deepseek-v4-flash
 Append: [美菲日等14国发表南中国海仲裁10周年声明 中国促停止挑事生非](https://www.zaobao.com/news/china/story20260712-9352905)
 append_entries: 1
 Finish: 2026-07-12 16:41:51.657126
+------------------------------------------------------
+Started: 2026-07-12 18:44:42.404762
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 813
+Summarized using deepseek-v4-flash
+Append: [日外长就仲裁裁决发表谈话 中国外交部批日本想介入南中国海](https://www.zaobao.com/news/china/story20260712-9353615)
+append_entries: 1
+Finish: 2026-07-12 18:44:47.417488
