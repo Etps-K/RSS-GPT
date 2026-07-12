@@ -8279,3 +8279,18 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：反华情绪高涨无阻消费 中国品牌虏获韩国人心](https://www.zaobao.com/news/world/story20260712-9322359)
 append_entries: 1
 Finish: 2026-07-11 22:34:50.778190
+------------------------------------------------------
+Started: 2026-07-12 01:23:18.828526
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 504
+Summarized using deepseek-v4-flash
+Append: [法国遭遇第三波热浪 巴黎地标建筑提前关闭](https://www.zaobao.com/news/world/story20260712-9350823)
+Token length: 510
+Summarized using deepseek-v4-flash
+Append: [伊朗阿曼讨论霍尔木兹通行 最高领袖誓言为父复仇](https://www.zaobao.com/news/world/story20260712-9350795)
+Token length: 340
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉地震已致4333人遇难 伤者人数上升](https://www.zaobao.com/news/world/story20260712-9350757)
+append_entries: 3
+Finish: 2026-07-12 01:23:35.468100

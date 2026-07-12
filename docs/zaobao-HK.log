@@ -8857,3 +8857,15 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：中国出口管制反守为攻 地缘博弈对手如何拆招？](https://www.zaobao.com/news/china/story20260712-9339849)
 append_entries: 1
 Finish: 2026-07-11 22:34:45.260154
+------------------------------------------------------
+Started: 2026-07-12 01:23:09.202579
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 434
+Summarized using deepseek-v4-flash
+Append: [中国酒协呼吁加强对线上酒类销售平台监管](https://www.zaobao.com/news/china/story20260712-9350650)
+Token length: 546
+Summarized using deepseek-v4-flash
+Append: [台风“巴威”浙江乐清再次登陆 上海计划取消航班653架次](https://www.zaobao.com/news/china/story20260712-9350662)
+append_entries: 2
+Finish: 2026-07-12 01:23:17.835523
