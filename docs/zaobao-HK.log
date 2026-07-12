@@ -8896,3 +8896,28 @@ Append: [中国官媒刊登全版建议北京声索巴丹群岛主权](https://w
 Append: [中国官方对北京天津等五地启动防汛三级应急响应](https://www.zaobao.com/news/china/story20260712-9350870)
 append_entries: 11
 Finish: 2026-07-12 05:13:57.786849
+------------------------------------------------------
+Started: 2026-07-12 07:54:32.791987
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 477
+Summarized using deepseek-v4-flash
+Append: [南中国海仲裁10周年 美菲等14国联合声明支持](https://www.zaobao.com/news/china/story20260712-9352038)
+Token length: 604
+Summarized using deepseek-v4-flash
+Append: [陆学者建议声索巴丹群岛主权 台国安人士：复制对台认知作战](https://www.zaobao.com/news/china/story20260712-9352001)
+Token length: 409
+Summarized using deepseek-v4-flash
+Append: [港财政司长：香港与海湾国家贸易额今年首五个月升逾35%](https://www.zaobao.com/news/china/story20260712-9351901)
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [云南曲靖富源县一搅拌车侧翻 致六人死亡](https://www.zaobao.com/news/china/story20260712-9351877)
+Token length: 784
+Summarized using deepseek-v4-flash
+Append: [中国新能源车平均车龄仅1.8年 把电车当手机换](https://www.zaobao.com/news/china/story20260712-9351792)
+Append: [国民党拟聚焦新北市选战 盼提振中南部地方选情](https://www.zaobao.com/news/china/story20260712-9351558)
+Append: [日本三大车商上半年在华新车销量均下滑](https://www.zaobao.com/news/china/story20260712-9351322)
+Append: [摩根大通聘请两名银行家 以把握香港IPO热潮](https://www.zaobao.com/news/china/story20260712-9351382)
+Append: [港新民党成立15周年：继续支持港府依法施政](https://www.zaobao.com/news/china/story20260712-9351082)
+append_entries: 9
+Finish: 2026-07-12 07:54:58.255360

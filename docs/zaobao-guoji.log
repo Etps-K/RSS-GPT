@@ -8315,3 +8315,15 @@ Summarized using deepseek-v4-flash
 Append: [新一轮热浪席卷美国 高温或将打破纪录](https://www.zaobao.com/news/world/story20260712-9350881)
 append_entries: 5
 Finish: 2026-07-12 05:14:24.172121
+------------------------------------------------------
+Started: 2026-07-12 07:54:59.307805
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 241
+Summarized using deepseek-v4-flash
+Append: [卡塔尔前埃米尔哈马德逝世](https://www.zaobao.com/news/world/story20260712-9351865)
+Token length: 486
+Summarized using deepseek-v4-flash
+Append: [不丹颁布生育补贴政策 应对人口下降](https://www.zaobao.com/news/world/story20260712-9351545)
+append_entries: 2
+Finish: 2026-07-12 07:55:08.804400
