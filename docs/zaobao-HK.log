@@ -8971,3 +8971,12 @@ Summarized using deepseek-v4-flash
 Append: [中国外交部驳14国涉南中国海声明：所谓裁决是非法无效废纸](https://www.zaobao.com/news/china/story20260712-9352945)
 append_entries: 4
 Finish: 2026-07-12 12:49:05.543588
+------------------------------------------------------
+Started: 2026-07-12 14:45:18.843667
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 793
+Summarized using deepseek-v4-flash
+Append: [台风“巴威”登陆浙江后减弱 中国多地未来几天仍有暴雨](https://www.zaobao.com/news/china/story20260712-9353126)
+append_entries: 1
+Finish: 2026-07-12 14:45:24.137543

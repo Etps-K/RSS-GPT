@@ -8383,3 +8383,26 @@ Summarized using deepseek-v4-flash
 Append: [商船阿曼外海遇袭 一印度船员失踪](https://www.zaobao.com/news/world/story20260712-9352635)
 append_entries: 3
 Finish: 2026-07-12 12:49:24.072716
+------------------------------------------------------
+Started: 2026-07-12 14:45:24.982193
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 984
+Summarized using deepseek-v4-flash
+Append: [到意大利用餐 七个有趣小讲究](https://www.zaobao.com/news/world/story20260712-9352599)
+Token length: 176
+Summarized using deepseek-v4-flash
+Append: [日本爱子公主11月访新 庆祝新日建交60周年](https://www.zaobao.com/news/world/story20260712-9353177)
+Token length: 398
+Summarized using deepseek-v4-flash
+Append: [调查：韩国逾三成遭性侵未成年男性从未寻求帮助](https://www.zaobao.com/news/world/story20260712-9352819)
+Token length: 313
+Summarized using deepseek-v4-flash
+Append: [德国团队用无人机收集数据 预测未来火山喷发](https://www.zaobao.com/news/world/story20260712-9353207)
+Token length: 495
+Summarized using deepseek-v4-flash
+Append: [特朗普盟友 71岁美共和党籍参议员格雷厄姆去世](https://www.zaobao.com/news/world/story20260712-9353182)
+Append: [西班牙南部林火趋受控 数百居民获准返家](https://www.zaobao.com/news/world/story20260712-9352699)
+Append: [日本可重复使用火箭试验机成功试飞](https://www.zaobao.com/news/world/story20260712-9352376)
+append_entries: 7
+Finish: 2026-07-12 14:46:08.553393
