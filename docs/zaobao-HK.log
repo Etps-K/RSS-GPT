@@ -8998,3 +8998,9 @@ Summarized using deepseek-v4-flash
 Append: [日外长就仲裁裁决发表谈话 中国外交部批日本想介入南中国海](https://www.zaobao.com/news/china/story20260712-9353615)
 append_entries: 1
 Finish: 2026-07-12 18:44:47.417488
+------------------------------------------------------
+Started: 2026-07-12 20:33:14.809217
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-12 20:33:15.072119
