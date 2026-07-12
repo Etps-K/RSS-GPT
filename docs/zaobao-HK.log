@@ -8944,3 +8944,12 @@ Append: [71岁美共和党籍参议员格雷厄姆去世 生前曾三度访台](
 Append: [被曝光在办公室收礼 湖南常德一国企董事长被免职](https://www.zaobao.com/news/china/story20260712-9352175)
 append_entries: 7
 Finish: 2026-07-12 09:40:53.127481
+------------------------------------------------------
+Started: 2026-07-12 11:02:16.799653
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [习近平：中基两国复交以来 双方坚持平等相待](https://www.zaobao.com/news/china/story20260712-9351976)
+append_entries: 1
+Finish: 2026-07-12 11:02:20.081759

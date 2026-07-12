@@ -8345,3 +8345,26 @@ Summarized using deepseek-v4-flash
 Append: [美军称本周共打击300多个伊朗目标](https://www.zaobao.com/news/world/story20260712-9351964)
 append_entries: 4
 Finish: 2026-07-12 09:41:16.085747
+------------------------------------------------------
+Started: 2026-07-12 11:02:21.097227
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 182
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦敦促美伊保持克制 避免局势升级](https://www.zaobao.com/news/world/story20260712-9352163)
+Token length: 1084
+Summarized using deepseek-v4-flash
+Append: [中美印太地区格局 莫迪拉拢印太伙伴](https://www.zaobao.com/news/world/story20260712-9352477)
+Token length: 887
+Summarized using deepseek-v4-flash
+Append: [原油价格回落燃油价格却反弹 消费者或迎更多冲击](https://www.zaobao.com/news/world/story20260712-9352440)
+Token length: 673
+Summarized using deepseek-v4-flash
+Append: [国际能源署：欧洲未加快电气化进程是重大失误](https://www.zaobao.com/news/world/story20260712-9352439)
+Token length: 698
+Summarized using deepseek-v4-flash
+Append: [韩国年轻人约会难 僧侣出手牵红线](https://www.zaobao.com/news/world/story20260712-9352430)
+Append: [俄称乌无人机袭击亚速海油轮 无人伤亡](https://www.zaobao.com/news/world/story20260712-9352349)
+Append: [日本企业发放奖金 鼓励员工采用AI技术](https://www.zaobao.com/news/world/story20260712-9352134)
+append_entries: 7
+Finish: 2026-07-12 11:02:50.394709
