@@ -8980,3 +8980,12 @@ Summarized using deepseek-v4-flash
 Append: [台风“巴威”登陆浙江后减弱 中国多地未来几天仍有暴雨](https://www.zaobao.com/news/china/story20260712-9353126)
 append_entries: 1
 Finish: 2026-07-12 14:45:24.137543
+------------------------------------------------------
+Started: 2026-07-12 16:41:44.233342
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1325
+Summarized using deepseek-v4-flash
+Append: [美菲日等14国发表南中国海仲裁10周年声明 中国促停止挑事生非](https://www.zaobao.com/news/china/story20260712-9352905)
+append_entries: 1
+Finish: 2026-07-12 16:41:51.657126

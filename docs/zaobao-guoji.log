@@ -8406,3 +8406,24 @@ Append: [西班牙南部林火趋受控 数百居民获准返家](https://www.za
 Append: [日本可重复使用火箭试验机成功试飞](https://www.zaobao.com/news/world/story20260712-9352376)
 append_entries: 7
 Finish: 2026-07-12 14:46:08.553393
+------------------------------------------------------
+Started: 2026-07-12 16:41:52.658629
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 847
+Summarized using deepseek-v4-flash
+Append: [日本改革离婚子女监护制度 擅自带走孩子仍难遏止](https://www.zaobao.com/news/world/story20260712-9352287)
+Token length: 1355
+Summarized using deepseek-v4-flash
+Append: [德黑兰关闭霍尔木兹海峡 美伊一周内三度互袭](https://www.zaobao.com/news/world/story20260712-9353312)
+Token length: 404
+Summarized using deepseek-v4-flash
+Append: [通胀压力加剧 美国5月消费信贷两年来首次下降](https://www.zaobao.com/news/world/story20260712-9352779)
+Token length: 553
+Summarized using deepseek-v4-flash
+Append: [德国出资为乌克兰采购5万架攻击无人机](https://www.zaobao.com/news/world/story20260712-9353274)
+Token length: 1005
+Summarized using deepseek-v4-flash
+Append: [韩美多地酷暑气温或破40度 法国迎今年第三轮热浪](https://www.zaobao.com/news/world/story20260712-9353162)
+append_entries: 5
+Finish: 2026-07-12 16:42:37.780332
