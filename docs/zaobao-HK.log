@@ -8869,3 +8869,30 @@ Summarized using deepseek-v4-flash
 Append: [台风“巴威”浙江乐清再次登陆 上海计划取消航班653架次](https://www.zaobao.com/news/china/story20260712-9350662)
 append_entries: 2
 Finish: 2026-07-12 01:23:17.835523
+------------------------------------------------------
+Started: 2026-07-12 05:13:31.398012
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 246
+Summarized using deepseek-v4-flash
+Append: [受台风影响 中国多地机场取消航班](https://www.zaobao.com/news/china/story20260712-9351530)
+Token length: 387
+Summarized using deepseek-v4-flash
+Append: [台风“巴威”已致全台134人受伤](https://www.zaobao.com/news/china/story20260712-9351485)
+Token length: 795
+Summarized using deepseek-v4-flash
+Append: [中俄结束海上联合军演 检验复杂电磁环境下实战能力](https://www.zaobao.com/news/china/story20260712-9351389)
+Token length: 798
+Summarized using deepseek-v4-flash
+Append: [南中国海仲裁案10周年 台湾主张应被纳入争端解决机制](https://www.zaobao.com/news/china/story20260712-9351301)
+Token length: 705
+Summarized using deepseek-v4-flash
+Append: [台风“巴威”减弱为强热带风暴 福建浙江多地交通恢复](https://www.zaobao.com/news/china/story20260712-9351167)
+Append: [广西贵港原副市长潘汉胜严重违纪违法被双开](https://www.zaobao.com/news/china/story20260712-9351130)
+Append: [台军据报搁置老旧武器升级计划 鼓励采购新装备](https://www.zaobao.com/news/china/story20260712-9351035)
+Append: [台驻美代表：美国重申对台政策不变](https://www.zaobao.com/news/china/story20260712-9351006)
+Append: [日媒：防长小泉进次郎频频在外交彰显对华强硬姿态](https://www.zaobao.com/news/china/story20260712-9350930)
+Append: [中国官媒刊登全版建议北京声索巴丹群岛主权](https://www.zaobao.com/news/china/story20260712-9350863)
+Append: [中国官方对北京天津等五地启动防汛三级应急响应](https://www.zaobao.com/news/china/story20260712-9350870)
+append_entries: 11
+Finish: 2026-07-12 05:13:57.786849

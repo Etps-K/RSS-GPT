@@ -8294,3 +8294,24 @@ Summarized using deepseek-v4-flash
 Append: [委内瑞拉地震已致4333人遇难 伤者人数上升](https://www.zaobao.com/news/world/story20260712-9350757)
 append_entries: 3
 Finish: 2026-07-12 01:23:35.468100
+------------------------------------------------------
+Started: 2026-07-12 05:13:58.674633
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 233
+Summarized using deepseek-v4-flash
+Append: [多伦多发生枪击事件 造成两死五伤](https://www.zaobao.com/news/world/story20260712-9351282)
+Token length: 338
+Summarized using deepseek-v4-flash
+Append: [泽连斯基：乌克兰官员须为基辅郊外武器库爆炸担责](https://www.zaobao.com/news/world/story20260712-9351176)
+Token length: 380
+Summarized using deepseek-v4-flash
+Append: [指伊朗袭击商船 美军发动新一轮空袭](https://www.zaobao.com/news/world/story20260712-9350984)
+Token length: 353
+Summarized using deepseek-v4-flash
+Append: [伊朗称霍尔木兹海峡将“无限期关闭”](https://www.zaobao.com/news/world/story20260712-9350936)
+Token length: 308
+Summarized using deepseek-v4-flash
+Append: [新一轮热浪席卷美国 高温或将打破纪录](https://www.zaobao.com/news/world/story20260712-9350881)
+append_entries: 5
+Finish: 2026-07-12 05:14:24.172121
