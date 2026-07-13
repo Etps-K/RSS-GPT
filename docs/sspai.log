@@ -6019,3 +6019,15 @@ Summarized using deepseek-v4-flash
 Append: [依江伴湖，树影连绵：南昌公园散步指南](https://sspai.com/post/111776)
 append_entries: 1
 Finish: 2026-07-13 08:41:49.981132
+------------------------------------------------------
+Started: 2026-07-13 12:24:28.609478
+Existing_entries: 324
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/112229)
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件](https://sspai.com/prime/story/inside-release-notes-260713)
+append_entries: 2
+Finish: 2026-07-13 12:24:45.569517

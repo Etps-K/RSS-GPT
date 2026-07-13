@@ -8511,3 +8511,28 @@ Append: [伊媒称一美企位于巴林总部遭袭](https://www.zaobao.com/news
 Append: [日本发生持刀伤人案 四人受伤嫌疑人被捕](https://www.zaobao.com/news/world/story20260713-9355554)
 append_entries: 7
 Finish: 2026-07-13 08:42:59.591098
+------------------------------------------------------
+Started: 2026-07-13 12:25:09.992976
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 256
+Summarized using deepseek-v4-flash
+Append: [英国将伊朗伊斯兰革命卫队列为恐怖组织](https://www.zaobao.com/news/world/story20260713-9358195)
+Token length: 339
+Summarized using deepseek-v4-flash
+Append: [也门军队袭击萨那机场 阻止伊朗飞机降落](https://www.zaobao.com/news/world/story20260713-9358116)
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [德国大众汽车拟扩大裁员范围 或削减约5万岗位](https://www.zaobao.com/news/world/story20260713-9357400)
+Token length: 862
+Summarized using deepseek-v4-flash
+Append: [美媒指日本成俄间谍巢穴 日方称将加强防范](https://www.zaobao.com/news/world/story20260713-9357277)
+Token length: 415
+Summarized using deepseek-v4-flash
+Append: [法国枫丹白露附近林火狂烧 当局派灭火飞机扑救](https://www.zaobao.com/news/world/story20260713-9356923)
+Append: [智库分析：美国武器库存吃紧 影响未来作战能力](https://www.zaobao.com/news/world/story20260713-9356987)
+Append: [调查：战争对美经济冲击低于预期 但通胀更顽固降息空间收窄](https://www.zaobao.com/news/world/story20260713-9356708)
+Append: [东京高温天气逼近东南亚 日企酷暑调整工作模式](https://www.zaobao.com/news/world/story20260713-9356626)
+Append: [伊朗：若美国不履行停战承诺 德黑兰不再遵守谅解备忘录](https://www.zaobao.com/news/world/story20260713-9356805)
+append_entries: 9
+Finish: 2026-07-13 12:25:36.440942
