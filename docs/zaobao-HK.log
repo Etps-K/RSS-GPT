@@ -9013,3 +9013,21 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：那些年的香港二楼书店](https://www.zaobao.com/news/china/story20260713-9352300)
 append_entries: 1
 Finish: 2026-07-12 22:35:48.311571
+------------------------------------------------------
+Started: 2026-07-13 01:24:32.906274
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 343
+Summarized using deepseek-v4-flash
+Append: [中国打击涉汛涉灾网络谣言 四人被刑拘23人受罚](https://www.zaobao.com/news/china/story20260713-9354196)
+Token length: 602
+Summarized using deepseek-v4-flash
+Append: [中使馆批英没资格对中国在南中国海领土主权说三道四](https://www.zaobao.com/news/china/story20260713-9354151)
+Token length: 726
+Summarized using deepseek-v4-flash
+Append: [刘国中北京调研 要求抓好水库安全度汛工作](https://www.zaobao.com/news/china/story20260713-9354150)
+Token length: 321
+Summarized using deepseek-v4-flash
+Append: [中国机场计划取消周一航班约100架次](https://www.zaobao.com/news/china/story20260713-9354079)
+append_entries: 4
+Finish: 2026-07-13 01:24:50.187356

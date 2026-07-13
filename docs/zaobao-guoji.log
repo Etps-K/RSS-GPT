@@ -8448,3 +8448,21 @@ Summarized using deepseek-v4-flash
 Append: [符祝慧：《给阿嬷的情书》超越国界感动人心](https://www.zaobao.com/news/world/story20260713-9351251)
 append_entries: 1
 Finish: 2026-07-12 22:35:55.569747
+------------------------------------------------------
+Started: 2026-07-13 01:24:51.207115
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 664
+Summarized using deepseek-v4-flash
+Append: [以色列10月27日选举 本届议会将完成四年完整任期](https://www.zaobao.com/news/world/story20260713-9354216)
+Token length: 236
+Summarized using deepseek-v4-flash
+Append: [伊朗否认布什尔核电站区域遭袭](https://www.zaobao.com/news/world/story20260713-9354117)
+Token length: 280
+Summarized using deepseek-v4-flash
+Append: [伊媒：美军袭击格什姆岛致一死两伤](https://www.zaobao.com/news/world/story20260713-9354060)
+Token length: 555
+Summarized using deepseek-v4-flash
+Append: [为削弱伊朗袭击商船能力 美军发起第四轮打击](https://www.zaobao.com/news/world/story20260713-9354018)
+append_entries: 4
+Finish: 2026-07-13 01:25:09.762749
