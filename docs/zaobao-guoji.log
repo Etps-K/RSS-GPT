@@ -8536,3 +8536,28 @@ Append: [东京高温天气逼近东南亚 日企酷暑调整工作模式](https
 Append: [伊朗：若美国不履行停战承诺 德黑兰不再遵守谅解备忘录](https://www.zaobao.com/news/world/story20260713-9356805)
 append_entries: 9
 Finish: 2026-07-13 12:25:36.440942
+------------------------------------------------------
+Started: 2026-07-13 16:18:54.684172
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 362
+Summarized using deepseek-v4-flash
+Append: [特朗普宣布恢复对伊朗海上封锁 美国将有偿保护霍尔木兹海峡](https://www.zaobao.com/news/world/story20260713-9358864)
+Token length: 1228
+Summarized using deepseek-v4-flash
+Append: [美伊连续第二天互袭 谅解备忘录进入“危机阶段”](https://www.zaobao.com/news/world/story20260713-9358082)
+Token length: 654
+Summarized using deepseek-v4-flash
+Append: [日经：受政经风险等影响 越来越多中小日企撤出中国](https://www.zaobao.com/news/world/story20260713-9358457)
+Token length: 338
+Summarized using deepseek-v4-flash
+Append: [乌称攻击多处俄军目标 俄称打击乌黑海港口](https://www.zaobao.com/news/world/story20260713-9358741)
+Token length: 292
+Summarized using deepseek-v4-flash
+Append: [特朗普称美方正接管霍尔木兹海峡 伊朗拒美国干预](https://www.zaobao.com/news/world/story20260713-9358646)
+Append: [日本清真寺供不应求 穆斯林公园集体祈祷引争议](https://www.zaobao.com/news/world/story20260713-9358266)
+Append: [油盟再次下调今年石油需求增长预期](https://www.zaobao.com/news/world/story20260713-9358381)
+Append: [6月下旬热浪期间 欧洲录得1万多起超额死亡](https://www.zaobao.com/news/world/story20260713-9356482)
+Append: [乌克兰总统泽连斯基宣布：撤换总理改组内阁](https://www.zaobao.com/news/world/story20260713-9357818)
+append_entries: 9
+Finish: 2026-07-13 16:19:14.748390
