@@ -9031,3 +9031,34 @@ Summarized using deepseek-v4-flash
 Append: [中国机场计划取消周一航班约100架次](https://www.zaobao.com/news/china/story20260713-9354079)
 append_entries: 4
 Finish: 2026-07-13 01:24:50.187356
+------------------------------------------------------
+Started: 2026-07-13 05:22:14.205506
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 240
+Summarized using deepseek-v4-flash
+Append: [中国铁路上半年发送旅客人次创历史同期新高](https://www.zaobao.com/news/china/story20260713-9354227)
+Token length: 438
+Summarized using deepseek-v4-flash
+Append: [中国预测6至8月有五至六个台风登陆 较常年同期偏多](https://www.zaobao.com/news/china/story20260713-9355328)
+Token length: 421
+Summarized using deepseek-v4-flash
+Append: [中使馆提醒在阿曼中国公民提高风险防范意识](https://www.zaobao.com/news/china/story20260713-9355146)
+Token length: 402
+Summarized using deepseek-v4-flash
+Append: [央视《新闻联播》：中国社会治安持续向好 群众安全感提升](https://www.zaobao.com/news/china/story20260713-9355222)
+Token length: 1372
+Summarized using deepseek-v4-flash
+Append: [湖南公职霸占车位事件延烧 官方通报“被抨击拉偏架”](https://www.zaobao.com/news/china/story20260713-9355062)
+Append: [沈阳提升防汛应急响应级别至一级 辽宁已转移超17万人](https://www.zaobao.com/news/china/story20260713-9354973)
+Append: [赖清德形容离世美议员格雷厄姆是台湾真正朋友](https://www.zaobao.com/news/china/story20260713-9354948)
+Append: [中国驻欧使团批欧盟声明不利南中国海地区和平稳定](https://www.zaobao.com/news/china/story20260713-9354890)
+Append: [菲律宾首次成中国太阳能组件最大单一海外市场](https://www.zaobao.com/news/china/story20260713-9354724)
+Append: [中使馆：暂无中国公民在泰国酒吧餐厅火灾遇难](https://www.zaobao.com/news/china/story20260713-9354722)
+Append: [蓝委促赖清德在任内登太平岛宣示主权](https://www.zaobao.com/news/china/story20260713-9354613)
+Append: [中国6月冠病疫情升温 新增近八万确诊病例](https://www.zaobao.com/news/china/story20260713-9354383)
+Append: [高善文追悼会举行 数百人赴北京八宝山送别](https://www.zaobao.com/news/china/story20260713-9354315)
+Append: [日外长就南中国海仲裁案言论 中国外交部提严正交涉](https://www.zaobao.com/news/china/story20260713-9354247)
+Append: [台军开展联合操演 深化防御作战韧性](https://www.zaobao.com/news/china/story20260713-9354201)
+append_entries: 15
+Finish: 2026-07-13 05:22:45.093867

@@ -8466,3 +8466,25 @@ Summarized using deepseek-v4-flash
 Append: [为削弱伊朗袭击商船能力 美军发起第四轮打击](https://www.zaobao.com/news/world/story20260713-9354018)
 append_entries: 4
 Finish: 2026-07-13 01:25:09.762749
+------------------------------------------------------
+Started: 2026-07-13 05:22:46.131258
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 543
+Summarized using deepseek-v4-flash
+Append: [美军完成对伊朗第四轮打击 首次使用海上无人艇](https://www.zaobao.com/news/world/story20260713-9355174)
+Token length: 621
+Summarized using deepseek-v4-flash
+Append: [一个脑细胞有多强？研究指计算能力媲美深度神经网络](https://www.zaobao.com/news/world/story20260713-9353288)
+Token length: 254
+Summarized using deepseek-v4-flash
+Append: [韩国海军失联舰员遗体已被发现](https://www.zaobao.com/news/world/story20260713-9354684)
+Token length: 399
+Summarized using deepseek-v4-flash
+Append: [美伊冲突持续 国际油价涨超3%](https://www.zaobao.com/news/world/story20260713-9354465)
+Token length: 539
+Summarized using deepseek-v4-flash
+Append: [法医初步检查显示美参议员格雷厄姆死于主动脉撕裂](https://www.zaobao.com/news/world/story20260713-9354356)
+Append: [美官员：约20艘商船在美军协调下通过霍尔木兹海峡](https://www.zaobao.com/news/world/story20260713-9354261)
+append_entries: 6
+Finish: 2026-07-13 05:23:13.061604

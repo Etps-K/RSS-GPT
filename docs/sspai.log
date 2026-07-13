@@ -6001,3 +6001,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：苹果起诉 OpenAI 窃取商业机密](https://sspai.com/post/112215)
 append_entries: 1
 Finish: 2026-07-13 01:24:31.975843
+------------------------------------------------------
+Started: 2026-07-13 05:22:03.109885
+Existing_entries: 322
+Fetching from https://sspai.com/feed
+Token length: 32
+Summarized using deepseek-v4-flash
+Append: [你这图「保真」吗？AI 生图时代的信息防伪](https://sspai.com/post/112185)
+append_entries: 1
+Finish: 2026-07-13 05:22:13.273060
