@@ -6010,3 +6010,12 @@ Summarized using deepseek-v4-flash
 Append: [你这图「保真」吗？AI 生图时代的信息防伪](https://sspai.com/post/112185)
 append_entries: 1
 Finish: 2026-07-13 05:22:13.273060
+------------------------------------------------------
+Started: 2026-07-13 08:41:40.359723
+Existing_entries: 323
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [依江伴湖，树影连绵：南昌公园散步指南](https://sspai.com/post/111776)
+append_entries: 1
+Finish: 2026-07-13 08:41:49.981132

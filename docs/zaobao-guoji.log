@@ -8488,3 +8488,26 @@ Append: [法医初步检查显示美参议员格雷厄姆死于主动脉撕裂](
 Append: [美官员：约20艘商船在美军协调下通过霍尔木兹海峡](https://www.zaobao.com/news/world/story20260713-9354261)
 append_entries: 6
 Finish: 2026-07-13 05:23:13.061604
+------------------------------------------------------
+Started: 2026-07-13 08:42:21.829973
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 498
+Summarized using deepseek-v4-flash
+Append: [美伊战火重燃 仍有船只冒险“暗渡”霍尔木兹海峡](https://www.zaobao.com/news/world/story20260713-9356724)
+Token length: 510
+Summarized using deepseek-v4-flash
+Append: [涉在总统官邸搬迁项目受贿 金建希将受检方传唤](https://www.zaobao.com/news/world/story20260713-9356539)
+Token length: 341
+Summarized using deepseek-v4-flash
+Append: [俄方称挫败乌方袭击俄纵深军事基地企图](https://www.zaobao.com/news/world/story20260713-9356257)
+Token length: 194
+Summarized using deepseek-v4-flash
+Append: [尹锡悦涉嫌接受免费民意调查服务一审被判两年](https://www.zaobao.com/news/world/story20260713-9356063)
+Token length: 474
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称摧毁美军中东基地多处设施](https://www.zaobao.com/news/world/story20260713-9355677)
+Append: [伊媒称一美企位于巴林总部遭袭](https://www.zaobao.com/news/world/story20260713-9355577)
+Append: [日本发生持刀伤人案 四人受伤嫌疑人被捕](https://www.zaobao.com/news/world/story20260713-9355554)
+append_entries: 7
+Finish: 2026-07-13 08:42:59.591098
