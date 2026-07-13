@@ -8561,3 +8561,9 @@ Append: [6月下旬热浪期间 欧洲录得1万多起超额死亡](https://www.
 Append: [乌克兰总统泽连斯基宣布：撤换总理改组内阁](https://www.zaobao.com/news/world/story20260713-9357818)
 append_entries: 9
 Finish: 2026-07-13 16:19:14.748390
+------------------------------------------------------
+Started: 2026-07-13 19:07:53.805849
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-13 19:07:53.912668
