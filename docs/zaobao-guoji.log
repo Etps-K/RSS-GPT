@@ -8633,3 +8633,18 @@ Summarized using deepseek-v4-flash
 Append: [伊朗革命卫队确认袭击美国海军第五舰队](https://www.zaobao.com/news/world/story20260714-9360838)
 append_entries: 3
 Finish: 2026-07-14 07:43:41.514554
+------------------------------------------------------
+Started: 2026-07-14 09:43:34.574619
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 287
+Summarized using deepseek-v4-flash
+Append: [伊朗议员提交霍尔木兹海峡法案](https://www.zaobao.com/news/world/story20260714-9362254)
+Token length: 663
+Summarized using deepseek-v4-flash
+Append: [IMF警告欧洲若不整顿财政支出将导致国债难以为继](https://www.zaobao.com/news/world/story20260714-9361900)
+Token length: 656
+Summarized using deepseek-v4-flash
+Append: [本财年已退还逾千亿元关税 美国预算赤字再扩大](https://www.zaobao.com/news/world/story20260714-9361913)
+append_entries: 3
+Finish: 2026-07-14 09:43:46.811791

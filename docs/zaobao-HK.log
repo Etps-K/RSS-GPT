@@ -9238,3 +9238,28 @@ Append: [英媒：收紧出口审查 英伟达剔除逾半亚洲晶片客户](ht
 Append: [中国原油进口跌至近10年低点](https://www.zaobao.com/news/china/story20260714-9360630)
 append_entries: 12
 Finish: 2026-07-14 07:43:23.836040
+------------------------------------------------------
+Started: 2026-07-14 09:43:10.905110
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 386
+Summarized using deepseek-v4-flash
+Append: [大埔宏福苑维修总承建商宏业被呈请清盘](https://www.zaobao.com/news/china/story20260714-9362101)
+Token length: 556
+Summarized using deepseek-v4-flash
+Append: [涉竹北天坑案被控图利 新竹县长杨文科获判无罪](https://www.zaobao.com/news/china/story20260714-9361728)
+Token length: 793
+Summarized using deepseek-v4-flash
+Append: [菲尔兹奖将揭晓 王虹邓煜获奖消息在网络流传](https://www.zaobao.com/news/china/story20260714-9362159)
+Token length: 848
+Summarized using deepseek-v4-flash
+Append: [中国初创企业阶跃星辰发布全球首个AI智能体手机](https://www.zaobao.com/news/china/story20260714-9362024)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [路易威登起诉中国知识产权局案件后天过堂](https://www.zaobao.com/news/china/story20260714-9362000)
+Append: [中国据报要求部分银行票据再贴现利率不得低于0.5%](https://www.zaobao.com/news/china/story20260714-9361952)
+Append: [陆官媒再批谷立言自诩台湾太上皇 台外交部：大陆无权置喙](https://www.zaobao.com/news/china/story20260714-9361222)
+Append: [台外交部：北京意图控制整个第一岛链](https://www.zaobao.com/news/china/story20260714-9361651)
+Append: [赖清德吁朝野支持国防预算 强化台防卫力量](https://www.zaobao.com/news/china/story20260714-9361604)
+append_entries: 9
+Finish: 2026-07-14 09:43:33.554546
