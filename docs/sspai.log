@@ -6070,3 +6070,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：全球智能手机出货量创 13 年来最低水平等](https://sspai.com/post/112286)
 append_entries: 1
 Finish: 2026-07-14 04:37:40.750662
+------------------------------------------------------
+Started: 2026-07-14 07:42:54.339466
+Existing_entries: 327
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/112288)
+append_entries: 1
+Finish: 2026-07-14 07:42:59.998995
