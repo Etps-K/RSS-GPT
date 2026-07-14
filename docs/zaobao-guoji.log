@@ -8670,3 +8670,15 @@ Append: [日本寻求美澳德协助设立二战后首个中央情报机构](htt
 Append: [巴黎附近森林燃起大火 两人涉纵火被捕](https://www.zaobao.com/news/world/story20260714-9362673)
 append_entries: 6
 Finish: 2026-07-14 11:15:59.988176
+------------------------------------------------------
+Started: 2026-07-14 13:01:01.900622
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 335
+Summarized using deepseek-v4-flash
+Append: [东京迪士尼10月起涨价 单日票最高近100新元](https://www.zaobao.com/news/world/story20260714-9363665)
+Token length: 546
+Summarized using deepseek-v4-flash
+Append: [美国移民执法人员枪击移民惹议](https://www.zaobao.com/news/world/story20260714-9363550)
+append_entries: 2
+Finish: 2026-07-14 13:01:12.510160

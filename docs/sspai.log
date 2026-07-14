@@ -6097,3 +6097,9 @@ Summarized using deepseek-v4-flash
 Append: [社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机](https://sspai.com/post/112320)
 append_entries: 1
 Finish: 2026-07-14 11:15:17.423143
+------------------------------------------------------
+Started: 2026-07-14 13:00:45.328058
+Existing_entries: 330
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-07-14 13:00:46.631871

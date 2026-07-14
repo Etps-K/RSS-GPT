@@ -9286,3 +9286,18 @@ Append: [中国外交部：对海湾地区军事冲突再起深表关切](https:
 Append: [阿根廷足球队称想向广西捐赠物资赈灾](https://www.zaobao.com/news/china/story20260714-9361705)
 append_entries: 7
 Finish: 2026-07-14 11:15:35.809797
+------------------------------------------------------
+Started: 2026-07-14 13:00:47.543119
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 260
+Summarized using deepseek-v4-flash
+Append: [英国批准建设中国新使馆案件在英法院过堂](https://www.zaobao.com/news/china/story20260714-9364096)
+Token length: 618
+Summarized using deepseek-v4-flash
+Append: [英媒：DeepSeek完成首轮融资后拟再次募资](https://www.zaobao.com/news/china/story20260714-9364050)
+Token length: 677
+Summarized using deepseek-v4-flash
+Append: [王毅：中国在太平洋岛国不谋求势力范围](https://www.zaobao.com/news/china/story20260714-9363834)
+append_entries: 3
+Finish: 2026-07-14 13:01:00.894023
