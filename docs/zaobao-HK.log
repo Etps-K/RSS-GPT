@@ -9340,3 +9340,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-14 20:47:40.614987
+------------------------------------------------------
+Started: 2026-07-14 22:43:42.074376
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 212
+Summarized using deepseek-v4-flash
+Append: [杨丹旭：当拼多多“卷”到新加坡](https://www.zaobao.com/news/china/story20260715-9364716)
+append_entries: 1
+Finish: 2026-07-14 22:43:46.759758
