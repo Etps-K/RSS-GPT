@@ -8721,3 +8721,9 @@ Summarized using deepseek-v4-flash
 Append: [乌克兰总理辞职 能源公司一把手或接任](https://www.zaobao.com/news/world/story20260714-9364401)
 append_entries: 4
 Finish: 2026-07-14 16:59:44.925450
+------------------------------------------------------
+Started: 2026-07-14 18:57:50.262053
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-14 18:57:50.364103
