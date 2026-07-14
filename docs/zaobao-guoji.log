@@ -8579,3 +8579,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-13 22:42:25.672743
+------------------------------------------------------
+Started: 2026-07-14 01:13:44.360230
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 413
+Summarized using deepseek-v4-flash
+Append: [阿曼附近海域一油轮遭袭 目前船员安全](https://www.zaobao.com/news/world/story20260714-9359580)
+Token length: 261
+Summarized using deepseek-v4-flash
+Append: [阿联酋两艘油轮遭袭 一名印度籍船员死亡](https://www.zaobao.com/news/world/story20260714-9359540)
+Token length: 361
+Summarized using deepseek-v4-flash
+Append: [美军开始对伊朗发动连续第三晚打击](https://www.zaobao.com/news/world/story20260714-9359500)
+Token length: 422
+Summarized using deepseek-v4-flash
+Append: [特朗普：美国将摧毁伊朗疑有地下设施的皮卡克斯山](https://www.zaobao.com/news/world/story20260714-9359421)
+Token length: 838
+Summarized using deepseek-v4-flash
+Append: [美军宣布7月14日恢复对伊朗的海上封锁](https://www.zaobao.com/news/world/story20260714-9359353)
+append_entries: 5
+Finish: 2026-07-14 01:14:05.196975
