@@ -8682,3 +8682,24 @@ Summarized using deepseek-v4-flash
 Append: [美国移民执法人员枪击移民惹议](https://www.zaobao.com/news/world/story20260714-9363550)
 append_entries: 2
 Finish: 2026-07-14 13:01:12.510160
+------------------------------------------------------
+Started: 2026-07-14 15:13:54.319726
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 387
+Summarized using deepseek-v4-flash
+Append: [立陶宛新总理：允许设立台湾代表处“或许过于大胆”](https://www.zaobao.com/news/world/story20260714-9364192)
+Token length: 1013
+Summarized using deepseek-v4-flash
+Append: [韩国推“3·4·5愿景” 学界：过度依赖半导体存风险](https://www.zaobao.com/news/world/story20260714-9363784)
+Token length: 332
+Summarized using deepseek-v4-flash
+Append: [英国欧盟指控俄罗斯策划网络攻击 俄方驳斥](https://www.zaobao.com/news/world/story20260714-9364159)
+Token length: 648
+Summarized using deepseek-v4-flash
+Append: [美加利福尼亚等12州入禀法院阻派拉蒙收购华纳兄弟](https://www.zaobao.com/news/world/story20260714-9363685)
+Token length: 1188
+Summarized using deepseek-v4-flash
+Append: [特朗普若对霍尔木兹海峡货运收费 或导致航运成本翻倍](https://www.zaobao.com/news/world/story20260714-9362778)
+append_entries: 5
+Finish: 2026-07-14 15:14:21.011272

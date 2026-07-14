@@ -9301,3 +9301,12 @@ Summarized using deepseek-v4-flash
 Append: [王毅：中国在太平洋岛国不谋求势力范围](https://www.zaobao.com/news/china/story20260714-9363834)
 append_entries: 3
 Finish: 2026-07-14 13:01:00.894023
+------------------------------------------------------
+Started: 2026-07-14 15:13:47.086940
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1140
+Summarized using deepseek-v4-flash
+Append: [台湾民众党首度组团访陆 学者：跨出两岸布局第一步](https://www.zaobao.com/news/china/story20260714-9363351)
+append_entries: 1
+Finish: 2026-07-14 15:13:53.309655
