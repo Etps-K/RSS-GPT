@@ -9310,3 +9310,21 @@ Summarized using deepseek-v4-flash
 Append: [台湾民众党首度组团访陆 学者：跨出两岸布局第一步](https://www.zaobao.com/news/china/story20260714-9363351)
 append_entries: 1
 Finish: 2026-07-14 15:13:53.309655
+------------------------------------------------------
+Started: 2026-07-14 16:59:10.406852
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1249
+Summarized using deepseek-v4-flash
+Append: [台湾行政院长卓荣泰表示为致癌食用油事件检讨与反省](https://www.zaobao.com/news/china/story20260714-9364518)
+Token length: 1345
+Summarized using deepseek-v4-flash
+Append: [马兴瑞被双开 通报称涉权色交易与家族式腐败 学者：政治影响较低](https://www.zaobao.com/news/china/story20260714-9364381)
+Token length: 1183
+Summarized using deepseek-v4-flash
+Append: [北京“收风人”赴港 据报为下届特首与港府班子人选收集意见](https://www.zaobao.com/news/china/story20260714-9364304)
+Token length: 253
+Summarized using deepseek-v4-flash
+Append: [下午察：为什么是海南？](https://www.zaobao.com/news/china/story20260714-9363773)
+append_entries: 4
+Finish: 2026-07-14 16:59:27.485635

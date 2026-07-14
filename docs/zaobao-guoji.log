@@ -8703,3 +8703,21 @@ Summarized using deepseek-v4-flash
 Append: [特朗普若对霍尔木兹海峡货运收费 或导致航运成本翻倍](https://www.zaobao.com/news/world/story20260714-9362778)
 append_entries: 5
 Finish: 2026-07-14 15:14:21.011272
+------------------------------------------------------
+Started: 2026-07-14 16:59:28.364552
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 459
+Summarized using deepseek-v4-flash
+Append: [乌克兰将采购法国战斗机和防空系统](https://www.zaobao.com/news/world/story20260714-9364701)
+Token length: 581
+Summarized using deepseek-v4-flash
+Append: [报告：欧盟人口将在2029年达到峰值](https://www.zaobao.com/news/world/story20260714-9364613)
+Token length: 1428
+Summarized using deepseek-v4-flash
+Append: [特朗普通知国会 恢复对伊军事打击](https://www.zaobao.com/news/world/story20260714-9364138)
+Token length: 402
+Summarized using deepseek-v4-flash
+Append: [乌克兰总理辞职 能源公司一把手或接任](https://www.zaobao.com/news/world/story20260714-9364401)
+append_entries: 4
+Finish: 2026-07-14 16:59:44.925450
