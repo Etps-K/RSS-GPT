@@ -8648,3 +8648,25 @@ Summarized using deepseek-v4-flash
 Append: [本财年已退还逾千亿元关税 美国预算赤字再扩大](https://www.zaobao.com/news/world/story20260714-9361913)
 append_entries: 3
 Finish: 2026-07-14 09:43:46.811791
+------------------------------------------------------
+Started: 2026-07-14 11:15:36.689643
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [印度就船员在霍尔木兹海峡遇害向伊朗提出抗议](https://www.zaobao.com/news/world/story20260714-9363403)
+Token length: 421
+Summarized using deepseek-v4-flash
+Append: [亚速海屡遭乌军袭击 俄罗斯考虑替代运输线路](https://www.zaobao.com/news/world/story20260714-9363095)
+Token length: 1162
+Summarized using deepseek-v4-flash
+Append: [欧洲10国宣布成立空防联盟 协助乌克兰对抗俄罗斯](https://www.zaobao.com/news/world/story20260714-9362723)
+Token length: 517
+Summarized using deepseek-v4-flash
+Append: [僧侣化身红娘？韩国寺庙办相亲营抗低生育率](https://www.zaobao.com/news/world/story20260714-9362475)
+Token length: 724
+Summarized using deepseek-v4-flash
+Append: [日本寻求美澳德协助设立二战后首个中央情报机构](https://www.zaobao.com/news/world/story20260714-9362587)
+Append: [巴黎附近森林燃起大火 两人涉纵火被捕](https://www.zaobao.com/news/world/story20260714-9362673)
+append_entries: 6
+Finish: 2026-07-14 11:15:59.988176
