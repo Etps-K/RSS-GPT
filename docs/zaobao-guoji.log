@@ -8793,3 +8793,18 @@ Summarized using deepseek-v4-flash
 Append: [美媒：特朗普周二召开战情室会议讨论大举打击伊朗](https://www.zaobao.com/news/world/story20260715-9366710)
 append_entries: 3
 Finish: 2026-07-15 07:47:02.802098
+------------------------------------------------------
+Started: 2026-07-15 09:47:07.343183
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 323
+Summarized using deepseek-v4-flash
+Append: [阿曼海岸失踪的银河号印度籍船员确认遇难](https://www.zaobao.com/news/world/story20260715-9368436)
+Token length: 426
+Summarized using deepseek-v4-flash
+Append: [美国暴发大规模肠道感染疫情 感染源有待确定](https://www.zaobao.com/news/world/story20260715-9367982)
+Token length: 677
+Summarized using deepseek-v4-flash
+Append: [美参院推新制裁法案 对首五大俄石油买家征100%关税](https://www.zaobao.com/news/world/story20260715-9368019)
+append_entries: 3
+Finish: 2026-07-15 09:47:24.562668
