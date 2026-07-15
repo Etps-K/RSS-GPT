@@ -8739,3 +8739,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-14 22:43:47.768880
+------------------------------------------------------
+Started: 2026-07-15 01:11:10.132474
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 264
+Summarized using deepseek-v4-flash
+Append: [科威特称拦截伊朗无人机 巴林拉响防空警报](https://www.zaobao.com/news/world/story20260715-9365588)
+Token length: 318
+Summarized using deepseek-v4-flash
+Append: [哥伦比亚军方营救45名被绑架平民](https://www.zaobao.com/news/world/story20260715-9365531)
+Token length: 520
+Summarized using deepseek-v4-flash
+Append: [美国称伊朗一周内袭击七商船 宣布制裁伊朗航运网络](https://www.zaobao.com/news/world/story20260715-9365428)
+Token length: 422
+Summarized using deepseek-v4-flash
+Append: [西班牙南部野火13死 12名死者为外国人](https://www.zaobao.com/news/world/story20260715-9365384)
+Token length: 798
+Summarized using deepseek-v4-flash
+Append: [美国连续四天袭击伊朗 特朗普威胁升级打击能源设施](https://www.zaobao.com/news/world/story20260715-9365327)
+append_entries: 5
+Finish: 2026-07-15 01:11:33.448606

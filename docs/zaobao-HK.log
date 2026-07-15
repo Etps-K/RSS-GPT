@@ -9349,3 +9349,24 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：当拼多多“卷”到新加坡](https://www.zaobao.com/news/china/story20260715-9364716)
 append_entries: 1
 Finish: 2026-07-14 22:43:46.759758
+------------------------------------------------------
+Started: 2026-07-15 01:10:50.337663
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 497
+Summarized using deepseek-v4-flash
+Append: [香港选委会界别分组选举将在11月举行](https://www.zaobao.com/news/china/story20260715-9365585)
+Token length: 448
+Summarized using deepseek-v4-flash
+Append: [AI生成图获呼和浩特摄影赛一等奖 主办方：停赛整改](https://www.zaobao.com/news/china/story20260715-9365570)
+Token length: 689
+Summarized using deepseek-v4-flash
+Append: [中兴通讯是获准购买英伟达H200晶片的中企之一](https://www.zaobao.com/news/china/story20260715-9365511)
+Token length: 523
+Summarized using deepseek-v4-flash
+Append: [中国四个省级电网用电负荷创历史新高](https://www.zaobao.com/news/china/story20260715-9365284)
+Token length: 550
+Summarized using deepseek-v4-flash
+Append: [美官员证实少量英伟达H200人工智能晶片已发往中国客户](https://www.zaobao.com/news/china/story20260715-9365271)
+append_entries: 5
+Finish: 2026-07-15 01:11:09.122629
