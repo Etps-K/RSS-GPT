@@ -8868,3 +8868,9 @@ Summarized using deepseek-v4-flash
 Append: [欧盟乌克兰达成无人机协议 将建立合资企业](https://www.zaobao.com/news/world/story20260716-9370844)
 append_entries: 1
 Finish: 2026-07-15 17:02:05.654697
+------------------------------------------------------
+Started: 2026-07-15 18:50:56.001722
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-15 18:50:56.101158
