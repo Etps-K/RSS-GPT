@@ -8760,3 +8760,21 @@ Summarized using deepseek-v4-flash
 Append: [美国连续四天袭击伊朗 特朗普威胁升级打击能源设施](https://www.zaobao.com/news/world/story20260715-9365327)
 append_entries: 5
 Finish: 2026-07-15 01:11:33.448606
+------------------------------------------------------
+Started: 2026-07-15 04:37:51.181700
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1734
+Summarized using deepseek-v4-flash
+Append: [分析：一天内取消海峡收费凸显特朗普已进退失据](https://www.zaobao.com/news/world/story20260715-9366398)
+Token length: 543
+Summarized using deepseek-v4-flash
+Append: [英国扩大社媒管制 16至17岁青少年将实施午夜“宵禁”](https://www.zaobao.com/news/world/story20260715-9366314)
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [美国旧金山附近水域发生船只倾覆致一死两失踪](https://www.zaobao.com/news/world/story20260715-9366254)
+Token length: 521
+Summarized using deepseek-v4-flash
+Append: [美国犹他州穆斯林摊贩遭刺15刀 嫌犯称因宗教信仰行凶](https://www.zaobao.com/news/world/story20260715-9365832)
+append_entries: 4
+Finish: 2026-07-15 04:38:05.710204
