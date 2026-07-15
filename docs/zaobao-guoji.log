@@ -8838,3 +8838,24 @@ Existing_entries: 1008
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-15 13:04:50.100580
+------------------------------------------------------
+Started: 2026-07-15 15:15:50.365969
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 512
+Summarized using deepseek-v4-flash
+Append: [德总理：不反对中国接管德国汽车工厂](https://www.zaobao.com/news/world/story20260715-9370682)
+Token length: 723
+Summarized using deepseek-v4-flash
+Append: [日本出台新版AI战略计划 加强自主研发和安全](https://www.zaobao.com/news/world/story20260715-9370308)
+Token length: 499
+Summarized using deepseek-v4-flash
+Append: [体育机构接纳俄运动员 九国敦促欧盟削减赞助](https://www.zaobao.com/news/world/story20260715-9370377)
+Token length: 553
+Summarized using deepseek-v4-flash
+Append: [美参议员提出新法案 应对中伊等国“跨国镇压”](https://www.zaobao.com/news/world/story20260715-9370239)
+Token length: 1350
+Summarized using deepseek-v4-flash
+Append: [美军恢复海上封锁持续空袭 伊朗威胁关闭其他油气出口通道](https://www.zaobao.com/news/world/story20260715-9369929)
+append_entries: 5
+Finish: 2026-07-15 15:16:12.953129
