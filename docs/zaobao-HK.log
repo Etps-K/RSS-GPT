@@ -9527,3 +9527,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-15 20:47:20.347201
+------------------------------------------------------
+Started: 2026-07-15 22:45:25.955357
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 325
+Summarized using deepseek-v4-flash
+Append: [戴庆成：高考状元一窝蜂报读医科的背后](https://www.zaobao.com/news/china/story20260716-9370262)
+append_entries: 1
+Finish: 2026-07-15 22:45:29.590770
