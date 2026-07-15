@@ -8778,3 +8778,18 @@ Summarized using deepseek-v4-flash
 Append: [美国犹他州穆斯林摊贩遭刺15刀 嫌犯称因宗教信仰行凶](https://www.zaobao.com/news/world/story20260715-9365832)
 append_entries: 4
 Finish: 2026-07-15 04:38:05.710204
+------------------------------------------------------
+Started: 2026-07-15 07:46:49.659707
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 201
+Summarized using deepseek-v4-flash
+Append: [俄军空袭乌克兰港口 称击中四艘运送军用物资船只](https://www.zaobao.com/news/world/story20260715-9367556)
+Token length: 646
+Summarized using deepseek-v4-flash
+Append: [澳洲将设AI办公室 限制数据中心能源消耗](https://www.zaobao.com/news/world/story20260715-9366900)
+Token length: 382
+Summarized using deepseek-v4-flash
+Append: [美媒：特朗普周二召开战情室会议讨论大举打击伊朗](https://www.zaobao.com/news/world/story20260715-9366710)
+append_entries: 3
+Finish: 2026-07-15 07:47:02.802098
