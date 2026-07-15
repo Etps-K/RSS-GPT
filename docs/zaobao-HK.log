@@ -9465,3 +9465,26 @@ Summarized using deepseek-v4-flash
 Append: [台湾称与立陶宛关系持续深化 双方合作不受第三方影响](https://www.zaobao.com/news/china/story20260715-9368999)
 append_entries: 2
 Finish: 2026-07-15 11:19:07.636150
+------------------------------------------------------
+Started: 2026-07-15 13:04:19.701658
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1130
+Summarized using deepseek-v4-flash
+Append: [台湾评估开放西安包机 大陆促取消两岸航运限制](https://www.zaobao.com/news/china/story20260715-9369417)
+Token length: 563
+Summarized using deepseek-v4-flash
+Append: [中国6月新增贷款低于预期 信贷需求疲弱](https://www.zaobao.com/news/china/story20260715-9370031)
+Token length: 1194
+Summarized using deepseek-v4-flash
+Append: [习近平考察上海 听取“历史性解决老城区居民拎马桶问题”介绍](https://www.zaobao.com/news/china/story20260715-9369686)
+Token length: 760
+Summarized using deepseek-v4-flash
+Append: [美官员证实 少量英伟达H200人工智能晶片已交付中国客户](https://www.zaobao.com/news/china/story20260715-9369304)
+Token length: 412
+Summarized using deepseek-v4-flash
+Append: [DeepSeek新一轮融资规模或达500亿人民币](https://www.zaobao.com/news/china/story20260715-9369569)
+Append: [港澳办支持的港澳研究中心在北京揭牌 开展港澳重大问题研究](https://www.zaobao.com/news/china/story20260715-9369535)
+Append: [日外长：冷静妥善地与中国进行沟通十分重要](https://www.zaobao.com/news/china/story20260715-9369463)
+append_entries: 7
+Finish: 2026-07-15 13:04:48.994145
