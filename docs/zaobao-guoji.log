@@ -8808,3 +8808,27 @@ Summarized using deepseek-v4-flash
 Append: [美参院推新制裁法案 对首五大俄石油买家征100%关税](https://www.zaobao.com/news/world/story20260715-9368019)
 append_entries: 3
 Finish: 2026-07-15 09:47:24.562668
+------------------------------------------------------
+Started: 2026-07-15 11:19:08.513352
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 841
+Summarized using deepseek-v4-flash
+Append: [俄媒：朝鲜劳工“身价暴涨” 俄地方政府因工资过高放弃引进](https://www.zaobao.com/news/world/story20260715-9368696)
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [向伊朗特工发送视频 以色列士兵判监五年](https://www.zaobao.com/news/world/story20260715-9368995)
+Token length: 307
+Summarized using deepseek-v4-flash
+Append: [美国伊朗互相袭击 巴林科威特拦截空袭](https://www.zaobao.com/news/world/story20260715-9369151)
+Token length: 1062
+Summarized using deepseek-v4-flash
+Append: [美国支持重启伊拉克－叙利亚输油管道 绕过霍尔木兹海峡](https://www.zaobao.com/news/world/story20260715-9368615)
+Token length: 917
+Summarized using deepseek-v4-flash
+Append: [美伊冲突影响外溢 也门沙特恐重燃战火](https://www.zaobao.com/news/world/story20260715-9368461)
+Append: [美国众议院通过法案 将夏令时日光节约永久化](https://www.zaobao.com/news/world/story20260715-9368897)
+Append: [破纪录热浪席卷美加 逾1亿人处于高温预警](https://www.zaobao.com/news/world/story20260715-9368363)
+Append: [《华邮》记者认证麦康奈尔“报平安”照片属实](https://www.zaobao.com/news/world/story20260715-9368411)
+append_entries: 8
+Finish: 2026-07-15 11:19:32.552995
