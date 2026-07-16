@@ -8952,3 +8952,24 @@ Summarized using deepseek-v4-flash
 Append: [日相高市早苗支持率首次跌破50% 政权根基摇晃](https://www.zaobao.com/news/world/story20260716-9374162)
 append_entries: 1
 Finish: 2026-07-16 09:53:15.706319
+------------------------------------------------------
+Started: 2026-07-16 11:25:11.913975
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 213
+Summarized using deepseek-v4-flash
+Append: [新西兰南岛旅游胜地附近发生6.3级地震](https://www.zaobao.com/news/world/story20260716-9375295)
+Token length: 775
+Summarized using deepseek-v4-flash
+Append: [美联储调查显示美国经济广泛改善 通胀压力稍缓](https://www.zaobao.com/news/world/story20260716-9375078)
+Token length: 316
+Summarized using deepseek-v4-flash
+Append: [巴基斯坦：冲突无益 伊美应恢复谈判](https://www.zaobao.com/news/world/story20260716-9375052)
+Token length: 541
+Summarized using deepseek-v4-flash
+Append: [美国拟向绿卡申请者征10万美元押金](https://www.zaobao.com/news/world/story20260716-9373897)
+Token length: 261
+Summarized using deepseek-v4-flash
+Append: [阿尔及利亚首都市郊孤儿院起火 11名儿童死亡](https://www.zaobao.com/news/world/story20260716-9374570)
+append_entries: 5
+Finish: 2026-07-16 11:25:38.924520
