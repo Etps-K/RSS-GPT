@@ -9006,3 +9006,15 @@ Summarized using deepseek-v4-flash
 Append: [乌克兰议会批准科列茨基出任总理](https://www.zaobao.com/news/world/story20260716-9376017)
 append_entries: 5
 Finish: 2026-07-16 15:24:14.789858
+------------------------------------------------------
+Started: 2026-07-16 17:00:01.374174
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 174
+Summarized using deepseek-v4-flash
+Append: [美国再收紧移民政策 限制学生和记者在美停留时间](https://www.zaobao.com/news/world/story20260716-9376495)
+Token length: 443
+Summarized using deepseek-v4-flash
+Append: [消息：若伊朗电力设施遇袭 胡塞武装或封锁红海通道](https://www.zaobao.com/news/world/story20260716-9376420)
+append_entries: 2
+Finish: 2026-07-16 17:00:10.522857

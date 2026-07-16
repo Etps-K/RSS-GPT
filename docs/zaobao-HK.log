@@ -9684,3 +9684,15 @@ Summarized using deepseek-v4-flash
 Append: [习近平与哈总统会晤 提出拓展能源矿产合作](https://www.zaobao.com/news/china/story20260716-9375449)
 append_entries: 5
 Finish: 2026-07-16 15:23:46.841173
+------------------------------------------------------
+Started: 2026-07-16 16:59:48.635283
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 637
+Summarized using deepseek-v4-flash
+Append: [马以南声明：再有以马英九名义或签署文件行为将究责](https://www.zaobao.com/news/china/story20260716-9376278)
+Token length: 1148
+Summarized using deepseek-v4-flash
+Append: [更便捷新皇岗口岸开关在即 恐冲击香港零售饮食业市道](https://www.zaobao.com/news/china/story20260716-9376105)
+append_entries: 2
+Finish: 2026-07-16 17:00:00.323044
