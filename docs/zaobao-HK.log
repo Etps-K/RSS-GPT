@@ -9536,3 +9536,21 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：高考状元一窝蜂报读医科的背后](https://www.zaobao.com/news/china/story20260716-9370262)
 append_entries: 1
 Finish: 2026-07-15 22:45:29.590770
+------------------------------------------------------
+Started: 2026-07-16 01:19:49.325771
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 697
+Summarized using deepseek-v4-flash
+Append: [朝鲜劳动党书记赵甬元见王沪宁](https://www.zaobao.com/news/china/story20260716-9371419)
+Token length: 261
+Summarized using deepseek-v4-flash
+Append: [四川巴士撞护栏坠河事故致六死11伤](https://www.zaobao.com/news/china/story20260716-9371398)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [中国拟实行统一税务行政处罚裁量基准](https://www.zaobao.com/news/china/story20260716-9371288)
+Token length: 648
+Summarized using deepseek-v4-flash
+Append: [皮尤调查：中国全球好感度排名超过美国](https://www.zaobao.com/news/china/story20260716-9371281)
+append_entries: 4
+Finish: 2026-07-16 01:20:07.885125

@@ -8886,3 +8886,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-15 22:45:30.486621
+------------------------------------------------------
+Started: 2026-07-16 01:20:08.776432
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 372
+Summarized using deepseek-v4-flash
+Append: [林火烟霾空污严重 多伦多空气质量世界主要城市排名垫底](https://www.zaobao.com/news/world/story20260716-9371480)
+Token length: 303
+Summarized using deepseek-v4-flash
+Append: [印有特朗普头像1美元硬币将投入生产](https://www.zaobao.com/news/world/story20260716-9371422)
+Token length: 521
+Summarized using deepseek-v4-flash
+Append: [粮农组织：健康饮食成本飙升 全球三分之一人口无力负担](https://www.zaobao.com/news/world/story20260716-9371351)
+Token length: 568
+Summarized using deepseek-v4-flash
+Append: [法国议会通过法案 绝症患者可申请协助死亡](https://www.zaobao.com/news/world/story20260716-9371298)
+Token length: 516
+Summarized using deepseek-v4-flash
+Append: [美军称击中一艘试图驶向伊朗港口的油轮](https://www.zaobao.com/news/world/story20260716-9371221)
+append_entries: 5
+Finish: 2026-07-16 01:20:38.501095
