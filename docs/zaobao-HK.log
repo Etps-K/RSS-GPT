@@ -9607,3 +9607,26 @@ Append: [台湾规定缴“丧失中国籍证明”10年才能参选公职](http
 Append: [中国进入七下八上防汛关键期 官员预测防御考验会更复杂严峻](https://www.zaobao.com/news/china/story20260716-9372342)
 append_entries: 10
 Finish: 2026-07-16 07:51:52.659257
+------------------------------------------------------
+Started: 2026-07-16 09:52:52.403109
+Existing_entries: 1010
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [中国外交部：“朝贡体系”曲解当代中国外交平等相待核心底色](https://www.zaobao.com/news/china/story20260716-9374031)
+Token length: 55
+Summarized using deepseek-v4-flash
+Append: [四川副省长黄瑞雪因突发疾病离世](https://www.zaobao.com/news/china/story20260716-9373948)
+Token length: 482
+Summarized using deepseek-v4-flash
+Append: [港媒：荷兰首相杰滕料明年春季访问中国](https://www.zaobao.com/news/china/story20260716-9373792)
+Token length: 640
+Summarized using deepseek-v4-flash
+Append: [魏哲家证实台积电投资美国1000亿美元](https://www.zaobao.com/news/china/story20260716-9373833)
+Token length: 455
+Summarized using deepseek-v4-flash
+Append: [中国据悉进一步收紧银行间城投债发行](https://www.zaobao.com/news/china/story20260716-9373636)
+Append: [中国疾控中心：全国冠病疫情总体上仍处于低流行水平](https://www.zaobao.com/news/china/story20260716-9373697)
+Append: [曾与王健林“交锋” 贵州80后厅官徐刘蔚被查](https://www.zaobao.com/news/china/story20260716-9373677)
+append_entries: 7
+Finish: 2026-07-16 09:53:10.981010

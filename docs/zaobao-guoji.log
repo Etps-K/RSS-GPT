@@ -8943,3 +8943,12 @@ Summarized using deepseek-v4-flash
 Append: [中东战事升级 美国批准向沙特出售近20亿美元武器](https://www.zaobao.com/news/world/story20260716-9372883)
 append_entries: 3
 Finish: 2026-07-16 07:52:09.089031
+------------------------------------------------------
+Started: 2026-07-16 09:53:11.983746
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 351
+Summarized using deepseek-v4-flash
+Append: [日相高市早苗支持率首次跌破50% 政权根基摇晃](https://www.zaobao.com/news/world/story20260716-9374162)
+append_entries: 1
+Finish: 2026-07-16 09:53:15.706319

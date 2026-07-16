@@ -6235,3 +6235,15 @@ Existing_entries: 336
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-16 07:51:19.377677
+------------------------------------------------------
+Started: 2026-07-16 09:52:40.796208
+Existing_entries: 336
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [Apple 高校优惠活动开始了，今年有些不一样](https://sspai.com/post/112386)
+Token length: 45
+Summarized using deepseek-v4-flash
+Append: [具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性](https://sspai.com/post/112375)
+append_entries: 2
+Finish: 2026-07-16 09:52:51.481302
