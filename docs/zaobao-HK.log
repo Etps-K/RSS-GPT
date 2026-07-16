@@ -9581,3 +9581,29 @@ Append: [匈牙利前外长辞去国会议员职务 转投比亚迪](https://www
 Append: [阿斯麦据报拟上调部分光刻机售价 或受台积电抵制](https://www.zaobao.com/news/china/story20260716-9371503)
 append_entries: 11
 Finish: 2026-07-16 04:48:09.777652
+------------------------------------------------------
+Started: 2026-07-16 07:51:20.139073
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 630
+Summarized using deepseek-v4-flash
+Append: [IEA：若中国限制稀土出口 6.5万亿美元下游产出或面临风险](https://www.zaobao.com/news/china/story20260716-9373289)
+Token length: 386
+Summarized using deepseek-v4-flash
+Append: [台积电第二季净利同比大增77.4%](https://www.zaobao.com/news/china/story20260716-9373243)
+Token length: 681
+Summarized using deepseek-v4-flash
+Append: [全台最大虚拟货币商勾结诈骗团体洗钱23亿 主谋判监22年](https://www.zaobao.com/news/china/story20260716-9373166)
+Token length: 149
+Summarized using deepseek-v4-flash
+Append: [捷克外交部公布一公民在中国被拘留](https://www.zaobao.com/news/china/story20260716-9372976)
+Token length: 434
+Summarized using deepseek-v4-flash
+Append: [美联储前顾问在涉华窃密案中撒谎判监三年多](https://www.zaobao.com/news/china/story20260716-9372573)
+Append: [北海道首次举行被强掳中国劳工追悼仪式](https://www.zaobao.com/news/china/story20260716-9372451)
+Append: [中国增设27个职业教育新专业 服务国家战略](https://www.zaobao.com/news/china/story20260716-9372864)
+Append: [台中高分院驳回中联油脂总经理交保裁决](https://www.zaobao.com/news/china/story20260716-9372863)
+Append: [台湾规定缴“丧失中国籍证明”10年才能参选公职](https://www.zaobao.com/news/china/story20260716-9372404)
+Append: [中国进入七下八上防汛关键期 官员预测防御考验会更复杂严峻](https://www.zaobao.com/news/china/story20260716-9372342)
+append_entries: 10
+Finish: 2026-07-16 07:51:52.659257

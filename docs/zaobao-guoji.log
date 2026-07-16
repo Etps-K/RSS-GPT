@@ -8928,3 +8928,18 @@ Summarized using deepseek-v4-flash
 Append: [美战争部长：30岁以上美兵将强制接受睾酮检测](https://www.zaobao.com/news/world/story20260716-9371724)
 append_entries: 5
 Finish: 2026-07-16 04:48:34.434762
+------------------------------------------------------
+Started: 2026-07-16 07:51:53.497235
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 416
+Summarized using deepseek-v4-flash
+Append: [印度要求船东勿派海员航经霍尔木兹海峡](https://www.zaobao.com/news/world/story20260716-9373201)
+Token length: 671
+Summarized using deepseek-v4-flash
+Append: [乌军袭击迫使关键水道关闭 俄面临“霍尔木兹海峡式”危机](https://www.zaobao.com/news/world/story20260716-9373085)
+Token length: 530
+Summarized using deepseek-v4-flash
+Append: [中东战事升级 美国批准向沙特出售近20亿美元武器](https://www.zaobao.com/news/world/story20260716-9372883)
+append_entries: 3
+Finish: 2026-07-16 07:52:09.089031
