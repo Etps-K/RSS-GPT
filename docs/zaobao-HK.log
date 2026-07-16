@@ -9708,3 +9708,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-16 20:42:24.547090
+------------------------------------------------------
+Started: 2026-07-16 22:45:05.025594
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [韩咏红：退休多年的北京宣传官蔡赴朝被查](https://www.zaobao.com/news/china/story20260717-9376329)
+append_entries: 1
+Finish: 2026-07-16 22:45:10.505734
