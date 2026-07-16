@@ -9027,3 +9027,9 @@ Summarized using deepseek-v4-flash
 Append: [印度发生踩踏事件 至少一死百伤](https://www.zaobao.com/news/world/story20260717-9376542)
 append_entries: 1
 Finish: 2026-07-16 18:52:27.809117
+------------------------------------------------------
+Started: 2026-07-16 20:42:25.431344
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-16 20:42:25.539653
