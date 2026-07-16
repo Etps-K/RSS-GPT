@@ -8973,3 +8973,15 @@ Summarized using deepseek-v4-flash
 Append: [阿尔及利亚首都市郊孤儿院起火 11名儿童死亡](https://www.zaobao.com/news/world/story20260716-9374570)
 append_entries: 5
 Finish: 2026-07-16 11:25:38.924520
+------------------------------------------------------
+Started: 2026-07-16 13:13:04.133079
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 478
+Summarized using deepseek-v4-flash
+Append: [世卫组织：45%失智症风险可避免或延缓](https://www.zaobao.com/news/world/story20260716-9375566)
+Token length: 994
+Summarized using deepseek-v4-flash
+Append: [AI助力乌克兰无人机 俄军战场上只能活30分钟](https://www.zaobao.com/news/world/story20260716-9374915)
+append_entries: 2
+Finish: 2026-07-16 13:13:17.701052

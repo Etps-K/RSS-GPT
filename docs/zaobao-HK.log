@@ -9648,3 +9648,18 @@ Summarized using deepseek-v4-flash
 Append: [港府拟下月开放平台公司申请网约车牌照](https://www.zaobao.com/news/china/story20260716-9373586)
 append_entries: 4
 Finish: 2026-07-16 11:25:10.900385
+------------------------------------------------------
+Started: 2026-07-16 13:12:47.300430
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 651
+Summarized using deepseek-v4-flash
+Append: [香港建筑地盘周五起全面禁烟](https://www.zaobao.com/news/china/story20260716-9374462)
+Token length: 186
+Summarized using deepseek-v4-flash
+Append: [下午察：存储巨头长鑫科技迎来风光上市](https://www.zaobao.com/news/china/story20260716-9373088)
+Token length: 509
+Summarized using deepseek-v4-flash
+Append: [台湾批巴新无预警宣称关闭台北经济办事处](https://www.zaobao.com/news/china/story20260716-9375287)
+append_entries: 3
+Finish: 2026-07-16 13:13:03.128421
