@@ -9554,3 +9554,30 @@ Summarized using deepseek-v4-flash
 Append: [皮尤调查：中国全球好感度排名超过美国](https://www.zaobao.com/news/china/story20260716-9371281)
 append_entries: 4
 Finish: 2026-07-16 01:20:07.885125
+------------------------------------------------------
+Started: 2026-07-16 04:47:49.068804
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1079
+Summarized using deepseek-v4-flash
+Append: [尹力：北京有力解决一批历史遗留问题](https://www.zaobao.com/news/china/story20260716-9372581)
+Token length: 727
+Summarized using deepseek-v4-flash
+Append: [全球首款植入式脑机接口产品首例手术在中国完成](https://www.zaobao.com/news/china/story20260716-9372180)
+Token length: 1462
+Summarized using deepseek-v4-flash
+Append: [特朗普幕僚认为中国违反贸易协议 但不愿采取反制措施](https://www.zaobao.com/news/china/story20260716-9372256)
+Token length: 695
+Summarized using deepseek-v4-flash
+Append: [古特雷斯出席世界人工智能大会](https://www.zaobao.com/news/china/story20260716-9372222)
+Token length: 1035
+Summarized using deepseek-v4-flash
+Append: [再有五港人涉出售具煽动意图书籍被拘](https://www.zaobao.com/news/china/story20260716-9372031)
+Append: [中国15家上市生猪企业上半年预亏超150亿人民币](https://www.zaobao.com/news/china/story20260716-9371905)
+Append: [知网下架将DeepSeek等AI列为作者论文](https://www.zaobao.com/news/china/story20260716-9371836)
+Append: [消息人士：白宫考虑公开涉中国与美国选举的争议情报](https://www.zaobao.com/news/china/story20260716-9371723)
+Append: [台经济部：依规不准张雪机车登陆台湾](https://www.zaobao.com/news/china/story20260716-9371682)
+Append: [匈牙利前外长辞去国会议员职务 转投比亚迪](https://www.zaobao.com/news/china/story20260716-9371545)
+Append: [阿斯麦据报拟上调部分光刻机售价 或受台积电抵制](https://www.zaobao.com/news/china/story20260716-9371503)
+append_entries: 11
+Finish: 2026-07-16 04:48:09.777652

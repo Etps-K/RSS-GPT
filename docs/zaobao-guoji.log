@@ -8907,3 +8907,24 @@ Summarized using deepseek-v4-flash
 Append: [美军称击中一艘试图驶向伊朗港口的油轮](https://www.zaobao.com/news/world/story20260716-9371221)
 append_entries: 5
 Finish: 2026-07-16 01:20:38.501095
+------------------------------------------------------
+Started: 2026-07-16 04:48:10.793471
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 379
+Summarized using deepseek-v4-flash
+Append: [消息：美战争部正研究对古巴军事行动方案](https://www.zaobao.com/news/world/story20260716-9372405)
+Token length: 401
+Summarized using deepseek-v4-flash
+Append: [空置中间座位 美联航抢攻愿多花钱买舒适旅客](https://www.zaobao.com/news/world/story20260716-9372299)
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [国际能源署：霍尔木兹海峡危机若持续 全球经济恐面临新挑战](https://www.zaobao.com/news/world/story20260716-9372123)
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [万斯：单靠武力无法赢得伊朗战事](https://www.zaobao.com/news/world/story20260716-9371953)
+Token length: 537
+Summarized using deepseek-v4-flash
+Append: [美战争部长：30岁以上美兵将强制接受睾酮检测](https://www.zaobao.com/news/world/story20260716-9371724)
+append_entries: 5
+Finish: 2026-07-16 04:48:34.434762
