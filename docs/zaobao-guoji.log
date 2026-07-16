@@ -8985,3 +8985,24 @@ Summarized using deepseek-v4-flash
 Append: [AI助力乌克兰无人机 俄军战场上只能活30分钟](https://www.zaobao.com/news/world/story20260716-9374915)
 append_entries: 2
 Finish: 2026-07-16 13:13:17.701052
+------------------------------------------------------
+Started: 2026-07-16 15:23:47.736045
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 166
+Summarized using deepseek-v4-flash
+Append: [一艘油轮遭无人机袭击 伊拉克暂停巴士拉原油装船作业](https://www.zaobao.com/news/world/story20260716-9376243)
+Token length: 584
+Summarized using deepseek-v4-flash
+Append: [乌干达最后一名伊波拉患者出院 力争病例清零](https://www.zaobao.com/news/world/story20260716-9376173)
+Token length: 890
+Summarized using deepseek-v4-flash
+Append: [应对炎热夏季 东京推“酷爽商务”允许公务员穿短裤上班](https://www.zaobao.com/news/world/story20260716-9375799)
+Token length: 1226
+Summarized using deepseek-v4-flash
+Append: [特朗普探讨扩大对伊打击 包括派地面部队参战](https://www.zaobao.com/news/world/story20260716-9375921)
+Token length: 503
+Summarized using deepseek-v4-flash
+Append: [乌克兰议会批准科列茨基出任总理](https://www.zaobao.com/news/world/story20260716-9376017)
+append_entries: 5
+Finish: 2026-07-16 15:24:14.789858

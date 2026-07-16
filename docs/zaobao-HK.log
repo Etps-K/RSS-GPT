@@ -9663,3 +9663,24 @@ Summarized using deepseek-v4-flash
 Append: [台湾批巴新无预警宣称关闭台北经济办事处](https://www.zaobao.com/news/china/story20260716-9375287)
 append_entries: 3
 Finish: 2026-07-16 13:13:03.128421
+------------------------------------------------------
+Started: 2026-07-16 15:23:25.185767
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1270
+Summarized using deepseek-v4-flash
+Append: [台积电次季净利大增逾七成 追加千亿美元投资美国](https://www.zaobao.com/news/china/story20260716-9375658)
+Token length: 1176
+Summarized using deepseek-v4-flash
+Append: [官方通报被指春秋笔法 湖南官员霸车位风波舆情升级](https://www.zaobao.com/news/china/story20260716-9375554)
+Token length: 948
+Summarized using deepseek-v4-flash
+Append: [台防长：透过无人机特别条例“长单效应” 建立非红供应链](https://www.zaobao.com/news/china/story20260716-9375218)
+Token length: 438
+Summarized using deepseek-v4-flash
+Append: [中使馆：中菲联手捣毁电诈窝点 遣返六名通缉在逃者](https://www.zaobao.com/news/china/story20260716-9375625)
+Token length: 526
+Summarized using deepseek-v4-flash
+Append: [习近平与哈总统会晤 提出拓展能源矿产合作](https://www.zaobao.com/news/china/story20260716-9375449)
+append_entries: 5
+Finish: 2026-07-16 15:23:46.841173
