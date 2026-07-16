@@ -9696,3 +9696,9 @@ Summarized using deepseek-v4-flash
 Append: [更便捷新皇岗口岸开关在即 恐冲击香港零售饮食业市道](https://www.zaobao.com/news/china/story20260716-9376105)
 append_entries: 2
 Finish: 2026-07-16 17:00:00.323044
+------------------------------------------------------
+Started: 2026-07-16 18:52:22.042907
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-16 18:52:22.133946

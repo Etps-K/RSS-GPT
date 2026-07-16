@@ -9018,3 +9018,12 @@ Summarized using deepseek-v4-flash
 Append: [消息：若伊朗电力设施遇袭 胡塞武装或封锁红海通道](https://www.zaobao.com/news/world/story20260716-9376420)
 append_entries: 2
 Finish: 2026-07-16 17:00:10.522857
+------------------------------------------------------
+Started: 2026-07-16 18:52:22.816478
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 353
+Summarized using deepseek-v4-flash
+Append: [印度发生踩踏事件 至少一死百伤](https://www.zaobao.com/news/world/story20260717-9376542)
+append_entries: 1
+Finish: 2026-07-16 18:52:27.809117
