@@ -9107,3 +9107,18 @@ Append: [英警方指控男子涉嫌协助与伊朗有关间谍活动](https://w
 Append: [巴西外长：美国加征关税“毫无正当理由”](https://www.zaobao.com/news/world/story20260717-9379228)
 append_entries: 7
 Finish: 2026-07-17 09:44:33.441589
+------------------------------------------------------
+Started: 2026-07-17 11:12:43.366548
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 352
+Summarized using deepseek-v4-flash
+Append: [化学品船在也门附近遭挟持 油轮在阿曼海岸遇袭](https://www.zaobao.com/news/world/story20260717-9380699)
+Token length: 428
+Summarized using deepseek-v4-flash
+Append: [伊朗袭击约旦境内美国飞机 卡塔尔拦截导弹](https://www.zaobao.com/news/world/story20260717-9380458)
+Token length: 873
+Summarized using deepseek-v4-flash
+Append: [美伊战事凸显空袭局限 空中优势未必换来战略胜利](https://www.zaobao.com/news/world/story20260717-9376004)
+append_entries: 3
+Finish: 2026-07-17 11:12:56.453032

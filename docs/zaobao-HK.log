@@ -9809,3 +9809,21 @@ Append: [中国7月18日起上调汽油柴油零售价](https://www.zaobao.com/n
 Append: [港媒：中国副外长下周赴华盛顿 或是为习近平访美铺路](https://www.zaobao.com/news/china/story20260717-9379519)
 append_entries: 9
 Finish: 2026-07-17 09:44:05.924615
+------------------------------------------------------
+Started: 2026-07-17 11:12:25.045453
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 457
+Summarized using deepseek-v4-flash
+Append: [深圳市委原常委王强主动投案](https://www.zaobao.com/news/china/story20260717-9380805)
+Token length: 332
+Summarized using deepseek-v4-flash
+Append: [知情人士：中国寻求减少对卡塔尔液化天然气依赖](https://www.zaobao.com/news/china/story20260717-9380666)
+Token length: 688
+Summarized using deepseek-v4-flash
+Append: [受贿逾亿人民币 四川省统计局原局长范毅被判无期](https://www.zaobao.com/news/china/story20260717-9380493)
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [宋涛见洪秀柱 吁两岸青年做交流融合坚定促进者](https://www.zaobao.com/news/china/story20260717-9380482)
+append_entries: 4
+Finish: 2026-07-17 11:12:42.528831
