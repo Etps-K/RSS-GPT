@@ -9137,3 +9137,9 @@ Summarized using deepseek-v4-flash
 Append: [加拿大林火烟雾飘至纽约芝加哥等美国城市 空污达危险水平](https://www.zaobao.com/news/world/story20260717-9379626)
 append_entries: 3
 Finish: 2026-07-17 12:57:42.120557
+------------------------------------------------------
+Started: 2026-07-17 15:04:22.816963
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-17 15:04:22.961741

@@ -9842,3 +9842,26 @@ Summarized using deepseek-v4-flash
 Append: [中国国航及深航拟向空客购买55架飞机](https://www.zaobao.com/news/china/story20260717-9380902)
 append_entries: 3
 Finish: 2026-07-17 12:57:23.211045
+------------------------------------------------------
+Started: 2026-07-17 15:03:54.794732
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [重庆彭水山体崩塌致多人失联 习近平：做好伤员救治](https://www.zaobao.com/news/china/story20260717-9381989)
+Token length: 568
+Summarized using deepseek-v4-flash
+Append: [重庆彭水突发山体垮塌 多栋居民楼被埋](https://www.zaobao.com/news/china/story20260717-9381691)
+Token length: 498
+Summarized using deepseek-v4-flash
+Append: [台致癌油风波 总统府否认赖清德明开会讨论人事异动](https://www.zaobao.com/news/china/story20260717-9381509)
+Token length: 533
+Summarized using deepseek-v4-flash
+Append: [中国赞赏美方未延续涉港国家紧急状态令](https://www.zaobao.com/news/china/story20260717-9381647)
+Token length: 247
+Summarized using deepseek-v4-flash
+Append: [下午察：《焦点访谈》揭种粮造假引发的争论](https://www.zaobao.com/news/china/story20260717-9380536)
+Append: [导弹与金援 南太岛国在大国博弈下的生存术](https://www.zaobao.com/news/china/story20260717-9379231)
+Append: [涉捏造小米SU7碰撞后断电 中国博主获刑20个月](https://www.zaobao.com/news/china/story20260717-9381328)
+append_entries: 7
+Finish: 2026-07-17 15:04:21.903465
