@@ -9895,3 +9895,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-17 20:40:48.513607
+------------------------------------------------------
+Started: 2026-07-17 22:36:15.236598
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 205
+Summarized using deepseek-v4-flash
+Append: [刘柳：当“百年一遇”变成“年年都遇”](https://www.zaobao.com/news/china/story20260718-9381488)
+Token length: 281
+Summarized using deepseek-v4-flash
+Append: [新闻人间：当匈牙利前外长变身比亚迪高管](https://www.zaobao.com/news/china/story20260718-9373165)
+append_entries: 2
+Finish: 2026-07-17 22:36:24.778692
