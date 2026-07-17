@@ -9039,3 +9039,18 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-16 22:45:11.500399
+------------------------------------------------------
+Started: 2026-07-17 01:23:40.219274
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 269
+Summarized using deepseek-v4-flash
+Append: [美军在阿曼湾登上一艘油轮检查](https://www.zaobao.com/news/world/story20260717-9377074)
+Token length: 768
+Summarized using deepseek-v4-flash
+Append: [美三大电视网有两家决定不在主平台播出特朗普全国讲话](https://www.zaobao.com/news/world/story20260717-9377016)
+Token length: 891
+Summarized using deepseek-v4-flash
+Append: [美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限](https://www.zaobao.com/news/world/story20260717-9376926)
+append_entries: 3
+Finish: 2026-07-17 01:23:55.040835

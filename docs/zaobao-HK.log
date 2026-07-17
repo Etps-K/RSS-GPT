@@ -9717,3 +9717,18 @@ Summarized using deepseek-v4-flash
 Append: [韩咏红：退休多年的北京宣传官蔡赴朝被查](https://www.zaobao.com/news/china/story20260717-9376329)
 append_entries: 1
 Finish: 2026-07-16 22:45:10.505734
+------------------------------------------------------
+Started: 2026-07-17 01:23:23.961805
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 478
+Summarized using deepseek-v4-flash
+Append: [莫桑比克总统：正与中国磋商债务重组协议](https://www.zaobao.com/news/china/story20260717-9377116)
+Token length: 321
+Summarized using deepseek-v4-flash
+Append: [29国在上海签署成立世界人工智能合作组织协定](https://www.zaobao.com/news/china/story20260717-9377090)
+Token length: 528
+Summarized using deepseek-v4-flash
+Append: [金正恩：朝中友好合作互助条约在保障地区和平发挥重大作用](https://www.zaobao.com/news/china/story20260717-9377022)
+append_entries: 3
+Finish: 2026-07-17 01:23:39.339138
