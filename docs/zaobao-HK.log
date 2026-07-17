@@ -9865,3 +9865,21 @@ Append: [导弹与金援 南太岛国在大国博弈下的生存术](https://www
 Append: [涉捏造小米SU7碰撞后断电 中国博主获刑20个月](https://www.zaobao.com/news/china/story20260717-9381328)
 append_entries: 7
 Finish: 2026-07-17 15:04:21.903465
+------------------------------------------------------
+Started: 2026-07-17 16:56:25.514348
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 770
+Summarized using deepseek-v4-flash
+Append: [大埔火灾调查听证会结束 工人天台抽烟等照片首次曝光](https://www.zaobao.com/news/china/story20260717-9382281)
+Token length: 1580
+Summarized using deepseek-v4-flash
+Append: [台湾致癌油风波演变为政治风暴 恐影响年底地方选情](https://www.zaobao.com/news/china/story20260717-9381897)
+Token length: 1430
+Summarized using deepseek-v4-flash
+Append: [习近平吁构建全球AI治理体系 学者：北京将AI列入多边外交框架](https://www.zaobao.com/news/china/story20260717-9381282)
+Token length: 875
+Summarized using deepseek-v4-flash
+Append: [世界人工智能大会规格提升 华为、月暗集中“秀肌肉”](https://www.zaobao.com/news/china/story20260717-9381853)
+append_entries: 4
+Finish: 2026-07-17 16:56:48.484559

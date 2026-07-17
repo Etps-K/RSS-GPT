@@ -9143,3 +9143,29 @@ Existing_entries: 1003
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-17 15:04:22.961741
+------------------------------------------------------
+Started: 2026-07-17 16:56:49.496231
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 272
+Summarized using deepseek-v4-flash
+Append: [受耐用品生产拖累 美国制造业产出陷入停滞](https://www.zaobao.com/news/world/story20260717-9382238)
+Token length: 212
+Summarized using deepseek-v4-flash
+Append: [墨西哥发生7.4级强震 邻国建筑物也震动](https://www.zaobao.com/news/world/story20260717-9382217)
+Token length: 1064
+Summarized using deepseek-v4-flash
+Append: [《皇室法》改革案未打破“男子继位”传统 日舆论感叹女天皇成泡影](https://www.zaobao.com/news/world/story20260717-9381880)
+Token length: 405
+Summarized using deepseek-v4-flash
+Append: [伊朗：美国不停止对南部袭击 伊朗攻势将持续](https://www.zaobao.com/news/world/story20260717-9382028)
+Token length: 1042
+Summarized using deepseek-v4-flash
+Append: [美伊重新交火一周形成拉锯战 分析指美威胁升级冲突恐重蹈失误](https://www.zaobao.com/news/world/story20260717-9381842)
+Append: [霍尔木兹海峡船舶通过量继续走弱 降至三周来新低](https://www.zaobao.com/news/world/story20260717-9381939)
+Append: [7月20日接任英相 伯纳姆：要让英国人民重获希望](https://www.zaobao.com/news/world/story20260717-9381714)
+Append: [乌克兰撤换防长引发抗议 暴露军方内部紧张关系](https://www.zaobao.com/news/world/story20260717-9380879)
+Append: [泽连斯基：乌克兰重创俄军图-95战略轰炸机](https://www.zaobao.com/news/world/story20260717-9381839)
+Append: [美国缩短中国记者签证有效期 恐招中国反制](https://www.zaobao.com/news/world/story20260717-9381638)
+append_entries: 10
+Finish: 2026-07-17 16:57:18.184183
