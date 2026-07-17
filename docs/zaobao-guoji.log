@@ -9072,3 +9072,15 @@ Summarized using deepseek-v4-flash
 Append: [加拿大野火烟雾飘至美国 纽约出现橙黄色雾霾](https://www.zaobao.com/news/world/story20260717-9377291)
 append_entries: 4
 Finish: 2026-07-17 04:51:46.683264
+------------------------------------------------------
+Started: 2026-07-17 07:49:00.962773
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 622
+Summarized using deepseek-v4-flash
+Append: [朝中社批韩国参加美国主导海上军演 沦为“傀儡”](https://www.zaobao.com/news/world/story20260717-9378721)
+Token length: 362
+Summarized using deepseek-v4-flash
+Append: [乌克兰国家安全局代局长出任代国防部长](https://www.zaobao.com/news/world/story20260717-9378456)
+append_entries: 2
+Finish: 2026-07-17 07:49:10.252762
