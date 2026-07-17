@@ -9827,3 +9827,18 @@ Summarized using deepseek-v4-flash
 Append: [宋涛见洪秀柱 吁两岸青年做交流融合坚定促进者](https://www.zaobao.com/news/china/story20260717-9380482)
 append_entries: 4
 Finish: 2026-07-17 11:12:42.528831
+------------------------------------------------------
+Started: 2026-07-17 12:57:08.012558
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 947
+Summarized using deepseek-v4-flash
+Append: [习近平：通过中泰外长防长2+2对话机制推高战略协作](https://www.zaobao.com/news/china/story20260717-9381071)
+Token length: 302
+Summarized using deepseek-v4-flash
+Append: [涉售具煽动意图书籍 五被拘港人获保释候查](https://www.zaobao.com/news/china/story20260717-9381094)
+Token length: 302
+Summarized using deepseek-v4-flash
+Append: [中国国航及深航拟向空客购买55架飞机](https://www.zaobao.com/news/china/story20260717-9380902)
+append_entries: 3
+Finish: 2026-07-17 12:57:23.211045

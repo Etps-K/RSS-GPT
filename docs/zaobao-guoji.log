@@ -9122,3 +9122,18 @@ Summarized using deepseek-v4-flash
 Append: [美伊战事凸显空袭局限 空中优势未必换来战略胜利](https://www.zaobao.com/news/world/story20260717-9376004)
 append_entries: 3
 Finish: 2026-07-17 11:12:56.453032
+------------------------------------------------------
+Started: 2026-07-17 12:57:24.252935
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 577
+Summarized using deepseek-v4-flash
+Append: [联合战斗机项目停滞 德法举行关键防务会谈](https://www.zaobao.com/news/world/story20260717-9381263)
+Token length: 1403
+Summarized using deepseek-v4-flash
+Append: [特朗普重炒2020选举争议 指中国窃取2.2亿选民资料](https://www.zaobao.com/news/world/story20260717-9380323)
+Token length: 562
+Summarized using deepseek-v4-flash
+Append: [加拿大林火烟雾飘至纽约芝加哥等美国城市 空污达危险水平](https://www.zaobao.com/news/world/story20260717-9379626)
+append_entries: 3
+Finish: 2026-07-17 12:57:42.120557
