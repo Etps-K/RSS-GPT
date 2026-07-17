@@ -9883,3 +9883,9 @@ Summarized using deepseek-v4-flash
 Append: [世界人工智能大会规格提升 华为、月暗集中“秀肌肉”](https://www.zaobao.com/news/china/story20260717-9381853)
 append_entries: 4
 Finish: 2026-07-17 16:56:48.484559
+------------------------------------------------------
+Started: 2026-07-17 18:49:35.836374
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-17 18:49:36.121308
