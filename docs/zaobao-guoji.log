@@ -9084,3 +9084,26 @@ Summarized using deepseek-v4-flash
 Append: [乌克兰国家安全局代局长出任代国防部长](https://www.zaobao.com/news/world/story20260717-9378456)
 append_entries: 2
 Finish: 2026-07-17 07:49:10.252762
+------------------------------------------------------
+Started: 2026-07-17 09:44:06.730221
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 549
+Summarized using deepseek-v4-flash
+Append: [特朗普政府称将集中资源对付左翼恐怖分子](https://www.zaobao.com/news/world/story20260717-9379516)
+Token length: 364
+Summarized using deepseek-v4-flash
+Append: [印度首列氢动力列车启用 推进铁路运输脱碳](https://www.zaobao.com/news/world/story20260717-9380080)
+Token length: 1525
+Summarized using deepseek-v4-flash
+Append: [前线战况刚现转机 乌克兰防务高层决裂恐挫军心](https://www.zaobao.com/news/world/story20260717-9378509)
+Token length: 587
+Summarized using deepseek-v4-flash
+Append: [特朗普旗下社媒平台推出付费推送贴文服务](https://www.zaobao.com/news/world/story20260717-9379856)
+Token length: 301
+Summarized using deepseek-v4-flash
+Append: [强雷暴与冰雹袭法国多地 5.3万户家庭断电](https://www.zaobao.com/news/world/story20260717-9379854)
+Append: [英警方指控男子涉嫌协助与伊朗有关间谍活动](https://www.zaobao.com/news/world/story20260717-9379520)
+Append: [巴西外长：美国加征关税“毫无正当理由”](https://www.zaobao.com/news/world/story20260717-9379228)
+append_entries: 7
+Finish: 2026-07-17 09:44:33.441589
