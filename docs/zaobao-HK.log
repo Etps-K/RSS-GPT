@@ -9732,3 +9732,27 @@ Summarized using deepseek-v4-flash
 Append: [金正恩：朝中友好合作互助条约在保障地区和平发挥重大作用](https://www.zaobao.com/news/china/story20260717-9377022)
 append_entries: 3
 Finish: 2026-07-17 01:23:39.339138
+------------------------------------------------------
+Started: 2026-07-17 04:50:57.974807
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 808
+Summarized using deepseek-v4-flash
+Append: [中国电动车走向超大尺寸使道路养护财政承压](https://www.zaobao.com/news/china/story20260717-9377356)
+Token length: 824
+Summarized using deepseek-v4-flash
+Append: [中国车企小鹏考虑在德生产汽车 正评估当地工厂](https://www.zaobao.com/news/china/story20260717-9377411)
+Token length: 747
+Summarized using deepseek-v4-flash
+Append: [蒋万安就致癌油风波要求卓荣泰下台赖清德致歉](https://www.zaobao.com/news/china/story20260717-9377251)
+Token length: 733
+Summarized using deepseek-v4-flash
+Append: [中国商务部回应英钢被国有化：支持运用法律手段维权](https://www.zaobao.com/news/china/story20260717-9377452)
+Token length: 492
+Summarized using deepseek-v4-flash
+Append: [德官员吁欧盟提高中国汽车关税 以促中企与大众合作](https://www.zaobao.com/news/china/story20260717-9377312)
+Append: [中国牛肉进口设限 巴西出口产业链承压](https://www.zaobao.com/news/china/story20260717-9377201)
+Append: [中国官媒AI视频将菲人描绘成猴子 马尼拉斥种族主义要求下架](https://www.zaobao.com/news/china/story20260717-9377168)
+Append: [彭博：中国AI崛起赋予规则话语权 却也引发安全焦虑](https://www.zaobao.com/news/china/story20260717-9377105)
+append_entries: 8
+Finish: 2026-07-17 04:51:22.717222

@@ -9054,3 +9054,21 @@ Summarized using deepseek-v4-flash
 Append: [美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限](https://www.zaobao.com/news/world/story20260717-9376926)
 append_entries: 3
 Finish: 2026-07-17 01:23:55.040835
+------------------------------------------------------
+Started: 2026-07-17 04:51:23.604394
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 279
+Summarized using deepseek-v4-flash
+Append: [美军完成对伊朗新一轮打击 击中数十伊朗军事目标](https://www.zaobao.com/news/world/story20260717-9377922)
+Token length: 841
+Summarized using deepseek-v4-flash
+Append: [特朗普指中国干预2020美国大选 与情报部门结论矛盾](https://www.zaobao.com/news/world/story20260717-9377656)
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [旱情持续恶化 荷兰多地闹水荒](https://www.zaobao.com/news/world/story20260717-9377639)
+Token length: 920
+Summarized using deepseek-v4-flash
+Append: [加拿大野火烟雾飘至美国 纽约出现橙黄色雾霾](https://www.zaobao.com/news/world/story20260717-9377291)
+append_entries: 4
+Finish: 2026-07-17 04:51:46.683264
