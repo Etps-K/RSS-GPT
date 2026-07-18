@@ -10019,3 +10019,18 @@ Summarized using deepseek-v4-flash
 Append: [首届世界华语文学奖在港启动 总奖金400万港元](https://www.zaobao.com/news/china/story20260718-9384750)
 append_entries: 2
 Finish: 2026-07-18 12:44:12.523590
+------------------------------------------------------
+Started: 2026-07-18 14:42:48.960242
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1308
+Summarized using deepseek-v4-flash
+Append: [自媒体抢先官方预告官员落马 中国换届年整治内鬼“新型泄密”](https://www.zaobao.com/news/china/story20260718-9384942)
+Token length: 1213
+Summarized using deepseek-v4-flash
+Append: [美国终止部分对港制裁 但未恢复香港特殊经贸地位](https://www.zaobao.com/news/china/story20260718-9384414)
+Token length: 503
+Summarized using deepseek-v4-flash
+Append: [中国外交部：密切关注英钢国有化 必要时将采取维权措施](https://www.zaobao.com/news/china/story20260718-9384993)
+append_entries: 3
+Finish: 2026-07-18 14:43:02.167525

@@ -9275,3 +9275,18 @@ Summarized using deepseek-v4-flash
 Append: [伊朗报复美攻击 科威特第二座发电厂和水厂遇袭](https://www.zaobao.com/news/world/story20260718-9384788)
 append_entries: 1
 Finish: 2026-07-18 12:44:23.717218
+------------------------------------------------------
+Started: 2026-07-18 14:43:03.078692
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1392
+Summarized using deepseek-v4-flash
+Append: [美伊加码互攻火力 恢复全面战争风险升高](https://www.zaobao.com/news/world/story20260718-9384451)
+Token length: 533
+Summarized using deepseek-v4-flash
+Append: [德国安全警戒升至高威胁层级 防范攻击风险](https://www.zaobao.com/news/world/story20260718-9385007)
+Token length: 252
+Summarized using deepseek-v4-flash
+Append: [巴林：防空系统启动 挫败伊朗袭击](https://www.zaobao.com/news/world/story20260718-9384814)
+append_entries: 3
+Finish: 2026-07-18 14:43:17.346174
