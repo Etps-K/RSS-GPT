@@ -9266,3 +9266,12 @@ Append: [印度首枚自主研发轨道火箭成功升空](https://www.zaobao.co
 Append: [伊拉克总理访美 签署48协议](https://www.zaobao.com/news/world/story20260718-9384114)
 append_entries: 6
 Finish: 2026-07-18 10:54:59.430784
+------------------------------------------------------
+Started: 2026-07-18 12:44:13.584577
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 228
+Summarized using deepseek-v4-flash
+Append: [伊朗报复美攻击 科威特第二座发电厂和水厂遇袭](https://www.zaobao.com/news/world/story20260718-9384788)
+append_entries: 1
+Finish: 2026-07-18 12:44:23.717218
