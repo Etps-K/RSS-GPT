@@ -9305,3 +9305,9 @@ Summarized using deepseek-v4-flash
 Append: [特朗普指加拿大野火浓烟“入侵”美国 恫言加征关税](https://www.zaobao.com/news/world/story20260718-9384950)
 append_entries: 3
 Finish: 2026-07-18 16:41:49.050356
+------------------------------------------------------
+Started: 2026-07-18 18:42:22.661209
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-18 18:42:22.964219
