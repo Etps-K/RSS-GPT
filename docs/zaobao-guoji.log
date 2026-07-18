@@ -9244,3 +9244,25 @@ Summarized using deepseek-v4-flash
 Append: [德法拟制定对华路线图 应对日益扩大贸易失衡问题](https://www.zaobao.com/news/world/story20260718-9383848)
 append_entries: 2
 Finish: 2026-07-18 09:14:00.390196
+------------------------------------------------------
+Started: 2026-07-18 10:54:33.018280
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 354
+Summarized using deepseek-v4-flash
+Append: [朝鲜外长访问莫斯科 与俄外长会谈](https://www.zaobao.com/news/world/story20260718-9384512)
+Token length: 758
+Summarized using deepseek-v4-flash
+Append: [美联储高官本周接连警告高通胀风险暗示将支持升息](https://www.zaobao.com/news/world/story20260718-9383993)
+Token length: 553
+Summarized using deepseek-v4-flash
+Append: [美国驻意大使乘超级游艇抵威尼斯 遭数百人抗议](https://www.zaobao.com/news/world/story20260718-9383918)
+Token length: 605
+Summarized using deepseek-v4-flash
+Append: [乌军频袭原油设施 产油大国俄罗斯出现燃油荒](https://www.zaobao.com/news/world/story20260718-9384015)
+Token length: 538
+Summarized using deepseek-v4-flash
+Append: [印度首枚自主研发轨道火箭成功升空](https://www.zaobao.com/news/world/story20260718-9384265)
+Append: [伊拉克总理访美 签署48协议](https://www.zaobao.com/news/world/story20260718-9384114)
+append_entries: 6
+Finish: 2026-07-18 10:54:59.430784
