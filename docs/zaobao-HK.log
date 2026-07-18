@@ -10055,3 +10055,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-18 20:35:05.660483
+------------------------------------------------------
+Started: 2026-07-18 22:36:05.078747
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 258
+Summarized using deepseek-v4-flash
+Append: [中国特稿：游戏需求催生跨国代练产业 全球南方青年替中国玩家搬砖](https://www.zaobao.com/news/china/story20260719-9369371)
+append_entries: 1
+Finish: 2026-07-18 22:36:10.423270

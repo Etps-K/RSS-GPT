@@ -9317,3 +9317,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-18 20:35:06.692522
+------------------------------------------------------
+Started: 2026-07-18 22:36:11.452733
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 265
+Summarized using deepseek-v4-flash
+Append: [国际特稿：AI算力耗电力 数据中心跑遍世界找插座](https://www.zaobao.com/news/world/story20260719-9361201)
+append_entries: 1
+Finish: 2026-07-18 22:36:16.043355
