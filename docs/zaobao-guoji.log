@@ -9232,3 +9232,15 @@ Summarized using deepseek-v4-flash
 Append: [乌无人机袭俄物流中心七死24伤 另300多架飞向莫斯科](https://www.zaobao.com/news/world/story20260718-9383455)
 append_entries: 1
 Finish: 2026-07-18 07:23:31.103531
+------------------------------------------------------
+Started: 2026-07-18 09:13:52.684765
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 668
+Summarized using deepseek-v4-flash
+Append: [加拿大野火烟雾或波及世界杯决赛举办地](https://www.zaobao.com/news/world/story20260718-9383882)
+Token length: 541
+Summarized using deepseek-v4-flash
+Append: [德法拟制定对华路线图 应对日益扩大贸易失衡问题](https://www.zaobao.com/news/world/story20260718-9383848)
+append_entries: 2
+Finish: 2026-07-18 09:14:00.390196

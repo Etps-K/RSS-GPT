@@ -9961,3 +9961,24 @@ Summarized using deepseek-v4-flash
 Append: [港保安局长：书店有责任确保所售书籍不违法](https://www.zaobao.com/news/china/story20260718-9383225)
 append_entries: 2
 Finish: 2026-07-18 07:23:26.617779
+------------------------------------------------------
+Started: 2026-07-18 09:13:27.568170
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1108
+Summarized using deepseek-v4-flash
+Append: [浙江宣传发文谈官方通报四要素：人心通了 通报才能通](https://www.zaobao.com/news/china/story20260718-9383768)
+Token length: 702
+Summarized using deepseek-v4-flash
+Append: [中国官员驳斥中企蒸馏AI模型技术指控](https://www.zaobao.com/news/china/story20260718-9383931)
+Token length: 832
+Summarized using deepseek-v4-flash
+Append: [沃尔沃CEO反驳白宫高级顾问纳瓦罗对中国车企批评](https://www.zaobao.com/news/china/story20260718-9383729)
+Token length: 672
+Summarized using deepseek-v4-flash
+Append: [中国证实捷克众议长下周访华](https://www.zaobao.com/news/china/story20260718-9383818)
+Token length: 455
+Summarized using deepseek-v4-flash
+Append: [中国期望印尼就矿产资源提供公平稳定透明政策环境](https://www.zaobao.com/news/china/story20260718-9383632)
+append_entries: 5
+Finish: 2026-07-18 09:13:51.774192
