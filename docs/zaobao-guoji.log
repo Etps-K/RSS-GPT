@@ -9199,3 +9199,27 @@ Summarized using deepseek-v4-flash
 Append: [美伊袭击目标扩大至民用基础设施 引发局势升级担忧](https://www.zaobao.com/news/world/story20260718-9382596)
 append_entries: 2
 Finish: 2026-07-18 01:15:28.600744
+------------------------------------------------------
+Started: 2026-07-18 04:36:41.542790
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 237
+Summarized using deepseek-v4-flash
+Append: [约旦军方击落10枚伊朗导弹 未造成伤亡或财产损失](https://www.zaobao.com/news/world/story20260718-9383235)
+Token length: 384
+Summarized using deepseek-v4-flash
+Append: [美国军方完成对伊朗第七晚空袭](https://www.zaobao.com/news/world/story20260718-9383167)
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [默茨：德国将首次派常规部队参与法国核演习](https://www.zaobao.com/news/world/story20260718-9382550)
+Token length: 193
+Summarized using deepseek-v4-flash
+Append: [伊朗军方称打击科威特和约旦境内美军设施](https://www.zaobao.com/news/world/story20260718-9382958)
+Token length: 615
+Summarized using deepseek-v4-flash
+Append: [美媒：美国要向以色列增派数十架加油飞机](https://www.zaobao.com/news/world/story20260718-9382547)
+Append: [美军：伊朗称两艘油轮触雷爆炸说法不实](https://www.zaobao.com/news/world/story20260718-9382713)
+Append: [挪威发生大火烧毁逾100栋房屋](https://www.zaobao.com/news/world/story20260718-9382705)
+Append: [伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火](https://www.zaobao.com/news/world/story20260718-9382676)
+append_entries: 8
+Finish: 2026-07-18 04:36:58.402652
