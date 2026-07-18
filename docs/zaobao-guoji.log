@@ -9290,3 +9290,18 @@ Summarized using deepseek-v4-flash
 Append: [巴林：防空系统启动 挫败伊朗袭击](https://www.zaobao.com/news/world/story20260718-9384814)
 append_entries: 3
 Finish: 2026-07-18 14:43:17.346174
+------------------------------------------------------
+Started: 2026-07-18 16:41:30.724257
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [纽约将降暴雨 世界杯决赛前烟霾有望缓解](https://www.zaobao.com/news/world/story20260718-9385268)
+Token length: 308
+Summarized using deepseek-v4-flash
+Append: [巴黎6月热浪致死近3000人 死亡率倍增](https://www.zaobao.com/news/world/story20260718-9385227)
+Token length: 1062
+Summarized using deepseek-v4-flash
+Append: [特朗普指加拿大野火浓烟“入侵”美国 恫言加征关税](https://www.zaobao.com/news/world/story20260718-9384950)
+append_entries: 3
+Finish: 2026-07-18 16:41:49.050356

@@ -10034,3 +10034,12 @@ Summarized using deepseek-v4-flash
 Append: [中国外交部：密切关注英钢国有化 必要时将采取维权措施](https://www.zaobao.com/news/china/story20260718-9384993)
 append_entries: 3
 Finish: 2026-07-18 14:43:02.167525
+------------------------------------------------------
+Started: 2026-07-18 16:41:22.597761
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1106
+Summarized using deepseek-v4-flash
+Append: [重庆彭水山体崩塌搜救困难 周围山体仍存坍塌风险](https://www.zaobao.com/news/china/story20260718-9385098)
+append_entries: 1
+Finish: 2026-07-18 16:41:29.694660
