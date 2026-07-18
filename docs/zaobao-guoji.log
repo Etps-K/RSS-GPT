@@ -9187,3 +9187,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-17 22:36:25.443483
+------------------------------------------------------
+Started: 2026-07-18 01:15:20.741861
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 545
+Summarized using deepseek-v4-flash
+Append: [特朗普扬言就野火烟雾追加加拿大关税](https://www.zaobao.com/news/world/story20260718-9382628)
+Token length: 842
+Summarized using deepseek-v4-flash
+Append: [美伊袭击目标扩大至民用基础设施 引发局势升级担忧](https://www.zaobao.com/news/world/story20260718-9382596)
+append_entries: 2
+Finish: 2026-07-18 01:15:28.600744

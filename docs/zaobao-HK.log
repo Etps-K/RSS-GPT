@@ -9907,3 +9907,15 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：当匈牙利前外长变身比亚迪高管](https://www.zaobao.com/news/china/story20260718-9373165)
 append_entries: 2
 Finish: 2026-07-17 22:36:24.778692
+------------------------------------------------------
+Started: 2026-07-18 01:15:11.989064
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 333
+Summarized using deepseek-v4-flash
+Append: [山西涉重大刑案被警方公告悬赏男子已抓获](https://www.zaobao.com/news/china/story20260718-9382627)
+Token length: 465
+Summarized using deepseek-v4-flash
+Append: [重庆彭水山体崩塌 台陆委会表达慰问](https://www.zaobao.com/news/china/story20260718-9382621)
+append_entries: 2
+Finish: 2026-07-18 01:15:19.839591
