@@ -9949,3 +9949,15 @@ Append: [巴新关闭台北经济办事处 美国深表关切](https://www.zaoba
 Append: [王沪宁结束朝鲜之行前参观元山葛麻海岸旅游区](https://www.zaobao.com/news/china/story20260718-9382684)
 append_entries: 14
 Finish: 2026-07-18 04:36:40.516882
+------------------------------------------------------
+Started: 2026-07-18 07:23:16.456390
+Existing_entries: 1014
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [台湾8月起停止对柬埔寨公民免签](https://www.zaobao.com/news/china/story20260718-9383376)
+Token length: 567
+Summarized using deepseek-v4-flash
+Append: [港保安局长：书店有责任确保所售书籍不违法](https://www.zaobao.com/news/china/story20260718-9383225)
+append_entries: 2
+Finish: 2026-07-18 07:23:26.617779

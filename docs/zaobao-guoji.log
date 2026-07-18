@@ -9223,3 +9223,12 @@ Append: [挪威发生大火烧毁逾100栋房屋](https://www.zaobao.com/news/wo
 Append: [伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火](https://www.zaobao.com/news/world/story20260718-9382676)
 append_entries: 8
 Finish: 2026-07-18 04:36:58.402652
+------------------------------------------------------
+Started: 2026-07-18 07:23:27.647909
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 340
+Summarized using deepseek-v4-flash
+Append: [乌无人机袭俄物流中心七死24伤 另300多架飞向莫斯科](https://www.zaobao.com/news/world/story20260718-9383455)
+append_entries: 1
+Finish: 2026-07-18 07:23:31.103531
