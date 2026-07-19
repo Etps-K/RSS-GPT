@@ -9362,3 +9362,18 @@ Summarized using deepseek-v4-flash
 Append: [Meta或向Anthropic出租算力 寻求变现巨额AI投资](https://www.zaobao.com/news/world/story20260719-9385765)
 append_entries: 4
 Finish: 2026-07-19 04:58:45.626717
+------------------------------------------------------
+Started: 2026-07-19 07:54:45.491571
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1088
+Summarized using deepseek-v4-flash
+Append: [客户离不开又想摆脱 英伟达AI霸主地位受考验](https://www.zaobao.com/news/world/story20260719-9386527)
+Token length: 554
+Summarized using deepseek-v4-flash
+Append: [生菜疑受寄生虫污染 美国多州扩大召回](https://www.zaobao.com/news/world/story20260719-9385859)
+Token length: 749
+Summarized using deepseek-v4-flash
+Append: [美国幼儿溺亡回升 专家：溺水往往悄无声息](https://www.zaobao.com/news/world/story20260719-9386317)
+append_entries: 3
+Finish: 2026-07-19 07:54:57.327176
