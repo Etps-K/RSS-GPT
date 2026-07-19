@@ -9344,3 +9344,21 @@ Summarized using deepseek-v4-flash
 Append: [美军对伊朗发动新一轮空袭 约旦基地遇袭两美军死亡](https://www.zaobao.com/news/world/story20260719-9385583)
 append_entries: 4
 Finish: 2026-07-19 01:21:27.849115
+------------------------------------------------------
+Started: 2026-07-19 04:58:28.045938
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 614
+Summarized using deepseek-v4-flash
+Append: [匈牙利新政府修宪撤换总统 舒尤克提前卸任](https://www.zaobao.com/news/world/story20260719-9385717)
+Token length: 852
+Summarized using deepseek-v4-flash
+Append: [太阳下山后还能买白昼？美企拟用卫星照亮大地](https://www.zaobao.com/news/world/story20260719-9386070)
+Token length: 190
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡战略要地格什姆岛遭袭](https://www.zaobao.com/news/world/story20260719-9385837)
+Token length: 668
+Summarized using deepseek-v4-flash
+Append: [Meta或向Anthropic出租算力 寻求变现巨额AI投资](https://www.zaobao.com/news/world/story20260719-9385765)
+append_entries: 4
+Finish: 2026-07-19 04:58:45.626717
