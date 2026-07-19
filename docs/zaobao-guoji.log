@@ -9452,3 +9452,12 @@ Summarized using deepseek-v4-flash
 Append: [日本防长大胆倡议推翻“无核”政策 报道：可能为“引进”开绿灯](https://www.zaobao.com/news/world/story20260719-9387985)
 append_entries: 3
 Finish: 2026-07-19 16:41:56.561254
+------------------------------------------------------
+Started: 2026-07-19 18:45:01.851212
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 393
+Summarized using deepseek-v4-flash
+Append: [国际原子能机构呼吁在核电站附近保持军事克制](https://www.zaobao.com/news/world/story20260720-9388325)
+append_entries: 1
+Finish: 2026-07-19 18:45:06.893437

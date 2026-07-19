@@ -10189,3 +10189,9 @@ Summarized using deepseek-v4-flash
 Append: [民进党中常委改选 赖清德党内权力基础愈加巩固](https://www.zaobao.com/news/china/story20260719-9388105)
 append_entries: 3
 Finish: 2026-07-19 16:41:39.405136
+------------------------------------------------------
+Started: 2026-07-19 18:45:00.611311
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-19 18:45:00.816922
