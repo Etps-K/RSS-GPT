@@ -9377,3 +9377,21 @@ Summarized using deepseek-v4-flash
 Append: [美国幼儿溺亡回升 专家：溺水往往悄无声息](https://www.zaobao.com/news/world/story20260719-9386317)
 append_entries: 3
 Finish: 2026-07-19 07:54:57.327176
+------------------------------------------------------
+Started: 2026-07-19 09:42:04.142272
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 415
+Summarized using deepseek-v4-flash
+Append: [一只猫咪在委内瑞拉地震废墟中获救 带来“希望”](https://www.zaobao.com/news/world/story20260719-9387227)
+Token length: 580
+Summarized using deepseek-v4-flash
+Append: [纽约暴雨洪灾接踵而至 加拿大野火蔓延多地空气质量恶化](https://www.zaobao.com/news/world/story20260719-9387046)
+Token length: 450
+Summarized using deepseek-v4-flash
+Append: [俄军对乌克兰发动规模最大的单次弹道导弹袭击](https://www.zaobao.com/news/world/story20260719-9387054)
+Token length: 862
+Summarized using deepseek-v4-flash
+Append: [天文学家首次在星际空间发现糖](https://www.zaobao.com/news/world/story20260719-9385829)
+append_entries: 4
+Finish: 2026-07-19 09:42:24.368017
