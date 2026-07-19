@@ -9422,3 +9422,18 @@ Summarized using deepseek-v4-flash
 Append: [英国将放弃数码身份证计划 优先考虑民生问题](https://www.zaobao.com/news/world/story20260719-9387681)
 append_entries: 2
 Finish: 2026-07-19 12:46:07.245071
+------------------------------------------------------
+Started: 2026-07-19 14:44:57.844167
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1086
+Summarized using deepseek-v4-flash
+Append: [两名美军在约旦遇袭身亡 美国连续第八天打击伊朗](https://www.zaobao.com/news/world/story20260719-9387963)
+Token length: 428
+Summarized using deepseek-v4-flash
+Append: [伊朗导弹袭约旦城市 以色列约旦联手拦截](https://www.zaobao.com/news/world/story20260719-9388047)
+Token length: 899
+Summarized using deepseek-v4-flash
+Append: [俄军向基辅发射41枚导弹 乌称为战争以来最大规模弹道导弹袭击](https://www.zaobao.com/news/world/story20260719-9387861)
+append_entries: 3
+Finish: 2026-07-19 14:45:08.842102

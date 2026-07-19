@@ -10168,3 +10168,9 @@ Summarized using deepseek-v4-flash
 Append: [中国航司半年订购超400架空客飞机](https://www.zaobao.com/news/china/story20260719-9386901)
 append_entries: 2
 Finish: 2026-07-19 12:45:56.438206
+------------------------------------------------------
+Started: 2026-07-19 14:44:56.662012
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-19 14:44:56.794383
