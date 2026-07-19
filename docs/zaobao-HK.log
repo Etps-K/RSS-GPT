@@ -10174,3 +10174,18 @@ Existing_entries: 1002
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-19 14:44:56.794383
+------------------------------------------------------
+Started: 2026-07-19 16:41:21.459058
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1261
+Summarized using deepseek-v4-flash
+Append: [英国国有化中资英钢 中英关系面临新挑战](https://www.zaobao.com/news/china/story20260720-9388137)
+Token length: 1303
+Summarized using deepseek-v4-flash
+Append: [LV密集诉讼与中企商标纠纷升温 中国舆论忧国际品牌维权越界](https://www.zaobao.com/news/china/story20260719-9388153)
+Token length: 1241
+Summarized using deepseek-v4-flash
+Append: [民进党中常委改选 赖清德党内权力基础愈加巩固](https://www.zaobao.com/news/china/story20260719-9388105)
+append_entries: 3
+Finish: 2026-07-19 16:41:39.405136

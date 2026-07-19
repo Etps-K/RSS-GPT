@@ -9437,3 +9437,18 @@ Summarized using deepseek-v4-flash
 Append: [俄军向基辅发射41枚导弹 乌称为战争以来最大规模弹道导弹袭击](https://www.zaobao.com/news/world/story20260719-9387861)
 append_entries: 3
 Finish: 2026-07-19 14:45:08.842102
+------------------------------------------------------
+Started: 2026-07-19 16:41:40.445258
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 391
+Summarized using deepseek-v4-flash
+Append: [鲁比奥与黎巴嫩总统在华盛顿举行会谈](https://www.zaobao.com/news/world/story20260720-9388252)
+Token length: 400
+Summarized using deepseek-v4-flash
+Append: [印度洪水和山体滑坡造成至少19人死亡](https://www.zaobao.com/news/world/story20260719-9388192)
+Token length: 1024
+Summarized using deepseek-v4-flash
+Append: [日本防长大胆倡议推翻“无核”政策 报道：可能为“引进”开绿灯](https://www.zaobao.com/news/world/story20260719-9387985)
+append_entries: 3
+Finish: 2026-07-19 16:41:56.561254
