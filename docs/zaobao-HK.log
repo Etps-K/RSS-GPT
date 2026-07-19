@@ -10064,3 +10064,18 @@ Summarized using deepseek-v4-flash
 Append: [中国特稿：游戏需求催生跨国代练产业 全球南方青年替中国玩家搬砖](https://www.zaobao.com/news/china/story20260719-9369371)
 append_entries: 1
 Finish: 2026-07-18 22:36:10.423270
+------------------------------------------------------
+Started: 2026-07-19 01:20:54.607034
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 942
+Summarized using deepseek-v4-flash
+Append: [中国卡车涌入增加墨西哥豁免美国关税难度](https://www.zaobao.com/news/china/story20260719-9385720)
+Token length: 654
+Summarized using deepseek-v4-flash
+Append: [中国民企计划建设千星万P级太空算力星座](https://www.zaobao.com/news/china/story20260719-9385615)
+Token length: 577
+Summarized using deepseek-v4-flash
+Append: [中国自然资源系统120余名专家现场处置重庆山体崩塌](https://www.zaobao.com/news/china/story20260719-9385599)
+append_entries: 3
+Finish: 2026-07-19 01:21:11.597608
