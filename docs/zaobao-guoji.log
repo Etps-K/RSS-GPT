@@ -9395,3 +9395,18 @@ Summarized using deepseek-v4-flash
 Append: [天文学家首次在星际空间发现糖](https://www.zaobao.com/news/world/story20260719-9385829)
 append_entries: 4
 Finish: 2026-07-19 09:42:24.368017
+------------------------------------------------------
+Started: 2026-07-19 11:02:02.012721
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 940
+Summarized using deepseek-v4-flash
+Append: [称与美国达成协议是投降 伊朗强硬派指领导层发动政变](https://www.zaobao.com/news/world/story20260719-9387239)
+Token length: 1078
+Summarized using deepseek-v4-flash
+Append: [美伊冲突凸显中东海底光缆脆弱性 全球三成数据流量恐受影响](https://www.zaobao.com/news/world/story20260719-9387191)
+Token length: 612
+Summarized using deepseek-v4-flash
+Append: [反对大举兴建数据中心 全美42州爆发百多场抗议活动](https://www.zaobao.com/news/world/story20260719-9387232)
+append_entries: 3
+Finish: 2026-07-19 11:02:21.660234
