@@ -10156,3 +10156,15 @@ Summarized using deepseek-v4-flash
 Append: [王毅：中国印尼合作不针对第三方 也不应受第三方干扰](https://www.zaobao.com/news/china/story20260719-9386809)
 append_entries: 1
 Finish: 2026-07-19 11:02:00.982079
+------------------------------------------------------
+Started: 2026-07-19 12:45:45.305790
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1914
+Summarized using deepseek-v4-flash
+Append: [特稿：乡村“赶场”文化进入城市 超市撤退潮后的消费重构](https://www.zaobao.com/news/china/story20260719-9138046)
+Token length: 330
+Summarized using deepseek-v4-flash
+Append: [中国航司半年订购超400架空客飞机](https://www.zaobao.com/news/china/story20260719-9386901)
+append_entries: 2
+Finish: 2026-07-19 12:45:56.438206

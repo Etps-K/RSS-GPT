@@ -9410,3 +9410,15 @@ Summarized using deepseek-v4-flash
 Append: [反对大举兴建数据中心 全美42州爆发百多场抗议活动](https://www.zaobao.com/news/world/story20260719-9387232)
 append_entries: 3
 Finish: 2026-07-19 11:02:21.660234
+------------------------------------------------------
+Started: 2026-07-19 12:45:57.468911
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 445
+Summarized using deepseek-v4-flash
+Append: [巴林科威特拦截伊朗空袭 海湾地区威胁不断](https://www.zaobao.com/news/world/story20260719-9387693)
+Token length: 517
+Summarized using deepseek-v4-flash
+Append: [英国将放弃数码身份证计划 优先考虑民生问题](https://www.zaobao.com/news/world/story20260719-9387681)
+append_entries: 2
+Finish: 2026-07-19 12:46:07.245071
