@@ -9461,3 +9461,12 @@ Summarized using deepseek-v4-flash
 Append: [国际原子能机构呼吁在核电站附近保持军事克制](https://www.zaobao.com/news/world/story20260720-9388325)
 append_entries: 1
 Finish: 2026-07-19 18:45:06.893437
+------------------------------------------------------
+Started: 2026-07-19 20:35:46.173312
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 380
+Summarized using deepseek-v4-flash
+Append: [以色列：将接收更多美国加油机 应对伊朗袭击](https://www.zaobao.com/news/world/story20260720-9388434)
+append_entries: 1
+Finish: 2026-07-19 20:35:49.922541
