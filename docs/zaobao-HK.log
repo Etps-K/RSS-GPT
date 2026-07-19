@@ -10201,3 +10201,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-19 20:35:45.159954
+------------------------------------------------------
+Started: 2026-07-19 22:39:10.896207
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 282
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：中美争夺AI时代全球影响力](https://www.zaobao.com/news/china/story20260720-9387948)
+append_entries: 1
+Finish: 2026-07-19 22:39:17.690708
