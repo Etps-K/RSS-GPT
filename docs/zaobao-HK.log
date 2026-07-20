@@ -10345,3 +10345,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-20 20:57:50.059440
+------------------------------------------------------
+Started: 2026-07-20 22:43:49.476862
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 265
+Summarized using deepseek-v4-flash
+Append: [庄慧良： 今晚，用什么油？](https://www.zaobao.com/news/china/story20260721-9393904)
+append_entries: 1
+Finish: 2026-07-20 22:43:53.696376
