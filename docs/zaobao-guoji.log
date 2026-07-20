@@ -9603,3 +9603,9 @@ Summarized using deepseek-v4-flash
 Append: [白宫：特朗普与英国新任首相进行了通话](https://www.zaobao.com/news/world/story20260720-9394087)
 append_entries: 1
 Finish: 2026-07-20 17:14:53.685126
+------------------------------------------------------
+Started: 2026-07-20 19:20:48.309485
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-20 19:20:48.420342
