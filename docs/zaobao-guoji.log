@@ -9519,3 +9519,30 @@ Append: [特朗普：美国将“狠打”伊朗以祭阵亡美军](https://www.
 Append: [一艘船在阿曼附近海域起火](https://www.zaobao.com/news/world/story20260720-9389286)
 append_entries: 6
 Finish: 2026-07-20 05:27:27.040792
+------------------------------------------------------
+Started: 2026-07-20 08:34:05.434566
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 986
+Summarized using deepseek-v4-flash
+Append: [冲突重燃威胁经济 伊朗货币汇率暴跌](https://www.zaobao.com/news/world/story20260720-9391636)
+Token length: 469
+Summarized using deepseek-v4-flash
+Append: [涉尹锡悦夫妇弊案综合独检延长调查被提上国会议程](https://www.zaobao.com/news/world/story20260720-9391235)
+Token length: 634
+Summarized using deepseek-v4-flash
+Append: [秘鲁中部发生5.1级地震 至少5死32伤](https://www.zaobao.com/news/world/story20260720-9390835)
+Token length: 813
+Summarized using deepseek-v4-flash
+Append: [汗液也能发电 各国探索另类电池与储能技术](https://www.zaobao.com/news/world/story20260720-9390370)
+Token length: 317
+Summarized using deepseek-v4-flash
+Append: [美国亚利桑那发生大规模枪击 九人受伤](https://www.zaobao.com/news/world/story20260720-9390809)
+Append: [特朗普：已促加拿大总理要更好地控制林火](https://www.zaobao.com/news/world/story20260720-9390648)
+Append: [AI投资热下裁员不断 谷歌员工联署保饭碗](https://www.zaobao.com/news/world/story20260720-9390400)
+Append: [伊朗西部发生5.2级地震](https://www.zaobao.com/news/world/story20260720-9390340)
+Append: [美军称完成对伊朗新一轮打击行动](https://www.zaobao.com/news/world/story20260720-9390274)
+Append: [牙齿也能“再生”？干细胞技术打开治疗新方向](https://www.zaobao.com/news/world/story20260720-9389705)
+Append: [伊朗革命卫队：两艘油轮在霍尔木兹海峡发生爆炸](https://www.zaobao.com/news/world/story20260720-9390168)
+append_entries: 11
+Finish: 2026-07-20 08:34:28.901207

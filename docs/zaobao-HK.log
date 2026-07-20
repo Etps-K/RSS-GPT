@@ -10251,3 +10251,27 @@ Append: [台积电财务长：应客户强劲需求增加在美投资](https://w
 Append: [日游戏商在京开店 日媒：日中关系转冷不影响日本IP人气](https://www.zaobao.com/news/china/story20260720-9389190)
 append_entries: 10
 Finish: 2026-07-20 05:26:48.981685
+------------------------------------------------------
+Started: 2026-07-20 08:33:45.041567
+Existing_entries: 1010
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 470
+Summarized using deepseek-v4-flash
+Append: [中国水利部：广西东部部分地区发生山洪灾害可能性大](https://www.zaobao.com/news/china/story20260720-9390894)
+Token length: 556
+Summarized using deepseek-v4-flash
+Append: [台湾将首次模拟断网演训科目](https://www.zaobao.com/news/china/story20260720-9390748)
+Token length: 370
+Summarized using deepseek-v4-flash
+Append: [富士康母公司鸿海拿下SpaceX订单 规模达520亿美元](https://www.zaobao.com/news/china/story20260720-9390183)
+Token length: 302
+Summarized using deepseek-v4-flash
+Append: [重庆彭水山体崩塌孤石爆破 进入深度救援](https://www.zaobao.com/news/china/story20260720-9390629)
+Token length: 582
+Summarized using deepseek-v4-flash
+Append: [【视频】中国首个模拟自然灾害体验项目 为台风做好准备](https://www.zaobao.com/news/china/story20260720-9389958)
+Append: [美国资管机构KKR和AEW据悉大幅折价出售中国商业房产](https://www.zaobao.com/news/china/story20260720-9390063)
+Append: [中国公安部：78人因参与世杯非法赌球活动被抓](https://www.zaobao.com/news/china/story20260720-9390211)
+Append: [中越联合执法 将涉破坏电脑信息系统案中国首犯押解回国](https://www.zaobao.com/news/china/story20260720-9390075)
+append_entries: 8
+Finish: 2026-07-20 08:34:04.397988
