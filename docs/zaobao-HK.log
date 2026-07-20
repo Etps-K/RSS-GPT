@@ -10210,3 +10210,18 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：中美争夺AI时代全球影响力](https://www.zaobao.com/news/china/story20260720-9387948)
 append_entries: 1
 Finish: 2026-07-19 22:39:17.690708
+------------------------------------------------------
+Started: 2026-07-20 01:24:30.996161
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 455
+Summarized using deepseek-v4-flash
+Append: [月之暗面暂停新用户订阅：面临始料未及的算力挑战](https://www.zaobao.com/news/china/story20260720-9389080)
+Token length: 824
+Summarized using deepseek-v4-flash
+Append: [李希赴重庆调研：持续防范和纠治政绩观偏差突出问题](https://www.zaobao.com/news/china/story20260720-9388981)
+Token length: 93
+Summarized using deepseek-v4-flash
+Append: [中国证监会今会就稳市场召开专题座谈会](https://www.zaobao.com/news/china/story20260720-9388865)
+append_entries: 3
+Finish: 2026-07-20 01:24:43.210555

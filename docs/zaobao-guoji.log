@@ -9479,3 +9479,21 @@ Summarized using deepseek-v4-flash
 Append: [姜贵瑛：中朝关系升温背后 图们江15公里的战略交易？](https://www.zaobao.com/news/world/story20260720-9381957)
 append_entries: 1
 Finish: 2026-07-19 22:39:23.725907
+------------------------------------------------------
+Started: 2026-07-20 01:24:44.237880
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 289
+Summarized using deepseek-v4-flash
+Append: [美军连续第九晚对伊朗发动空袭](https://www.zaobao.com/news/world/story20260720-9389164)
+Token length: 647
+Summarized using deepseek-v4-flash
+Append: [乌克兰指责俄罗斯对土耳其货船发动致命袭击](https://www.zaobao.com/news/world/story20260720-9389102)
+Token length: 348
+Summarized using deepseek-v4-flash
+Append: [以军总参谋长：做好对伊朗恢复战斗准备](https://www.zaobao.com/news/world/story20260720-9388793)
+Token length: 501
+Summarized using deepseek-v4-flash
+Append: [美国又一名士兵丧命 驻约旦美军死亡人数或将上升](https://www.zaobao.com/news/world/story20260720-9388742)
+append_entries: 4
+Finish: 2026-07-20 01:25:07.532143
