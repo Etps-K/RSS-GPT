@@ -6544,3 +6544,9 @@ Summarized using deepseek-v4-flash
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/112543)
 append_entries: 1
 Finish: 2026-07-20 12:07:14.312324
+------------------------------------------------------
+Started: 2026-07-20 15:42:38.612206
+Existing_entries: 349
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-07-20 15:42:39.649669

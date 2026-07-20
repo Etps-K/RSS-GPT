@@ -10306,3 +10306,18 @@ Append: [李开复创立的AI初创企业零一万物拟明年赴港上市](http
 Append: [泰首相访四川用中文说“加油中国，加油好朋友”](https://www.zaobao.com/news/china/story20260720-9390901)
 append_entries: 15
 Finish: 2026-07-20 12:07:40.242778
+------------------------------------------------------
+Started: 2026-07-20 15:42:40.576497
+Existing_entries: 1015
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 244
+Summarized using deepseek-v4-flash
+Append: [下午察：重庆新任公安局长呼之欲出](https://www.zaobao.com/news/china/story20260720-9392554)
+Token length: 422
+Summarized using deepseek-v4-flash
+Append: [中国集成电路上半年出口额同比增88.7%](https://www.zaobao.com/news/china/story20260720-9392825)
+Token length: 494
+Summarized using deepseek-v4-flash
+Append: [菲指海军人员被击伤 中国海警：颠倒黑白反诬中方](https://www.zaobao.com/news/china/story20260720-9393067)
+append_entries: 3
+Finish: 2026-07-20 15:42:52.572491
