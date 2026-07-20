@@ -10321,3 +10321,15 @@ Summarized using deepseek-v4-flash
 Append: [菲指海军人员被击伤 中国海警：颠倒黑白反诬中方](https://www.zaobao.com/news/china/story20260720-9393067)
 append_entries: 3
 Finish: 2026-07-20 15:42:52.572491
+------------------------------------------------------
+Started: 2026-07-20 17:14:40.483394
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1402
+Summarized using deepseek-v4-flash
+Append: [中菲外长料两年来首会晤 南中国海再爆对峙](https://www.zaobao.com/news/china/story20260720-9393925)
+Token length: 410
+Summarized using deepseek-v4-flash
+Append: [泰国首相阿努廷午宴上献唱《甜蜜蜜》李强鼓掌应和](https://www.zaobao.com/news/china/story20260721-9394122)
+append_entries: 2
+Finish: 2026-07-20 17:14:48.685571
