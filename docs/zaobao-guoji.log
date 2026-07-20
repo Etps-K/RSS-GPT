@@ -9497,3 +9497,25 @@ Summarized using deepseek-v4-flash
 Append: [美国又一名士兵丧命 驻约旦美军死亡人数或将上升](https://www.zaobao.com/news/world/story20260720-9388742)
 append_entries: 4
 Finish: 2026-07-20 01:25:07.532143
+------------------------------------------------------
+Started: 2026-07-20 05:26:50.010264
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 379
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称打击约旦机场美军飞机](https://www.zaobao.com/news/world/story20260720-9389906)
+Token length: 889
+Summarized using deepseek-v4-flash
+Append: [全球动荡下寻觅宜居城市 欧洲澳洲城市占前列](https://www.zaobao.com/news/world/story20260720-9389899)
+Token length: 222
+Summarized using deepseek-v4-flash
+Append: [普京会见朝鲜外长 对朝助俄军事行动再次表示感谢](https://www.zaobao.com/news/world/story20260720-9389668)
+Token length: 400
+Summarized using deepseek-v4-flash
+Append: [英格兰拟禁止16岁以下孩童购买高咖啡因能量饮品](https://www.zaobao.com/news/world/story20260720-9385789)
+Token length: 379
+Summarized using deepseek-v4-flash
+Append: [特朗普：美国将“狠打”伊朗以祭阵亡美军](https://www.zaobao.com/news/world/story20260720-9389466)
+Append: [一艘船在阿曼附近海域起火](https://www.zaobao.com/news/world/story20260720-9389286)
+append_entries: 6
+Finish: 2026-07-20 05:27:27.040792

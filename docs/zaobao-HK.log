@@ -10225,3 +10225,29 @@ Summarized using deepseek-v4-flash
 Append: [中国证监会今会就稳市场召开专题座谈会](https://www.zaobao.com/news/china/story20260720-9388865)
 append_entries: 3
 Finish: 2026-07-20 01:24:43.210555
+------------------------------------------------------
+Started: 2026-07-20 05:26:26.235016
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 740
+Summarized using deepseek-v4-flash
+Append: [受短暂暴雨侵袭 上海部分老旧小区淹水](https://www.zaobao.com/news/china/story20260720-9389970)
+Token length: 233
+Summarized using deepseek-v4-flash
+Append: [中国A股反弹回到3800点以上](https://www.zaobao.com/news/china/story20260720-9389824)
+Token length: 423
+Summarized using deepseek-v4-flash
+Append: [鲁比奥：习近平9月访美行仍在推进](https://www.zaobao.com/news/china/story20260720-9389781)
+Token length: 898
+Summarized using deepseek-v4-flash
+Append: [国民党批赖清德全代会三原则说：美化人民痛苦](https://www.zaobao.com/news/china/story20260720-9389628)
+Token length: 186
+Summarized using deepseek-v4-flash
+Append: [鲁比奥称对在菲律宾与王毅会面持开放态度](https://www.zaobao.com/news/china/story20260720-9389540)
+Append: [中国东海部分海域将进行火箭发射](https://www.zaobao.com/news/china/story20260720-9389386)
+Append: [陈茂波：香港今年内推出优化版数码转型支援先导计划](https://www.zaobao.com/news/china/story20260720-9389368)
+Append: [中国“国家队”大额增持中国股票资产](https://www.zaobao.com/news/china/story20260720-9389237)
+Append: [台积电财务长：应客户强劲需求增加在美投资](https://www.zaobao.com/news/china/story20260720-9389189)
+Append: [日游戏商在京开店 日媒：日中关系转冷不影响日本IP人气](https://www.zaobao.com/news/china/story20260720-9389190)
+append_entries: 10
+Finish: 2026-07-20 05:26:48.981685
