@@ -6583,3 +6583,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等](https://sspai.com/post/112565)
 append_entries: 1
 Finish: 2026-07-21 01:20:55.507458
+------------------------------------------------------
+Started: 2026-07-21 04:55:48.828845
+Existing_entries: 350
+Fetching from https://sspai.com/feed
+Token length: 66
+Summarized using deepseek-v4-flash
+Append: [App+1 | 把「从长视频截取片段」做到极致：Trimly](https://sspai.com/post/111569)
+append_entries: 1
+Finish: 2026-07-21 04:56:00.103311

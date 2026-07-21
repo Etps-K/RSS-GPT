@@ -9636,3 +9636,25 @@ Summarized using deepseek-v4-flash
 Append: [美国宣布对加拿大部分产品加征50%关税](https://www.zaobao.com/news/world/story20260721-9394424)
 append_entries: 3
 Finish: 2026-07-21 01:21:32.833735
+------------------------------------------------------
+Started: 2026-07-21 04:56:21.370669
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 914
+Summarized using deepseek-v4-flash
+Append: [欧盟出手重塑手机AI市场 谷歌苹果以隐私风险反对](https://www.zaobao.com/news/world/story20260721-9390975)
+Token length: 730
+Summarized using deepseek-v4-flash
+Append: [五角大楼追加拨款遭党内质疑 “必须把理由说清楚”](https://www.zaobao.com/news/world/story20260721-9395203)
+Token length: 202
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火](https://www.zaobao.com/news/world/story20260721-9395146)
+Token length: 696
+Summarized using deepseek-v4-flash
+Append: [晶片股反弹带动亚股止跌 市场聚焦科技巨头财报](https://www.zaobao.com/news/world/story20260721-9395028)
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [伯纳姆邀请乌克兰总统泽连斯基访问英国](https://www.zaobao.com/news/world/story20260721-9394695)
+Append: [英国新首相组建内阁 前国防部长出任财长](https://www.zaobao.com/news/world/story20260721-9394623)
+append_entries: 6
+Finish: 2026-07-21 04:56:45.795303
