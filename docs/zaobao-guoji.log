@@ -9658,3 +9658,24 @@ Append: [伯纳姆邀请乌克兰总统泽连斯基访问英国](https://www.zao
 Append: [英国新首相组建内阁 前国防部长出任财长](https://www.zaobao.com/news/world/story20260721-9394623)
 append_entries: 6
 Finish: 2026-07-21 04:56:45.795303
+------------------------------------------------------
+Started: 2026-07-21 08:04:08.422868
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 442
+Summarized using deepseek-v4-flash
+Append: [美国出台原铝关税优惠 弥补产能不足](https://www.zaobao.com/news/world/story20260721-9396308)
+Token length: 694
+Summarized using deepseek-v4-flash
+Append: [美匿名官员指五角大楼隐瞒美军在伊朗战争受伤人数](https://www.zaobao.com/news/world/story20260721-9396143)
+Token length: 280
+Summarized using deepseek-v4-flash
+Append: [伊朗称打击巴林和科威特境内多处美军目标](https://www.zaobao.com/news/world/story20260721-9395264)
+Token length: 347
+Summarized using deepseek-v4-flash
+Append: [美国三天内两度发布全球安全提醒](https://www.zaobao.com/news/world/story20260721-9395802)
+Token length: 429
+Summarized using deepseek-v4-flash
+Append: [特朗普：内坦亚胡不会在美国被逮捕](https://www.zaobao.com/news/world/story20260721-9395568)
+append_entries: 5
+Finish: 2026-07-21 08:04:30.073244
