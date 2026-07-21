@@ -9621,3 +9621,18 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-20 22:43:54.696889
+------------------------------------------------------
+Started: 2026-07-21 01:21:19.174312
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 628
+Summarized using deepseek-v4-flash
+Append: [美官员：伊朗上周击中约旦基地美军营房 两名美军丧命](https://www.zaobao.com/news/world/story20260721-9394585)
+Token length: 311
+Summarized using deepseek-v4-flash
+Append: [美军发动新打击 特朗普誓言为阵亡美军对伊朗加倍奉还](https://www.zaobao.com/news/world/story20260721-9394446)
+Token length: 701
+Summarized using deepseek-v4-flash
+Append: [美国宣布对加拿大部分产品加征50%关税](https://www.zaobao.com/news/world/story20260721-9394424)
+append_entries: 3
+Finish: 2026-07-21 01:21:32.833735

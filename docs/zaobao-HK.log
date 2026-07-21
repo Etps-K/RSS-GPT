@@ -10354,3 +10354,25 @@ Summarized using deepseek-v4-flash
 Append: [庄慧良： 今晚，用什么油？](https://www.zaobao.com/news/china/story20260721-9393904)
 append_entries: 1
 Finish: 2026-07-20 22:43:53.696376
+------------------------------------------------------
+Started: 2026-07-21 01:20:56.343378
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 433
+Summarized using deepseek-v4-flash
+Append: [李强祝贺伯纳姆出任英国首相](https://www.zaobao.com/news/china/story20260721-9394617)
+Token length: 394
+Summarized using deepseek-v4-flash
+Append: [俄罗斯延长对中国公民免签至明年底](https://www.zaobao.com/news/china/story20260721-9394597)
+Token length: 545
+Summarized using deepseek-v4-flash
+Append: [美国务院谴责中国对菲律宾船采取危险行动](https://www.zaobao.com/news/china/story20260721-9394587)
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [奔驰据悉寻求放宽美国针对中国相关车企的拟议限制](https://www.zaobao.com/news/china/story20260721-9394479)
+Token length: 264
+Summarized using deepseek-v4-flash
+Append: [三名中国公民在俄境内无人机袭击中受伤](https://www.zaobao.com/news/china/story20260721-9394471)
+Append: [中菲外长料两年来首会晤 南中国海再爆对峙](https://www.zaobao.com/news/china/story20260721-9393925)
+append_entries: 6
+Finish: 2026-07-21 01:21:18.268160
