@@ -10495,3 +10495,21 @@ Summarized using deepseek-v4-flash
 Append: [下午察：广东揭阳虐狗事件舆情传到海外](https://www.zaobao.com/news/china/story20260721-9398548)
 append_entries: 1
 Finish: 2026-07-21 15:27:24.408210
+------------------------------------------------------
+Started: 2026-07-21 17:04:29.850410
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1371
+Summarized using deepseek-v4-flash
+Append: [中国军舰在日本冲之鸟附近实弹演习 学者：选址释放战略信号](https://www.zaobao.com/news/china/story20260721-9399192)
+Token length: 441
+Summarized using deepseek-v4-flash
+Append: [王毅：南中国海问题不应成中国亚细安关系间障碍](https://www.zaobao.com/news/china/story20260721-9399344)
+Token length: 1298
+Summarized using deepseek-v4-flash
+Append: [解放军直升机无人机越台海中线 首沿台湾限航区飞行](https://www.zaobao.com/news/china/story20260721-9397018)
+Token length: 559
+Summarized using deepseek-v4-flash
+Append: [中国未来五年将改造8万公里交通基础设施](https://www.zaobao.com/news/china/story20260721-9398955)
+append_entries: 4
+Finish: 2026-07-21 17:04:47.049894
