@@ -9679,3 +9679,28 @@ Summarized using deepseek-v4-flash
 Append: [特朗普：内坦亚胡不会在美国被逮捕](https://www.zaobao.com/news/world/story20260721-9395568)
 append_entries: 5
 Finish: 2026-07-21 08:04:30.073244
+------------------------------------------------------
+Started: 2026-07-21 11:40:37.073810
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 591
+Summarized using deepseek-v4-flash
+Append: [特朗普收紧美国防业者采购中国关键矿产条例](https://www.zaobao.com/news/world/story20260721-9397986)
+Token length: 1115
+Summarized using deepseek-v4-flash
+Append: [伯纳姆组建新内阁 撤换多名前首相亲信](https://www.zaobao.com/news/world/story20260721-9397466)
+Token length: 540
+Summarized using deepseek-v4-flash
+Append: [英国政府启动降低生活费计划 削减能源账单](https://www.zaobao.com/news/world/story20260721-9397925)
+Token length: 587
+Summarized using deepseek-v4-flash
+Append: [印度示威者取消游行 指警方“伤害青年”](https://www.zaobao.com/news/world/story20260721-9397804)
+Token length: 371
+Summarized using deepseek-v4-flash
+Append: [印度就四名船员黑海遇难 召见俄罗斯临时代办](https://www.zaobao.com/news/world/story20260721-9397483)
+Append: [以黎达成协议 黎巴嫩军方向南部试点区部署兵力](https://www.zaobao.com/news/world/story20260721-9397238)
+Append: [撤换防长引发连日示威 泽连斯基深陷政治危机](https://www.zaobao.com/news/world/story20260721-9397130)
+Append: [指哈佛拿中国资金歧视美国学生 美司法部展开调查](https://www.zaobao.com/news/world/story20260721-9396748)
+Append: [卢浮宫遭劫展厅将于7月22日重开](https://www.zaobao.com/news/world/story20260721-9396583)
+append_entries: 9
+Finish: 2026-07-21 11:41:05.142564
