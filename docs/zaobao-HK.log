@@ -10513,3 +10513,9 @@ Summarized using deepseek-v4-flash
 Append: [中国未来五年将改造8万公里交通基础设施](https://www.zaobao.com/news/china/story20260721-9398955)
 append_entries: 4
 Finish: 2026-07-21 17:04:47.049894
+------------------------------------------------------
+Started: 2026-07-21 19:00:05.197907
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-21 19:00:05.345944

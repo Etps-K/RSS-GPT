@@ -9738,3 +9738,18 @@ Existing_entries: 1006
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-21 17:04:48.073617
+------------------------------------------------------
+Started: 2026-07-21 19:00:06.365074
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 339
+Summarized using deepseek-v4-flash
+Append: [美官员：鲁比奥王毅将在马尼拉会晤](https://www.zaobao.com/news/world/story20260722-9399510)
+Token length: 474
+Summarized using deepseek-v4-flash
+Append: [伊朗总统：与最高领袖的互动正日益增加](https://www.zaobao.com/news/world/story20260722-9399483)
+Token length: 596
+Summarized using deepseek-v4-flash
+Append: [联合国：上半年俄乌战争平民伤亡增37%](https://www.zaobao.com/news/world/story20260721-9399388)
+append_entries: 3
+Finish: 2026-07-21 19:00:27.338062
