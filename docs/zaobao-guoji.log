@@ -9710,3 +9710,25 @@ Existing_entries: 1009
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-21 13:10:35.932091
+------------------------------------------------------
+Started: 2026-07-21 15:27:25.301736
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 404
+Summarized using deepseek-v4-flash
+Append: [西班牙拟禁止在户外公共场所吸烟](https://www.zaobao.com/news/world/story20260721-9399256)
+Token length: 211
+Summarized using deepseek-v4-flash
+Append: [美贸易代表：10%关税将到期 很快会有新行动](https://www.zaobao.com/news/world/story20260721-9399200)
+Token length: 1371
+Summarized using deepseek-v4-flash
+Append: [誓为阵亡美军加倍报复伊朗 特朗普面临关键抉择](https://www.zaobao.com/news/world/story20260721-9398705)
+Token length: 847
+Summarized using deepseek-v4-flash
+Append: [美国对加拿大商品加征50%新关税](https://www.zaobao.com/news/world/story20260721-9398910)
+Token length: 957
+Summarized using deepseek-v4-flash
+Append: [韩AI股急跌引发“赌场化”争议 李在明股市改革面临考验](https://www.zaobao.com/news/world/story20260721-9398528)
+Append: [联合国：2025年亚洲诈骗损失或达近1500亿](https://www.zaobao.com/news/world/story20260721-9398445)
+append_entries: 6
+Finish: 2026-07-21 15:27:49.268448

@@ -10486,3 +10486,12 @@ Summarized using deepseek-v4-flash
 Append: [“中国尊”撞机事件后 两家北京通航公司遭暂时停业](https://www.zaobao.com/news/china/story20260721-9397188)
 append_entries: 5
 Finish: 2026-07-21 13:10:34.765920
+------------------------------------------------------
+Started: 2026-07-21 15:27:19.121773
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 228
+Summarized using deepseek-v4-flash
+Append: [下午察：广东揭阳虐狗事件舆情传到海外](https://www.zaobao.com/news/china/story20260721-9398548)
+append_entries: 1
+Finish: 2026-07-21 15:27:24.408210
