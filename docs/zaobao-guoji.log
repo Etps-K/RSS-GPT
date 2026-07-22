@@ -9889,3 +9889,9 @@ Summarized using deepseek-v4-flash
 Append: [消息：乌克兰同意向美国出口无人机](https://www.zaobao.com/news/world/story20260722-9405310)
 append_entries: 2
 Finish: 2026-07-22 17:05:23.383721
+------------------------------------------------------
+Started: 2026-07-22 18:53:33.898095
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-22 18:53:33.997196
