@@ -10706,3 +10706,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-22 20:52:37.438534
+------------------------------------------------------
+Started: 2026-07-22 22:50:26.633196
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1785
+Summarized using deepseek-v4-flash
+Append: [沈泽玮：马兴瑞落马折射出的政商新考验](https://www.zaobao.com/news/china/story20260723-9404457)
+append_entries: 1
+Finish: 2026-07-22 22:50:31.262892
