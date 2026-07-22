@@ -9854,3 +9854,26 @@ Summarized using deepseek-v4-flash
 Append: [纽约市长无权逮捕内坦亚胡 促联邦政府介入](https://www.zaobao.com/news/world/story20260722-9402347)
 append_entries: 4
 Finish: 2026-07-22 13:16:41.161454
+------------------------------------------------------
+Started: 2026-07-22 15:25:04.561776
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 411
+Summarized using deepseek-v4-flash
+Append: [乌克兰再次袭击俄罗斯最大电商平台仓库](https://www.zaobao.com/news/world/story20260722-9405269)
+Token length: 282
+Summarized using deepseek-v4-flash
+Append: [特朗普：若伊朗袭击船只 美国将袭击伊朗桥梁](https://www.zaobao.com/news/world/story20260722-9405213)
+Token length: 502
+Summarized using deepseek-v4-flash
+Append: [被指亲美以参与抗议 伊朗男子遭处决](https://www.zaobao.com/news/world/story20260722-9405180)
+Token length: 297
+Summarized using deepseek-v4-flash
+Append: [西班牙法国林火持续肆虐 大片土地被烧毁](https://www.zaobao.com/news/world/story20260722-9404562)
+Token length: 1176
+Summarized using deepseek-v4-flash
+Append: [特朗普称伊朗战事远未结束 镐山核设施是下个目标](https://www.zaobao.com/news/world/story20260722-9404267)
+Append: [红海战线风险上升 美军恐陷入两线作战](https://www.zaobao.com/news/world/story20260722-9403558)
+Append: [澳洲外长对中国在南太平洋试射导弹表达关切](https://www.zaobao.com/news/world/story20260722-9403813)
+append_entries: 7
+Finish: 2026-07-22 15:25:24.839061

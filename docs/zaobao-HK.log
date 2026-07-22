@@ -10655,3 +10655,21 @@ Append: [香港交易所取消午间休市](https://www.zaobao.com/news/china/st
 Append: [港大研究：两航空枢纽加强旅客监测 提早约三天侦测变异病毒](https://www.zaobao.com/news/china/story20260722-9402525)
 append_entries: 6
 Finish: 2026-07-22 13:16:17.929508
+------------------------------------------------------
+Started: 2026-07-22 15:24:42.909475
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 887
+Summarized using deepseek-v4-flash
+Append: [美企也扩大在台投资 AIT处长谷立言：美台半导体合作非零和博弈](https://www.zaobao.com/news/china/story20260722-9404756)
+Token length: 233
+Summarized using deepseek-v4-flash
+Append: [下午察：国产乙女游戏爆火：甜蜜卖得动，批评挡不住？](https://www.zaobao.com/news/china/story20260722-9403533)
+Token length: 522
+Summarized using deepseek-v4-flash
+Append: [中汽协：上半年新车超500款同质化严重 吁回归理性竞争](https://www.zaobao.com/news/china/story20260722-9404023)
+Token length: 786
+Summarized using deepseek-v4-flash
+Append: [中国对美出口连续三个月正增长 中方：中美关系新定位带来稳定预期](https://www.zaobao.com/news/china/story20260722-9404008)
+append_entries: 4
+Finish: 2026-07-22 15:25:03.535893
