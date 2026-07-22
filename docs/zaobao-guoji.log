@@ -9765,3 +9765,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-21 22:42:49.640817
+------------------------------------------------------
+Started: 2026-07-22 01:20:03.630356
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 138
+Summarized using deepseek-v4-flash
+Append: [美国连续第11晚对伊朗发动军事打击](https://www.zaobao.com/news/world/story20260722-9399900)
+Token length: 400
+Summarized using deepseek-v4-flash
+Append: [特朗普：打伊行动未结束 镐山核设施或是下一目标](https://www.zaobao.com/news/world/story20260722-9399870)
+Token length: 443
+Summarized using deepseek-v4-flash
+Append: [泽连斯基决定撤换引发抗议的武装部队总司令](https://www.zaobao.com/news/world/story20260722-9399821)
+Token length: 646
+Summarized using deepseek-v4-flash
+Append: [美国对伊朗战争至今已耗资375亿美元](https://www.zaobao.com/news/world/story20260722-9399782)
+append_entries: 4
+Finish: 2026-07-22 01:20:23.274945

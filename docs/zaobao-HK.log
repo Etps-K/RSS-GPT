@@ -10534,3 +10534,18 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：从安世到英钢](https://www.zaobao.com/news/china/story20260722-9399368)
 append_entries: 1
 Finish: 2026-07-21 22:42:48.507168
+------------------------------------------------------
+Started: 2026-07-22 01:19:48.279323
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 808
+Summarized using deepseek-v4-flash
+Append: [中国驻菲大使：仁爱礁冲突不会改变南中国海准则制定](https://www.zaobao.com/news/china/story20260722-9399911)
+Token length: 322
+Summarized using deepseek-v4-flash
+Append: [小鹏汽车寻求开拓海外业务 应对中国市场需求放缓](https://www.zaobao.com/news/china/story20260722-9399822)
+Token length: 570
+Summarized using deepseek-v4-flash
+Append: [中国500强排行榜 国家电网中石油中石化位列前三](https://www.zaobao.com/news/china/story20260722-9399813)
+append_entries: 3
+Finish: 2026-07-22 01:20:02.611174
