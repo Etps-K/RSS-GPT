@@ -9877,3 +9877,15 @@ Append: [红海战线风险上升 美军恐陷入两线作战](https://www.zaoba
 Append: [澳洲外长对中国在南太平洋试射导弹表达关切](https://www.zaobao.com/news/world/story20260722-9403813)
 append_entries: 7
 Finish: 2026-07-22 15:25:24.839061
+------------------------------------------------------
+Started: 2026-07-22 17:05:15.303869
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 568
+Summarized using deepseek-v4-flash
+Append: [法国6月热浪期间超额死亡人数逾5700人](https://www.zaobao.com/news/world/story20260723-9405656)
+Token length: 403
+Summarized using deepseek-v4-flash
+Append: [消息：乌克兰同意向美国出口无人机](https://www.zaobao.com/news/world/story20260722-9405310)
+append_entries: 2
+Finish: 2026-07-22 17:05:23.383721

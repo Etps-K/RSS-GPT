@@ -10673,3 +10673,24 @@ Summarized using deepseek-v4-flash
 Append: [中国对美出口连续三个月正增长 中方：中美关系新定位带来稳定预期](https://www.zaobao.com/news/china/story20260722-9404008)
 append_entries: 4
 Finish: 2026-07-22 15:25:03.535893
+------------------------------------------------------
+Started: 2026-07-22 17:04:55.284081
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1160
+Summarized using deepseek-v4-flash
+Append: [中美外长马尼拉会晤 为习近平9月访美铺路](https://www.zaobao.com/news/china/story20260723-9405607)
+Token length: 1100
+Summarized using deepseek-v4-flash
+Append: [中菲外长两年来首次会晤 南中国海争议成焦点](https://www.zaobao.com/news/china/story20260722-9405296)
+Token length: 852
+Summarized using deepseek-v4-flash
+Append: [王毅会见菲律宾外长拉扎罗：中菲关系站在十字路口](https://www.zaobao.com/news/china/story20260722-9405428)
+Token length: 1201
+Summarized using deepseek-v4-flash
+Append: [卷入明清史观争议 中国电影《澎湖海战》能否上映成悬念](https://www.zaobao.com/news/china/story20260722-9405043)
+Token length: 730
+Summarized using deepseek-v4-flash
+Append: [王毅与鲁比奥会晤：筹备高层交往 要求美方恪守一个中国原则](https://www.zaobao.com/news/china/story20260722-9405328)
+append_entries: 5
+Finish: 2026-07-22 17:05:14.555793
