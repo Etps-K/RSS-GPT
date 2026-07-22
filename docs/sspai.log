@@ -6673,3 +6673,12 @@ Summarized using deepseek-v4-flash
 Append: [滤镜背后的色彩科学：LUT 是什么？](https://sspai.com/post/111550)
 append_entries: 1
 Finish: 2026-07-22 08:04:22.703836
+------------------------------------------------------
+Started: 2026-07-22 11:40:38.779845
+Existing_entries: 356
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [Parti：一个零门槛联机游戏平台，凭什么不需要服务器？](https://sspai.com/post/112545)
+append_entries: 1
+Finish: 2026-07-22 11:40:46.002523

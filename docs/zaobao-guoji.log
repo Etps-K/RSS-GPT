@@ -9821,3 +9821,18 @@ Summarized using deepseek-v4-flash
 Append: [法国通过法案 禁止15岁以下未成年人使用社媒](https://www.zaobao.com/news/world/story20260722-9401490)
 append_entries: 3
 Finish: 2026-07-22 08:04:58.249659
+------------------------------------------------------
+Started: 2026-07-22 11:41:07.541901
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1243
+Summarized using deepseek-v4-flash
+Append: [特朗普2028年8月起向仿制药征收100%关税 隔年翻倍](https://www.zaobao.com/news/world/story20260722-9402953)
+Token length: 390
+Summarized using deepseek-v4-flash
+Append: [乌克兰总司令将卸任 称今年收复700平方公里](https://www.zaobao.com/news/world/story20260722-9403363)
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [美媒：特朗普批准美国沙特民用核项目协议](https://www.zaobao.com/news/world/story20260722-9402382)
+append_entries: 3
+Finish: 2026-07-22 11:41:23.682009
