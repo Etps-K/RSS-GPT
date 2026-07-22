@@ -6664,3 +6664,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等](https://sspai.com/post/112597)
 append_entries: 2
 Finish: 2026-07-22 04:55:22.070157
+------------------------------------------------------
+Started: 2026-07-22 08:04:14.824048
+Existing_entries: 355
+Fetching from https://sspai.com/feed
+Token length: 32
+Summarized using deepseek-v4-flash
+Append: [滤镜背后的色彩科学：LUT 是什么？](https://sspai.com/post/111550)
+append_entries: 1
+Finish: 2026-07-22 08:04:22.703836

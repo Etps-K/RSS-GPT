@@ -9806,3 +9806,18 @@ Append: [马杜罗涉美刑事案 双方拟议2027年6月开审](https://www.zao
 Append: [特朗普：进口仿制药首两年0%关税 随后渐增至200%](https://www.zaobao.com/news/world/story20260722-9399943)
 append_entries: 7
 Finish: 2026-07-22 04:56:03.070876
+------------------------------------------------------
+Started: 2026-07-22 08:04:45.033998
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 662
+Summarized using deepseek-v4-flash
+Append: [福利审批不能全交给AI 澳洲收紧自动决策规定](https://www.zaobao.com/news/world/story20260722-9390157)
+Token length: 449
+Summarized using deepseek-v4-flash
+Append: [伊朗多地遭美军袭击 首都德黑兰启动防空系统](https://www.zaobao.com/news/world/story20260722-9401628)
+Token length: 396
+Summarized using deepseek-v4-flash
+Append: [法国通过法案 禁止15岁以下未成年人使用社媒](https://www.zaobao.com/news/world/story20260722-9401490)
+append_entries: 3
+Finish: 2026-07-22 08:04:58.249659

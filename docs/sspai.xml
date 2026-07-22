@@ -5,18 +5,34 @@
 <link>https://sspai.com</link>
 
 <item>
+<title>滤镜背后的色彩科学：LUT 是什么？</title>
+<link>https://sspai.com/post/111550</link>
+<guid>https://sspai.com/post/111550</guid>
+<content:encoded><![CDATA[
+<div> 风格滤镜 电影调色 LUT 色彩规则 技术应用
+
+<br><br>总结:
+1. LUT（Look-Up Table，查找表）是一种色彩映射工具，将输入颜色值转换为预设的输出颜色，形成严格的数学色彩规则。
+2. 从手机风格滤镜到好莱坞电影专业调色，LUT 本质相同，但用途和精度不同：滤镜追求速效风格，电影调色则需精细控制全片色彩逻辑。
+3. 色彩规则通过 LUT 固化，使不同设备、软件间能统一色彩表现，实现可复用的调色方案，成为影视与摄影领域的标准化工具。 <div>
+从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。<a href="https://sspai.com/post/111550" target="_blank">查看全文</a>
+]]></content:encoded>
+<pubDate>Wed, 22 Jul 2026 15:00:00 +0800</pubDate>
+<pubDate>Wed, 22 Jul 2026 15:00:00 +0800</pubDate>
+</item>
+
+<item>
 <title>角落新声｜我的上帝模式，一名设计师创作环境的演变</title>
 <link>https://sspai.com/post/112109</link>
 <guid>https://sspai.com/post/112109</guid>
 <content:encoded><![CDATA[
 <div> 声音, 切片, 创作环境, 迭代, 理解变化
 
-<br><br>总结:
+<br /><br />总结:
 1. 客观层面：声音是创作过程的一个切片，忠实记录了创作环境如何持续迭代升级。
 2. 主观层面：从个人经历出发，声音真正映照的是我对创作本身理解的演变，而非环境变迁本身。 <div>
 声音只是其中一个切片。客观来看，它记录的是我的创作环境如何不断迭代；但从个人经历来看，它真正映照的是我对创作这件事的理解如何变化。<a href="https://sspai.com/post/112109" target="_blank">查看全文</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 Jul 2026 10:04:29 +0800</pubDate>
 <pubDate>Wed, 22 Jul 2026 10:04:29 +0800</pubDate>
 </item>
 <item>
@@ -26,14 +42,12 @@
 <content:encoded><![CDATA[
 <div> 英伟达 合成视频检测器 NIM WordPress 高危漏洞
 
-<br><br>总结:  
+<br /><br />总结:  
 英伟达发布NIM检测器，可识别AI生成的合成视频，防范深度伪造风险；WordPress曝出高危漏洞，可能导致远程代码执行或数据泄露，影响大量网站。此外，近期还出现其他安全威胁，需及时更新补丁。 <div>
 英伟达推出合成视频检测器 NIM、WordPress 曝出高危漏洞等。<a href="https://sspai.com/post/112597" target="_blank">查看全文</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 Jul 2026 08:30:00 +0800</pubDate>
-<pubDate>Wed, 22 Jul 2026 08:30:00 +0800</pubDate>
 </item>
-
 <item>
 <title>社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车</title>
 <link>https://sspai.com/post/112582</link>
