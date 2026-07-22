@@ -10549,3 +10549,32 @@ Summarized using deepseek-v4-flash
 Append: [中国500强排行榜 国家电网中石油中石化位列前三](https://www.zaobao.com/news/china/story20260722-9399813)
 append_entries: 3
 Finish: 2026-07-22 01:20:02.611174
+------------------------------------------------------
+Started: 2026-07-22 04:55:22.988789
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 851
+Summarized using deepseek-v4-flash
+Append: [赖清德：台湾社会没有台独问题 只有确保主权问题](https://www.zaobao.com/news/china/story20260722-9400657)
+Token length: 659
+Summarized using deepseek-v4-flash
+Append: [大陆国台办批赖清德彻底撕下“没有台独问题”伪装](https://www.zaobao.com/news/china/story20260722-9401043)
+Token length: 651
+Summarized using deepseek-v4-flash
+Append: [香港游客在日自驾连出车祸 汽车业者：经验不足过度自信](https://www.zaobao.com/news/china/story20260722-9400904)
+Token length: 627
+Summarized using deepseek-v4-flash
+Append: [独立书店被查后 香港物流商台湾分司拒运违规书籍](https://www.zaobao.com/news/china/story20260722-9400916)
+Token length: 368
+Summarized using deepseek-v4-flash
+Append: [台谴责大陆在仁爱礁使用武力 国台办批民进党丧失民族立场](https://www.zaobao.com/news/china/story20260722-9400700)
+Append: [耐克收紧中国线上销售渠道 应对碎片化市场](https://www.zaobao.com/news/china/story20260722-9400498)
+Append: [彭博：破纪录毕业生叠加AI冲击 中国青年失业率或达20%](https://www.zaobao.com/news/china/story20260722-9400463)
+Append: [胡塞武装袭击威胁升级 赴华超大型油轮在红海掉头改道](https://www.zaobao.com/news/china/story20260722-9400218)
+Append: [王毅吁中欧避免经贸问题政治化 推动贸易实现动态平衡](https://www.zaobao.com/news/china/story20260722-9400236)
+Append: [贝森特：美国将审查中国AI模型是否窃取知识产权](https://www.zaobao.com/news/china/story20260722-9400086)
+Append: [香港高院再驳回宗馥莉上诉申请 维持冻结18亿美元资产](https://www.zaobao.com/news/china/story20260722-9400041)
+Append: [日本称中国科考船在钓鱼岛近海活动](https://www.zaobao.com/news/china/story20260722-9399940)
+Append: [特朗普淡化中国干预选举指控 或不会采取报复行动](https://www.zaobao.com/news/china/story20260722-9399948)
+append_entries: 13
+Finish: 2026-07-22 04:55:43.424274

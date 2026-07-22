@@ -9783,3 +9783,26 @@ Summarized using deepseek-v4-flash
 Append: [美国对伊朗战争至今已耗资375亿美元](https://www.zaobao.com/news/world/story20260722-9399782)
 append_entries: 4
 Finish: 2026-07-22 01:20:23.274945
+------------------------------------------------------
+Started: 2026-07-22 04:55:44.444968
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 306
+Summarized using deepseek-v4-flash
+Append: [日元对美元汇率跌至近40年来新低](https://www.zaobao.com/news/world/story20260722-9401018)
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [涉受贿干预官邸搬迁改造 韩国前第一夫人到案受讯](https://www.zaobao.com/news/world/story20260722-9400810)
+Token length: 327
+Summarized using deepseek-v4-flash
+Append: [美军对伊朗新一轮打击持续75分钟](https://www.zaobao.com/news/world/story20260722-9400691)
+Token length: 382
+Summarized using deepseek-v4-flash
+Append: [特朗普解除40余年禁令 允许美国航班直飞黎巴嫩](https://www.zaobao.com/news/world/story20260722-9400343)
+Token length: 271
+Summarized using deepseek-v4-flash
+Append: [五角大楼确认近日阵亡第四名美军身份 美军死亡人数增至18](https://www.zaobao.com/news/world/story20260722-9400290)
+Append: [马杜罗涉美刑事案 双方拟议2027年6月开审](https://www.zaobao.com/news/world/story20260722-9400058)
+Append: [特朗普：进口仿制药首两年0%关税 随后渐增至200%](https://www.zaobao.com/news/world/story20260722-9399943)
+append_entries: 7
+Finish: 2026-07-22 04:56:03.070876
