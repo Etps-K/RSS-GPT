@@ -9836,3 +9836,21 @@ Summarized using deepseek-v4-flash
 Append: [美媒：特朗普批准美国沙特民用核项目协议](https://www.zaobao.com/news/world/story20260722-9402382)
 append_entries: 3
 Finish: 2026-07-22 11:41:23.682009
+------------------------------------------------------
+Started: 2026-07-22 13:16:18.960503
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 622
+Summarized using deepseek-v4-flash
+Append: [英国将调低单程巴士票价 缓解生活费压力](https://www.zaobao.com/news/world/story20260722-9404525)
+Token length: 771
+Summarized using deepseek-v4-flash
+Append: [研究：男青少年成瘾性使用社媒 或加重多动症症状](https://www.zaobao.com/news/world/story20260722-9394918)
+Token length: 574
+Summarized using deepseek-v4-flash
+Append: [OpenAI先进模型自主“越狱” 入侵外部平台](https://www.zaobao.com/news/world/story20260722-9402189)
+Token length: 494
+Summarized using deepseek-v4-flash
+Append: [纽约市长无权逮捕内坦亚胡 促联邦政府介入](https://www.zaobao.com/news/world/story20260722-9402347)
+append_entries: 4
+Finish: 2026-07-22 13:16:41.161454

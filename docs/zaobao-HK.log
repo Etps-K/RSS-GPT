@@ -10633,3 +10633,25 @@ Append: [月之暗面拟启动上市前终轮融资 估值上看500亿美元](ht
 Append: [中国外交部：有关国家不是南中国海问题当事方 无权介入](https://www.zaobao.com/news/china/story20260722-9402385)
 append_entries: 10
 Finish: 2026-07-22 11:41:06.510357
+------------------------------------------------------
+Started: 2026-07-22 13:15:52.566769
+Existing_entries: 1010
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 658
+Summarized using deepseek-v4-flash
+Append: [习近平谈基础教育：落实健康第一理念 促进学生身心健康](https://www.zaobao.com/news/china/story20260722-9403952)
+Token length: 534
+Summarized using deepseek-v4-flash
+Append: [吴清见加拿大养老基金投资公司总裁：欢迎扩大对华投资](https://www.zaobao.com/news/china/story20260722-9403441)
+Token length: 723
+Summarized using deepseek-v4-flash
+Append: [中国商务部连续发声：法国立法遏制“超快时尚”构成对华贸易壁垒](https://www.zaobao.com/news/china/story20260722-9404197)
+Token length: 407
+Summarized using deepseek-v4-flash
+Append: [中国已向灾区拨付11.9亿元](https://www.zaobao.com/news/china/story20260722-9403353)
+Token length: 897
+Summarized using deepseek-v4-flash
+Append: [香港交易所取消午间休市](https://www.zaobao.com/news/china/story20260722-9403196)
+Append: [港大研究：两航空枢纽加强旅客监测 提早约三天侦测变异病毒](https://www.zaobao.com/news/china/story20260722-9402525)
+append_entries: 6
+Finish: 2026-07-22 13:16:17.929508
