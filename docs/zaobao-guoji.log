@@ -9990,3 +9990,15 @@ Summarized using deepseek-v4-flash
 Append: [窥探宠物心思 韩国饲主找塔罗牌解答](https://www.zaobao.com/news/world/story20260723-9408715)
 append_entries: 5
 Finish: 2026-07-23 11:45:00.019037
+------------------------------------------------------
+Started: 2026-07-23 13:19:05.847767
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 320
+Summarized using deepseek-v4-flash
+Append: [韩国地方选举投票率疑遭篡改 调查人员搜查选委会总部](https://www.zaobao.com/news/world/story20260723-9410363)
+Token length: 578
+Summarized using deepseek-v4-flash
+Append: [无视美国威胁 欧盟对谷歌处以逾13亿元罚款](https://www.zaobao.com/news/world/story20260723-9410333)
+append_entries: 2
+Finish: 2026-07-23 13:19:17.156033
