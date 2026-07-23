@@ -9945,3 +9945,27 @@ Append: [科学家：气候变化加剧欧洲干旱 非降雨量偏低](https://
 Append: [美众院通过950亿美元拨款法案 主要用于伊朗战争](https://www.zaobao.com/news/world/story20260723-9406129)
 append_entries: 7
 Finish: 2026-07-23 05:13:24.031172
+------------------------------------------------------
+Started: 2026-07-23 08:07:15.086550
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 282
+Summarized using deepseek-v4-flash
+Append: [印度阿萨姆邦洪灾一周夺走36人命](https://www.zaobao.com/news/world/story20260723-9408380)
+Token length: 314
+Summarized using deepseek-v4-flash
+Append: [印度总理莫迪誓言严惩考试舞弊涉案人员](https://www.zaobao.com/news/world/story20260723-9408289)
+Token length: 412
+Summarized using deepseek-v4-flash
+Append: [鲁比奥与拉夫罗夫会谈 讨论美俄关系及俄乌战事](https://www.zaobao.com/news/world/story20260723-9408146)
+Token length: 340
+Summarized using deepseek-v4-flash
+Append: [英首相宣布酒吧等场所明年起商业税减20%](https://www.zaobao.com/news/world/story20260723-9407892)
+Token length: 442
+Summarized using deepseek-v4-flash
+Append: [阿联酋加速建设新港口 减少对霍尔木兹海峡依赖](https://www.zaobao.com/news/world/story20260723-9407825)
+Append: [日本热浪致东京453人送医 创2010年以来单日最高纪录](https://www.zaobao.com/news/world/story20260723-9407622)
+Append: [消息：伊朗已准备好应对美军地面入侵](https://www.zaobao.com/news/world/story20260723-9407505)
+Append: [环保人士：特朗普家族阿尔巴尼亚酒店项目重创海岸生态](https://www.zaobao.com/news/world/story20260723-9407474)
+append_entries: 8
+Finish: 2026-07-23 08:07:40.143471
