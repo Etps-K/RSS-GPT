@@ -9969,3 +9969,24 @@ Append: [消息：伊朗已准备好应对美军地面入侵](https://www.zaobao
 Append: [环保人士：特朗普家族阿尔巴尼亚酒店项目重创海岸生态](https://www.zaobao.com/news/world/story20260723-9407474)
 append_entries: 8
 Finish: 2026-07-23 08:07:40.143471
+------------------------------------------------------
+Started: 2026-07-23 11:44:36.984419
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 667
+Summarized using deepseek-v4-flash
+Append: [美参院拟立法确立中国车进口禁令](https://www.zaobao.com/news/world/story20260723-9408934)
+Token length: 484
+Summarized using deepseek-v4-flash
+Append: [伊朗称打击约旦与科威特美军设施 约旦拦截导弹与无人机](https://www.zaobao.com/news/world/story20260723-9410012)
+Token length: 379
+Summarized using deepseek-v4-flash
+Append: [胡塞武装在红海发动袭击 两艘中国油轮仍驶向曼德海峡](https://www.zaobao.com/news/world/story20260723-9409883)
+Token length: 483
+Summarized using deepseek-v4-flash
+Append: [法国松林大火肆虐 万余名游客紧急撤离](https://www.zaobao.com/news/world/story20260723-9409388)
+Token length: 284
+Summarized using deepseek-v4-flash
+Append: [窥探宠物心思 韩国饲主找塔罗牌解答](https://www.zaobao.com/news/world/story20260723-9408715)
+append_entries: 5
+Finish: 2026-07-23 11:45:00.019037
