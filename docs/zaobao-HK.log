@@ -10831,3 +10831,27 @@ Summarized using deepseek-v4-flash
 Append: [港媒：捷克众议长在北京称不会再有官方人员去台湾](https://www.zaobao.com/news/china/story20260723-9410734)
 append_entries: 2
 Finish: 2026-07-23 13:19:04.948112
+------------------------------------------------------
+Started: 2026-07-23 15:46:10.340912
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 873
+Summarized using deepseek-v4-flash
+Append: [民进党秘书长批台北未落实抽验 蒋万安强烈回击](https://www.zaobao.com/news/china/story20260723-9410693)
+Token length: 601
+Summarized using deepseek-v4-flash
+Append: [重庆彭水崩塌灾害致11死10伤50失联](https://www.zaobao.com/news/china/story20260723-9411492)
+Token length: 606
+Summarized using deepseek-v4-flash
+Append: [梁文锋：DeepSeek不追求成为字节或腾讯 AGI是首要目标](https://www.zaobao.com/news/china/story20260723-9409871)
+Token length: 831
+Summarized using deepseek-v4-flash
+Append: [中国籍数学家首次获颁菲尔兹奖](https://www.zaobao.com/news/china/story20260723-9411380)
+Token length: 1179
+Summarized using deepseek-v4-flash
+Append: [香港前民主党主席赴英寻求政治庇护 入境一度遇阻](https://www.zaobao.com/news/china/story20260723-9410888)
+Append: [中国警方向美国遣返一名美籍暴力逃犯](https://www.zaobao.com/news/china/story20260723-9411004)
+Append: [未播世界杯中场秀 中国央视：正常转播编排无其他考量](https://www.zaobao.com/news/china/story20260723-9395265)
+Append: [下午察：又有中国AI模型被指控蒸馏](https://www.zaobao.com/news/china/story20260723-9408972)
+append_entries: 8
+Finish: 2026-07-23 15:46:34.671560

@@ -10002,3 +10002,27 @@ Summarized using deepseek-v4-flash
 Append: [无视美国威胁 欧盟对谷歌处以逾13亿元罚款](https://www.zaobao.com/news/world/story20260723-9410333)
 append_entries: 2
 Finish: 2026-07-23 13:19:17.156033
+------------------------------------------------------
+Started: 2026-07-23 15:46:35.713638
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 111
+Summarized using deepseek-v4-flash
+Append: [美国颁布签证限制 对付网络犯罪同伙](https://www.zaobao.com/news/world/story20260723-9411468)
+Token length: 1313
+Summarized using deepseek-v4-flash
+Append: [胡塞武装袭击沙特油轮 特朗普警告严厉军事打击](https://www.zaobao.com/news/world/story20260723-9410741)
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [油轮红海遇袭 亚洲原油买家与沙特商讨运油新路线](https://www.zaobao.com/news/world/story20260723-9411205)
+Token length: 872
+Summarized using deepseek-v4-flash
+Append: [消息指日本投资美核能项目陷入僵局](https://www.zaobao.com/news/world/story20260723-9410965)
+Token length: 452
+Summarized using deepseek-v4-flash
+Append: [埃及：美伊危机“可调和” 试图寻求斡旋](https://www.zaobao.com/news/world/story20260723-9411095)
+Append: [特朗普：美沙核协议不涉及铀浓缩活动](https://www.zaobao.com/news/world/story20260723-9410959)
+Append: [美众院微差通过国防授权法案 拨款1.15万亿美元历来最高](https://www.zaobao.com/news/world/story20260723-9410852)
+Append: [热浪与黑海局势推高农粮价格至三年新高](https://www.zaobao.com/news/world/story20260723-9409820)
+append_entries: 8
+Finish: 2026-07-23 15:46:53.403871
