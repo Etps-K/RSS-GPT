@@ -6724,3 +6724,15 @@ Existing_entries: 357
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-23 01:26:37.018967
+------------------------------------------------------
+Started: 2026-07-23 05:12:18.821378
+Existing_entries: 357
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [让 Windows 顺眼又省心：我的新设备配置经验](https://sspai.com/post/111300)
+Token length: 49
+Summarized using deepseek-v4-flash
+Append: [派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等](https://sspai.com/post/112647)
+append_entries: 2
+Finish: 2026-07-23 05:12:31.969053

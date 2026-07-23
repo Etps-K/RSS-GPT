@@ -9922,3 +9922,26 @@ Summarized using deepseek-v4-flash
 Append: [也门胡塞武装称袭击红海两艘沙特油轮](https://www.zaobao.com/news/world/story20260723-9405979)
 append_entries: 3
 Finish: 2026-07-23 01:27:03.651349
+------------------------------------------------------
+Started: 2026-07-23 05:13:01.102755
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 314
+Summarized using deepseek-v4-flash
+Append: [在韩不当利用用户信息 TikTok和苹果被罚款](https://www.zaobao.com/news/world/story20260723-9407252)
+Token length: 588
+Summarized using deepseek-v4-flash
+Append: [法国6月至7月初热浪致5764人超额死亡](https://www.zaobao.com/news/world/story20260723-9407187)
+Token length: 753
+Summarized using deepseek-v4-flash
+Append: [波斯湾美中情局设施遭袭 美怀疑俄协助伊朗](https://www.zaobao.com/news/world/story20260723-9406968)
+Token length: 561
+Summarized using deepseek-v4-flash
+Append: [委内瑞拉强震后数百宠物无家可归 灾民盼与宠物团聚](https://www.zaobao.com/news/world/story20260723-9406694)
+Token length: 383
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队称完全封锁霍尔木兹海峡 阻止三油轮通行](https://www.zaobao.com/news/world/story20260723-9406371)
+Append: [科学家：气候变化加剧欧洲干旱 非降雨量偏低](https://www.zaobao.com/news/world/story20260723-9406260)
+Append: [美众院通过950亿美元拨款法案 主要用于伊朗战争](https://www.zaobao.com/news/world/story20260723-9406129)
+append_entries: 7
+Finish: 2026-07-23 05:13:24.031172
