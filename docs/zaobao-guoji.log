@@ -9907,3 +9907,18 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-22 22:50:32.386929
+------------------------------------------------------
+Started: 2026-07-23 01:26:49.038601
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 538
+Summarized using deepseek-v4-flash
+Append: [美国宣布与沙特达成民用核能合作协议](https://www.zaobao.com/news/world/story20260723-9406088)
+Token length: 483
+Summarized using deepseek-v4-flash
+Append: [伊朗重申霍尔木兹海峡不会回到战前状态 美军再袭伊朗](https://www.zaobao.com/news/world/story20260723-9405997)
+Token length: 415
+Summarized using deepseek-v4-flash
+Append: [也门胡塞武装称袭击红海两艘沙特油轮](https://www.zaobao.com/news/world/story20260723-9405979)
+append_entries: 3
+Finish: 2026-07-23 01:27:03.651349

@@ -10715,3 +10715,15 @@ Summarized using deepseek-v4-flash
 Append: [沈泽玮：马兴瑞落马折射出的政商新考验](https://www.zaobao.com/news/china/story20260723-9404457)
 append_entries: 1
 Finish: 2026-07-22 22:50:31.262892
+------------------------------------------------------
+Started: 2026-07-23 01:26:37.925888
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 755
+Summarized using deepseek-v4-flash
+Append: [中国在安理会吁国际社会加强自然资源治理](https://www.zaobao.com/news/china/story20260723-9406081)
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [王毅：中国愿同印度妥善处理敏感问题](https://www.zaobao.com/news/china/story20260723-9406059)
+append_entries: 2
+Finish: 2026-07-23 01:26:48.035441
