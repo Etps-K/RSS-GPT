@@ -10026,3 +10026,15 @@ Append: [美众院微差通过国防授权法案 拨款1.15万亿美元历来最
 Append: [热浪与黑海局势推高农粮价格至三年新高](https://www.zaobao.com/news/world/story20260723-9409820)
 append_entries: 8
 Finish: 2026-07-23 15:46:53.403871
+------------------------------------------------------
+Started: 2026-07-23 17:07:12.551662
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 476
+Summarized using deepseek-v4-flash
+Append: [美众议院再次指示政府停止伊朗战争 象征性谴责特朗普](https://www.zaobao.com/news/world/story20260723-9411584)
+Token length: 508
+Summarized using deepseek-v4-flash
+Append: [监测机构：加沙三分之二人口年内或将面临严重饥饿](https://www.zaobao.com/news/world/story20260723-9411519)
+append_entries: 2
+Finish: 2026-07-23 17:07:20.007548
