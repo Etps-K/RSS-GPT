@@ -10038,3 +10038,9 @@ Summarized using deepseek-v4-flash
 Append: [监测机构：加沙三分之二人口年内或将面临严重饥饿](https://www.zaobao.com/news/world/story20260723-9411519)
 append_entries: 2
 Finish: 2026-07-23 17:07:20.007548
+------------------------------------------------------
+Started: 2026-07-23 18:55:50.281266
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-23 18:55:50.383171

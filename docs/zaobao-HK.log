@@ -10864,3 +10864,9 @@ Summarized using deepseek-v4-flash
 Append: [中菲黄岩岛再起摩擦 学者：南中国海成大国竞争前沿](https://www.zaobao.com/news/china/story20260723-9411451)
 append_entries: 1
 Finish: 2026-07-23 17:07:11.523001
+------------------------------------------------------
+Started: 2026-07-23 18:55:49.216344
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-23 18:55:49.395703
