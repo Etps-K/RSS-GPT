@@ -10056,3 +10056,18 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-23 22:44:08.739074
+------------------------------------------------------
+Started: 2026-07-24 01:23:31.082917
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 367
+Summarized using deepseek-v4-flash
+Append: [澳洲：美国新关税毫无道理 违反自贸协定](https://www.zaobao.com/news/world/story20260724-9412047)
+Token length: 229
+Summarized using deepseek-v4-flash
+Append: [特朗普称冻结伊朗资金将用于赔偿受袭船货](https://www.zaobao.com/news/world/story20260724-9412021)
+Token length: 757
+Summarized using deepseek-v4-flash
+Append: [美国对60个贸易伙伴加征最高12.5%关税 7月24日生效](https://www.zaobao.com/news/world/story20260724-9411973)
+append_entries: 3
+Finish: 2026-07-24 01:23:43.386319

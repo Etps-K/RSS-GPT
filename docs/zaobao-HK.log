@@ -10882,3 +10882,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-23 22:44:07.567894
+------------------------------------------------------
+Started: 2026-07-24 01:23:08.151154
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 576
+Summarized using deepseek-v4-flash
+Append: [中加时隔九年再举行高级别国安与法治对话](https://www.zaobao.com/news/china/story20260724-9412125)
+Token length: 351
+Summarized using deepseek-v4-flash
+Append: [中国海警对在黄岩岛海域非法活动菲船只采取管制措施](https://www.zaobao.com/news/china/story20260724-9412118)
+Token length: 257
+Summarized using deepseek-v4-flash
+Append: [特朗普：习近平9月24日访美 两人将讨论AI课题](https://www.zaobao.com/news/china/story20260724-9412076)
+Token length: 324
+Summarized using deepseek-v4-flash
+Append: [台民进党访美团与众院议长约翰逊会面](https://www.zaobao.com/news/china/story20260724-9412050)
+Token length: 425
+Summarized using deepseek-v4-flash
+Append: [韩咏红：《澎湖海战》撤档发出的信息](https://www.zaobao.com/news/china/story20260724-9411531)
+append_entries: 5
+Finish: 2026-07-24 01:23:30.199316
