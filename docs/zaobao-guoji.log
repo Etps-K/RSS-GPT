@@ -10071,3 +10071,21 @@ Summarized using deepseek-v4-flash
 Append: [美国对60个贸易伙伴加征最高12.5%关税 7月24日生效](https://www.zaobao.com/news/world/story20260724-9411973)
 append_entries: 3
 Finish: 2026-07-24 01:23:43.386319
+------------------------------------------------------
+Started: 2026-07-24 04:58:04.182650
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 273
+Summarized using deepseek-v4-flash
+Append: [被美加征12.5%关税 日本强调工商业遵循国际规则](https://www.zaobao.com/news/world/story20260724-9412579)
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [李在明展开11天五国访问行程 首站赴美谈AI合作](https://www.zaobao.com/news/world/story20260724-9412253)
+Token length: 273
+Summarized using deepseek-v4-flash
+Append: [美军连续第13晚空袭伊朗 格什姆岛等地传爆炸声](https://www.zaobao.com/news/world/story20260724-9412083)
+Token length: 451
+Summarized using deepseek-v4-flash
+Append: [巴西将启动互惠法反制美国关税 并诉诸世贸组织](https://www.zaobao.com/news/world/story20260724-9412133)
+append_entries: 4
+Finish: 2026-07-24 04:58:17.523105
