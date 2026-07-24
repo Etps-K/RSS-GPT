@@ -11034,3 +11034,9 @@ Summarized using deepseek-v4-flash
 Append: [中菲五天内三度在南中国海对峙 学者：本轮摩擦不至于失控](https://www.zaobao.com/news/china/story20260724-9417191)
 append_entries: 1
 Finish: 2026-07-24 17:18:09.624810
+------------------------------------------------------
+Started: 2026-07-24 19:08:09.006154
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-24 19:08:09.175691
