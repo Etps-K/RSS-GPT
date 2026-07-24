@@ -10986,3 +10986,24 @@ Append: [美企调用中国智谱AI 阻击OpenAI失控智能体攻击](https://w
 Append: [新疆赛里木湖景区工作人员殴打旅游车司机 七人被警方控制](https://www.zaobao.com/news/china/story20260724-9414175)
 append_entries: 21
 Finish: 2026-07-24 11:29:01.742501
+------------------------------------------------------
+Started: 2026-07-24 13:12:37.866196
+Existing_entries: 1021
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 669
+Summarized using deepseek-v4-flash
+Append: [中国矿山安监局山西局塌方式腐败 局长罕见由国家局领导兼任](https://www.zaobao.com/news/china/story20260724-9416252)
+Token length: 196
+Summarized using deepseek-v4-flash
+Append: [下午察：深圳地铁安检加码后](https://www.zaobao.com/news/china/story20260724-9413795)
+Token length: 576
+Summarized using deepseek-v4-flash
+Append: [中国公安部：上半年AI生成网络谣言案170余起](https://www.zaobao.com/news/china/story20260724-9414244)
+Token length: 486
+Summarized using deepseek-v4-flash
+Append: [中国亚细安外长发表应对中东局势影响联合声明 将加强区域能源合作](https://www.zaobao.com/news/china/story20260724-9415829)
+Token length: 959
+Summarized using deepseek-v4-flash
+Append: [中国对离岸信托开征个税 严堵避税漏洞](https://www.zaobao.com/news/china/story20260724-9416127)
+append_entries: 5
+Finish: 2026-07-24 13:13:05.145334

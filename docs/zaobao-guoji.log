@@ -10136,3 +10136,18 @@ Append: [落实AUKUS计划 澳洲再拨款41亿新元建造核潜艇](https://ww
 Append: [尹锡悦涉助前防长潜逃案 检方求刑5年](https://www.zaobao.com/news/world/story20260724-9414681)
 append_entries: 8
 Finish: 2026-07-24 11:29:28.878216
+------------------------------------------------------
+Started: 2026-07-24 13:13:06.039435
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 726
+Summarized using deepseek-v4-flash
+Append: [沙特改以苏伊士运河出口石油 海运时间增1个月](https://www.zaobao.com/news/world/story20260724-9415625)
+Token length: 1122
+Summarized using deepseek-v4-flash
+Append: [美国向60经济体开征“强迫劳动”关税 新加坡税率12.5%](https://www.zaobao.com/news/world/story20260724-9415548)
+Token length: 584
+Summarized using deepseek-v4-flash
+Append: [俄罗斯袭乌克兰城市 乌克兰攻圣彼得堡郊外仓库](https://www.zaobao.com/news/world/story20260724-9416053)
+append_entries: 3
+Finish: 2026-07-24 13:13:26.599117
