@@ -10151,3 +10151,24 @@ Summarized using deepseek-v4-flash
 Append: [俄罗斯袭乌克兰城市 乌克兰攻圣彼得堡郊外仓库](https://www.zaobao.com/news/world/story20260724-9416053)
 append_entries: 3
 Finish: 2026-07-24 13:13:26.599117
+------------------------------------------------------
+Started: 2026-07-24 15:19:14.176074
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1219
+Summarized using deepseek-v4-flash
+Append: [美国打击伊朗至里海沿岸 伊朗无人机反击美军基地](https://www.zaobao.com/news/world/story20260724-9416660)
+Token length: 550
+Summarized using deepseek-v4-flash
+Append: [霍尔木兹海峡6000海员陷困境 联合国吁各国助撤离](https://www.zaobao.com/news/world/story20260724-9417128)
+Token length: 939
+Summarized using deepseek-v4-flash
+Append: [美以“强迫劳动”名目开征新关税 多国纷纷驳斥](https://www.zaobao.com/news/world/story20260724-9416545)
+Token length: 483
+Summarized using deepseek-v4-flash
+Append: [日本连续四天出现“酷暑日” 追平历史纪录](https://www.zaobao.com/news/world/story20260724-9416980)
+Token length: 591
+Summarized using deepseek-v4-flash
+Append: [林火狂烧 西班牙进入紧急状态 法国疏散游客](https://www.zaobao.com/news/world/story20260724-9416730)
+append_entries: 5
+Finish: 2026-07-24 15:19:38.009884

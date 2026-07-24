@@ -11007,3 +11007,21 @@ Summarized using deepseek-v4-flash
 Append: [中国对离岸信托开征个税 严堵避税漏洞](https://www.zaobao.com/news/china/story20260724-9416127)
 append_entries: 5
 Finish: 2026-07-24 13:13:05.145334
+------------------------------------------------------
+Started: 2026-07-24 15:18:55.654857
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 612
+Summarized using deepseek-v4-flash
+Append: [中东局势推高油价 国泰8月起上调客货运燃油附加费](https://www.zaobao.com/news/china/story20260724-9414650)
+Token length: 1118
+Summarized using deepseek-v4-flash
+Append: [中国反制欧盟对俄制裁 限制14家欧洲实体取得两用物项](https://www.zaobao.com/news/china/story20260724-9416519)
+Token length: 397
+Summarized using deepseek-v4-flash
+Append: [中国证监会原副主席方星海被查](https://www.zaobao.com/news/china/story20260724-9416571)
+Token length: 1051
+Summarized using deepseek-v4-flash
+Append: [美国驻华大使馆祝贺邓煜王虹获菲尔兹奖](https://www.zaobao.com/news/china/story20260724-9416522)
+append_entries: 4
+Finish: 2026-07-24 15:19:13.143440
