@@ -11025,3 +11025,12 @@ Summarized using deepseek-v4-flash
 Append: [美国驻华大使馆祝贺邓煜王虹获菲尔兹奖](https://www.zaobao.com/news/china/story20260724-9416522)
 append_entries: 4
 Finish: 2026-07-24 15:19:13.143440
+------------------------------------------------------
+Started: 2026-07-24 17:18:03.110891
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1490
+Summarized using deepseek-v4-flash
+Append: [中菲五天内三度在南中国海对峙 学者：本轮摩擦不至于失控](https://www.zaobao.com/news/china/story20260724-9417191)
+append_entries: 1
+Finish: 2026-07-24 17:18:09.624810
