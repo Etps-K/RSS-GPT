@@ -10089,3 +10089,26 @@ Summarized using deepseek-v4-flash
 Append: [巴西将启动互惠法反制美国关税 并诉诸世贸组织](https://www.zaobao.com/news/world/story20260724-9412133)
 append_entries: 4
 Finish: 2026-07-24 04:58:17.523105
+------------------------------------------------------
+Started: 2026-07-24 08:03:36.100610
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 408
+Summarized using deepseek-v4-flash
+Append: [五角大楼下调美伊冲突美军阵亡人数至14人](https://www.zaobao.com/news/world/story20260724-9414003)
+Token length: 882
+Summarized using deepseek-v4-flash
+Append: [联合国举行秘书长候选人辩论会](https://www.zaobao.com/news/world/story20260724-9413977)
+Token length: 367
+Summarized using deepseek-v4-flash
+Append: [欧洲高温引发多地野火 法国请求欧盟援助](https://www.zaobao.com/news/world/story20260724-9413881)
+Token length: 333
+Summarized using deepseek-v4-flash
+Append: [世界银行：委内瑞拉地震直接损失196亿美元](https://www.zaobao.com/news/world/story20260724-9413585)
+Token length: 435
+Summarized using deepseek-v4-flash
+Append: [美媒：伊朗拒美方停火提议 警告勿动用伊朗资金](https://www.zaobao.com/news/world/story20260724-9413238)
+Append: [面对美国关税威胁 加总理：必要时或采取报复措施](https://www.zaobao.com/news/world/story20260724-9413051)
+Append: [美教育部撤销“差异影响”规定 民权团体批评削弱反歧视保护](https://www.zaobao.com/news/world/story20260724-9412938)
+append_entries: 7
+Finish: 2026-07-24 08:03:57.982999

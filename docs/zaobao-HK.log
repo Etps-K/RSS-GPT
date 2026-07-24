@@ -10931,3 +10931,21 @@ Append: [美财政部指人民币汇率管理透明度不足](https://www.zaobao
 Append: [长鑫科技下周一在科创板上市](https://www.zaobao.com/news/china/story20260724-9412203)
 append_entries: 12
 Finish: 2026-07-24 04:58:03.344835
+------------------------------------------------------
+Started: 2026-07-24 08:03:16.016157
+Existing_entries: 1012
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1026
+Summarized using deepseek-v4-flash
+Append: [邓煜热衷“二次元”成热话 得知获菲尔兹奖时在看恋爱小说](https://www.zaobao.com/news/china/story20260724-9413959)
+Token length: 435
+Summarized using deepseek-v4-flash
+Append: [泄露工作秘密 西藏人大常委会原副主任王峻被双开](https://www.zaobao.com/news/china/story20260724-9413864)
+Token length: 674
+Summarized using deepseek-v4-flash
+Append: [中泰防长会谈 推动两军合作提质升级](https://www.zaobao.com/news/china/story20260724-9413758)
+Token length: 811
+Summarized using deepseek-v4-flash
+Append: [中国多家航司和线上平台被约谈 限期自查整改机票超售问题](https://www.zaobao.com/news/china/story20260724-9413209)
+append_entries: 4
+Finish: 2026-07-24 08:03:35.093314

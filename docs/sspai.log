@@ -6808,3 +6808,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等](https://sspai.com/post/112677)
 append_entries: 2
 Finish: 2026-07-24 04:57:34.913165
+------------------------------------------------------
+Started: 2026-07-24 08:03:12.017133
+Existing_entries: 363
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
+append_entries: 1
+Finish: 2026-07-24 08:03:15.099101
