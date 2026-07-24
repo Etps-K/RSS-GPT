@@ -11046,3 +11046,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-24 20:53:24.418464
+------------------------------------------------------
+Started: 2026-07-24 22:50:04.418103
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1648
+Summarized using deepseek-v4-flash
+Append: [陈婧：非典型的天才们](https://www.zaobao.com/news/china/story20260725-9417258)
+Token length: 264
+Summarized using deepseek-v4-flash
+Append: [新闻人间：梁文锋的克制与野心](https://www.zaobao.com/news/china/story20260725-9416128)
+append_entries: 2
+Finish: 2026-07-24 22:50:16.281978
