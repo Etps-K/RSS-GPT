@@ -10342,3 +10342,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-25 20:38:22.906116
+------------------------------------------------------
+Started: 2026-07-25 22:41:33.229514
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 181
+Summarized using deepseek-v4-flash
+Append: [国际特稿：第二任内家族财富暴涨 特朗普坐大位揽大权 招来公权谋私利质疑](https://www.zaobao.com/news/world/story20260726-9405784)
+append_entries: 1
+Finish: 2026-07-25 22:41:36.390354
