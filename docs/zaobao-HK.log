@@ -11143,3 +11143,24 @@ Summarized using deepseek-v4-flash
 Append: [涉垄断被罚后 携程确定立即停止独家合作](https://www.zaobao.com/news/china/story20260725-9419359)
 append_entries: 4
 Finish: 2026-07-25 09:24:40.554488
+------------------------------------------------------
+Started: 2026-07-25 10:59:22.641010
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 681
+Summarized using deepseek-v4-flash
+Append: [美青年高薪受聘敦煌被质疑是“间谍” 胡锡进：网民想搅黄他工作](https://www.zaobao.com/news/china/story20260725-9419681)
+Token length: 266
+Summarized using deepseek-v4-flash
+Append: [台风“红霞”逼近 国泰取消部分往返香港航班](https://www.zaobao.com/news/china/story20260725-9419760)
+Token length: 592
+Summarized using deepseek-v4-flash
+Append: [宇树科技创办人王兴兴登上《时代》杂志封面](https://www.zaobao.com/news/china/story20260725-9419707)
+Token length: 456
+Summarized using deepseek-v4-flash
+Append: [“红霞”将以台风或强台风级登陆 多地停运、停航、停课](https://www.zaobao.com/news/china/story20260725-9419701)
+Token length: 412
+Summarized using deepseek-v4-flash
+Append: [中国常驻日内瓦代表团副代表沈健将离任](https://www.zaobao.com/news/china/story20260725-9419598)
+append_entries: 5
+Finish: 2026-07-25 10:59:46.350362

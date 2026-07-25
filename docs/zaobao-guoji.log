@@ -10263,3 +10263,26 @@ Existing_entries: 1003
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-25 09:24:41.676643
+------------------------------------------------------
+Started: 2026-07-25 10:59:47.046799
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 319
+Summarized using deepseek-v4-flash
+Append: [青年抗议持续数日 印度教育部长辞职](https://www.zaobao.com/news/world/story20260725-9419821)
+Token length: 453
+Summarized using deepseek-v4-flash
+Append: [SpaceX星舰成功完成上市后首次试飞](https://www.zaobao.com/news/world/story20260725-9419535)
+Token length: 619
+Summarized using deepseek-v4-flash
+Append: [报复谷歌被开罚 特朗普恫言对欧盟展开新贸易调查](https://www.zaobao.com/news/world/story20260725-9419229)
+Token length: 879
+Summarized using deepseek-v4-flash
+Append: [贸易摩擦升级 加拿大独自为跨国大桥剪彩](https://www.zaobao.com/news/world/story20260725-9419541)
+Token length: 671
+Summarized using deepseek-v4-flash
+Append: [美国多家科技企业表明支持开放权重AI模型](https://www.zaobao.com/news/world/story20260725-9419270)
+Append: [韩美科企签逾万亿新元合作协议 布局AI供应链](https://www.zaobao.com/news/world/story20260725-9419286)
+Append: [胡塞武装：发射导弹打击沙特南部城市](https://www.zaobao.com/news/world/story20260725-9419312)
+append_entries: 7
+Finish: 2026-07-25 11:00:12.740003
