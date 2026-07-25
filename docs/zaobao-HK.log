@@ -11197,3 +11197,12 @@ Summarized using deepseek-v4-flash
 Append: [蓝白号召“725凯道反毒油” 国民党称逾20万人参与](https://www.zaobao.com/news/china/story20260725-9420624)
 append_entries: 2
 Finish: 2026-07-25 16:42:19.292820
+------------------------------------------------------
+Started: 2026-07-25 18:45:57.824501
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 530
+Summarized using deepseek-v4-flash
+Append: [“红霞”预计于粤闽登陆 中国发布今年首个台风红色预警](https://www.zaobao.com/news/china/story20260725-9420497)
+append_entries: 1
+Finish: 2026-07-25 18:46:03.550003
