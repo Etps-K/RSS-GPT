@@ -11058,3 +11058,12 @@ Summarized using deepseek-v4-flash
 Append: [新闻人间：梁文锋的克制与野心](https://www.zaobao.com/news/china/story20260725-9416128)
 append_entries: 2
 Finish: 2026-07-24 22:50:16.281978
+------------------------------------------------------
+Started: 2026-07-25 01:23:42.948100
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 526
+Summarized using deepseek-v4-flash
+Append: [中国公安部长与FBI局长会面：希望双方开展更多建设性对话](https://www.zaobao.com/news/china/story20260725-9417860)
+append_entries: 1
+Finish: 2026-07-25 01:23:48.011267

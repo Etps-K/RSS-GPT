@@ -10205,3 +10205,18 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-24 22:50:17.399090
+------------------------------------------------------
+Started: 2026-07-25 01:23:49.107816
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 381
+Summarized using deepseek-v4-flash
+Append: [特朗普：相信中俄不会暗中协助伊朗](https://www.zaobao.com/news/world/story20260725-9417861)
+Token length: 428
+Summarized using deepseek-v4-flash
+Append: [特主导联军空袭也门胡塞目标 回应红海商船遇袭](https://www.zaobao.com/news/world/story20260725-9417828)
+Token length: 292
+Summarized using deepseek-v4-flash
+Append: [内坦亚胡访白宫前 特朗普召集官员讨论升级对伊朗打击](https://www.zaobao.com/news/world/story20260725-9417823)
+append_entries: 3
+Finish: 2026-07-25 01:24:01.546183
