@@ -10242,3 +10242,18 @@ Append: [一艘驶向伊朗的油轮被美军开火 失去航行能力](https://
 Append: [美小型企业起诉 挑战特朗普“强迫劳动”关税](https://www.zaobao.com/news/world/story20260725-9417889)
 append_entries: 6
 Finish: 2026-07-25 04:54:02.233655
+------------------------------------------------------
+Started: 2026-07-25 07:47:24.341729
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 396
+Summarized using deepseek-v4-flash
+Append: [欧洲央行首席经济学家：欧美贸易重要但非主导](https://www.zaobao.com/news/world/story20260725-9418835)
+Token length: 710
+Summarized using deepseek-v4-flash
+Append: [消息：美英防长通话 赫格塞斯游说英方主办海峡安全峰会](https://www.zaobao.com/news/world/story20260725-9418713)
+Token length: 376
+Summarized using deepseek-v4-flash
+Append: [美国麻疹病例创35年来新高](https://www.zaobao.com/news/world/story20260725-9417777)
+append_entries: 3
+Finish: 2026-07-25 07:47:41.376459
