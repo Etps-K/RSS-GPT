@@ -10286,3 +10286,12 @@ Append: [韩美科企签逾万亿新元合作协议 布局AI供应链](https://w
 Append: [胡塞武装：发射导弹打击沙特南部城市](https://www.zaobao.com/news/world/story20260725-9419312)
 append_entries: 7
 Finish: 2026-07-25 11:00:12.740003
+------------------------------------------------------
+Started: 2026-07-25 12:54:49.101685
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 868
+Summarized using deepseek-v4-flash
+Append: [胡塞武装反击沙特空袭 也门局势升级](https://www.zaobao.com/news/world/story20260725-9419590)
+append_entries: 1
+Finish: 2026-07-25 12:54:53.030618

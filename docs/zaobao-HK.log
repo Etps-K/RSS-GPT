@@ -11164,3 +11164,12 @@ Summarized using deepseek-v4-flash
 Append: [中国常驻日内瓦代表团副代表沈健将离任](https://www.zaobao.com/news/china/story20260725-9419598)
 append_entries: 5
 Finish: 2026-07-25 10:59:46.350362
+------------------------------------------------------
+Started: 2026-07-25 12:54:43.678624
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 529
+Summarized using deepseek-v4-flash
+Append: [香港建筑地盘禁烟首周 开出21张罚单](https://www.zaobao.com/news/china/story20260725-9419850)
+append_entries: 1
+Finish: 2026-07-25 12:54:48.065573
