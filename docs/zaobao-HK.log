@@ -11206,3 +11206,9 @@ Summarized using deepseek-v4-flash
 Append: [“红霞”预计于粤闽登陆 中国发布今年首个台风红色预警](https://www.zaobao.com/news/china/story20260725-9420497)
 append_entries: 1
 Finish: 2026-07-25 18:46:03.550003
+------------------------------------------------------
+Started: 2026-07-25 20:38:21.896089
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-25 20:38:22.069266
