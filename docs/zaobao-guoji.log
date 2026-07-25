@@ -10220,3 +10220,25 @@ Summarized using deepseek-v4-flash
 Append: [内坦亚胡访白宫前 特朗普召集官员讨论升级对伊朗打击](https://www.zaobao.com/news/world/story20260725-9417823)
 append_entries: 3
 Finish: 2026-07-25 01:24:01.546183
+------------------------------------------------------
+Started: 2026-07-25 04:53:36.500920
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 749
+Summarized using deepseek-v4-flash
+Append: [涉严重不当行为 国际刑事法院检察官被解职](https://www.zaobao.com/news/world/story20260725-9418456)
+Token length: 366
+Summarized using deepseek-v4-flash
+Append: [NASA西班牙深空通信站遭野火波及 人员紧急撤离](https://www.zaobao.com/news/world/story20260725-9418300)
+Token length: 426
+Summarized using deepseek-v4-flash
+Append: [哥伦比亚宣布进入“国家灾难状态”以应对气象灾害](https://www.zaobao.com/news/world/story20260725-9417776)
+Token length: 514
+Summarized using deepseek-v4-flash
+Append: [特朗普政府要求暂缓H-1B签证费裁决 遭上诉法院驳回](https://www.zaobao.com/news/world/story20260725-9418063)
+Token length: 203
+Summarized using deepseek-v4-flash
+Append: [一艘驶向伊朗的油轮被美军开火 失去航行能力](https://www.zaobao.com/news/world/story20260725-9417937)
+Append: [美小型企业起诉 挑战特朗普“强迫劳动”关税](https://www.zaobao.com/news/world/story20260725-9417889)
+append_entries: 6
+Finish: 2026-07-25 04:54:02.233655
