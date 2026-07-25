@@ -10307,3 +10307,26 @@ Summarized using deepseek-v4-flash
 Append: [美军备战新打击 特朗普称伊朗态度转趋认真](https://www.zaobao.com/news/world/story20260725-9420281)
 append_entries: 2
 Finish: 2026-07-25 14:54:00.043047
+------------------------------------------------------
+Started: 2026-07-25 16:42:20.318954
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 643
+Summarized using deepseek-v4-flash
+Append: [强风或助长西班牙山火 政府列“拯救生命”为要务](https://www.zaobao.com/news/world/story20260726-9420811)
+Token length: 499
+Summarized using deepseek-v4-flash
+Append: [法国出动军用运输机 增派500士兵协助扑灭山火](https://www.zaobao.com/news/world/story20260725-9420772)
+Token length: 514
+Summarized using deepseek-v4-flash
+Append: [哈萨克斯坦总统当普京面直言：乌克兰战争应该停止](https://www.zaobao.com/news/world/story20260725-9420716)
+Token length: 499
+Summarized using deepseek-v4-flash
+Append: [日本连续五天“酷暑” 部分地区发布中暑预警](https://www.zaobao.com/news/world/story20260725-9420630)
+Token length: 199
+Summarized using deepseek-v4-flash
+Append: [叙利亚两客车相撞 35死30伤](https://www.zaobao.com/news/world/story20260725-9420577)
+Append: [17年来首访叙利亚 联合国秘书长直言戈兰高地局势“不可接受”](https://www.zaobao.com/news/world/story20260725-9420537)
+Append: [鸣枪示警迫改变航向 伊朗拦截四船](https://www.zaobao.com/news/world/story20260725-9420423)
+append_entries: 7
+Finish: 2026-07-25 16:42:41.901997

@@ -11185,3 +11185,15 @@ Summarized using deepseek-v4-flash
 Append: [基因编辑治疗女童亡 上海科学家发论文未提](https://www.zaobao.com/news/china/story20260725-9419417)
 append_entries: 2
 Finish: 2026-07-25 14:53:51.430362
+------------------------------------------------------
+Started: 2026-07-25 16:42:07.530945
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1485
+Summarized using deepseek-v4-flash
+Append: [方星海落马 中国证监系统成金融反腐焦点](https://www.zaobao.com/news/china/story20260725-9420404)
+Token length: 1448
+Summarized using deepseek-v4-flash
+Append: [蓝白号召“725凯道反毒油” 国民党称逾20万人参与](https://www.zaobao.com/news/china/story20260725-9420624)
+append_entries: 2
+Finish: 2026-07-25 16:42:19.292820
