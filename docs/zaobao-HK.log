@@ -11125,3 +11125,21 @@ Append: [中国三落马官员同日被开除党籍](https://www.zaobao.com/news
 Append: [王毅会伊朗外长：坚持谈判化解争端回归落实备忘录共识](https://www.zaobao.com/news/china/story20260725-9418543)
 append_entries: 13
 Finish: 2026-07-25 07:47:23.447523
+------------------------------------------------------
+Started: 2026-07-25 09:24:24.249505
+Existing_entries: 1013
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 560
+Summarized using deepseek-v4-flash
+Append: [夏宝龙促港议员支持政府为市民解难排忧](https://www.zaobao.com/news/china/story20260725-9419515)
+Token length: 384
+Summarized using deepseek-v4-flash
+Append: [山西运城一路面塌陷现白骨 当地回应为南北朝战争残骸](https://www.zaobao.com/news/china/story20260725-9419517)
+Token length: 540
+Summarized using deepseek-v4-flash
+Append: [大陆军机上半年在台周边活动减半 港媒：因陆美关系改善](https://www.zaobao.com/news/china/story20260725-9419429)
+Token length: 659
+Summarized using deepseek-v4-flash
+Append: [涉垄断被罚后 携程确定立即停止独家合作](https://www.zaobao.com/news/china/story20260725-9419359)
+append_entries: 4
+Finish: 2026-07-25 09:24:40.554488

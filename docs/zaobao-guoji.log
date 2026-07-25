@@ -10257,3 +10257,9 @@ Summarized using deepseek-v4-flash
 Append: [美国麻疹病例创35年来新高](https://www.zaobao.com/news/world/story20260725-9417777)
 append_entries: 3
 Finish: 2026-07-25 07:47:41.376459
+------------------------------------------------------
+Started: 2026-07-25 09:24:41.581891
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-25 09:24:41.676643
