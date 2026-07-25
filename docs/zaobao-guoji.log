@@ -10295,3 +10295,15 @@ Summarized using deepseek-v4-flash
 Append: [胡塞武装反击沙特空袭 也门局势升级](https://www.zaobao.com/news/world/story20260725-9419590)
 append_entries: 1
 Finish: 2026-07-25 12:54:53.030618
+------------------------------------------------------
+Started: 2026-07-25 14:53:52.104488
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1118
+Summarized using deepseek-v4-flash
+Append: [首批美国商家入禀法庭 挑战特朗普借“强迫劳动”征新关税](https://www.zaobao.com/news/world/story20260725-9420131)
+Token length: 1037
+Summarized using deepseek-v4-flash
+Append: [美军备战新打击 特朗普称伊朗态度转趋认真](https://www.zaobao.com/news/world/story20260725-9420281)
+append_entries: 2
+Finish: 2026-07-25 14:54:00.043047

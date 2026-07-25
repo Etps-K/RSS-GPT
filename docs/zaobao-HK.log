@@ -11173,3 +11173,15 @@ Summarized using deepseek-v4-flash
 Append: [香港建筑地盘禁烟首周 开出21张罚单](https://www.zaobao.com/news/china/story20260725-9419850)
 append_entries: 1
 Finish: 2026-07-25 12:54:48.065573
+------------------------------------------------------
+Started: 2026-07-25 14:53:39.417241
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 464
+Summarized using deepseek-v4-flash
+Append: [香港调整杠杆及反向产品监管框架 加强投资者保障](https://www.zaobao.com/news/china/story20260725-9420341)
+Token length: 670
+Summarized using deepseek-v4-flash
+Append: [基因编辑治疗女童亡 上海科学家发论文未提](https://www.zaobao.com/news/china/story20260725-9419417)
+append_entries: 2
+Finish: 2026-07-25 14:53:51.430362
