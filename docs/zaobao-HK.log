@@ -11335,3 +11335,9 @@ Summarized using deepseek-v4-flash
 Append: [台湾发生5.6级地震 台北新北震感明显](https://www.zaobao.com/news/china/story20260726-9423471)
 append_entries: 2
 Finish: 2026-07-26 14:55:09.114549
+------------------------------------------------------
+Started: 2026-07-26 16:43:21.057792
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-26 16:43:21.257810

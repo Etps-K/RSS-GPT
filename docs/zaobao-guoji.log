@@ -10480,3 +10480,15 @@ Append: [以军空袭加沙中部 哈马斯高级安全官员身亡](https://www
 Append: [韩国5月旅行收入超支出 顺差逾2亿美元](https://www.zaobao.com/news/world/story20260726-9422310)
 append_entries: 6
 Finish: 2026-07-26 14:55:33.155628
+------------------------------------------------------
+Started: 2026-07-26 16:43:22.301234
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 453
+Summarized using deepseek-v4-flash
+Append: [葡萄牙出土1.48亿年前甲龙类恐龙化石](https://www.zaobao.com/news/world/story20260726-9422372)
+Token length: 1672
+Summarized using deepseek-v4-flash
+Append: [为外交斡旋制造空间 美伊连续两日未相互攻击](https://www.zaobao.com/news/world/story20260726-9423554)
+append_entries: 2
+Finish: 2026-07-26 16:43:32.103264
