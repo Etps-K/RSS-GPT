@@ -11218,3 +11218,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-25 22:41:32.205645
+------------------------------------------------------
+Started: 2026-07-26 01:26:25.931410
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 468
+Summarized using deepseek-v4-flash
+Append: [台风“红霞”在惠州登陆 广东转移近35万人](https://www.zaobao.com/news/china/story20260726-9421034)
+Token length: 246
+Summarized using deepseek-v4-flash
+Append: [特稿：人渐散茶变凉 传统厨艺难传承 港粤式酒楼逆风中求存 创新转型盼守住老味道](https://www.zaobao.com/news/china/story20260726-9409734)
+append_entries: 2
+Finish: 2026-07-26 01:26:36.118501

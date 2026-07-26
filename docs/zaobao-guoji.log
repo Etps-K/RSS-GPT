@@ -10351,3 +10351,25 @@ Summarized using deepseek-v4-flash
 Append: [国际特稿：第二任内家族财富暴涨 特朗普坐大位揽大权 招来公权谋私利质疑](https://www.zaobao.com/news/world/story20260726-9405784)
 append_entries: 1
 Finish: 2026-07-25 22:41:36.390354
+------------------------------------------------------
+Started: 2026-07-26 01:26:37.138784
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 640
+Summarized using deepseek-v4-flash
+Append: [质疑美国干预总统选举 巴西拒绝两美国高官签证](https://www.zaobao.com/news/world/story20260726-9421120)
+Token length: 866
+Summarized using deepseek-v4-flash
+Append: [巴西前总统博索纳罗长子宣布将参选总统 挑战现总统卢拉](https://www.zaobao.com/news/world/story20260726-9421092)
+Token length: 547
+Summarized using deepseek-v4-flash
+Append: [德国骄傲游行发生汽车冲撞人群 酿一死15伤](https://www.zaobao.com/news/world/story20260726-9421066)
+Token length: 123
+Summarized using deepseek-v4-flash
+Append: [美国阿拉斯加州发生5.0级地震](https://www.zaobao.com/news/world/story20260726-9421032)
+Token length: 480
+Summarized using deepseek-v4-flash
+Append: [伊朗谴责乌克兰袭击里海一艘伊朗商船 造成一死一伤](https://www.zaobao.com/news/world/story20260726-9421019)
+Append: [特朗普命令美军暂停对伊朗发动打击](https://www.zaobao.com/news/world/story20260726-9421007)
+append_entries: 6
+Finish: 2026-07-26 01:27:00.331981
