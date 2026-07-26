@@ -4166,3 +4166,11 @@ Fetch error: 403
 Fetch failed from https://rsshub.app/weibo/search/hot
 append_entries: 0
 error when rendering xml, skip docs/weibo-hot
+------------------------------------------------------
+Started: 2026-07-26 05:18:46.278632
+Existing_entries: 0
+Fetching from https://rsshub.app/weibo/search/hot
+Fetch error: 403
+Fetch failed from https://rsshub.app/weibo/search/hot
+append_entries: 0
+error when rendering xml, skip docs/weibo-hot

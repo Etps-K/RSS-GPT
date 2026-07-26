@@ -11230,3 +11230,32 @@ Summarized using deepseek-v4-flash
 Append: [特稿：人渐散茶变凉 传统厨艺难传承 港粤式酒楼逆风中求存 创新转型盼守住老味道](https://www.zaobao.com/news/china/story20260726-9409734)
 append_entries: 2
 Finish: 2026-07-26 01:26:36.118501
+------------------------------------------------------
+Started: 2026-07-26 05:17:59.337981
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 656
+Summarized using deepseek-v4-flash
+Append: [港议员赴京研修采访受限 立法会主席：遵循一贯做法](https://www.zaobao.com/news/china/story20260726-9421519)
+Token length: 409
+Summarized using deepseek-v4-flash
+Append: [香港航班高铁大面积取消](https://www.zaobao.com/news/china/story20260726-9421468)
+Token length: 337
+Summarized using deepseek-v4-flash
+Append: [越南船舶南中国海沉没 中方救起39人仍有23人失联](https://www.zaobao.com/news/china/story20260726-9421701)
+Token length: 469
+Summarized using deepseek-v4-flash
+Append: [粤车南下扩至大湾区九成 每日预约名额增至200辆](https://www.zaobao.com/news/china/story20260726-9421576)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [中国官媒：王毅在马尼拉未与日外长交谈](https://www.zaobao.com/news/china/story20260726-9421465)
+Append: [“红霞”登陆广东 赣湘粤43县发山洪最高预警](https://www.zaobao.com/news/china/story20260726-9421422)
+Append: [中南大学成立调查组 核查硕士论文抄袭举报](https://www.zaobao.com/news/china/story20260726-9421382)
+Append: [黄仁勋首次X平台发文 携硅谷巨头力挺开源AI](https://www.zaobao.com/news/china/story20260726-9421334)
+Append: [国民党去年度负债逾21亿新台币 主要为退职金](https://www.zaobao.com/news/china/story20260726-9421280)
+Append: [一年内操纵证券市场18次 中国一人被罚1.75亿人民币](https://www.zaobao.com/news/china/story20260726-9421257)
+Append: [韩国瑜表态将积极推动总统国情报告制度化](https://www.zaobao.com/news/china/story20260726-9421170)
+Append: [受台风“红霞”影响 港珠澳大桥主桥今起临时封桥](https://www.zaobao.com/news/china/story20260726-9421143)
+Append: [内部会议录音外传后 DeepSeek据报已暂停第二轮融资](https://www.zaobao.com/news/china/story20260726-9421127)
+append_entries: 13
+Finish: 2026-07-26 05:18:22.432539

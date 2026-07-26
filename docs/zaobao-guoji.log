@@ -10373,3 +10373,24 @@ Append: [伊朗谴责乌克兰袭击里海一艘伊朗商船 造成一死一伤]
 Append: [特朗普命令美军暂停对伊朗发动打击](https://www.zaobao.com/news/world/story20260726-9421007)
 append_entries: 6
 Finish: 2026-07-26 01:27:00.331981
+------------------------------------------------------
+Started: 2026-07-26 05:18:23.477461
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1149
+Summarized using deepseek-v4-flash
+Append: [民调：美国中期选举共和党或失去众议院控制权](https://www.zaobao.com/news/world/story20260726-9421668)
+Token length: 428
+Summarized using deepseek-v4-flash
+Append: [澳洲总理阿尔巴尼斯：将就关税问题与特朗普磋商](https://www.zaobao.com/news/world/story20260726-9421558)
+Token length: 423
+Summarized using deepseek-v4-flash
+Append: [伊朗促欧盟就乌克兰袭击里海商船采取果断行动](https://www.zaobao.com/news/world/story20260726-9421463)
+Token length: 748
+Summarized using deepseek-v4-flash
+Append: [凯蒂·佩里谴责美国政府擅用《烟火》配打伊视频](https://www.zaobao.com/news/world/story20260726-9421316)
+Token length: 231
+Summarized using deepseek-v4-flash
+Append: [伊朗：战争和停火期间 共售出180亿美元石油](https://www.zaobao.com/news/world/story20260726-9421249)
+append_entries: 5
+Finish: 2026-07-26 05:18:46.191353
