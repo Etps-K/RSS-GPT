@@ -11353,3 +11353,9 @@ Summarized using deepseek-v4-flash
 Append: [美国扩大对华科研合作黑名单 复旦和上海交通大学上榜](https://www.zaobao.com/news/china/story20260726-9423583)
 append_entries: 2
 Finish: 2026-07-26 18:52:09.760988
+------------------------------------------------------
+Started: 2026-07-26 20:43:23.206201
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-26 20:43:23.344672
