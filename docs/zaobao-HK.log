@@ -11259,3 +11259,27 @@ Append: [受台风“红霞”影响 港珠澳大桥主桥今起临时封桥](ht
 Append: [内部会议录音外传后 DeepSeek据报已暂停第二轮融资](https://www.zaobao.com/news/china/story20260726-9421127)
 append_entries: 13
 Finish: 2026-07-26 05:18:22.432539
+------------------------------------------------------
+Started: 2026-07-26 08:03:03.985012
+Existing_entries: 1013
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 489
+Summarized using deepseek-v4-flash
+Append: [中国将播钓鱼岛纪录片 强调“自古以来是中国领土”](https://www.zaobao.com/news/china/story20260726-9422353)
+Token length: 845
+Summarized using deepseek-v4-flash
+Append: [香港准宠物狗入店两周 31家餐厅退出试行](https://www.zaobao.com/news/china/story20260726-9422137)
+Token length: 764
+Summarized using deepseek-v4-flash
+Append: [车主自驾出境被“锁车”30多小时 极氪：将优化跨境用车规则](https://www.zaobao.com/news/china/story20260726-9422118)
+Token length: 878
+Summarized using deepseek-v4-flash
+Append: [中国指日右翼势力AI篡改侵华历史 可能污染大模型数据](https://www.zaobao.com/news/china/story20260726-9422066)
+Token length: 785
+Summarized using deepseek-v4-flash
+Append: [2028蓝白合只推副手？ 柯文哲：说不定民众党人选更强](https://www.zaobao.com/news/china/story20260726-9422015)
+Append: [上交大医学院成立工作组调查基因编辑疗法致死事件](https://www.zaobao.com/news/china/story20260726-9421938)
+Append: [郑丽文谈参选总统：不自我设限 保留所有可能](https://www.zaobao.com/news/china/story20260726-9421695)
+Append: [LV将厦门一楼盘告上法庭 指四叶草装饰攀附品牌](https://www.zaobao.com/news/china/story20260726-9421648)
+append_entries: 8
+Finish: 2026-07-26 08:03:27.523477

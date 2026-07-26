@@ -10394,3 +10394,24 @@ Summarized using deepseek-v4-flash
 Append: [伊朗：战争和停火期间 共售出180亿美元石油](https://www.zaobao.com/news/world/story20260726-9421249)
 append_entries: 5
 Finish: 2026-07-26 05:18:46.191353
+------------------------------------------------------
+Started: 2026-07-26 08:03:28.433769
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 400
+Summarized using deepseek-v4-flash
+Append: [伊朗称与阿曼就霍尔木兹海峡问题谈判取得进展](https://www.zaobao.com/news/world/story20260726-9422208)
+Token length: 360
+Summarized using deepseek-v4-flash
+Append: [英首相伯纳姆排除提前大选 必要时批评特朗普捍卫国家利益](https://www.zaobao.com/news/world/story20260726-9422130)
+Token length: 422
+Summarized using deepseek-v4-flash
+Append: [美军连续两天未袭伊 美媒称弹药短缺担忧抑制冲突升级](https://www.zaobao.com/news/world/story20260726-9422094)
+Token length: 326
+Summarized using deepseek-v4-flash
+Append: [泽连斯基：俄罗斯计划增派3万名朝鲜士兵](https://www.zaobao.com/news/world/story20260726-9422002)
+Token length: 1077
+Summarized using deepseek-v4-flash
+Append: [法国西班牙大规模林火 居民指浓烟像火山将喷发](https://www.zaobao.com/news/world/story20260726-9421941)
+append_entries: 5
+Finish: 2026-07-26 08:03:56.602130
