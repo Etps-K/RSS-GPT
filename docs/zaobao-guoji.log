@@ -10492,3 +10492,9 @@ Summarized using deepseek-v4-flash
 Append: [为外交斡旋制造空间 美伊连续两日未相互攻击](https://www.zaobao.com/news/world/story20260726-9423554)
 append_entries: 2
 Finish: 2026-07-26 16:43:32.103264
+------------------------------------------------------
+Started: 2026-07-26 18:52:10.793788
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-26 18:52:10.897200

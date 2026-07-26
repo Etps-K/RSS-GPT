@@ -11341,3 +11341,15 @@ Existing_entries: 1002
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-26 16:43:21.257810
+------------------------------------------------------
+Started: 2026-07-26 18:52:00.458723
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1510
+Summarized using deepseek-v4-flash
+Append: [中国官媒不点名反驳日本外长说法 两国外长有无接触成罗生门](https://www.zaobao.com/news/china/story20260726-9423696)
+Token length: 1172
+Summarized using deepseek-v4-flash
+Append: [美国扩大对华科研合作黑名单 复旦和上海交通大学上榜](https://www.zaobao.com/news/china/story20260726-9423583)
+append_entries: 2
+Finish: 2026-07-26 18:52:09.760988
