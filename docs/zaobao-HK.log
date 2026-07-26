@@ -11323,3 +11323,15 @@ Summarized using deepseek-v4-flash
 Append: [甘肃一景区山洪致10人遇难23人受伤](https://www.zaobao.com/news/china/story20260726-9423017)
 append_entries: 4
 Finish: 2026-07-26 12:52:41.884669
+------------------------------------------------------
+Started: 2026-07-26 14:55:00.201479
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 614
+Summarized using deepseek-v4-flash
+Append: [供需错配需求萎缩 中国光伏三巨头合计预计亏逾百亿人民币](https://www.zaobao.com/news/china/story20260726-9422377)
+Token length: 143
+Summarized using deepseek-v4-flash
+Append: [台湾发生5.6级地震 台北新北震感明显](https://www.zaobao.com/news/china/story20260726-9423471)
+append_entries: 2
+Finish: 2026-07-26 14:55:09.114549

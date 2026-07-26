@@ -10458,3 +10458,25 @@ Summarized using deepseek-v4-flash
 Append: [高市早苗推动争议议程 民望持续下滑](https://www.zaobao.com/news/world/story20260726-9422827)
 append_entries: 5
 Finish: 2026-07-26 12:53:04.012148
+------------------------------------------------------
+Started: 2026-07-26 14:55:10.142817
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 488
+Summarized using deepseek-v4-flash
+Append: [印度政府接受诉求 “蟑螂运动”结束抗议](https://www.zaobao.com/news/world/story20260726-9423110)
+Token length: 539
+Summarized using deepseek-v4-flash
+Append: [韩国夜间配送扩张 配送员过劳问题受关注](https://www.zaobao.com/news/world/story20260726-9423497)
+Token length: 942
+Summarized using deepseek-v4-flash
+Append: [泽连斯基称俄罗斯正寻求朝鲜增兵3万人](https://www.zaobao.com/news/world/story20260726-9423605)
+Token length: 563
+Summarized using deepseek-v4-flash
+Append: [马斯克谈AI风险：无法阻挡 不如享受这段旅程](https://www.zaobao.com/news/world/story20260726-9423518)
+Token length: 377
+Summarized using deepseek-v4-flash
+Append: [以军空袭加沙中部 哈马斯高级安全官员身亡](https://www.zaobao.com/news/world/story20260726-9423122)
+Append: [韩国5月旅行收入超支出 顺差逾2亿美元](https://www.zaobao.com/news/world/story20260726-9422310)
+append_entries: 6
+Finish: 2026-07-26 14:55:33.155628
