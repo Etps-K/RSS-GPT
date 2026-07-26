@@ -10415,3 +10415,25 @@ Summarized using deepseek-v4-flash
 Append: [法国西班牙大规模林火 居民指浓烟像火山将喷发](https://www.zaobao.com/news/world/story20260726-9421941)
 append_entries: 5
 Finish: 2026-07-26 08:03:56.602130
+------------------------------------------------------
+Started: 2026-07-26 11:12:15.999132
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 741
+Summarized using deepseek-v4-flash
+Append: [主食转为比萨面条 意大利青少年肥胖问题日趋严重](https://www.zaobao.com/news/world/story20260726-9422624)
+Token length: 829
+Summarized using deepseek-v4-flash
+Append: [生活费上涨推动消费转变 韩国二手时尚走向主流](https://www.zaobao.com/news/world/story20260726-9391380)
+Token length: 992
+Summarized using deepseek-v4-flash
+Append: [柏林车辆冲撞人群致一死16伤 警方寻找一嫌疑人](https://www.zaobao.com/news/world/story20260726-9422658)
+Token length: 698
+Summarized using deepseek-v4-flash
+Append: [特朗普白宫记者晚宴笑话频频冷场 凸显与媒体紧张关系](https://www.zaobao.com/news/world/story20260726-9422548)
+Token length: 461
+Summarized using deepseek-v4-flash
+Append: [印度称对美贸易谈判取得关税优势](https://www.zaobao.com/news/world/story20260726-9422632)
+Append: [日本计划收紧外国人永久居留资格](https://www.zaobao.com/news/world/story20260726-9422509)
+append_entries: 6
+Finish: 2026-07-26 11:12:39.356969
