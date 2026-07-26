@@ -11305,3 +11305,21 @@ Append: [中国红树林面积较世纪初增加44%](https://www.zaobao.com/news
 Append: [港媒：夏宝龙与议员会面五小时 提醒议员维护议会形象](https://www.zaobao.com/news/china/story20260726-9422434)
 append_entries: 6
 Finish: 2026-07-26 11:12:14.961624
+------------------------------------------------------
+Started: 2026-07-26 12:52:22.003106
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 2745
+Summarized using deepseek-v4-flash
+Append: [特稿：从严防死守到探索边界 中国大学AI攻防战转向？](https://www.zaobao.com/news/china/story20260726-9340468)
+Token length: 351
+Summarized using deepseek-v4-flash
+Append: [三韩国人向中企泄露OLED技术 分别获刑一年至五年](https://www.zaobao.com/news/china/story20260726-9422409)
+Token length: 450
+Summarized using deepseek-v4-flash
+Append: [习近平：中国和马尔代夫友好交往源远流长](https://www.zaobao.com/news/china/story20260726-9422215)
+Token length: 130
+Summarized using deepseek-v4-flash
+Append: [甘肃一景区山洪致10人遇难23人受伤](https://www.zaobao.com/news/china/story20260726-9423017)
+append_entries: 4
+Finish: 2026-07-26 12:52:41.884669

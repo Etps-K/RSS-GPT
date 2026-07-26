@@ -10437,3 +10437,24 @@ Append: [印度称对美贸易谈判取得关税优势](https://www.zaobao.com/n
 Append: [日本计划收紧外国人永久居留资格](https://www.zaobao.com/news/world/story20260726-9422509)
 append_entries: 6
 Finish: 2026-07-26 11:12:39.356969
+------------------------------------------------------
+Started: 2026-07-26 12:52:42.907317
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 239
+Summarized using deepseek-v4-flash
+Append: [伊朗称油轮在霍尔木兹海峡触雷爆炸](https://www.zaobao.com/news/world/story20260726-9423377)
+Token length: 287
+Summarized using deepseek-v4-flash
+Append: [日本英国意大利共同开发下一代战机](https://www.zaobao.com/news/world/story20260726-9423134)
+Token length: 198
+Summarized using deepseek-v4-flash
+Append: [德国小型飞机撞上屋顶 造成两人死亡](https://www.zaobao.com/news/world/story20260726-9423031)
+Token length: 1031
+Summarized using deepseek-v4-flash
+Append: [景德镇手工瓷业遗存日本飞鸟藤原遗址 列入联合国世界遗产名录](https://www.zaobao.com/news/world/story20260726-9422741)
+Token length: 519
+Summarized using deepseek-v4-flash
+Append: [高市早苗推动争议议程 民望持续下滑](https://www.zaobao.com/news/world/story20260726-9422827)
+append_entries: 5
+Finish: 2026-07-26 12:53:04.012148
