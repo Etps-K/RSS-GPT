@@ -10510,3 +10510,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-26 22:46:08.898967
+------------------------------------------------------
+Started: 2026-07-27 01:31:24.896050
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 389
+Summarized using deepseek-v4-flash
+Append: [黎军称以军违反协议 阻碍黎军试点区域部署](https://www.zaobao.com/news/world/story20260727-9424083)
+Token length: 344
+Summarized using deepseek-v4-flash
+Append: [亚细安呼吁朝鲜半岛无核化 金与正批“愚蠢荒谬”](https://www.zaobao.com/news/world/story20260727-9424236)
+Token length: 368
+Summarized using deepseek-v4-flash
+Append: [伊朗外交部：与美国继续通过调解方交换信息](https://www.zaobao.com/news/world/story20260727-9424152)
+Token length: 355
+Summarized using deepseek-v4-flash
+Append: [柏林冲撞事件嫌疑人 已被警方击毙](https://www.zaobao.com/news/world/story20260727-9424138)
+append_entries: 4
+Finish: 2026-07-27 01:31:43.395168

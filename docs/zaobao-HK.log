@@ -11368,3 +11368,9 @@ Summarized using deepseek-v4-flash
 Append: [戴庆成：特朗普11月会访问香港么？](https://www.zaobao.com/news/china/story20260727-9422678)
 append_entries: 1
 Finish: 2026-07-26 22:46:07.770499
+------------------------------------------------------
+Started: 2026-07-27 01:31:23.908114
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-27 01:31:24.165537
