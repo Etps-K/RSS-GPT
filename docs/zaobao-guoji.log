@@ -10550,3 +10550,24 @@ Append: [美伊暂停互袭 国际油价大幅下跌](https://www.zaobao.com/new
 Append: [叙利亚总统寻求与以色列达成安全协议](https://www.zaobao.com/news/world/story20260727-9424330)
 append_entries: 6
 Finish: 2026-07-27 05:36:56.612333
+------------------------------------------------------
+Started: 2026-07-27 09:22:38.441238
+Existing_entries: 1006
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 279
+Summarized using deepseek-v4-flash
+Append: [日本作家东野圭吾去世](https://www.zaobao.com/news/world/story20260727-9426583)
+Token length: 227
+Summarized using deepseek-v4-flash
+Append: [伊朗革命卫队在霍尔木兹海峡遣返六艘船只](https://www.zaobao.com/news/world/story20260727-9426481)
+Token length: 278
+Summarized using deepseek-v4-flash
+Append: [尹锡悦涉嫌违反公职选举法案 判监一年六个月缓刑三年](https://www.zaobao.com/news/world/story20260727-9425924)
+Token length: 255
+Summarized using deepseek-v4-flash
+Append: [也门军方：巡逻艇在红海遭胡塞武装袭击 致三人失踪](https://www.zaobao.com/news/world/story20260727-9425489)
+Token length: 230
+Summarized using deepseek-v4-flash
+Append: [美国西雅图发生枪击 造成两死五伤](https://www.zaobao.com/news/world/story20260727-9425338)
+append_entries: 5
+Finish: 2026-07-27 09:23:00.109085
