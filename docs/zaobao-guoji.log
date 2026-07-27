@@ -10596,3 +10596,26 @@ Append: [加州海洋热浪持续 叠加厄尔尼诺或加剧海洋生态危机]
 Append: [韩政府回应泽连斯基称俄再请求朝鲜派兵：密切关注](https://www.zaobao.com/news/world/story20260727-9426298)
 append_entries: 9
 Finish: 2026-07-27 12:48:11.537708
+------------------------------------------------------
+Started: 2026-07-27 16:06:02.078800
+Existing_entries: 1009
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 655
+Summarized using deepseek-v4-flash
+Append: [默茨誓言对柏林袭击案采取坚定行动](https://www.zaobao.com/news/world/story20260727-9428926)
+Token length: 954
+Summarized using deepseek-v4-flash
+Append: [法国西班牙料再遇新一波热浪 林火灾情恐加剧](https://www.zaobao.com/news/world/story20260727-9428358)
+Token length: 472
+Summarized using deepseek-v4-flash
+Append: [欧盟增派飞机参与法国林火救灾工作](https://www.zaobao.com/news/world/story20260727-9428827)
+Token length: 1351
+Summarized using deepseek-v4-flash
+Append: [伊朗称未与美国谈判 霍尔木兹海峡仍关闭](https://www.zaobao.com/news/world/story20260727-9428605)
+Token length: 531
+Summarized using deepseek-v4-flash
+Append: [柏林案嫌犯被击毙 极端化前科与缓刑决定引发争议](https://www.zaobao.com/news/world/story20260727-9428594)
+Append: [法国巴黎发生持刀袭击 三名女性受伤](https://www.zaobao.com/news/world/story20260727-9428663)
+Append: [涉大选期间发布虚假事实 尹锡悦被判刑一年半缓刑三年](https://www.zaobao.com/news/world/story20260727-9428300)
+append_entries: 7
+Finish: 2026-07-27 16:06:24.547892
