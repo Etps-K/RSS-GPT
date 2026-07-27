@@ -10528,3 +10528,25 @@ Summarized using deepseek-v4-flash
 Append: [柏林冲撞事件嫌疑人 已被警方击毙](https://www.zaobao.com/news/world/story20260727-9424138)
 append_entries: 4
 Finish: 2026-07-27 01:31:43.395168
+------------------------------------------------------
+Started: 2026-07-27 05:36:30.228686
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 258
+Summarized using deepseek-v4-flash
+Append: [日本将于7月31日正式成立国家情报局](https://www.zaobao.com/news/world/story20260727-9425222)
+Token length: 431
+Summarized using deepseek-v4-flash
+Append: [李在明誓言推动韩国成为不可替代的AI领跑者](https://www.zaobao.com/news/world/story20260727-9424934)
+Token length: 815
+Summarized using deepseek-v4-flash
+Append: [法国西班牙遭遇“怪兽级”野火 局势恐随热浪恶化](https://www.zaobao.com/news/world/story20260727-9424715)
+Token length: 468
+Summarized using deepseek-v4-flash
+Append: [乌克兰袭击伊朗商船 伊外长：决不罢休](https://www.zaobao.com/news/world/story20260727-9424443)
+Token length: 391
+Summarized using deepseek-v4-flash
+Append: [美伊暂停互袭 国际油价大幅下跌](https://www.zaobao.com/news/world/story20260727-9424376)
+Append: [叙利亚总统寻求与以色列达成安全协议](https://www.zaobao.com/news/world/story20260727-9424330)
+append_entries: 6
+Finish: 2026-07-27 05:36:56.612333
