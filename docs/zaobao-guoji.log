@@ -10631,3 +10631,9 @@ Summarized using deepseek-v4-flash
 Append: [伯纳姆迎接泽连斯基到访 誓言坚定支持乌克兰](https://www.zaobao.com/news/world/story20260727-9429158)
 append_entries: 2
 Finish: 2026-07-27 19:07:15.099287
+------------------------------------------------------
+Started: 2026-07-27 20:59:00.127776
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-27 20:59:00.224850
