@@ -10571,3 +10571,28 @@ Summarized using deepseek-v4-flash
 Append: [美国西雅图发生枪击 造成两死五伤](https://www.zaobao.com/news/world/story20260727-9425338)
 append_entries: 5
 Finish: 2026-07-27 09:23:00.109085
+------------------------------------------------------
+Started: 2026-07-27 12:47:49.608501
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 847
+Summarized using deepseek-v4-flash
+Append: [日本生活费持续上涨 高市民调支持率大幅下降](https://www.zaobao.com/news/world/story20260727-9426970)
+Token length: 452
+Summarized using deepseek-v4-flash
+Append: [朝鲜抨击亚细安对朝鲜半岛无核化立场](https://www.zaobao.com/news/world/story20260727-9427955)
+Token length: 463
+Summarized using deepseek-v4-flash
+Append: [伊朗外交部：未恢复与美国的和平谈判](https://www.zaobao.com/news/world/story20260727-9428016)
+Token length: 506
+Summarized using deepseek-v4-flash
+Append: [印度青年要求释放被拘留的“蟑螂运动”抗议者](https://www.zaobao.com/news/world/story20260727-9427810)
+Token length: 892
+Summarized using deepseek-v4-flash
+Append: [AI未抢走人类饭碗 美国大企业恢复招聘](https://www.zaobao.com/news/world/story20260727-9427009)
+Append: [英国首相伯纳姆誓言改革社会保障体系](https://www.zaobao.com/news/world/story20260727-9426942)
+Append: [传美墨磋商建立统一关税壁垒 限制中国钢铝进口](https://www.zaobao.com/news/world/story20260727-9426602)
+Append: [加州海洋热浪持续 叠加厄尔尼诺或加剧海洋生态危机](https://www.zaobao.com/news/world/story20260727-9426524)
+Append: [韩政府回应泽连斯基称俄再请求朝鲜派兵：密切关注](https://www.zaobao.com/news/world/story20260727-9426298)
+append_entries: 9
+Finish: 2026-07-27 12:48:11.537708

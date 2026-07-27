@@ -7021,3 +7021,12 @@ Summarized using deepseek-v4-flash
 Append: [Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」](https://sspai.com/post/101668)
 append_entries: 1
 Finish: 2026-07-27 09:22:15.465960
+------------------------------------------------------
+Started: 2026-07-27 12:47:24.627367
+Existing_entries: 370
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/112785)
+append_entries: 1
+Finish: 2026-07-27 12:47:31.016204
