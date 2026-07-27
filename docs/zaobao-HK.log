@@ -11492,3 +11492,12 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-27 20:58:59.087727
+------------------------------------------------------
+Started: 2026-07-27 22:47:46.790859
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1561
+Summarized using deepseek-v4-flash
+Append: [缪宗翰：凯道呐喊与厨房炊烟](https://www.zaobao.com/news/china/story20260728-9427795)
+append_entries: 1
+Finish: 2026-07-27 22:47:52.536145
