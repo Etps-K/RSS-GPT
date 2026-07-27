@@ -10619,3 +10619,15 @@ Append: [法国巴黎发生持刀袭击 三名女性受伤](https://www.zaobao.c
 Append: [涉大选期间发布虚假事实 尹锡悦被判刑一年半缓刑三年](https://www.zaobao.com/news/world/story20260727-9428300)
 append_entries: 7
 Finish: 2026-07-27 16:06:24.547892
+------------------------------------------------------
+Started: 2026-07-27 19:07:02.613641
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 459
+Summarized using deepseek-v4-flash
+Append: [特朗普：若美伊谈判失败 准备采取扩大军事行动](https://www.zaobao.com/news/world/story20260728-9429178)
+Token length: 525
+Summarized using deepseek-v4-flash
+Append: [伯纳姆迎接泽连斯基到访 誓言坚定支持乌克兰](https://www.zaobao.com/news/world/story20260727-9429158)
+append_entries: 2
+Finish: 2026-07-27 19:07:15.099287
