@@ -10643,3 +10643,21 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-27 22:47:53.656404
+------------------------------------------------------
+Started: 2026-07-28 01:18:41.402340
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 213
+Summarized using deepseek-v4-flash
+Append: [涉西雅图美食节致命枪击 15岁嫌疑人被捕](https://www.zaobao.com/news/world/story20260728-9429655)
+Token length: 660
+Summarized using deepseek-v4-flash
+Append: [美国贸易代表相信新一轮关税不会冲击经济](https://www.zaobao.com/news/world/story20260728-9429568)
+Token length: 318
+Summarized using deepseek-v4-flash
+Append: [美驻多伦多总领事馆外传枪响 今年第二起类似事件](https://www.zaobao.com/news/world/story20260728-9429529)
+Token length: 619
+Summarized using deepseek-v4-flash
+Append: [特朗普称美伊谈判进展良好 但伊朗邻国继续遇袭](https://www.zaobao.com/news/world/story20260728-9429509)
+append_entries: 4
+Finish: 2026-07-28 01:18:57.481164

@@ -11501,3 +11501,15 @@ Summarized using deepseek-v4-flash
 Append: [缪宗翰：凯道呐喊与厨房炊烟](https://www.zaobao.com/news/china/story20260728-9427795)
 append_entries: 1
 Finish: 2026-07-27 22:47:52.536145
+------------------------------------------------------
+Started: 2026-07-28 01:18:32.044723
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 560
+Summarized using deepseek-v4-flash
+Append: [中国孟加拉启动延宕多年工业园区项目 望创数万就业岗位](https://www.zaobao.com/news/china/story20260728-9429563)
+Token length: 600
+Summarized using deepseek-v4-flash
+Append: [中国官员促日本提供在华遗留化武线索 加快处置进程](https://www.zaobao.com/news/china/story20260728-9429541)
+append_entries: 2
+Finish: 2026-07-28 01:18:40.375302
