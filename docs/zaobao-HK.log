@@ -11600,3 +11600,18 @@ Append: [所罗门群岛中资金矿坍塌 警方称一人死亡矿企称无伤�
 Append: [中日关系恶化 日本地方政府考虑放弃引进大熊猫](https://www.zaobao.com/news/china/story20260728-9431890)
 append_entries: 11
 Finish: 2026-07-28 11:49:26.977315
+------------------------------------------------------
+Started: 2026-07-28 13:25:10.821163
+Existing_entries: 1011
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 745
+Summarized using deepseek-v4-flash
+Append: [中国政府反驳“产能过剩”论 称保护主义将扰乱全球经贸秩序](https://www.zaobao.com/news/china/story20260728-9433127)
+Token length: 248
+Summarized using deepseek-v4-flash
+Append: [下午察：量化砸盘成A股最大隐忧？](https://www.zaobao.com/news/china/story20260728-9434120)
+Token length: 462
+Summarized using deepseek-v4-flash
+Append: [中国公布查办“最忙五人组”相关违法案件罚款17万人民币](https://www.zaobao.com/news/china/story20260728-9434339)
+append_entries: 3
+Finish: 2026-07-28 13:25:26.061021
