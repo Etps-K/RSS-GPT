@@ -10661,3 +10661,21 @@ Summarized using deepseek-v4-flash
 Append: [特朗普称美伊谈判进展良好 但伊朗邻国继续遇袭](https://www.zaobao.com/news/world/story20260728-9429509)
 append_entries: 4
 Finish: 2026-07-28 01:18:57.481164
+------------------------------------------------------
+Started: 2026-07-28 04:51:39.902767
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 385
+Summarized using deepseek-v4-flash
+Append: [巴西就美国新关税诉诸世贸争端解决机制](https://www.zaobao.com/news/world/story20260728-9430331)
+Token length: 550
+Summarized using deepseek-v4-flash
+Append: [以色列前高官联名致信特朗普 警告约旦河西岸局势或升级](https://www.zaobao.com/news/world/story20260728-9429453)
+Token length: 359
+Summarized using deepseek-v4-flash
+Append: [波音737 MAX座椅疑安装不当 453架客机或须检查](https://www.zaobao.com/news/world/story20260728-9429783)
+Token length: 538
+Summarized using deepseek-v4-flash
+Append: [李在明：韩国巴西跃升为战略伙伴关系](https://www.zaobao.com/news/world/story20260728-9429690)
+append_entries: 4
+Finish: 2026-07-28 04:51:55.275552
