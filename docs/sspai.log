@@ -7081,3 +7081,15 @@ Summarized using deepseek-v4-flash
 Append: [从《奥德赛》观影聊聊 IMAX 影院的分类](https://sspai.com/post/112380)
 append_entries: 1
 Finish: 2026-07-28 08:10:16.557243
+------------------------------------------------------
+Started: 2026-07-28 11:48:36.557385
+Existing_entries: 374
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包](https://sspai.com/post/112820)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码](https://sspai.com/post/112822)
+append_entries: 2
+Finish: 2026-07-28 11:48:51.219747

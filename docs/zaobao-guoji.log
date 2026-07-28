@@ -10702,3 +10702,29 @@ Append: [84%日本民众赞同女性天皇 与《皇室法》修正案相悖](ht
 Append: [芬兰工商界人士：美国不履行义务还强征关税很荒谬](https://www.zaobao.com/news/world/story20260728-9429446)
 append_entries: 7
 Finish: 2026-07-28 08:11:01.060432
+------------------------------------------------------
+Started: 2026-07-28 11:49:27.876430
+Existing_entries: 1007
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 243
+Summarized using deepseek-v4-flash
+Append: [日本气象厅解除海啸警报 至少50人受伤](https://www.zaobao.com/news/world/story20260728-9433461)
+Token length: 897
+Summarized using deepseek-v4-flash
+Append: [英首相会泽连斯基 强调坚定支持乌克兰](https://www.zaobao.com/news/world/story20260728-9432482)
+Token length: 814
+Summarized using deepseek-v4-flash
+Append: [中东战争敲响能源安全警钟 澳洲拟建60多年来首座炼油厂](https://www.zaobao.com/news/world/story20260728-9432533)
+Token length: 469
+Summarized using deepseek-v4-flash
+Append: [西班牙山火救灾取得进展 居民计划返回家园](https://www.zaobao.com/news/world/story20260728-9432978)
+Token length: 216
+Summarized using deepseek-v4-flash
+Append: [日本九州熊本地震 台积电厂房紧急疏散](https://www.zaobao.com/news/world/story20260728-9433000)
+Append: [格里尔：新关税不会对经济造成新冲击](https://www.zaobao.com/news/world/story20260728-9432282)
+Append: [为中期选举拉票 特朗普在摇摆州宣扬政绩抨击民主党](https://www.zaobao.com/news/world/story20260728-9432266)
+Append: [强生婴儿爽身粉致癌诉讼达成和解协议 或须支付55亿美元](https://www.zaobao.com/news/world/story20260728-9432081)
+Append: [日本九州发生7.1级地震 气象厅发布海啸警报](https://www.zaobao.com/news/world/story20260728-9432165)
+Append: [莫斯科市长：超390架乌克兰无人机夜袭莫斯科](https://www.zaobao.com/news/world/story20260728-9432110)
+append_entries: 10
+Finish: 2026-07-28 11:49:51.208003
