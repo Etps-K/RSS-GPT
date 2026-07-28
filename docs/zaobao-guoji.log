@@ -10679,3 +10679,26 @@ Summarized using deepseek-v4-flash
 Append: [李在明：韩国巴西跃升为战略伙伴关系](https://www.zaobao.com/news/world/story20260728-9429690)
 append_entries: 4
 Finish: 2026-07-28 04:51:55.275552
+------------------------------------------------------
+Started: 2026-07-28 08:10:39.451059
+Existing_entries: 1004
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 690
+Summarized using deepseek-v4-flash
+Append: [韩国去年老年人口首破20% 劳动人口跌破70%](https://www.zaobao.com/news/world/story20260728-9431720)
+Token length: 563
+Summarized using deepseek-v4-flash
+Append: [爱之病规划署：资金削减可能导致爱之病卷土重来](https://www.zaobao.com/news/world/story20260728-9431482)
+Token length: 777
+Summarized using deepseek-v4-flash
+Append: [美国防创新局：美国无人机产能仍远落后于乌克兰](https://www.zaobao.com/news/world/story20260728-9431212)
+Token length: 461
+Summarized using deepseek-v4-flash
+Append: [韩国决定在核动力潜艇特别法案 明文纳入无核原则](https://www.zaobao.com/news/world/story20260728-9430792)
+Token length: 275
+Summarized using deepseek-v4-flash
+Append: [俄外交部就日本防长涉核言论发出警告](https://www.zaobao.com/news/world/story20260728-9430652)
+Append: [84%日本民众赞同女性天皇 与《皇室法》修正案相悖](https://www.zaobao.com/news/world/story20260728-9430669)
+Append: [芬兰工商界人士：美国不履行义务还强征关税很荒谬](https://www.zaobao.com/news/world/story20260728-9429446)
+append_entries: 7
+Finish: 2026-07-28 08:11:01.060432
