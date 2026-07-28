@@ -11636,3 +11636,9 @@ Summarized using deepseek-v4-flash
 Append: [传中国国产DUV光刻机 学者：对美科技战“里程碑式突破”](https://www.zaobao.com/news/china/story20260729-9434970)
 append_entries: 1
 Finish: 2026-07-28 17:19:52.822704
+------------------------------------------------------
+Started: 2026-07-28 19:03:32.373564
+Existing_entries: 1001
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-28 19:03:32.530405
