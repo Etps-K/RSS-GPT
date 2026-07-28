@@ -11627,3 +11627,12 @@ Summarized using deepseek-v4-flash
 Append: [中国民政部前部长陆治原当选中华全国总工会副主席](https://www.zaobao.com/news/china/story20260728-9434524)
 append_entries: 2
 Finish: 2026-07-28 15:57:03.605506
+------------------------------------------------------
+Started: 2026-07-28 17:19:48.204303
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 1932
+Summarized using deepseek-v4-flash
+Append: [传中国国产DUV光刻机 学者：对美科技战“里程碑式突破”](https://www.zaobao.com/news/china/story20260729-9434970)
+append_entries: 1
+Finish: 2026-07-28 17:19:52.822704

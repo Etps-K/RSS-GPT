@@ -10764,3 +10764,12 @@ Append: [印度将对泄题行为处以更严格惩罚](https://www.zaobao.com/n
 Append: [日本熊本县商场在地震中坍塌 料造成多人伤亡](https://www.zaobao.com/news/world/story20260728-9434338)
 append_entries: 8
 Finish: 2026-07-28 15:57:29.082801
+------------------------------------------------------
+Started: 2026-07-28 17:19:53.399246
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 449
+Summarized using deepseek-v4-flash
+Append: [泽连斯基特朗普会晤 讨论导弹与外交问题](https://www.zaobao.com/news/world/story20260729-9435377)
+append_entries: 1
+Finish: 2026-07-28 17:19:56.781089

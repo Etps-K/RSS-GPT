@@ -4350,3 +4350,11 @@ Fetch error: 403
 Fetch failed from 	https://rsshub.app/oschina/news/project
 append_entries: 0
 error when rendering xml, skip docs/oschina
+------------------------------------------------------
+Started: 2026-07-28 17:19:57.047516
+Existing_entries: 0
+Fetching from 	https://rsshub.app/oschina/news/project
+Fetch error: 403
+Fetch failed from 	https://rsshub.app/oschina/news/project
+append_entries: 0
+error when rendering xml, skip docs/oschina
