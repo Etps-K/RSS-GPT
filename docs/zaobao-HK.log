@@ -11615,3 +11615,15 @@ Summarized using deepseek-v4-flash
 Append: [中国公布查办“最忙五人组”相关违法案件罚款17万人民币](https://www.zaobao.com/news/china/story20260728-9434339)
 append_entries: 3
 Finish: 2026-07-28 13:25:26.061021
+------------------------------------------------------
+Started: 2026-07-28 15:56:54.321631
+Existing_entries: 1003
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 273
+Summarized using deepseek-v4-flash
+Append: [重庆彭水山体崩塌 23日至今搜出30死者](https://www.zaobao.com/news/china/story20260728-9434901)
+Token length: 383
+Summarized using deepseek-v4-flash
+Append: [中国民政部前部长陆治原当选中华全国总工会副主席](https://www.zaobao.com/news/china/story20260728-9434524)
+append_entries: 2
+Finish: 2026-07-28 15:57:03.605506

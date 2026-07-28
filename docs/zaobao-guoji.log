@@ -10740,3 +10740,27 @@ Summarized using deepseek-v4-flash
 Append: [法国警方在一对夫妇家中发现五具婴儿遗体](https://www.zaobao.com/news/world/story20260728-9434002)
 append_entries: 2
 Finish: 2026-07-28 13:25:41.798073
+------------------------------------------------------
+Started: 2026-07-28 15:57:04.170217
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 1356
+Summarized using deepseek-v4-flash
+Append: [日本九州熊本县发生7.1级强震 百多人死伤](https://www.zaobao.com/news/world/story20260728-9434992)
+Token length: 385
+Summarized using deepseek-v4-flash
+Append: [特朗普称美伊谈判进展顺利 重申打击核设施威胁](https://www.zaobao.com/news/world/story20260728-9435092)
+Token length: 477
+Summarized using deepseek-v4-flash
+Append: [检察官：柏林骄傲游行袭击者宣誓效忠伊斯兰国组织](https://www.zaobao.com/news/world/story20260728-9434940)
+Token length: 941
+Summarized using deepseek-v4-flash
+Append: [高市拟下月改组内阁和降低食品消费税重振威望](https://www.zaobao.com/news/world/story20260728-9434657)
+Token length: 518
+Summarized using deepseek-v4-flash
+Append: [日本九州地震致购物中心爆炸 或多人遇难](https://www.zaobao.com/news/world/story20260728-9434823)
+Append: [消息指阿曼向伊朗建议设区域机制管理霍尔木兹海峡](https://www.zaobao.com/news/world/story20260728-9434556)
+Append: [印度将对泄题行为处以更严格惩罚](https://www.zaobao.com/news/world/story20260728-9434566)
+Append: [日本熊本县商场在地震中坍塌 料造成多人伤亡](https://www.zaobao.com/news/world/story20260728-9434338)
+append_entries: 8
+Finish: 2026-07-28 15:57:29.082801
