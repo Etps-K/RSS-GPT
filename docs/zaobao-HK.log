@@ -11675,3 +11675,15 @@ Summarized using deepseek-v4-flash
 Append: [杨丹旭：黄仁勋点燃硅谷AI大激辩](https://www.zaobao.com/news/china/story20260729-9435262)
 append_entries: 5
 Finish: 2026-07-29 01:20:50.919441
+------------------------------------------------------
+Started: 2026-07-29 04:56:22.382980
+Existing_entries: 1005
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 523
+Summarized using deepseek-v4-flash
+Append: [路透：中国与也门胡塞武装磋商 争取船只安全通过红海](https://www.zaobao.com/news/china/story20260729-9436023)
+Token length: 897
+Summarized using deepseek-v4-flash
+Append: [港媒：湖南高校大反腐 与军工密切南华大学两任校长被查](https://www.zaobao.com/news/china/story20260729-9435938)
+append_entries: 2
+Finish: 2026-07-29 04:56:31.720398

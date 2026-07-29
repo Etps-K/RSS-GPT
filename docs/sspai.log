@@ -7135,3 +7135,15 @@ Existing_entries: 376
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-29 01:20:30.347168
+------------------------------------------------------
+Started: 2026-07-29 04:56:08.168917
+Existing_entries: 376
+Fetching from https://sspai.com/feed
+Token length: 25
+Summarized using deepseek-v4-flash
+Append: [角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」](https://sspai.com/post/112715)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等](https://sspai.com/post/112837)
+append_entries: 2
+Finish: 2026-07-29 04:56:21.568032

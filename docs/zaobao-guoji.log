@@ -10803,3 +10803,27 @@ Summarized using deepseek-v4-flash
 Append: [日本熊本7.1级强震 至少两死三人心肺骤停](https://www.zaobao.com/news/world/story20260729-9435694)
 append_entries: 2
 Finish: 2026-07-29 01:21:00.389280
+------------------------------------------------------
+Started: 2026-07-29 04:56:32.620046
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 256
+Summarized using deepseek-v4-flash
+Append: [伊朗称导弹打击约旦境內美军基地](https://www.zaobao.com/news/world/story20260729-9436326)
+Token length: 175
+Summarized using deepseek-v4-flash
+Append: [熊本县凌晨发生4.1级浅层地震 无海啸风险](https://www.zaobao.com/news/world/story20260729-9436383)
+Token length: 317
+Summarized using deepseek-v4-flash
+Append: [秘鲁首位女总统藤森庆子宣誓就任](https://www.zaobao.com/news/world/story20260729-9435651)
+Token length: 495
+Summarized using deepseek-v4-flash
+Append: [乌伊外长就袭船事件通话 双方均称无意升级局势](https://www.zaobao.com/news/world/story20260729-9436056)
+Token length: 438
+Summarized using deepseek-v4-flash
+Append: [美沙联军空袭伊拉克境内“与伊朗结盟恐怖分子”](https://www.zaobao.com/news/world/story20260729-9435984)
+Append: [日本政府高官：熊本地震死亡人数或达十余人](https://www.zaobao.com/news/world/story20260729-9435916)
+Append: [熊本县确认三人死亡 有房屋倒塌与人员被困](https://www.zaobao.com/news/world/story20260729-9435880)
+Append: [伊朗拒绝阿曼方案 要求掌握霍尔木兹海峡最大控制权](https://www.zaobao.com/news/world/story20260729-9435813)
+append_entries: 8
+Finish: 2026-07-29 04:56:53.634279
