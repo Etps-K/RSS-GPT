@@ -11654,3 +11654,24 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-07-28 22:48:19.795611
+------------------------------------------------------
+Started: 2026-07-29 01:20:30.932788
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Token length: 723
+Summarized using deepseek-v4-flash
+Append: [美国禁止进口中国新款人形机器人 防范AI供应链风险](https://www.zaobao.com/news/china/story20260729-9435912)
+Token length: 882
+Summarized using deepseek-v4-flash
+Append: [唐山大地震50周年 李强受习近平委托到唐山调研慰问](https://www.zaobao.com/news/china/story20260729-9435892)
+Token length: 609
+Summarized using deepseek-v4-flash
+Append: [中国官方要求国有文物管理机构提供主动公开授权使用等服务](https://www.zaobao.com/news/china/story20260729-9435744)
+Token length: 346
+Summarized using deepseek-v4-flash
+Append: [奔驰下调全年营收展望 中国豪车市场颓势加深](https://www.zaobao.com/news/china/story20260729-9435736)
+Token length: 309
+Summarized using deepseek-v4-flash
+Append: [杨丹旭：黄仁勋点燃硅谷AI大激辩](https://www.zaobao.com/news/china/story20260729-9435262)
+append_entries: 5
+Finish: 2026-07-29 01:20:50.919441

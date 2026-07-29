@@ -10791,3 +10791,15 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-07-28 22:48:20.903114
+------------------------------------------------------
+Started: 2026-07-29 01:20:51.554090
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Token length: 199
+Summarized using deepseek-v4-flash
+Append: [熊本强震后 九州新干线29日起全线停运](https://www.zaobao.com/news/world/story20260729-9435729)
+Token length: 562
+Summarized using deepseek-v4-flash
+Append: [日本熊本7.1级强震 至少两死三人心肺骤停](https://www.zaobao.com/news/world/story20260729-9435694)
+append_entries: 2
+Finish: 2026-07-29 01:21:00.389280
