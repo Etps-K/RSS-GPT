@@ -10827,3 +10827,9 @@ Append: [熊本县确认三人死亡 有房屋倒塌与人员被困](https://www
 Append: [伊朗拒绝阿曼方案 要求掌握霍尔木兹海峡最大控制权](https://www.zaobao.com/news/world/story20260729-9435813)
 append_entries: 8
 Finish: 2026-07-29 04:56:53.634279
+------------------------------------------------------
+Started: 2026-07-29 08:14:36.881257
+Existing_entries: 1008
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-07-29 08:14:37.023762

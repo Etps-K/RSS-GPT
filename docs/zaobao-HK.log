@@ -11687,3 +11687,9 @@ Summarized using deepseek-v4-flash
 Append: [港媒：湖南高校大反腐 与军工密切南华大学两任校长被查](https://www.zaobao.com/news/china/story20260729-9435938)
 append_entries: 2
 Finish: 2026-07-29 04:56:31.720398
+------------------------------------------------------
+Started: 2026-07-29 08:14:35.755585
+Existing_entries: 1002
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-07-29 08:14:35.995623

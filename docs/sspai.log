@@ -7147,3 +7147,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等](https://sspai.com/post/112837)
 append_entries: 2
 Finish: 2026-07-29 04:56:21.568032
+------------------------------------------------------
+Started: 2026-07-29 08:14:27.391547
+Existing_entries: 378
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [陕北看海，黄土难寻](https://sspai.com/post/112761)
+append_entries: 1
+Finish: 2026-07-29 08:14:34.959849
