@@ -7207,3 +7207,15 @@ Existing_entries: 380
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-30 01:13:39.628657
+------------------------------------------------------
+Started: 2026-07-30 04:44:11.175100
+Existing_entries: 380
+Fetching from https://sspai.com/feed
+Token length: 33
+Summarized using deepseek-v4-flash
+Append: [少数派会员年度更新：把共同的热爱随身携带](https://sspai.com/post/112858)
+Token length: 60
+Summarized using deepseek-v4-flash
+Append: [派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
+append_entries: 2
+Finish: 2026-07-30 04:44:26.902089
