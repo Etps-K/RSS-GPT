@@ -7300,3 +7300,15 @@ Summarized using deepseek-v4-flash
 Append: [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730)
 append_entries: 1
 Finish: 2026-07-31 08:28:23.477156
+------------------------------------------------------
+Started: 2026-07-31 11:50:24.986479
+Existing_entries: 387
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
+append_entries: 2
+Finish: 2026-07-31 11:50:50.619682
