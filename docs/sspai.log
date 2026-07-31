@@ -7279,3 +7279,15 @@ Existing_entries: 384
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-07-31 01:27:06.177734
+------------------------------------------------------
+Started: 2026-07-31 05:21:22.463726
+Existing_entries: 384
+Fetching from https://sspai.com/feed
+Token length: 34
+Summarized using deepseek-v4-flash
+Append: [简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？](https://sspai.com/post/112833)
+Token length: 63
+Summarized using deepseek-v4-flash
+Append: [派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等](https://sspai.com/post/112930)
+append_entries: 2
+Finish: 2026-07-31 05:21:36.044973
