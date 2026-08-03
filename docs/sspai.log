@@ -7516,3 +7516,12 @@ Summarized using deepseek-v4-flash
 Append: [职人专访 #001：少数派背后的理想主义](https://sspai.com/post/112966)
 append_entries: 2
 Finish: 2026-08-03 08:57:16.749226
+------------------------------------------------------
+Started: 2026-08-03 12:47:09.751895
+Existing_entries: 395
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/113040)
+append_entries: 1
+Finish: 2026-08-03 12:47:39.589534
