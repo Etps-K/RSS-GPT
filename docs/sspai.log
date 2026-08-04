@@ -7573,3 +7573,18 @@ Existing_entries: 398
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-04 08:13:26.936654
+------------------------------------------------------
+Started: 2026-08-04 11:52:51.237816
+Existing_entries: 398
+Fetching from https://sspai.com/feed
+Token length: 34
+Summarized using deepseek-v4-flash
+Append: [敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [家庭饮品 DIY 指南（三）：常用固体物料推荐](https://sspai.com/prime/story/home-made-beverages-3)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇](https://sspai.com/post/113060)
+append_entries: 3
+Finish: 2026-08-04 11:53:14.061643
