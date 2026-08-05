@@ -7642,3 +7642,15 @@ Existing_entries: 403
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-05 08:12:02.406754
+------------------------------------------------------
+Started: 2026-08-05 11:49:12.838883
+Existing_entries: 403
+Fetching from https://sspai.com/feed
+Token length: 55
+Summarized using deepseek-v4-flash
+Append: [196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953)
+append_entries: 2
+Finish: 2026-08-05 11:49:38.229659
