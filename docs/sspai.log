@@ -7708,3 +7708,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：华为发布尊界 MPV 及多款新品等](https://sspai.com/post/113110)
 append_entries: 2
 Finish: 2026-08-06 04:52:34.648665
+------------------------------------------------------
+Started: 2026-08-06 08:10:50.510014
+Existing_entries: 407
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验](https://sspai.com/post/112916)
+append_entries: 1
+Finish: 2026-08-06 08:11:00.315241
