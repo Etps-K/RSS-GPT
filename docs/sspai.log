@@ -7747,3 +7747,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Bose 发布新款 QuietComfort 头戴式耳机等](https://sspai.com/post/113162)
 append_entries: 1
 Finish: 2026-08-07 01:58:46.145727
+------------------------------------------------------
+Started: 2026-08-07 04:23:36.684263
+Existing_entries: 410
+Fetching from https://sspai.com/feed
+Token length: 23
+Summarized using deepseek-v4-flash
+Append: [角落新声｜从合租到整租，我在客厅听见了自己的声音](https://sspai.com/post/113144)
+append_entries: 1
+Finish: 2026-08-07 04:23:51.076045
