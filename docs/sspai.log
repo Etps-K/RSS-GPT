@@ -7762,3 +7762,12 @@ Existing_entries: 411
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-07 06:56:55.550514
+------------------------------------------------------
+Started: 2026-08-07 08:43:37.243635
+Existing_entries: 411
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [[限时优惠] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
+append_entries: 1
+Finish: 2026-08-07 08:43:42.054702
