@@ -7981,3 +7981,12 @@ Existing_entries: 416
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-10 03:41:35.486986
+------------------------------------------------------
+Started: 2026-08-10 05:14:05.609095
+Existing_entries: 416
+Fetching from https://sspai.com/feed
+Token length: 15
+Summarized using deepseek-v4-flash
+Append: [我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕](https://sspai.com/post/113202)
+append_entries: 1
+Finish: 2026-08-10 05:14:13.879862
