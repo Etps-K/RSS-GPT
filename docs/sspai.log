@@ -8179,3 +8179,12 @@ Summarized using deepseek-v4-flash
 Append: [对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](https://sspai.com/post/113352)
 append_entries: 1
 Finish: 2026-08-12 08:57:27.982768
+------------------------------------------------------
+Started: 2026-08-12 10:48:38.704898
+Existing_entries: 428
+Fetching from https://sspai.com/feed
+Token length: 17
+Summarized using deepseek-v4-flash
+Append: [把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
+append_entries: 1
+Finish: 2026-08-12 10:48:52.601748
