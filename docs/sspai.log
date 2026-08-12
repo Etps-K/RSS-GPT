@@ -8146,3 +8146,12 @@ Existing_entries: 425
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-12 00:53:18.470222
+------------------------------------------------------
+Started: 2026-08-12 03:53:03.251608
+Existing_entries: 425
+Fetching from https://sspai.com/feed
+Token length: 53
+Summarized using deepseek-v4-flash
+Append: [派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
+append_entries: 1
+Finish: 2026-08-12 03:53:12.583317
