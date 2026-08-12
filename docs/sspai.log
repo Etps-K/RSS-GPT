@@ -8155,3 +8155,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
 append_entries: 1
 Finish: 2026-08-12 03:53:12.583317
+------------------------------------------------------
+Started: 2026-08-12 05:21:22.616456
+Existing_entries: 426
+Fetching from https://sspai.com/feed
+Token length: 42
+Summarized using deepseek-v4-flash
+Append: [我，与「唯一」的 iPhone Air](https://sspai.com/post/112880)
+append_entries: 1
+Finish: 2026-08-12 05:21:27.774792
