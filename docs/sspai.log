@@ -8341,3 +8341,12 @@ Existing_entries: 436
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-14 07:03:26.557401
+------------------------------------------------------
+Started: 2026-08-14 08:55:08.188125
+Existing_entries: 436
+Fetching from https://sspai.com/feed
+Token length: 18
+Summarized using deepseek-v4-flash
+Append: [你初高中时的书单里，总有本「东野圭吾」吧？](https://sspai.com/post/113416)
+append_entries: 1
+Finish: 2026-08-14 08:55:19.824210
