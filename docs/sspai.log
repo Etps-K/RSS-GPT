@@ -8419,3 +8419,12 @@ Existing_entries: 438
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-15 06:16:36.340983
+------------------------------------------------------
+Started: 2026-08-15 08:12:54.198960
+Existing_entries: 438
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布](https://sspai.com/post/111974)
+append_entries: 1
+Finish: 2026-08-15 08:13:09.640426
