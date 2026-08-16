@@ -8497,3 +8497,9 @@ Summarized using deepseek-v4-flash
 Append: [浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」](https://sspai.com/post/113495)
 append_entries: 1
 Finish: 2026-08-16 06:18:33.248129
+------------------------------------------------------
+Started: 2026-08-16 08:14:10.450451
+Existing_entries: 440
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-08-16 08:14:11.732929
