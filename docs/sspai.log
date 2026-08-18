@@ -8662,3 +8662,15 @@ Existing_entries: 447
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-18 06:20:47.028012
+------------------------------------------------------
+Started: 2026-08-18 08:20:52.534324
+Existing_entries: 447
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会](https://sspai.com/post/113564)
+Token length: 25
+Summarized using deepseek-v4-flash
+Append: [App+1 | 让任务栏更有用：WindowSill](https://sspai.com/post/113438)
+append_entries: 2
+Finish: 2026-08-18 08:21:01.743863

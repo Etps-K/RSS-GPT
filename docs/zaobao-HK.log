@@ -12997,3 +12997,11 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-08-18 06:20:48.188978
+------------------------------------------------------
+Started: 2026-08-18 08:21:02.665779
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Fetch error: 503
+Fetch failed from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+error when rendering xml, skip docs/zaobao-HK
