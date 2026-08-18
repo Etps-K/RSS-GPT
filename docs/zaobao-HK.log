@@ -13013,3 +13013,9 @@ Fetch error: 503
 Fetch failed from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 error when rendering xml, skip docs/zaobao-HK
+------------------------------------------------------
+Started: 2026-08-18 12:19:10.915095
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+Finish: 2026-08-18 12:19:11.131394
