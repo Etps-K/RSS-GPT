@@ -8734,3 +8734,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等](https://sspai.com/post/113607)
 append_entries: 1
 Finish: 2026-08-19 02:47:50.417496
+------------------------------------------------------
+Started: 2026-08-19 04:24:14.487814
+Existing_entries: 451
+Fetching from https://sspai.com/feed
+Token length: 18
+Summarized using deepseek-v4-flash
+Append: [App+1 | Inkive：把纸质书上划好的线存进 Obsidian](https://sspai.com/post/111936)
+append_entries: 1
+Finish: 2026-08-19 04:24:19.517350
