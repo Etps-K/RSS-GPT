@@ -8818,3 +8818,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
 append_entries: 1
 Finish: 2026-08-20 02:46:49.480425
+------------------------------------------------------
+Started: 2026-08-20 04:24:24.256474
+Existing_entries: 455
+Fetching from https://sspai.com/feed
+Token length: 39
+Summarized using deepseek-v4-flash
+Append: [「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测](https://sspai.com/post/113497)
+append_entries: 1
+Finish: 2026-08-20 04:24:37.120042
