@@ -8848,3 +8848,12 @@ Summarized using deepseek-v4-flash
 Append: [十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567)
 append_entries: 1
 Finish: 2026-08-20 10:17:27.002539
+------------------------------------------------------
+Started: 2026-08-20 12:20:52.918217
+Existing_entries: 457
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [新玩意 249｜少数派的编辑们最近买了啥？](https://sspai.com/post/113650)
+append_entries: 1
+Finish: 2026-08-20 12:21:05.996933
