@@ -8887,3 +8887,12 @@ Existing_entries: 458
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-20 22:13:54.008044
+------------------------------------------------------
+Started: 2026-08-21 00:33:11.898465
+Existing_entries: 458
+Fetching from https://sspai.com/feed
+Token length: 59
+Summarized using deepseek-v4-flash
+Append: [派早报：华为发布 Pura X View、享界 G9 等多款新品](https://sspai.com/post/113666)
+append_entries: 1
+Finish: 2026-08-21 00:33:16.718745
