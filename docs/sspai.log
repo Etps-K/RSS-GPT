@@ -8980,3 +8980,12 @@ Existing_entries: 461
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-22 02:44:08.407824
+------------------------------------------------------
+Started: 2026-08-22 04:20:09.765030
+Existing_entries: 461
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展](https://sspai.com/post/113675)
+append_entries: 1
+Finish: 2026-08-22 04:20:30.157751
