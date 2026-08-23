@@ -4,18 +4,17 @@
 <title>少数派</title>
 <link>https://sspai.com</link>
 
+
 <item>
 <title>AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本</title>
 <link>https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</link>
 <guid>https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</guid>
 <content:encoded><![CDATA[
-<div> 关键词：Surface Pro 7、过热、Windows 11、二合一、解决方案<br><br>总结: 本文针对闲置Surface Pro 7在Windows 11下长时间亮屏过热、跳屏导致不可用的问题，介绍了网上找到的解决方法：调整电源计划限制CPU性能、更新驱动、加强物理散热等。经实践，有效降低温度，恢复稳定运行，让老设备重获新生，并分享了具体步骤与注意事项。 <div>
+<div> 关键词：Surface Pro 7、过热、Windows 11、二合一、解决方案<br /><br />总结: 本文针对闲置Surface Pro 7在Windows 11下长时间亮屏过热、跳屏导致不可用的问题，介绍了网上找到的解决方法：调整电源计划限制CPU性能、更新驱动、加强物理散热等。经实践，有效降低温度，恢复稳定运行，让老设备重获新生，并分享了具体步骤与注意事项。 <div>
 手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href="https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard" target="_blank">查看全文</a><p>本文为会员文章，出自<a href="https://sspai.com/prime/precog/single" target="_blank">《单篇文章》</a>，订阅后可阅读全文。</p>
 ]]></content:encoded>
 <pubDate>Sun, 23 Aug 2026 15:25:29 +0800</pubDate>
-<pubDate>Sun, 23 Aug 2026 15:25:29 +0800</pubDate>
 </item>
-
 <item>
 <title>让 PC 与 HomePod 互联：音频串流工具 WinAirCast</title>
 <link>https://sspai.com/post/113002</link>
