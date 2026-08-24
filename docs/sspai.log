@@ -9169,3 +9169,12 @@ Summarized using deepseek-v4-flash
 Append: [Windows On ARM 原生应用少？你可以试试这些改造方法](https://sspai.com/prime/story/create-your-own-windows-apps)
 append_entries: 1
 Finish: 2026-08-24 10:25:37.232320
+------------------------------------------------------
+Started: 2026-08-24 12:21:18.270081
+Existing_entries: 468
+Fetching from https://sspai.com/feed
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/113795)
+append_entries: 1
+Finish: 2026-08-24 12:21:21.906930
