@@ -9160,3 +9160,12 @@ Summarized using deepseek-v4-flash
 Append: [AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563)
 append_entries: 1
 Finish: 2026-08-24 08:33:28.931573
+------------------------------------------------------
+Started: 2026-08-24 10:25:30.961978
+Existing_entries: 467
+Fetching from https://sspai.com/feed
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [Windows On ARM 原生应用少？你可以试试这些改造方法](https://sspai.com/prime/story/create-your-own-windows-apps)
+append_entries: 1
+Finish: 2026-08-24 10:25:37.232320
