@@ -4,6 +4,17 @@
 <title>少数派</title>
 <link>https://sspai.com</link>
 
+<item>
+<title>快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制</title>
+<link>https://sspai.com/post/112983</link>
+<guid>https://sspai.com/post/112983</guid>
+<content:encoded><![CDATA[
+<div> 快捷指令, 应用独立音量, 自动记忆, iPhone, 声音调节<br><br>总结: 针对iOS缺少应用独立音量的问题，利用快捷指令自动化，为每个App分别记录和恢复音量设置。当切换App时，自动调取该App上次的音量，避免频繁手动调节，实现“每应用记忆音量”的智能方案，兼顾安静与响亮需求。 <div>
+有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。<a href="https://sspai.com/post/112983" target="_blank">查看全文</a>
+]]></content:encoded>
+<pubDate>Mon, 24 Aug 2026 11:30:44 +0800</pubDate>
+<pubDate>Mon, 24 Aug 2026 11:30:44 +0800</pubDate>
+</item>
 
 <item>
 <title>派早报：九家车企召回近 430 万辆不易识别应急拉手汽车</title>

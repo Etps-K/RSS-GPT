@@ -9136,3 +9136,12 @@ Existing_entries: 465
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-24 02:53:25.453233
+------------------------------------------------------
+Started: 2026-08-24 04:33:10.299679
+Existing_entries: 465
+Fetching from https://sspai.com/feed
+Token length: 78
+Summarized using deepseek-v4-flash
+Append: [快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制](https://sspai.com/post/112983)
+append_entries: 1
+Finish: 2026-08-24 04:33:13.998440
