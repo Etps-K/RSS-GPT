@@ -9238,3 +9238,12 @@ Existing_entries: 471
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-25 06:23:03.815976
+------------------------------------------------------
+Started: 2026-08-25 08:27:03.713481
+Existing_entries: 471
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
+append_entries: 1
+Finish: 2026-08-25 08:27:07.253589
