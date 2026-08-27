@@ -9373,3 +9373,15 @@ Existing_entries: 478
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-26 22:33:18.848560
+------------------------------------------------------
+Started: 2026-08-27 05:23:30.391558
+Existing_entries: 478
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
+Token length: 58
+Summarized using deepseek-v4-flash
+Append: [派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
+append_entries: 2
+Finish: 2026-08-27 05:23:41.615679
