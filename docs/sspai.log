@@ -9385,3 +9385,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
 append_entries: 2
 Finish: 2026-08-27 05:23:41.615679
+------------------------------------------------------
+Started: 2026-08-27 16:57:38.824798
+Existing_entries: 480
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [新玩意 250｜少数派的编辑们最近买了啥？](https://sspai.com/post/113905)
+Token length: 40
+Summarized using deepseek-v4-flash
+Append: [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
+append_entries: 2
+Finish: 2026-08-27 16:57:45.616221
