@@ -9397,3 +9397,12 @@ Summarized using deepseek-v4-flash
 Append: [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 append_entries: 2
 Finish: 2026-08-27 16:57:45.616221
+------------------------------------------------------
+Started: 2026-08-28 01:50:10.039219
+Existing_entries: 482
+Fetching from https://sspai.com/feed
+Token length: 66
+Summarized using deepseek-v4-flash
+Append: [派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等](https://sspai.com/post/113922)
+append_entries: 1
+Finish: 2026-08-28 01:50:14.382197
