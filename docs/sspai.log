@@ -9437,3 +9437,9 @@ Summarized using deepseek-v4-flash
 Append: [2026 烟灶选购指南](https://sspai.com/post/112775)
 append_entries: 1
 Finish: 2026-08-29 04:31:06.252280
+------------------------------------------------------
+Started: 2026-08-29 11:51:51.136404
+Existing_entries: 488
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-08-29 11:51:52.492706
