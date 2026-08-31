@@ -9524,3 +9524,15 @@ Summarized using deepseek-v4-flash
 Append: [全球仅剩三位数的物种，科学家却连一个准数都数不出来](https://sspai.com/post/113827)
 append_entries: 3
 Finish: 2026-08-31 10:11:00.003348
+------------------------------------------------------
+Started: 2026-08-31 18:18:20.241065
+Existing_entries: 493
+Fetching from https://sspai.com/feed
+Token length: 26
+Summarized using deepseek-v4-flash
+Append: [本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2](https://sspai.com/post/114043)
+Token length: 51
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/114041)
+append_entries: 2
+Finish: 2026-08-31 18:18:28.462642
