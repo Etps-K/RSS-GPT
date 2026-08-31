@@ -9509,3 +9509,18 @@ Existing_entries: 490
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-08-31 03:46:32.879244
+------------------------------------------------------
+Started: 2026-08-31 10:10:43.550898
+Existing_entries: 490
+Fetching from https://sspai.com/feed
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方](https://sspai.com/prime/story/)
+Token length: 0
+Summarized using deepseek-v4-flash
+Append: [屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能](https://sspai.com/post/114027)
+Token length: 29
+Summarized using deepseek-v4-flash
+Append: [全球仅剩三位数的物种，科学家却连一个准数都数不出来](https://sspai.com/post/113827)
+append_entries: 3
+Finish: 2026-08-31 10:11:00.003348
