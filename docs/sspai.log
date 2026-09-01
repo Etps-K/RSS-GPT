@@ -9566,3 +9566,12 @@ Summarized using deepseek-v4-flash
 Append: [开学季｜值得关注的官翻渠道汇总（2026）](https://sspai.com/post/114062)
 append_entries: 2
 Finish: 2026-09-01 08:57:24.335857
+------------------------------------------------------
+Started: 2026-09-01 14:21:36.224693
+Existing_entries: 499
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
+append_entries: 1
+Finish: 2026-09-01 14:21:49.532632
