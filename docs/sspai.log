@@ -9554,3 +9554,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等](https://sspai.com/post/114055)
 append_entries: 1
 Finish: 2026-09-01 02:18:06.474023
+------------------------------------------------------
+Started: 2026-09-01 08:57:10.489869
+Existing_entries: 497
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
+Token length: 84
+Summarized using deepseek-v4-flash
+Append: [开学季｜值得关注的官翻渠道汇总（2026）](https://sspai.com/post/114062)
+append_entries: 2
+Finish: 2026-09-01 08:57:24.335857
