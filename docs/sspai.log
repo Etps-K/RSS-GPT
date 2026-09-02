@@ -9605,3 +9605,15 @@ Summarized using deepseek-v4-flash
 Append: [众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
 append_entries: 1
 Finish: 2026-09-02 06:31:31.338786
+------------------------------------------------------
+Started: 2026-09-02 12:20:08.434115
+Existing_entries: 502
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？](https://sspai.com/post/114084)
+Token length: 93
+Summarized using deepseek-v4-flash
+Append: [一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
+append_entries: 2
+Finish: 2026-09-02 12:20:21.747331
