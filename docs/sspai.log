@@ -9596,3 +9596,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等](https://sspai.com/post/114093)
 append_entries: 1
 Finish: 2026-09-02 01:39:57.506921
+------------------------------------------------------
+Started: 2026-09-02 06:31:16.973165
+Existing_entries: 501
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
+append_entries: 1
+Finish: 2026-09-02 06:31:31.338786
