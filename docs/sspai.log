@@ -9644,3 +9644,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
 append_entries: 1
 Finish: 2026-09-03 01:45:10.634397
+------------------------------------------------------
+Started: 2026-09-03 06:35:50.839182
+Existing_entries: 505
+Fetching from https://sspai.com/feed
+Token length: 13
+Summarized using deepseek-v4-flash
+Append: [当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
+append_entries: 1
+Finish: 2026-09-03 06:35:59.646909
