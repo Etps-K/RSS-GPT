@@ -9653,3 +9653,15 @@ Summarized using deepseek-v4-flash
 Append: [当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
 append_entries: 1
 Finish: 2026-09-03 06:35:59.646909
+------------------------------------------------------
+Started: 2026-09-03 12:18:09.860989
+Existing_entries: 506
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [新玩意 251｜少数派的编辑们最近买了啥？](https://sspai.com/post/114154)
+Token length: 29
+Summarized using deepseek-v4-flash
+Append: [TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验](https://sspai.com/post/113998)
+append_entries: 2
+Finish: 2026-09-03 12:18:20.127559
