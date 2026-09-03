@@ -9635,3 +9635,12 @@ Existing_entries: 504
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-02 23:39:09.549902
+------------------------------------------------------
+Started: 2026-09-03 01:45:05.722171
+Existing_entries: 504
+Fetching from https://sspai.com/feed
+Token length: 53
+Summarized using deepseek-v4-flash
+Append: [派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
+append_entries: 1
+Finish: 2026-09-03 01:45:10.634397
