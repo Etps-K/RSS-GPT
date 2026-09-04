@@ -9689,3 +9689,15 @@ Existing_entries: 508
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-04 01:39:04.790456
+------------------------------------------------------
+Started: 2026-09-04 06:38:01.316762
+Existing_entries: 508
+Fetching from https://sspai.com/feed
+Token length: 37
+Summarized using deepseek-v4-flash
+Append: [在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
+Token length: 63
+Summarized using deepseek-v4-flash
+Append: [派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等](https://sspai.com/post/114164)
+append_entries: 2
+Finish: 2026-09-04 06:38:17.642393
