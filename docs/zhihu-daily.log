@@ -7374,3 +7374,11 @@ Fetch error: 403
 Fetch failed from https://rsshub.app/zhihu/daily
 append_entries: 0
 error when rendering xml, skip docs/zhihu-daily
+------------------------------------------------------
+Started: 2026-09-06 01:34:05.161247
+Existing_entries: 0
+Fetching from https://rsshub.app/zhihu/daily
+Fetch error: 403
+Fetch failed from https://rsshub.app/zhihu/daily
+append_entries: 0
+error when rendering xml, skip docs/zhihu-daily
