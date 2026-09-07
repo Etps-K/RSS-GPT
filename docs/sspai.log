@@ -9845,3 +9845,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
 append_entries: 1
 Finish: 2026-09-07 01:32:49.724488
+------------------------------------------------------
+Started: 2026-09-07 06:42:38.563117
+Existing_entries: 516
+Fetching from https://sspai.com/feed
+Token length: 60
+Summarized using deepseek-v4-flash
+Append: [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
+append_entries: 1
+Finish: 2026-09-07 06:42:42.473863
