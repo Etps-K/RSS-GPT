@@ -9854,3 +9854,15 @@ Summarized using deepseek-v4-flash
 Append: [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
 append_entries: 1
 Finish: 2026-09-07 06:42:42.473863
+------------------------------------------------------
+Started: 2026-09-07 13:44:25.353893
+Existing_entries: 517
+Fetching from https://sspai.com/feed
+Token length: 48
+Summarized using deepseek-v4-flash
+Append: [派评｜近期值得关注的 App](https://sspai.com/post/114288)
+Token length: 39
+Summarized using deepseek-v4-flash
+Append: [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
+append_entries: 2
+Finish: 2026-09-07 13:44:40.600022
