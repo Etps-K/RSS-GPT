@@ -9896,3 +9896,18 @@ Summarized using deepseek-v4-flash
 Append: [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
 append_entries: 1
 Finish: 2026-09-08 06:38:22.891748
+------------------------------------------------------
+Started: 2026-09-08 12:20:09.159902
+Existing_entries: 521
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+Token length: 30
+Summarized using deepseek-v4-flash
+Append: [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+append_entries: 3
+Finish: 2026-09-08 12:20:22.173621
