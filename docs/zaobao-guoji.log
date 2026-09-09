@@ -13181,3 +13181,11 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-09-09 01:50:01.199427
+------------------------------------------------------
+Started: 2026-09-09 06:49:25.109761
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Fetch error: HTTPSConnectionPool(host='plink.anyfeeder.com', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+error when rendering xml, skip docs/zaobao-guoji
