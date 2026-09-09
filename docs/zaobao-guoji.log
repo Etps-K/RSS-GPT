@@ -13189,3 +13189,9 @@ Fetch error: HTTPSConnectionPool(host='plink.anyfeeder.com', port=443): Read tim
 Fetch failed from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 error when rendering xml, skip docs/zaobao-guoji
+------------------------------------------------------
+Started: 2026-09-09 12:32:05.632984
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-09-09 12:32:05.800584
