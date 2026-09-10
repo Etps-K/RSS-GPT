@@ -14075,3 +14075,11 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
 append_entries: 0
 Finish: 2026-09-09 23:36:22.830012
+------------------------------------------------------
+Started: 2026-09-10 01:45:48.404775
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/china
+Fetch error: HTTPSConnectionPool(host='plink.anyfeeder.com', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://plink.anyfeeder.com/zaobao/realtime/china
+append_entries: 0
+error when rendering xml, skip docs/zaobao-HK

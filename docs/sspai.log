@@ -9983,3 +9983,12 @@ Summarized using deepseek-v4-flash
 Append: [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
 append_entries: 2
 Finish: 2026-09-09 23:36:21.817427
+------------------------------------------------------
+Started: 2026-09-10 01:45:38.556945
+Existing_entries: 530
+Fetching from https://sspai.com/feed
+Token length: 37
+Summarized using deepseek-v4-flash
+Append: [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
+append_entries: 1
+Finish: 2026-09-10 01:45:47.609441
