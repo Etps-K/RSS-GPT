@@ -10034,3 +10034,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
 append_entries: 1
 Finish: 2026-09-11 01:44:32.374325
+------------------------------------------------------
+Started: 2026-09-11 06:44:02.181525
+Existing_entries: 533
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
+append_entries: 1
+Finish: 2026-09-11 06:44:13.285828
