@@ -10139,3 +10139,12 @@ Existing_entries: 538
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-13 06:53:01.226325
+------------------------------------------------------
+Started: 2026-09-13 12:53:25.198583
+Existing_entries: 538
+Fetching from https://sspai.com/feed
+Token length: 80
+Summarized using deepseek-v4-flash
+Append: [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
+append_entries: 1
+Finish: 2026-09-13 12:53:33.180429
