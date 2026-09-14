@@ -10181,3 +10181,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
 append_entries: 1
 Finish: 2026-09-14 01:59:40.728258
+------------------------------------------------------
+Started: 2026-09-14 07:34:51.110386
+Existing_entries: 540
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+append_entries: 1
+Finish: 2026-09-14 07:34:59.664296
