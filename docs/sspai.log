@@ -10172,3 +10172,12 @@ Existing_entries: 539
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-13 23:49:18.996160
+------------------------------------------------------
+Started: 2026-09-14 01:59:31.345101
+Existing_entries: 539
+Fetching from https://sspai.com/feed
+Token length: 129
+Summarized using deepseek-v4-flash
+Append: [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
+append_entries: 1
+Finish: 2026-09-14 01:59:40.728258
