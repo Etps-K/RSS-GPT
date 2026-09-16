@@ -10259,3 +10259,12 @@ Existing_entries: 548
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-15 22:30:01.907222
+------------------------------------------------------
+Started: 2026-09-16 01:59:11.909628
+Existing_entries: 548
+Fetching from https://sspai.com/feed
+Token length: 34
+Summarized using deepseek-v4-flash
+Append: [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+append_entries: 1
+Finish: 2026-09-16 01:59:26.017142
