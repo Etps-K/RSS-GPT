@@ -10277,3 +10277,15 @@ Summarized using deepseek-v4-flash
 Append: [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
 append_entries: 1
 Finish: 2026-09-16 07:13:52.061167
+------------------------------------------------------
+Started: 2026-09-16 12:53:25.468202
+Existing_entries: 550
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
+Token length: 40
+Summarized using deepseek-v4-flash
+Append: [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
+append_entries: 2
+Finish: 2026-09-16 12:53:42.283389
