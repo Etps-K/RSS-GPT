@@ -10316,3 +10316,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
 append_entries: 1
 Finish: 2026-09-17 02:32:36.262859
+------------------------------------------------------
+Started: 2026-09-17 08:57:58.049759
+Existing_entries: 553
+Fetching from https://sspai.com/feed
+Token length: 48
+Summarized using deepseek-v4-flash
+Append: [具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
+Token length: 66
+Summarized using deepseek-v4-flash
+Append: [一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
+append_entries: 2
+Finish: 2026-09-17 08:58:38.275944
