@@ -10412,3 +10412,12 @@ Existing_entries: 561
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-19 06:48:00.402031
+------------------------------------------------------
+Started: 2026-09-19 12:06:31.214607
+Existing_entries: 561
+Fetching from https://sspai.com/feed
+Token length: 19
+Summarized using deepseek-v4-flash
+Append: [你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
+append_entries: 1
+Finish: 2026-09-19 12:06:42.182207
