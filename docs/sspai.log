@@ -10487,3 +10487,12 @@ Existing_entries: 564
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-20 21:59:03.720740
+------------------------------------------------------
+Started: 2026-09-20 23:50:14.612356
+Existing_entries: 564
+Fetching from https://sspai.com/feed
+Token length: 159
+Summarized using deepseek-v4-flash
+Append: [派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃](https://sspai.com/post/114788)
+append_entries: 1
+Finish: 2026-09-20 23:50:28.615789
