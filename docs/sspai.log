@@ -10514,3 +10514,18 @@ Summarized using deepseek-v4-flash
 Append: [当 AI 让执行力变得廉价，我们该拿什么脱颖而出？](https://sspai.com/post/114519)
 append_entries: 2
 Finish: 2026-09-21 07:38:12.048603
+------------------------------------------------------
+Started: 2026-09-21 14:37:37.518328
+Existing_entries: 567
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [一台主机，多重角色：新款 Mac mini 首发体验](https://sspai.com/post/114829)
+Token length: 48
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/114815)
+Token length: 124
+Summarized using deepseek-v4-flash
+Append: [以人为本还是脱离实际？GNOME 桌面环境的演进及争议](https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de)
+append_entries: 3
+Finish: 2026-09-21 14:38:03.414573
