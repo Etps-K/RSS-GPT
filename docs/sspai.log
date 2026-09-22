@@ -10565,3 +10565,12 @@ Summarized using deepseek-v4-flash
 Append: [App+1 | Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
 append_entries: 2
 Finish: 2026-09-22 12:53:29.115615
+------------------------------------------------------
+Started: 2026-09-22 17:47:25.324007
+Existing_entries: 574
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验](https://sspai.com/post/114878)
+append_entries: 1
+Finish: 2026-09-22 17:47:35.256517
