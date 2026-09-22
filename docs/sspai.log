@@ -10553,3 +10553,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等](https://sspai.com/post/114840)
 append_entries: 2
 Finish: 2026-09-22 06:57:19.762838
+------------------------------------------------------
+Started: 2026-09-22 12:53:06.370605
+Existing_entries: 572
+Fetching from https://sspai.com/feed
+Token length: 17
+Summarized using deepseek-v4-flash
+Append: [怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？](https://sspai.com/post/114551)
+Token length: 125
+Summarized using deepseek-v4-flash
+Append: [App+1 | Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
+append_entries: 2
+Finish: 2026-09-22 12:53:29.115615
