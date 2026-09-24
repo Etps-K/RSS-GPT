@@ -10637,3 +10637,12 @@ Summarized using deepseek-v4-flash
 Append: [派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等](https://sspai.com/post/114913)
 append_entries: 1
 Finish: 2026-09-24 01:53:16.887521
+------------------------------------------------------
+Started: 2026-09-24 06:51:27.118054
+Existing_entries: 580
+Fetching from https://sspai.com/feed
+Token length: 162
+Summarized using deepseek-v4-flash
+Append: [古董电脑室十周年记：为什么我不再是收藏家（上）](https://sspai.com/post/114395)
+append_entries: 1
+Finish: 2026-09-24 06:51:36.129754
