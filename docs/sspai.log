@@ -10721,3 +10721,9 @@ Summarized using deepseek-v4-flash
 Append: [宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
 append_entries: 1
 Finish: 2026-09-26 08:52:41.458209
+------------------------------------------------------
+Started: 2026-09-26 13:56:14.336860
+Existing_entries: 586
+Fetching from https://sspai.com/feed
+append_entries: 0
+Finish: 2026-09-26 13:56:15.389469
