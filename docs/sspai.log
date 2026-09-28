@@ -10787,3 +10787,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：OpenAI 称与苹果合作效果不佳](https://sspai.com/post/115079)
 append_entries: 1
 Finish: 2026-09-28 02:14:05.940303
+------------------------------------------------------
+Started: 2026-09-28 10:14:06.807195
+Existing_entries: 588
+Fetching from https://sspai.com/feed
+Token length: 40
+Summarized using deepseek-v4-flash
+Append: [比起折痕， iPhone Duo 的交互设计更加令人着迷](https://sspai.com/post/114972)
+Token length: 5
+Summarized using deepseek-v4-flash
+Append: [摸鱼+3 | 还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967)
+append_entries: 2
+Finish: 2026-09-28 10:14:36.146733
