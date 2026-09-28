@@ -10778,3 +10778,12 @@ Existing_entries: 587
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-27 22:38:29.642601
+------------------------------------------------------
+Started: 2026-09-28 02:13:55.124767
+Existing_entries: 587
+Fetching from https://sspai.com/feed
+Token length: 137
+Summarized using deepseek-v4-flash
+Append: [派早报：OpenAI 称与苹果合作效果不佳](https://sspai.com/post/115079)
+append_entries: 1
+Finish: 2026-09-28 02:14:05.940303
