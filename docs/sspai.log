@@ -10799,3 +10799,15 @@ Summarized using deepseek-v4-flash
 Append: [摸鱼+3 | 还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967)
 append_entries: 2
 Finish: 2026-09-28 10:14:36.146733
+------------------------------------------------------
+Started: 2026-09-28 18:50:53.106227
+Existing_entries: 590
+Fetching from https://sspai.com/feed
+Token length: 48
+Summarized using deepseek-v4-flash
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/115094)
+Token length: 62
+Summarized using deepseek-v4-flash
+Append: [基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
+append_entries: 2
+Finish: 2026-09-28 18:51:06.225697
