@@ -10829,3 +10829,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等](https://sspai.com/post/115134)
 append_entries: 2
 Finish: 2026-09-29 07:36:15.253016
+------------------------------------------------------
+Started: 2026-09-29 14:24:34.111059
+Existing_entries: 594
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
+Token length: 35
+Summarized using deepseek-v4-flash
+Append: [更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
+append_entries: 2
+Finish: 2026-09-29 14:24:55.533697
