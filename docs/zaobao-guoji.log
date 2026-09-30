@@ -13893,3 +13893,9 @@ Fetch error: 504
 Fetch failed from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 error when rendering xml, skip docs/zaobao-guoji
+------------------------------------------------------
+Started: 2026-09-30 14:20:02.851133
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+Finish: 2026-09-30 14:20:03.014228

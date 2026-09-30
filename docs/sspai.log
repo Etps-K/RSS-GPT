@@ -10865,3 +10865,12 @@ Summarized using deepseek-v4-flash
 Append: [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945)
 append_entries: 1
 Finish: 2026-09-30 07:36:12.100199
+------------------------------------------------------
+Started: 2026-09-30 14:19:49.771192
+Existing_entries: 598
+Fetching from https://sspai.com/feed
+Token length: 26
+Summarized using deepseek-v4-flash
+Append: [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
+append_entries: 1
+Finish: 2026-09-30 14:20:00.733496
