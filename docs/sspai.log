@@ -10847,3 +10847,12 @@ Existing_entries: 596
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-09-29 20:18:01.432195
+------------------------------------------------------
+Started: 2026-09-30 00:49:17.235996
+Existing_entries: 596
+Fetching from https://sspai.com/feed
+Token length: 60
+Summarized using deepseek-v4-flash
+Append: [派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等](https://sspai.com/post/115197)
+append_entries: 1
+Finish: 2026-09-30 00:49:27.798476
