@@ -10979,3 +10979,12 @@ Existing_entries: 602
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-10-04 07:30:49.597983
+------------------------------------------------------
+Started: 2026-10-04 13:31:13.109605
+Existing_entries: 602
+Fetching from https://sspai.com/feed
+Token length: 42
+Summarized using deepseek-v4-flash
+Append: [方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
+append_entries: 1
+Finish: 2026-10-04 13:31:24.340680
