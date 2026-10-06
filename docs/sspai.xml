@@ -4,18 +4,17 @@
 <title>少数派</title>
 <link>https://sspai.com</link>
 
+
 <item>
 <title>基于 Vaultwarden 和 Keyguard 的自托管密码管理实践</title>
 <link>https://sspai.com/post/115416</link>
 <guid>https://sspai.com/post/115416</guid>
 <content:encoded><![CDATA[
-<div> 密码管理 数据 自主 掌握 安全<br><br>总结: 1.对象是密码管理服务中的敏感数据；2.核心主张是数据所有权和控制权归用户；3.不应完全依赖第三方托管；4.自主掌握能降低泄露、停服和滥用风险；5.可选本地部署、自托管、端到端加密与备份。注：未提供正文，仅据标题句概括。 <div>
+<div> 密码管理 数据 自主 掌握 安全<br /><br />总结: 1.对象是密码管理服务中的敏感数据；2.核心主张是数据所有权和控制权归用户；3.不应完全依赖第三方托管；4.自主掌握能降低泄露、停服和滥用风险；5.可选本地部署、自托管、端到端加密与备份。注：未提供正文，仅据标题句概括。 <div>
 密码管理服务的数据，当然要掌握在自己手里。<a href="https://sspai.com/post/115416" target="_blank">查看全文</a>
 ]]></content:encoded>
 <pubDate>Tue, 06 Oct 2026 18:00:00 +0800</pubDate>
-<pubDate>Tue, 06 Oct 2026 18:00:00 +0800</pubDate>
 </item>
-
 <item>
 <title>十个案例助你轻松上手 iOS 27 通知自动化</title>
 <link>https://sspai.com/post/114536</link>
