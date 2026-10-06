@@ -11039,3 +11039,12 @@ Existing_entries: 604
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-10-06 10:50:55.772638
+------------------------------------------------------
+Started: 2026-10-06 17:29:57.225429
+Existing_entries: 604
+Fetching from https://sspai.com/feed
+Token length: 21
+Summarized using deepseek-v4-flash
+Append: [基于 Vaultwarden 和 Keyguard 的自托管密码管理实践](https://sspai.com/post/115416)
+append_entries: 1
+Finish: 2026-10-06 17:30:13.504063
