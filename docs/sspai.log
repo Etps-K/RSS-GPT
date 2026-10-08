@@ -11081,3 +11081,12 @@ Existing_entries: 606
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-10-07 20:51:53.616949
+------------------------------------------------------
+Started: 2026-10-08 01:23:49.374013
+Existing_entries: 606
+Fetching from https://sspai.com/feed
+Token length: 70
+Summarized using deepseek-v4-flash
+Append: [派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
+append_entries: 1
+Finish: 2026-10-08 01:23:59.298491
