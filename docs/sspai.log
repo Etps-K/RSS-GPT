@@ -11090,3 +11090,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
 append_entries: 1
 Finish: 2026-10-08 01:23:59.298491
+------------------------------------------------------
+Started: 2026-10-08 08:05:40.873856
+Existing_entries: 607
+Fetching from https://sspai.com/feed
+Token length: 41
+Summarized using deepseek-v4-flash
+Append: [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
+append_entries: 2
+Finish: 2026-10-08 08:06:34.768180
