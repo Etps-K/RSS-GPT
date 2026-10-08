@@ -11102,3 +11102,15 @@ Summarized using deepseek-v4-flash
 Append: [App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
 append_entries: 2
 Finish: 2026-10-08 08:06:34.768180
+------------------------------------------------------
+Started: 2026-10-08 17:02:01.307683
+Existing_entries: 609
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [iPhone Duo：苹果，终究还是对强迫症下手了](https://sspai.com/post/115282)
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843)
+append_entries: 2
+Finish: 2026-10-08 17:02:23.476286
