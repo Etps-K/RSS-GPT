@@ -11162,3 +11162,12 @@ Existing_entries: 615
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-10-10 01:23:45.799120
+------------------------------------------------------
+Started: 2026-10-10 07:49:19.133509
+Existing_entries: 615
+Fetching from https://sspai.com/feed
+Token length: 22
+Summarized using deepseek-v4-flash
+Append: [App+1｜专注星空：让「少刷手机」这件事更愉悦一点](https://sspai.com/post/115237)
+append_entries: 1
+Finish: 2026-10-10 07:49:26.517205
