@@ -11216,3 +11216,12 @@ Existing_entries: 617
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-10-11 21:08:38.902920
+------------------------------------------------------
+Started: 2026-10-12 00:47:24.421573
+Existing_entries: 617
+Fetching from https://sspai.com/feed
+Token length: 155
+Summarized using deepseek-v4-flash
+Append: [派早报：工信部等就进一步加强汽车产品创新设计管理征求意见](https://sspai.com/post/115845)
+append_entries: 1
+Finish: 2026-10-12 00:47:37.669420
