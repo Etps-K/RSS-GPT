@@ -11225,3 +11225,15 @@ Summarized using deepseek-v4-flash
 Append: [派早报：工信部等就进一步加强汽车产品创新设计管理征求意见](https://sspai.com/post/115845)
 append_entries: 1
 Finish: 2026-10-12 00:47:37.669420
+------------------------------------------------------
+Started: 2026-10-12 08:10:57.947067
+Existing_entries: 618
+Fetching from https://sspai.com/feed
+Token length: 67
+Summarized using deepseek-v4-flash
+Append: [iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注](https://sspai.com/post/115242)
+Token length: 14
+Summarized using deepseek-v4-flash
+Append: [怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小](https://sspai.com/post/114821)
+append_entries: 2
+Finish: 2026-10-12 08:11:22.384272
