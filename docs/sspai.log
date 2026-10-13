@@ -11246,3 +11246,12 @@ Summarized using deepseek-v4-flash
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/115934)
 append_entries: 1
 Finish: 2026-10-12 19:28:17.853625
+------------------------------------------------------
+Started: 2026-10-13 01:41:42.755711
+Existing_entries: 621
+Fetching from https://sspai.com/feed
+Token length: 104
+Summarized using deepseek-v4-flash
+Append: [派早报：一加发布一加 16，Google 推出 Fitbit Edge 等](https://sspai.com/post/116033)
+append_entries: 1
+Finish: 2026-10-13 01:41:52.268826
