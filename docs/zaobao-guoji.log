@@ -14211,3 +14211,11 @@ Existing_entries: 1000
 Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
 append_entries: 0
 Finish: 2026-10-13 01:41:54.679146
+------------------------------------------------------
+Started: 2026-10-13 08:37:26.781493
+Existing_entries: 1000
+Fetching from https://plink.anyfeeder.com/zaobao/realtime/world
+Fetch error: 504
+Fetch failed from https://plink.anyfeeder.com/zaobao/realtime/world
+append_entries: 0
+error when rendering xml, skip docs/zaobao-guoji
