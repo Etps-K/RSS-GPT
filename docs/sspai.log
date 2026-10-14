@@ -11285,3 +11285,12 @@ Existing_entries: 626
 Fetching from https://sspai.com/feed
 append_entries: 0
 Finish: 2026-10-13 22:01:17.340300
+------------------------------------------------------
+Started: 2026-10-14 02:23:49.270592
+Existing_entries: 626
+Fetching from https://sspai.com/feed
+Token length: 59
+Summarized using deepseek-v4-flash
+Append: [派早报：Apple 发布 HomePod mini 2、HomeView 等新品](https://sspai.com/post/116138)
+append_entries: 1
+Finish: 2026-10-14 02:24:03.316229
