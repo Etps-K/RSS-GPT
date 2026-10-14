@@ -11310,3 +11310,12 @@ Append: [众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace 
 Append: [已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
 append_entries: 4
 Finish: 2026-10-14 09:05:43.791188
+------------------------------------------------------
+Started: 2026-10-14 14:44:40.587147
+Existing_entries: 631
+Fetching from https://sspai.com/feed
+Token length: 57
+Summarized using deepseek-v4-flash
+Append: [认知心理学背后的播客剪辑技巧](https://sspai.com/post/114861)
+append_entries: 1
+Finish: 2026-10-14 14:44:56.988214
